@@ -88,9 +88,11 @@ def main():
         "cripto_global": cripto_global,
         "fear_and_greed_cripto": fng,
         "indicadores_macro_fred": macro,
+        # Contexto compacto: 20 titulares con resumen corto bastan para el briefing
+        # y mantienen la peticion ligera para el nivel gratuito de la IA.
         "titulares_recientes": [
-            {"titulo": n["titulo"], "fuente": n["fuente"], "resumen": n["resumen"][:200]}
-            for n in noticias[:40]
+            {"titulo": n["titulo"], "fuente": n["fuente"], "resumen": n["resumen"][:140]}
+            for n in noticias[:20]
         ],
     }
 

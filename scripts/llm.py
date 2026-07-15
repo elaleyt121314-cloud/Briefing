@@ -56,23 +56,28 @@ Incluye entre 3 y 6 "claves" como máximo. Menos si el día no da para más."""
 def _llamar_modelo(modelo, api_key, cuerpo):
     """Intenta generar el briefing con un modelo concreto.
 
-    Reintenta ante 429/5xx (transitorios) con esperas crecientes. Devuelve
-    el dict del briefing, o None si este modelo no lo consigue.
+    Solo reintenta ante errores 5xx (fallos transitorios del servidor). Un 429
+    del nivel gratuito es un limite de cuota: reintentar en segundos no lo
+    resuelve y ademas gasta mas cuota de tokens, asi que se registra y se pasa
+    al siguiente modelo. Devuelve el dict del briefing, o None si no lo consigue.
     """
     url = f"{BASE}/{modelo}:generateContent"
     for intento in range(1, INTENTOS + 1):
         try:
             r = requests.post(url, params={"key": api_key}, json=cuerpo, timeout=90)
-            # 429 (cuota/rate limit) y 5xx suelen ser transitorios: esperar y reintentar.
-            if r.status_code == 429 or r.status_code >= 500:
+            if r.status_code >= 500:
+                # Error de servidor: transitorio, merece la pena reintentar con espera.
                 if intento < INTENTOS:
                     espera = ESPERA_BASE * (2 ** (intento - 1))
                     print(f"[aviso] {modelo} devolvio {r.status_code}; reintento {intento}/{INTENTOS} en {espera}s")
                     time.sleep(espera)
                     continue
-                # Ultimo intento fallido: registrar el cuerpo, que trae el motivo literal
-                # de Google (metrica de cuota agotada, limite y retardo sugerido).
-                print(f"[aviso] {modelo}: agotados los reintentos ({r.status_code}). Respuesta: {r.text[:400]}")
+                print(f"[aviso] {modelo}: {r.status_code} tras reintentos. Respuesta: {r.text[:400]}")
+                return None
+            if r.status_code == 429:
+                # Cuota/limite del nivel gratuito. NO reintentar: se registra el motivo
+                # literal de Google y se deja paso al siguiente modelo.
+                print(f"[aviso] {modelo}: 429 (limite del nivel gratuito). Respuesta: {r.text[:400]}")
                 return None
             r.raise_for_status()
             texto = r.json()["candidates"][0]["content"]["parts"][0]["text"]
