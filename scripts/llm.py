@@ -70,7 +70,9 @@ def _llamar_modelo(modelo, api_key, cuerpo):
                     print(f"[aviso] {modelo} devolvio {r.status_code}; reintento {intento}/{INTENTOS} en {espera}s")
                     time.sleep(espera)
                     continue
-                print(f"[aviso] {modelo}: agotados los reintentos ({r.status_code}, posible cuota diaria gratuita agotada)")
+                # Ultimo intento fallido: registrar el cuerpo, que trae el motivo literal
+                # de Google (metrica de cuota agotada, limite y retardo sugerido).
+                print(f"[aviso] {modelo}: agotados los reintentos ({r.status_code}). Respuesta: {r.text[:400]}")
                 return None
             r.raise_for_status()
             texto = r.json()["candidates"][0]["content"]["parts"][0]["text"]
