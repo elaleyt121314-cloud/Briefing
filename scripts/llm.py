@@ -20,7 +20,9 @@ import requests
 # Uno o varios modelos separados por comas en GEMINI_MODEL. Se prueban en
 # orden: si el primero agota su cuota gratuita (429), se usa el de respaldo.
 MODELOS = [m.strip() for m in os.environ.get(
-    "GEMINI_MODEL", "gemini-2.0-flash,gemini-2.0-flash-lite").split(",") if m.strip()]
+    "GEMINI_MODEL",
+    "gemini-2.0-flash,gemini-2.0-flash-lite,gemini-1.5-flash,gemini-1.5-flash-8b",
+).split(",") if m.strip()]
 BASE = "https://generativelanguage.googleapis.com/v1beta/models"
 
 # Reintentos ante errores transitorios (429 rate limit / 5xx del servidor).
