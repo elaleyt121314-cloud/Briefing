@@ -3,16 +3,29 @@
 
 Principio fundamental del producto: la IA solo redacta sobre los datos que
 este sistema le entrega. No puede afirmar nada que no este en el contexto.
-Si no hay clave de API o la llamada falla, el sistema publica igualmente
-los datos sin briefing redactado.
+Si no hay clave de API o todas las llamadas fallan, el sistema publica
+igualmente los datos sin briefing redactado.
+
+El briefing corre desatendido cada manana, asi que la llamada debe ser
+resistente: ante un 429 (limite de ritmo/cuota del nivel gratuito) o un 5xx
+del servidor se reintenta con esperas crecientes, y si un modelo agota su
+cuota se prueba el siguiente de la lista.
 """
 import json
 import os
+import time
 
 import requests
 
-MODELO = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
-URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODELO}:generateContent"
+# Uno o varios modelos separados por comas en GEMINI_MODEL. Se prueban en
+# orden: si el primero agota su cuota gratuita (429), se usa el de respaldo.
+MODELOS = [m.strip() for m in os.environ.get(
+    "GEMINI_MODEL", "gemini-2.0-flash,gemini-2.0-flash-lite").split(",") if m.strip()]
+BASE = "https://generativelanguage.googleapis.com/v1beta/models"
+
+# Reintentos ante errores transitorios (429 rate limit / 5xx del servidor).
+INTENTOS = 3
+ESPERA_BASE = 4  # segundos; se duplica en cada reintento (4, 8...)
 
 SISTEMA = """Eres el redactor de un briefing financiero diario, privado y personal.
 Tu tono: mentor financiero claro, tranquilo, riguroso y didáctico. Escribes en español.
@@ -40,8 +53,48 @@ Responde SOLO con un objeto JSON válido, sin markdown ni texto adicional, con e
 Incluye entre 3 y 6 "claves" como máximo. Menos si el día no da para más."""
 
 
+def _llamar_modelo(modelo, api_key, cuerpo):
+    """Intenta generar el briefing con un modelo concreto.
+
+    Reintenta ante 429/5xx (transitorios) con esperas crecientes. Devuelve
+    el dict del briefing, o None si este modelo no lo consigue.
+    """
+    url = f"{BASE}/{modelo}:generateContent"
+    for intento in range(1, INTENTOS + 1):
+        try:
+            r = requests.post(url, params={"key": api_key}, json=cuerpo, timeout=90)
+            # 429 (cuota/rate limit) y 5xx suelen ser transitorios: esperar y reintentar.
+            if r.status_code == 429 or r.status_code >= 500:
+                if intento < INTENTOS:
+                    espera = ESPERA_BASE * (2 ** (intento - 1))
+                    print(f"[aviso] {modelo} devolvio {r.status_code}; reintento {intento}/{INTENTOS} en {espera}s")
+                    time.sleep(espera)
+                    continue
+                print(f"[aviso] {modelo}: agotados los reintentos ({r.status_code}, posible cuota diaria gratuita agotada)")
+                return None
+            r.raise_for_status()
+            texto = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+            return json.loads(texto)
+        except requests.HTTPError as e:
+            # Error no transitorio (400 clave/modelo, 403 permisos...). El cuerpo ayuda a diagnosticar.
+            detalle = ""
+            try:
+                detalle = e.response.text[:300]
+            except Exception:
+                pass
+            print(f"[aviso] {modelo}: {e}. Respuesta: {detalle}")
+            return None
+        except Exception as e:
+            print(f"[aviso] {modelo}: fallo inesperado: {e}")
+            return None
+    return None
+
+
 def generar_briefing(contexto):
-    """Llama a Gemini con el contexto de datos y devuelve el briefing como dict."""
+    """Llama a Gemini con el contexto de datos y devuelve el briefing como dict.
+
+    Prueba los modelos configurados en orden y usa el primero que responda.
+    """
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not api_key:
         print("[aviso] GEMINI_API_KEY no configurada; se publica sin briefing de IA")
@@ -58,11 +111,10 @@ def generar_briefing(contexto):
             "responseMimeType": "application/json",
         },
     }
-    try:
-        r = requests.post(URL, params={"key": api_key}, json=cuerpo, timeout=90)
-        r.raise_for_status()
-        texto = r.json()["candidates"][0]["content"]["parts"][0]["text"]
-        return json.loads(texto)
-    except Exception as e:
-        print(f"[aviso] fallo en la llamada a la IA: {e}")
-        return None
+    for modelo in MODELOS:
+        briefing = _llamar_modelo(modelo, api_key, cuerpo)
+        if briefing is not None:
+            print(f"[ok] briefing generado con {modelo}")
+            return briefing
+    print("[aviso] ningun modelo pudo generar el briefing; se publica sin IA")
+    return None
