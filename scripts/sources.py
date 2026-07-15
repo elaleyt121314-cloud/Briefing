@@ -111,19 +111,27 @@ def fear_and_greed():
 
 
 # ------------------------------------------------------------------------ FRED
-def fred_serie(serie_id):
-    """Ultimo valor de una serie de FRED via CSV publico (sin clave)."""
+def fred_serie(serie_id, intentos=2):
+    """Ultimo valor de una serie de FRED via CSV publico (sin clave).
+
+    FRED responde a veces lento desde los servidores de GitHub Actions, asi que
+    se usa un timeout holgado y un reintento antes de rendirse.
+    """
     url = "https://fred.stlouisfed.org/graph/fredgraph.csv"
-    try:
-        r = requests.get(url, params={"id": serie_id}, headers=UA, timeout=TIMEOUT)
-        r.raise_for_status()
-        filas = [f for f in r.text.strip().splitlines()[1:] if "," in f]
-        for fila in reversed(filas):
-            fecha, valor = fila.split(",", 1)
-            if valor not in (".", ""):
-                return {"serie": serie_id, "fecha": fecha, "valor": float(valor)}
-    except Exception as e:
-        print(f"[aviso] FRED {serie_id}: {e}")
+    for intento in range(1, intentos + 1):
+        try:
+            r = requests.get(url, params={"id": serie_id}, headers=UA, timeout=40)
+            r.raise_for_status()
+            filas = [f for f in r.text.strip().splitlines()[1:] if "," in f]
+            for fila in reversed(filas):
+                fecha, valor = fila.split(",", 1)
+                if valor not in (".", ""):
+                    return {"serie": serie_id, "fecha": fecha, "valor": float(valor)}
+            return None
+        except Exception as e:
+            print(f"[aviso] FRED {serie_id} (intento {intento}/{intentos}): {e}")
+            if intento < intentos:
+                time.sleep(2)
     return None
 
 
