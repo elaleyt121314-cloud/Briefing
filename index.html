@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Briefing — tu carta de la mañana</title>
+<meta name="description" content="Centro personal de inteligencia financiera. Un briefing diario, claro y sin ruido.">
+<meta name="theme-color" content="#F7F6F2">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="barra">
+  <div class="barra-int">
+    <span class="marca">Briefing</span>
+    <nav class="nav">
+      <a href="#carta">Carta</a>
+      <a href="#mercados">Mercados</a>
+      <a href="#noticias">Noticias</a>
+      <a href="#riesgo">Riesgo</a>
+    </nav>
+    <button id="tema" class="tema" aria-label="Cambiar entre tema claro y oscuro">◐</button>
+  </div>
+</header>
+
+<main>
+
+  <section id="carta" class="carta">
+    <p class="carta-fecha" id="carta-fecha">—</p>
+    <h1 class="carta-titular" id="carta-titular">Cargando tu briefing…</h1>
+    <p class="carta-resumen" id="carta-resumen"></p>
+    <div id="carta-tranquilo" class="dia-tranquilo" hidden>
+      Hoy no hay acontecimientos realmente relevantes. No hace falta leer más.
+    </div>
+    <div id="carta-claves"></div>
+    <div class="carta-listas">
+      <div id="bloque-vigilar" hidden>
+        <h2>Qué vigilar</h2>
+        <ul id="lista-vigilar"></ul>
+      </div>
+      <div id="bloque-proximos" hidden>
+        <h2>Próximamente</h2>
+        <ul id="lista-proximos"></ul>
+      </div>
+    </div>
+    <p class="carta-aviso" id="carta-sin-ia" hidden>
+      El briefing de hoy no pudo generarse con IA (falta la clave o falló la llamada).
+      Los datos de mercado de abajo sí están actualizados.
+    </p>
+  </section>
+
+  <section id="mercados" class="seccion">
+    <div class="seccion-cab">
+      <h2>Mercados</h2>
+      <span class="actualizado" id="mercados-fecha"></span>
+    </div>
+    <div id="mercados-grupos"></div>
+    <p class="nota-datos">Datos con retraso (no en tiempo real), suficientes para informarse a diario. Fuente: Yahoo Finance.</p>
+  </section>
+
+  <section id="noticias" class="seccion">
+    <div class="seccion-cab"><h2>Noticias</h2></div>
+    <ul class="lista-noticias" id="lista-noticias"></ul>
+  </section>
+
+  <section id="riesgo" class="seccion">
+    <div class="seccion-cab"><h2>Riesgo y contexto</h2></div>
+    <p class="riesgo-nota" id="riesgo-nota"></p>
+    <div class="fichas" id="riesgo-fichas"></div>
+  </section>
+
+</main>
+
+<footer class="pie">
+  Herramienta personal y privada. La información mostrada procede de fuentes públicas gratuitas,
+  puede contener errores o retrasos y no constituye asesoramiento financiero profesional.
+  Para cambiar los activos seguidos, edita <code>config/watchlist.json</code> en tu repositorio.
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

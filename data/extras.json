@@ -1,0 +1,38 @@
+{
+ "actualizado": "2026-07-15T18:13:52+00:00",
+ "cripto_global": {
+  "dominancia_btc": 56.2,
+  "cap_total_usd": 2315882275080,
+  "variacion_cap_24h": 0.73
+ },
+ "fear_and_greed": {
+  "valor": 25,
+  "texto": "Extreme Fear"
+ },
+ "macro": [
+  {
+   "serie": "T10Y2Y",
+   "fecha": "2026-07-14",
+   "valor": 0.4,
+   "nombre": "Curva de tipos USA (10a - 2a)"
+  },
+  {
+   "serie": "DGS2",
+   "fecha": "2026-07-13",
+   "valor": 4.26,
+   "nombre": "Bono USA 2 años"
+  },
+  {
+   "serie": "DGS10",
+   "fecha": "2026-07-13",
+   "valor": 4.62,
+   "nombre": "Bono USA 10 años"
+  },
+  {
+   "serie": "BAMLH0A0HYM2",
+   "fecha": "2026-07-14",
+   "valor": 2.72,
+   "nombre": "High yield spread"
+  }
+ ]
+}

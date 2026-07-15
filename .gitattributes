@@ -1,0 +1,5 @@
+# Normaliza saltos de línea: el repo guarda LF (GitHub Actions corre en Linux).
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.ico binary

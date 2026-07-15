@@ -1,0 +1,16 @@
+{
+ "actualizado": "2026-07-15T05:30:00+00:00",
+ "generado_con_ia": true,
+ "contenido": {
+  "titular": "Ejemplo: así se verá tu carta cada mañana",
+  "resumen": "Este es un briefing de ejemplo para que veas la interfaz antes de la primera ejecución real. Cuando configures GitHub Actions y tu clave de Gemini, este texto se regenerará cada mañana con los datos del día.",
+  "dia_tranquilo": false,
+  "claves": [
+   {"titulo": "Las claves del día aparecerán aquí", "texto": "Cada clave explica qué ha ocurrido, por qué importa y a qué activos afecta. La IA solo redacta sobre los datos recuperados esa mañana: precios, indicadores y titulares. Los puntos indican la importancia de 1 a 5.", "importancia": 4},
+   {"titulo": "Los movimientos superiores al 2% se explican solos", "texto": "Si un activo de tu watchlist se mueve con fuerza, el sistema se lo señala a la IA para que lo explique con los titulares disponibles. Si los datos no explican el movimiento, la carta lo dirá honestamente.", "importancia": 3}
+  ],
+  "vigilar": ["Aquí verás qué merece tu atención esta semana"],
+  "proximos": ["Y aquí los eventos que se avecinan según las noticias"],
+  "nota_riesgo": "Esta nota resumirá el nivel de riesgo general que reflejan los indicadores, con matices y sin alarmismo."
+ }
+}

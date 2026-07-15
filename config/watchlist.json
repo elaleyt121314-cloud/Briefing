@@ -1,0 +1,73 @@
+{
+  "grupos": [
+    {
+      "id": "indices",
+      "nombre": "Índices",
+      "activos": [
+        { "symbol": "^GSPC", "nombre": "S&P 500" },
+        { "symbol": "^NDX", "nombre": "Nasdaq 100" },
+        { "symbol": "^DJI", "nombre": "Dow Jones" },
+        { "symbol": "^STOXX50E", "nombre": "Euro Stoxx 50" },
+        { "symbol": "^GDAXI", "nombre": "DAX" },
+        { "symbol": "^IBEX", "nombre": "IBEX 35" },
+        { "symbol": "^N225", "nombre": "Nikkei 225" }
+      ]
+    },
+    {
+      "id": "etfs",
+      "nombre": "ETFs",
+      "activos": [
+        { "symbol": "SPY", "nombre": "SPDR S&P 500" },
+        { "symbol": "VOO", "nombre": "Vanguard S&P 500" },
+        { "symbol": "QQQ", "nombre": "Invesco QQQ" },
+        { "symbol": "VTI", "nombre": "Vanguard Total Market" }
+      ]
+    },
+    {
+      "id": "acciones",
+      "nombre": "Acciones",
+      "activos": [
+        { "symbol": "AAPL", "nombre": "Apple" },
+        { "symbol": "MSFT", "nombre": "Microsoft" },
+        { "symbol": "NVDA", "nombre": "NVIDIA" },
+        { "symbol": "AMZN", "nombre": "Amazon" },
+        { "symbol": "GOOGL", "nombre": "Alphabet" },
+        { "symbol": "META", "nombre": "Meta" },
+        { "symbol": "TSLA", "nombre": "Tesla" }
+      ]
+    },
+    {
+      "id": "cripto",
+      "nombre": "Criptomonedas",
+      "activos": [
+        { "symbol": "BTC-USD", "nombre": "Bitcoin" },
+        { "symbol": "ETH-USD", "nombre": "Ethereum" },
+        { "symbol": "SOL-USD", "nombre": "Solana" }
+      ]
+    },
+    {
+      "id": "materias",
+      "nombre": "Materias primas",
+      "activos": [
+        { "symbol": "GC=F", "nombre": "Oro" },
+        { "symbol": "BZ=F", "nombre": "Petróleo Brent" },
+        { "symbol": "CL=F", "nombre": "Petróleo WTI" }
+      ]
+    },
+    {
+      "id": "divisas",
+      "nombre": "Divisas",
+      "activos": [
+        { "symbol": "EURUSD=X", "nombre": "EUR/USD" }
+      ]
+    },
+    {
+      "id": "bonos",
+      "nombre": "Bonos y riesgo",
+      "activos": [
+        { "symbol": "^TNX", "nombre": "Bono USA 10 años (rendimiento)" },
+        { "symbol": "^VIX", "nombre": "VIX (volatilidad)" }
+      ]
+    }
+  ]
+}

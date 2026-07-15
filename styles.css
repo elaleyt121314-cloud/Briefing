@@ -1,0 +1,275 @@
+/* ------------------------------------------------------------------
+   Briefing — diseño editorial calmado.
+   Referencias: Apple/Notion como base, TradingView solo en los gráficos.
+   Principio: transmitir calma, claridad y confianza. Nada de rojo alarma.
+------------------------------------------------------------------- */
+
+:root {
+  --papel: #F7F6F2;
+  --superficie: #FFFFFF;
+  --tinta: #23252C;
+  --tinta-suave: #6A6D75;
+  --linea: #E4E2DB;
+  --acento: #3D5A80;
+  --positivo: #2F7D5C;
+  --negativo: #B0483B;
+  --positivo-fondo: #EAF3EE;
+  --negativo-fondo: #F7ECEA;
+  --sombra: 0 1px 2px rgba(20, 22, 27, 0.05);
+  --serif: "Newsreader", Georgia, serif;
+  --sans: "Inter", -apple-system, system-ui, sans-serif;
+}
+
+[data-tema="oscuro"] {
+  --papel: #14161B;
+  --superficie: #1C1F26;
+  --tinta: #E8E7E2;
+  --tinta-suave: #9A9DA5;
+  --linea: #2C2F37;
+  --acento: #8FB3D9;
+  --positivo: #6FBD98;
+  --negativo: #D98A7D;
+  --positivo-fondo: #1D2A24;
+  --negativo-fondo: #2C211F;
+  --sombra: none;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+body {
+  margin: 0;
+  background: var(--papel);
+  color: var(--tinta);
+  font-family: var(--sans);
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+/* ------------------------------------------------ barra superior */
+.barra {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: color-mix(in srgb, var(--papel) 88%, transparent);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--linea);
+}
+.barra-int {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.marca {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 19px;
+  letter-spacing: 0.01em;
+}
+.nav { display: flex; gap: 16px; flex: 1; }
+.nav a {
+  color: var(--tinta-suave);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+}
+.nav a:hover, .nav a:focus-visible { color: var(--tinta); }
+.tema {
+  background: none;
+  border: 1px solid var(--linea);
+  border-radius: 999px;
+  width: 32px;
+  height: 32px;
+  color: var(--tinta);
+  font-size: 15px;
+  cursor: pointer;
+}
+.tema:focus-visible, .nav a:focus-visible { outline: 2px solid var(--acento); outline-offset: 2px; }
+
+main { max-width: 860px; margin: 0 auto; padding: 0 20px 60px; }
+
+/* ------------------------------------------------ la carta */
+.carta {
+  max-width: 680px;
+  margin: 48px auto 8px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid var(--linea);
+}
+.carta-fecha {
+  color: var(--tinta-suave);
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin: 0 0 12px;
+}
+.carta-titular {
+  font-family: var(--serif);
+  font-weight: 500;
+  font-size: clamp(28px, 5vw, 40px);
+  line-height: 1.2;
+  margin: 0 0 14px;
+  text-wrap: balance;
+}
+.carta-resumen {
+  font-family: var(--serif);
+  font-size: 19px;
+  line-height: 1.6;
+  color: var(--tinta);
+  margin: 0 0 28px;
+}
+.dia-tranquilo {
+  background: var(--positivo-fondo);
+  color: var(--positivo);
+  border-radius: 10px;
+  padding: 14px 18px;
+  font-weight: 500;
+  margin-bottom: 24px;
+}
+.clave {
+  border-top: 1px solid var(--linea);
+  padding: 20px 0;
+}
+.clave h3 {
+  font-family: var(--serif);
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0 0 6px;
+}
+.clave p { margin: 0; color: var(--tinta); }
+.clave .imp {
+  display: inline-block;
+  margin-left: 8px;
+  font-family: var(--sans);
+  font-size: 12px;
+  color: var(--tinta-suave);
+  letter-spacing: 0.1em;
+  vertical-align: middle;
+}
+.carta-listas { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-top: 28px; }
+.carta-listas h2 {
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--tinta-suave);
+  margin: 0 0 8px;
+  font-weight: 600;
+}
+.carta-listas ul { margin: 0; padding-left: 18px; }
+.carta-listas li { margin-bottom: 6px; }
+.carta-aviso { color: var(--tinta-suave); font-size: 14px; margin-top: 24px; }
+
+/* ------------------------------------------------ secciones */
+.seccion { margin-top: 56px; }
+.seccion-cab {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+.seccion-cab h2 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 26px;
+  margin: 0;
+}
+.actualizado { color: var(--tinta-suave); font-size: 13px; }
+.nota-datos { color: var(--tinta-suave); font-size: 13px; margin-top: 10px; }
+
+/* ------------------------------------------------ mercados */
+.grupo { margin-bottom: 26px; }
+.grupo h3 {
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--tinta-suave);
+  font-weight: 600;
+  margin: 0 0 8px;
+}
+.tabla {
+  background: var(--superficie);
+  border: 1px solid var(--linea);
+  border-radius: 12px;
+  box-shadow: var(--sombra);
+  overflow: hidden;
+}
+.fila {
+  display: grid;
+  grid-template-columns: minmax(120px, 1.6fr) 1fr 72px 72px 72px 90px;
+  gap: 8px;
+  align-items: center;
+  padding: 10px 16px;
+  border-top: 1px solid var(--linea);
+  font-variant-numeric: tabular-nums;
+  font-size: 14.5px;
+}
+.fila:first-child { border-top: none; }
+.fila.cabecera {
+  color: var(--tinta-suave);
+  font-size: 12px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.fila .nombre { font-weight: 500; }
+.fila .precio { text-align: right; }
+.var { text-align: right; border-radius: 6px; padding: 1px 6px; justify-self: end; }
+.var.pos { color: var(--positivo); background: var(--positivo-fondo); }
+.var.neg { color: var(--negativo); background: var(--negativo-fondo); }
+.var.plano { color: var(--tinta-suave); }
+.spark { justify-self: end; }
+.spark polyline { fill: none; stroke-width: 1.5; }
+
+@media (max-width: 640px) {
+  .fila { grid-template-columns: minmax(100px, 1.4fr) 1fr 64px 90px; }
+  .fila .w1, .fila .m1 { display: none; }
+  .carta-listas { grid-template-columns: 1fr; }
+  .nav { gap: 12px; }
+}
+
+/* ------------------------------------------------ noticias */
+.lista-noticias { list-style: none; margin: 0; padding: 0; }
+.lista-noticias li {
+  border-bottom: 1px solid var(--linea);
+  padding: 14px 0;
+}
+.lista-noticias a {
+  color: var(--tinta);
+  text-decoration: none;
+  font-weight: 500;
+}
+.lista-noticias a:hover, .lista-noticias a:focus-visible { color: var(--acento); }
+.lista-noticias .meta {
+  display: block;
+  color: var(--tinta-suave);
+  font-size: 13px;
+  margin-top: 2px;
+}
+
+/* ------------------------------------------------ riesgo */
+.riesgo-nota { font-family: var(--serif); font-size: 18px; max-width: 680px; }
+.fichas { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; margin-top: 16px; }
+.ficha {
+  background: var(--superficie);
+  border: 1px solid var(--linea);
+  border-radius: 12px;
+  padding: 14px 16px;
+  box-shadow: var(--sombra);
+}
+.ficha .etq { color: var(--tinta-suave); font-size: 12.5px; }
+.ficha .val { font-size: 22px; font-weight: 600; font-variant-numeric: tabular-nums; }
+.ficha .sub { color: var(--tinta-suave); font-size: 12.5px; }
+
+/* ------------------------------------------------ pie */
+.pie {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 24px 20px 48px;
+  color: var(--tinta-suave);
+  font-size: 12.5px;
+  border-top: 1px solid var(--linea);
+}
+.pie code { font-size: 12px; }

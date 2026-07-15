@@ -1,0 +1,17 @@
+{
+  "feeds": [
+    { "fuente": "CNBC Mercados", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20409666" },
+    { "fuente": "CNBC Economía", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258" },
+    { "fuente": "MarketWatch", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories" },
+    { "fuente": "MarketWatch Mercados", "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse" },
+    { "fuente": "Investing.com", "url": "https://www.investing.com/rss/news.rss" },
+    { "fuente": "Yahoo Finance", "url": "https://finance.yahoo.com/news/rssindex" },
+    { "fuente": "NYT Economía", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml" },
+    { "fuente": "NYT Negocios", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" },
+    { "fuente": "The Economist Finanzas", "url": "https://www.economist.com/finance-and-economics/rss.xml" },
+    { "fuente": "BBC Negocios", "url": "https://feeds.bbci.co.uk/news/business/rss.xml" },
+    { "fuente": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/" },
+    { "fuente": "Expansión Mercados", "url": "https://e00-expansion.uecdn.es/rss/mercados.xml" },
+    { "fuente": "El Economista Mercados", "url": "https://www.eleconomista.es/rss/rss-mercados.php" }
+  ]
+}

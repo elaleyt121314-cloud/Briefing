@@ -1,0 +1,11 @@
+# Cachés de Python
+__pycache__/
+*.pyc
+
+# Entornos y dependencias locales
+.venv/
+venv/
+
+# Basura del sistema
+.DS_Store
+Thumbs.db
