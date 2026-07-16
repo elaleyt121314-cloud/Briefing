@@ -100,10 +100,50 @@ def _llamar_modelo(modelo, api_key, cuerpo):
     return None
 
 
+def _modelos_disponibles(api_key):
+    """Pregunta a la API que modelos puede usar ESTA clave y devuelve los aptos
+    para redactar (generateContent), priorizando la familia 'flash' (rapida y con
+    free tier). Asi el sistema se adapta solo aunque Google jubile modelos.
+    """
+    try:
+        r = requests.get(BASE, params={"key": api_key, "pageSize": 200}, timeout=30)
+        r.raise_for_status()
+        modelos_api = r.json().get("models", [])
+    except Exception as e:
+        print(f"[aviso] no se pudo consultar la lista de modelos: {e}")
+        return []
+    # Nos quedan solo los que generan texto y descartamos los especializados
+    # (imagen, voz, incrustaciones...), que no sirven para el briefing.
+    excluir = ("embedding", "aqa", "tts", "image", "imagen", "audio", "vision", "live")
+    aptos = []
+    for m in modelos_api:
+        nombre = m.get("name", "").replace("models/", "")
+        if "generateContent" not in m.get("supportedGenerationMethods", []):
+            continue
+        if any(x in nombre.lower() for x in excluir):
+            continue
+        aptos.append(nombre)
+
+    def prioridad(n):
+        n = n.lower()
+        if "flash-lite" in n:
+            return 0  # el mas ligero: mas margen de peticiones gratuitas
+        if "flash" in n:
+            return 1
+        if "pro" in n:
+            return 3  # potente pero suele no tener free tier
+        return 2
+    aptos.sort(key=prioridad)
+    if aptos:
+        print(f"[info] modelos aptos para esta clave: {', '.join(aptos[:8])}")
+    return aptos
+
+
 def generar_briefing(contexto):
     """Llama a Gemini con el contexto de datos y devuelve el briefing como dict.
 
-    Prueba los modelos configurados en orden y usa el primero que responda.
+    Si GEMINI_MODEL esta definido, respeta esa lista; si no, descubre los
+    modelos que la clave puede usar y prueba el primero que responda.
     """
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not api_key:
@@ -121,7 +161,13 @@ def generar_briefing(contexto):
             "responseMimeType": "application/json",
         },
     }
-    for modelo in MODELOS:
+    # Con GEMINI_MODEL se puede forzar la lista; por defecto, autodescubrimiento
+    # (con los modelos por defecto como ultimo recurso si la consulta falla).
+    if os.environ.get("GEMINI_MODEL"):
+        modelos = MODELOS
+    else:
+        modelos = _modelos_disponibles(api_key) or MODELOS
+    for modelo in modelos:
         briefing = _llamar_modelo(modelo, api_key, cuerpo)
         if briefing is not None:
             print(f"[ok] briefing generado con {modelo}")
