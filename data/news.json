@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-07-15T23:44:01+00:00",
+ "actualizado": "2026-07-15T23:55:58+00:00",
  "items": [
+  {
+   "titulo": "‘They cut off online access’: My mother’s bank balance plummeted after her death. What’s going on?",
+   "resumen": "“Since her death, her bank balance fell to $9,000 from $16,000.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories",
+   "fecha": "2026-07-16T00:00:00+00:00"
+  },
+  {
+   "titulo": "New York Times Files Motion to Quash Subpoenas of Its Journalists",
+   "resumen": "The Justice Department is seeking to compel grand jury testimony as part of an investigation into Times reporting on the president’s new Air Force One jet.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/07/15/business/media/new-york-times-subpoenas-quash.html",
+   "fecha": "2026-07-15T23:58:01+00:00"
+  },
+  {
+   "titulo": "NextEra and Dominion File to Form a Huge Power Company",
+   "resumen": "They asked regulators in three states and at a federal agency to approve a deal that would create a combined company with 10 million customers across the Southeast.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/07/15/business/nextera-dominion-regulators-filing.html",
+   "fecha": "2026-07-15T23:50:28+00:00"
+  },
   {
    "titulo": "The trucking market is tighter than it’s been in years — but investors are upbeat on J.B. Hunt",
    "resumen": "Shares of the trucking giant jump 8% after hours, as fuel charges and demand for its railroad-connection business lift results",
@@ -100,13 +121,6 @@
    "fecha": "2026-07-15T21:53:10+00:00"
   },
   {
-   "titulo": "A big dividend cut and a $2 billion charge: Conagra’s results signal more pain ahead for food industry",
-   "resumen": "Conagra Brands’ stock was up a bit on Thursday, but the company’s results and forecast were the latest dose of bad news for the packaged-food industry.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/a-big-dividend-cut-and-a-2-billion-charge-conagras-results-signal-more-pain-ahead-for-food-industry-8613bd71?mod=mw_rss_topstories",
-   "fecha": "2026-07-15T21:43:00+00:00"
-  },
-  {
    "titulo": "PayPal Receives $53 Billion Takeover Offer Involving Stripe",
    "resumen": "PayPal, which owns Venmo, is the target of what one group of analysts described as a “lowball” offer from Stripe, another payment processor, and Advent, a private equity firm.",
    "fuente": "NYT Negocios",
@@ -156,13 +170,6 @@
    "fecha": "2026-07-15T18:46:26+00:00"
   },
   {
-   "titulo": "Goldman’s Former Top Lawyer Calls Epstein a ‘Masterful Liar’",
-   "resumen": "Kathryn Ruemmler, the former general counsel of Goldman Sachs, testified on Wednesday in a closed-door congressional hearing investigating Jeffery Epstein.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/07/15/business/goldman-kathy-ruemmler-epstein.html",
-   "fecha": "2026-07-15T18:23:28+00:00"
-  },
-  {
    "titulo": "SpaceX share price drops below stock market debut",
    "resumen": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
    "fuente": "BBC Negocios",
@@ -203,13 +210,6 @@
    "fuente": "CoinDesk",
    "url": "https://www.coindesk.com/business/2026/07/15/dtcc-moves-tokenized-securities-into-live-trading-marking-a-milestone-for-wall-street-s-blockchain-push",
    "fecha": "2026-07-15T17:02:22+00:00"
-  },
-  {
-   "titulo": "Cantor and Securitize collaborate on blockchain-based IPOs",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos",
-   "fecha": "2026-07-15T16:52:28+00:00"
   }
  ]
 }
