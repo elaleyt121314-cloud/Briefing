@@ -1,41 +1,41 @@
 {
- "actualizado": "2026-07-16T00:07:30+00:00",
+ "actualizado": "2026-07-16T11:22:23+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Optimismo tecnológico en EE. UU. mientras los mercados europeos muestran cautela",
-  "resumen": "La jornada ha estado marcada por un fuerte impulso en las grandes tecnológicas estadounidenses, que han liderado las ganancias del S&P 500. En contraste, los índices europeos han cerrado con ligeros descensos, reflejando una divergencia en el sentimiento inversor global.",
+  "titular": "Jornada de contrastes: optimismo tecnológico en EE. UU. frente a la debilidad en Asia y Europa",
+  "resumen": "Mientras los grandes valores tecnológicos impulsan al S&P 500, los mercados internacionales muestran una clara tendencia bajista. La volatilidad aumenta ligeramente en un contexto marcado por tensiones geopolíticas y ajustes regulatorios.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "El sector tecnológico lidera en Wall Street",
-    "texto": "Apple, Amazon, Alphabet y Meta han registrado subidas superiores al 3%, impulsando al S&P 500 (+0,38%). Este movimiento sugiere un renovado interés inversor en las grandes capitalizadas, a pesar de la caída del 0,28% en el Nasdaq 100.",
+    "titulo": "Fortaleza del sector tecnológico en EE. UU.",
+    "texto": "Empresas como Apple, Microsoft, Amazon, Alphabet y Meta han registrado subidas superiores al 2.7%. Este comportamiento positivo sostiene al S&P 500 frente a la debilidad de otros sectores y regiones.",
     "importancia": 4
    },
    {
-    "titulo": "Caída de la volatilidad",
-    "texto": "El índice VIX ha retrocedido un 5,03%, situándose en 15,67. Esta reducción en la percepción de riesgo, junto con el descenso en el rendimiento del bono estadounidense a 10 años, apunta a un entorno de mayor calma en los mercados financieros.",
+    "titulo": "Caída significativa en el Nikkei 225",
+    "texto": "El índice japonés ha sufrido un retroceso del 2.79% en la jornada. Este movimiento destaca por su intensidad en comparación con el resto de los índices globales, reflejando una presión vendedora notable en el mercado asiático.",
+    "importancia": 5
+   },
+   {
+    "titulo": "Presión bajista en Europa",
+    "texto": "Los principales índices europeos, incluyendo el DAX, el Euro Stoxx 50 y el IBEX 35, cierran con pérdidas. La incertidumbre macroeconómica y el contexto de tipos de interés parecen estar pesando sobre el sentimiento inversor en la región.",
     "importancia": 3
    },
    {
-    "titulo": "Divergencia en Europa",
-    "texto": "Los principales índices europeos, incluyendo el DAX y el IBEX 35, han cerrado en negativo con caídas entre el 0,3% y el 0,5%. Este comportamiento contrasta con el optimismo visto en el Nikkei 225, que ha repuntado un 2,24%.",
+    "titulo": "Volatilidad y sentimiento en criptoactivos",
+    "texto": "El mercado de criptomonedas muestra debilidad, con Bitcoin y Ethereum retrocediendo. El índice 'Fear and Greed' se sitúa en 25, indicando 'Extreme Fear', exacerbado por noticias sobre sanciones a carteras vinculadas a Irán.",
     "importancia": 3
-   },
-   {
-    "titulo": "Movimientos en el sector energético",
-    "texto": "Los precios del petróleo (Brent y WTI) han subido por encima del 0,7%, consolidando una tendencia alcista semanal notable. Este incremento en las materias primas energéticas podría estar influyendo en las expectativas de costes operativos para las empresas.",
-    "importancia": 2
    }
   ],
   "vigilar": [
-   "Evolución de la oferta de adquisición de Stripe sobre PayPal",
-   "Comportamiento del sector bancario español tras las revisiones de BofA",
-   "Niveles de volatilidad del VIX"
+   "Evolución del índice de volatilidad VIX",
+   "Impacto de las sanciones estadounidenses en el flujo de capital cripto",
+   "Comportamiento del sector de telecomunicaciones tras el debut de Digi y la rebaja de Barclays a Telefónica"
   ],
   "proximos": [
-   "Posibles reacciones regulatorias ante la propuesta de fusión entre NextEra y Dominion",
-   "Efecto del Mundial en los indicadores de consumo minorista"
+   "Nombramiento del nuevo Canciller de Hacienda en el Reino Unido",
+   "Evolución de las tensiones geopolíticas entre EE. UU. e Irán"
   ],
-  "nota_riesgo": "El riesgo general parece moderado, apoyado por una caída significativa en la volatilidad. Sin embargo, el sentimiento de 'miedo extremo' en el mercado de criptomonedas sugiere que persisten focos de incertidumbre en activos de mayor riesgo."
+  "nota_riesgo": "El riesgo general se percibe elevado, evidenciado por el repunte del VIX y el sentimiento de 'miedo extremo' en el sector cripto. La divergencia entre la euforia tecnológica estadounidense y la debilidad en otros mercados sugiere una cautela necesaria."
  }
 }
