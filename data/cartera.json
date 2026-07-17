@@ -1,4 +1,120 @@
 {
- "activada": false,
- "actualizado": "2026-07-17T12:00:00+00:00"
+ "activada": true,
+ "simulada": true,
+ "moneda_base": "EUR",
+ "totales": {
+  "coste": 3957.98,
+  "valor": 4349.65,
+  "pl": 391.67,
+  "pl_pct": 9.9,
+  "sp500_valor_equivalente": 4410.82,
+  "sp500_pl_pct": 11.44
+ },
+ "posiciones": [
+  {
+   "symbol": "AAPL",
+   "nombre": "Apple",
+   "sector": "Tecnología",
+   "geografia": "EE. UU.",
+   "fecha_compra": "2026-03-02",
+   "participaciones": 4,
+   "moneda": "USD",
+   "precio_actual": 331.775,
+   "coste": 900.47,
+   "valor": 1160.28,
+   "pl": 259.81,
+   "pl_pct": 28.85,
+   "sp500_pct_mismo_periodo": 11.63,
+   "peso_pct": 26.7
+  },
+  {
+   "symbol": "IWDA.AS",
+   "nombre": "iShares MSCI World",
+   "sector": "ETF global",
+   "geografia": "Mundo",
+   "fecha_compra": "2026-01-15",
+   "participaciones": 9,
+   "moneda": "EUR",
+   "precio_actual": 124.85,
+   "coste": 1034.37,
+   "valor": 1123.65,
+   "pl": 89.28,
+   "pl_pct": 8.63,
+   "sp500_pct_mismo_periodo": 9.56,
+   "peso_pct": 25.8
+  },
+  {
+   "symbol": "VUSA.AS",
+   "nombre": "Vanguard S&P 500",
+   "sector": "ETF índice",
+   "geografia": "EE. UU.",
+   "fecha_compra": "2026-01-15",
+   "participaciones": 9,
+   "moneda": "EUR",
+   "precio_actual": 123.743,
+   "coste": 1024.56,
+   "valor": 1113.69,
+   "pl": 89.13,
+   "pl_pct": 8.7,
+   "sp500_pct_mismo_periodo": 9.56,
+   "peso_pct": 25.6
+  },
+  {
+   "symbol": "BTC-EUR",
+   "nombre": "Bitcoin",
+   "sector": "Cripto",
+   "geografia": "Global",
+   "fecha_compra": "2026-04-01",
+   "participaciones": 0.017,
+   "moneda": "EUR",
+   "precio_actual": 56001.7695,
+   "coste": 998.58,
+   "valor": 952.03,
+   "pl": -46.55,
+   "pl_pct": -4.66,
+   "sp500_pct_mismo_periodo": 15.15,
+   "peso_pct": 21.9
+  }
+ ],
+ "por_sector": [
+  {
+   "nombre": "Tecnología",
+   "valor": 1160.28,
+   "pct": 26.7
+  },
+  {
+   "nombre": "ETF global",
+   "valor": 1123.65,
+   "pct": 25.8
+  },
+  {
+   "nombre": "ETF índice",
+   "valor": 1113.69,
+   "pct": 25.6
+  },
+  {
+   "nombre": "Cripto",
+   "valor": 952.03,
+   "pct": 21.9
+  }
+ ],
+ "por_geografia": [
+  {
+   "nombre": "EE. UU.",
+   "valor": 2273.97,
+   "pct": 52.3
+  },
+  {
+   "nombre": "Mundo",
+   "valor": 1123.65,
+   "pct": 25.8
+  },
+  {
+   "nombre": "Global",
+   "valor": 952.03,
+   "pct": 21.9
+  }
+ ],
+ "omitidas": [],
+ "actualizado": "2026-07-17T17:59:13+00:00"
 }

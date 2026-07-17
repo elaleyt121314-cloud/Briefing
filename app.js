@@ -119,6 +119,10 @@ function pintarCartera(c) {
   $("#cartera").hidden = false;
   $("#nav-cartera").hidden = false;
   $("#cartera-fecha").textContent = `Actualizado: ${fmtHora(c.actualizado)}`;
+  if (c.simulada) {
+    $("#cartera-simulada").hidden = false;
+    $("#cartera-aviso-simulacion").hidden = false;
+  }
 
   const t = c.totales, m = c.moneda_base;
   const signo = (v) => (v > 0 ? "+" : "");

@@ -57,9 +57,14 @@
 
   <section id="cartera" class="seccion" hidden>
     <div class="seccion-cab">
-      <h2>Mi cartera</h2>
+      <h2>Mi cartera <span id="cartera-simulada" class="chip-simulacion" hidden>Simulación</span></h2>
       <span class="actualizado" id="cartera-fecha"></span>
     </div>
+    <p class="nota-datos" id="cartera-aviso-simulacion" hidden>
+      Cartera de práctica con dinero ficticio: sirve para aprender cómo se comporta una inversión
+      antes de hacerla de verdad. Cuando inviertas, sustituye estas posiciones por las reales en
+      <code>config/cartera.json</code>.
+    </p>
     <div class="fichas" id="cartera-resumen"></div>
     <div class="grupo cartera-grupo">
       <h3>Posiciones</h3>

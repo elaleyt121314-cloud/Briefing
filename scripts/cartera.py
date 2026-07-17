@@ -157,6 +157,9 @@ def calcular(config):
 
     return {
         "activada": True,
+        # Cartera de practica con dinero ficticio: la web lo etiqueta visiblemente
+        # para no confundir nunca simulacion con inversion real.
+        "simulada": bool(config.get("simulada")),
         "moneda_base": base,
         "totales": totales,
         "posiciones": posiciones,

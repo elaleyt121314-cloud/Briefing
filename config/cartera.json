@@ -1,15 +1,18 @@
 {
   "_ayuda": [
-    "Tu cartera real. Rellena 'posiciones' copiando el formato de '_ejemplo_posicion'.",
+    "Tu cartera. Rellena 'posiciones' copiando el formato de '_ejemplo_posicion'.",
     "Mientras 'posiciones' esté vacía, la sección 'Mi cartera' no aparece en la web.",
+    "simulada: true = cartera de práctica con dinero ficticio (la web lo etiqueta).",
+    "Cuando inviertas de verdad: pon simulada en false y sustituye las posiciones por las reales.",
     "symbol: el símbolo de Yahoo Finance (igual que en watchlist.json).",
-    "participaciones: número de acciones/participaciones/unidades que tienes (admite decimales).",
+    "participaciones: número de acciones/participaciones/unidades (admite decimales, con punto).",
     "precio_medio: tu precio medio de compra POR unidad, en la moneda del activo (la de Yahoo).",
-    "fecha_compra: fecha de tu compra (o de la primera, si promedias) en formato AAAA-MM-DD.",
+    "fecha_compra: fecha de la compra (o de la primera, si promedias) en formato AAAA-MM-DD.",
     "sector y geografia: los escribes tú; se usan para la distribución de la cartera.",
     "moneda_base: la moneda en la que quieres ver los totales."
   ],
   "moneda_base": "EUR",
+  "simulada": true,
   "_ejemplo_posicion": {
     "symbol": "MSFT",
     "nombre": "Microsoft",
@@ -19,5 +22,42 @@
     "sector": "Tecnología",
     "geografia": "EE. UU."
   },
-  "posiciones": []
+  "posiciones": [
+    {
+      "symbol": "IWDA.AS",
+      "nombre": "iShares MSCI World",
+      "participaciones": 9,
+      "precio_medio": 114.93,
+      "fecha_compra": "2026-01-15",
+      "sector": "ETF global",
+      "geografia": "Mundo"
+    },
+    {
+      "symbol": "VUSA.AS",
+      "nombre": "Vanguard S&P 500",
+      "participaciones": 9,
+      "precio_medio": 113.84,
+      "fecha_compra": "2026-01-15",
+      "sector": "ETF índice",
+      "geografia": "EE. UU."
+    },
+    {
+      "symbol": "AAPL",
+      "nombre": "Apple",
+      "participaciones": 4,
+      "precio_medio": 264.72,
+      "fecha_compra": "2026-03-02",
+      "sector": "Tecnología",
+      "geografia": "EE. UU."
+    },
+    {
+      "symbol": "BTC-EUR",
+      "nombre": "Bitcoin",
+      "participaciones": 0.017,
+      "precio_medio": 58739.81,
+      "fecha_compra": "2026-04-01",
+      "sector": "Cripto",
+      "geografia": "Global"
+    }
+  ]
 }
