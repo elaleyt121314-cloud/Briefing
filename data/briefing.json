@@ -1,41 +1,41 @@
 {
- "actualizado": "2026-07-17T11:08:43+00:00",
+ "actualizado": "2026-07-17T18:13:10+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de aversión al riesgo marcada por la corrección en el sector tecnológico y la volatilidad global",
-  "resumen": "Los mercados experimentan una sesión de ventas generalizadas, lideradas por el sector tecnológico y una caída significativa en el Nikkei 225. La incertidumbre geopolítica y la presión sobre las tecnológicas han elevado el índice de volatilidad VIX, mientras el petróleo sube ante las tensiones en el Golfo Pérsico.",
+  "titular": "Jornada de corrección en los mercados globales impulsada por la incertidumbre tecnológica",
+  "resumen": "Los principales índices bursátiles han registrado descensos significativos, liderados por una fuerte caída en el sector tecnológico y una volatilidad creciente. El mercado muestra preocupación por la competencia global en inteligencia artificial, mientras que el sector energético destaca con alzas notables en el precio del petróleo.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Corrección en el sector tecnológico",
-    "texto": "Las acciones tecnológicas sufren presiones vendedoras, con caídas notables en Alphabet (-4.44%), Meta (-2.46%) y NVIDIA (-2.4%). Este movimiento arrastra al Nasdaq 100 a un descenso del 1.62% y refleja una rotación de capital ante el inicio de la temporada de resultados.",
+    "titulo": "Caída en el sector tecnológico y de IA",
+    "texto": "Las acciones tecnológicas como Alphabet, Meta y Tesla han sufrido retrocesos superiores al 2%, arrastrando al Nasdaq 100. La inquietud de los inversores se centra en la creciente competencia de China en el desarrollo de inteligencia artificial, lo que ha generado una presión vendedora en el sector.",
     "importancia": 5
    },
    {
-    "titulo": "Impacto global y volatilidad",
-    "texto": "El Nikkei 225 registró una caída del 4.03%, evidenciando un contagio de la desconfianza hacia los activos de riesgo. El VIX, indicador de volatilidad, se dispara un 8.07%, lo que confirma un aumento del miedo entre los inversores a nivel internacional.",
+    "titulo": "Repunte de la volatilidad",
+    "texto": "El índice VIX ha experimentado un incremento del 9.5% en la jornada, alcanzando una subida acumulada del 21.89% en la semana. Este dato refleja un aumento claro en la aversión al riesgo y el nerviosismo de los inversores ante la inestabilidad en los mercados de renta variable.",
     "importancia": 4
    },
    {
-    "titulo": "Suministros energéticos y geopolítica",
-    "texto": "El petróleo Brent (+1.86%) y el WTI (+1.34%) suben debido a la interrupción del tráfico marítimo en el Golfo Pérsico derivada del conflicto en Irán. Este incremento en los precios de las materias primas energéticas añade presión inflacionaria en un entorno de mercado ya tenso.",
+    "titulo": "Desplome del Nikkei 225",
+    "texto": "El índice japonés registró una caída severa del 6.71% en el día, acumulando un descenso mensual superior al 8%. Este movimiento destaca como el evento más extremo de la sesión, señalando una posible corrección profunda o un ajuste de posiciones en los mercados asiáticos.",
     "importancia": 4
    },
    {
-    "titulo": "Presión sobre los activos digitales",
-    "texto": "Bitcoin cae por debajo de los 63,000 dólares (-1.15%) y Ethereum retrocede un 1.61%. El sentimiento en el mercado cripto se sitúa en 'Fear' (27), alineándose con la tendencia general de salida de activos de mayor riesgo.",
+    "titulo": "Fuerte subida en el precio del petróleo",
+    "texto": "El crudo Brent y el WTI han experimentado ganancias significativas, con el Brent subiendo un 4.4% y el WTI un 3.47%. Estos movimientos, que se suman a una tendencia alcista semanal, podrían estar relacionados con tensiones geopolíticas, aunque los datos no especifican una causa directa.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución del VIX para medir si la volatilidad se estabiliza o escala",
-   "Comportamiento de las tecnológicas ante los próximos reportes de resultados",
-   "Titulares sobre el conflicto en el Golfo Pérsico y su impacto en el precio del crudo"
+   "Evolución del índice VIX como termómetro de la ansiedad del mercado",
+   "Comportamiento de las acciones tecnológicas ante la competencia en IA",
+   "Estabilidad del precio del petróleo tras el fuerte repunte"
   ],
   "proximos": [
-   "Continuación de la temporada de resultados empresariales",
-   "Nombramiento del nuevo Canciller en el Reino Unido"
+   "Resultados corporativos pendientes de empresas tecnológicas",
+   "Evolución de las tensiones geopolíticas que afectan al sector energético"
   ],
-  "nota_riesgo": "El nivel de riesgo es elevado. La combinación de una alta volatilidad, la caída de activos tecnológicos clave y la inestabilidad geopolítica sugiere una actitud defensiva por parte de los inversores."
+  "nota_riesgo": "El nivel de riesgo es elevado, reflejado en el aumento de la volatilidad y las caídas generalizadas en renta variable. La divergencia entre la caída de las tecnológicas y el alza de las materias primas energéticas sugiere un mercado buscando refugio o reajustando sectores ante la incertidumbre."
  }
 }

@@ -4,11 +4,11 @@
  "moneda_base": "EUR",
  "totales": {
   "coste": 3957.98,
-  "valor": 4349.65,
-  "pl": 391.67,
-  "pl_pct": 9.9,
-  "sp500_valor_equivalente": 4410.82,
-  "sp500_pl_pct": 11.44
+  "valor": 4350.6,
+  "pl": 392.62,
+  "pl_pct": 9.92,
+  "sp500_valor_equivalente": 4405.09,
+  "sp500_pl_pct": 11.3
  },
  "posiciones": [
   {
@@ -19,12 +19,12 @@
    "fecha_compra": "2026-03-02",
    "participaciones": 4,
    "moneda": "USD",
-   "precio_actual": 331.775,
+   "precio_actual": 332.4601,
    "coste": 900.47,
-   "valor": 1160.28,
-   "pl": 259.81,
-   "pl_pct": 28.85,
-   "sp500_pct_mismo_periodo": 11.63,
+   "valor": 1162.55,
+   "pl": 262.07,
+   "pl_pct": 29.1,
+   "sp500_pct_mismo_periodo": 11.48,
    "peso_pct": 26.7
   },
   {
@@ -40,7 +40,7 @@
    "valor": 1123.65,
    "pl": 89.28,
    "pl_pct": 8.63,
-   "sp500_pct_mismo_periodo": 9.56,
+   "sp500_pct_mismo_periodo": 9.42,
    "peso_pct": 25.8
   },
   {
@@ -56,7 +56,7 @@
    "valor": 1113.69,
    "pl": 89.13,
    "pl_pct": 8.7,
-   "sp500_pct_mismo_periodo": 9.56,
+   "sp500_pct_mismo_periodo": 9.42,
    "peso_pct": 25.6
   },
   {
@@ -67,19 +67,19 @@
    "fecha_compra": "2026-04-01",
    "participaciones": 0.017,
    "moneda": "EUR",
-   "precio_actual": 56001.7695,
+   "precio_actual": 55924.0781,
    "coste": 998.58,
-   "valor": 952.03,
-   "pl": -46.55,
-   "pl_pct": -4.66,
-   "sp500_pct_mismo_periodo": 15.15,
+   "valor": 950.71,
+   "pl": -47.87,
+   "pl_pct": -4.79,
+   "sp500_pct_mismo_periodo": 15.0,
    "peso_pct": 21.9
   }
  ],
  "por_sector": [
   {
    "nombre": "Tecnología",
-   "valor": 1160.28,
+   "valor": 1162.55,
    "pct": 26.7
   },
   {
@@ -94,14 +94,14 @@
   },
   {
    "nombre": "Cripto",
-   "valor": 952.03,
+   "valor": 950.71,
    "pct": 21.9
   }
  ],
  "por_geografia": [
   {
    "nombre": "EE. UU.",
-   "valor": 2273.97,
+   "valor": 2276.24,
    "pct": 52.3
   },
   {
@@ -111,10 +111,10 @@
   },
   {
    "nombre": "Global",
-   "valor": 952.03,
+   "valor": 950.71,
    "pct": 21.9
   }
  ],
  "omitidas": [],
- "actualizado": "2026-07-17T17:59:13+00:00"
+ "actualizado": "2026-07-17T18:13:10+00:00"
 }
