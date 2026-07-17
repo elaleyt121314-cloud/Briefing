@@ -82,6 +82,56 @@ def yahoo_watchlist(watchlist):
     return grupos
 
 
+def yahoo_historico(symbol, desde_iso):
+    """Cierres diarios de un simbolo desde una fecha (AAAA-MM-DD) hasta hoy.
+
+    Devuelve {"moneda": ..., "serie": [(fecha_iso, cierre), ...]} ordenado por
+    fecha, o None si la fuente falla. Sirve para valorar posiciones de la
+    cartera compradas en el pasado y para comparar con un indice en el mismo
+    periodo.
+    """
+    try:
+        desde = datetime.strptime(desde_iso, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except ValueError:
+        print(f"[aviso] fecha invalida '{desde_iso}' para {symbol} (formato AAAA-MM-DD)")
+        return None
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
+    data = _get_json(url, params={
+        "period1": int(desde.timestamp()),
+        "period2": int(datetime.now(timezone.utc).timestamp()),
+        "interval": "1d",
+    })
+    if not data:
+        return None
+    try:
+        result = data["chart"]["result"][0]
+        tiempos = result["timestamp"]
+        cierres = result["indicators"]["quote"][0]["close"]
+        serie = []
+        for t, c in zip(tiempos, cierres):
+            if c is not None:
+                fecha = datetime.fromtimestamp(t, tz=timezone.utc).strftime("%Y-%m-%d")
+                serie.append((fecha, round(c, 4)))
+        if not serie:
+            return None
+        return {"moneda": result["meta"].get("currency"), "serie": serie}
+    except Exception as e:
+        print(f"[aviso] historico inesperado de Yahoo para {symbol}: {e}")
+        return None
+
+
+def yahoo_cambio_divisa(de, a, desde_iso):
+    """Serie del tipo de cambio de la moneda 'de' a la moneda 'a' desde una fecha.
+
+    Usa el par de Yahoo (p. ej. USDEUR=X). Si ambas monedas coinciden devuelve
+    una serie constante de 1 para simplificar al que llama.
+    """
+    if de == a:
+        hoy = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        return {"moneda": a, "serie": [(desde_iso, 1.0), (hoy, 1.0)]}
+    return yahoo_historico(f"{de}{a}=X", desde_iso)
+
+
 # ------------------------------------------------------------------- CoinGecko
 def coingecko_global():
     """Dominancia de BTC y capitalizacion total del mercado cripto."""
