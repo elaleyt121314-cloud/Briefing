@@ -1,41 +1,41 @@
 {
- "actualizado": "2026-07-16T11:22:23+00:00",
+ "actualizado": "2026-07-17T11:08:43+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de contrastes: optimismo tecnológico en EE. UU. frente a la debilidad en Asia y Europa",
-  "resumen": "Mientras los grandes valores tecnológicos impulsan al S&P 500, los mercados internacionales muestran una clara tendencia bajista. La volatilidad aumenta ligeramente en un contexto marcado por tensiones geopolíticas y ajustes regulatorios.",
+  "titular": "Jornada de aversión al riesgo marcada por la corrección en el sector tecnológico y la volatilidad global",
+  "resumen": "Los mercados experimentan una sesión de ventas generalizadas, lideradas por el sector tecnológico y una caída significativa en el Nikkei 225. La incertidumbre geopolítica y la presión sobre las tecnológicas han elevado el índice de volatilidad VIX, mientras el petróleo sube ante las tensiones en el Golfo Pérsico.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Fortaleza del sector tecnológico en EE. UU.",
-    "texto": "Empresas como Apple, Microsoft, Amazon, Alphabet y Meta han registrado subidas superiores al 2.7%. Este comportamiento positivo sostiene al S&P 500 frente a la debilidad de otros sectores y regiones.",
-    "importancia": 4
-   },
-   {
-    "titulo": "Caída significativa en el Nikkei 225",
-    "texto": "El índice japonés ha sufrido un retroceso del 2.79% en la jornada. Este movimiento destaca por su intensidad en comparación con el resto de los índices globales, reflejando una presión vendedora notable en el mercado asiático.",
+    "titulo": "Corrección en el sector tecnológico",
+    "texto": "Las acciones tecnológicas sufren presiones vendedoras, con caídas notables en Alphabet (-4.44%), Meta (-2.46%) y NVIDIA (-2.4%). Este movimiento arrastra al Nasdaq 100 a un descenso del 1.62% y refleja una rotación de capital ante el inicio de la temporada de resultados.",
     "importancia": 5
    },
    {
-    "titulo": "Presión bajista en Europa",
-    "texto": "Los principales índices europeos, incluyendo el DAX, el Euro Stoxx 50 y el IBEX 35, cierran con pérdidas. La incertidumbre macroeconómica y el contexto de tipos de interés parecen estar pesando sobre el sentimiento inversor en la región.",
-    "importancia": 3
+    "titulo": "Impacto global y volatilidad",
+    "texto": "El Nikkei 225 registró una caída del 4.03%, evidenciando un contagio de la desconfianza hacia los activos de riesgo. El VIX, indicador de volatilidad, se dispara un 8.07%, lo que confirma un aumento del miedo entre los inversores a nivel internacional.",
+    "importancia": 4
    },
    {
-    "titulo": "Volatilidad y sentimiento en criptoactivos",
-    "texto": "El mercado de criptomonedas muestra debilidad, con Bitcoin y Ethereum retrocediendo. El índice 'Fear and Greed' se sitúa en 25, indicando 'Extreme Fear', exacerbado por noticias sobre sanciones a carteras vinculadas a Irán.",
+    "titulo": "Suministros energéticos y geopolítica",
+    "texto": "El petróleo Brent (+1.86%) y el WTI (+1.34%) suben debido a la interrupción del tráfico marítimo en el Golfo Pérsico derivada del conflicto en Irán. Este incremento en los precios de las materias primas energéticas añade presión inflacionaria en un entorno de mercado ya tenso.",
+    "importancia": 4
+   },
+   {
+    "titulo": "Presión sobre los activos digitales",
+    "texto": "Bitcoin cae por debajo de los 63,000 dólares (-1.15%) y Ethereum retrocede un 1.61%. El sentimiento en el mercado cripto se sitúa en 'Fear' (27), alineándose con la tendencia general de salida de activos de mayor riesgo.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución del índice de volatilidad VIX",
-   "Impacto de las sanciones estadounidenses en el flujo de capital cripto",
-   "Comportamiento del sector de telecomunicaciones tras el debut de Digi y la rebaja de Barclays a Telefónica"
+   "Evolución del VIX para medir si la volatilidad se estabiliza o escala",
+   "Comportamiento de las tecnológicas ante los próximos reportes de resultados",
+   "Titulares sobre el conflicto en el Golfo Pérsico y su impacto en el precio del crudo"
   ],
   "proximos": [
-   "Nombramiento del nuevo Canciller de Hacienda en el Reino Unido",
-   "Evolución de las tensiones geopolíticas entre EE. UU. e Irán"
+   "Continuación de la temporada de resultados empresariales",
+   "Nombramiento del nuevo Canciller en el Reino Unido"
   ],
-  "nota_riesgo": "El riesgo general se percibe elevado, evidenciado por el repunte del VIX y el sentimiento de 'miedo extremo' en el sector cripto. La divergencia entre la euforia tecnológica estadounidense y la debilidad en otros mercados sugiere una cautela necesaria."
+  "nota_riesgo": "El nivel de riesgo es elevado. La combinación de una alta volatilidad, la caída de activos tecnológicos clave y la inestabilidad geopolítica sugiere una actitud defensiva por parte de los inversores."
  }
 }
