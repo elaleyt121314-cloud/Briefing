@@ -29,14 +29,16 @@ def _get_json(url, params=None, headers=None):
 
 # ---------------------------------------------------------------- Yahoo Finance
 def yahoo_series(symbol):
-    """Serie diaria de ~3 meses para un simbolo de Yahoo Finance.
+    """Serie diaria de ~1 anio para un simbolo de Yahoo Finance.
 
-    Devuelve dict con precio actual, variaciones a 1 dia / 1 semana / 1 mes
-    y una serie corta para el sparkline. Datos con retraso, suficientes para
-    un briefing diario.
+    Devuelve dict con precio actual, variaciones a 1 dia / 1 semana / 1 mes /
+    1 anio, una serie corta para el sparkline y los cierres del anio completo
+    ("cierres", uso interno del modulo de senales; generate.py los retira
+    antes de publicar markets.json). Datos con retraso, suficientes para un
+    briefing diario.
     """
     url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
-    data = _get_json(url, params={"range": "3mo", "interval": "1d"})
+    data = _get_json(url, params={"range": "1y", "interval": "1d"})
     if not data:
         return None
     try:
@@ -60,7 +62,9 @@ def yahoo_series(symbol):
             "d1": pct(1),
             "w1": pct(5),
             "m1": pct(21),
+            "y1": round((price / closes[0] - 1) * 100, 2) if len(closes) > 200 else None,
             "spark": [round(c, 4) for c in closes[-30:]],
+            "cierres": [round(c, 4) for c in closes],
         }
     except Exception as e:
         print(f"[aviso] datos inesperados de Yahoo para {symbol}: {e}")
