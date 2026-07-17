@@ -169,6 +169,65 @@ function pintarCartera(c) {
   $("#cartera-geo").innerHTML = barras(c.por_geografia || []);
 }
 
+/* ---------------------------------------------------------- señales */
+function pintarSenales(s) {
+  if (!s?.activos?.length) return;
+  $("#senales").hidden = false;
+  $("#nav-senales").hidden = false;
+  $("#senales-fecha").textContent = `Actualizado: ${fmtHora(s.actualizado)}`;
+  if (!s.generado_con_ia) $("#senales-sin-ia").hidden = false;
+
+  const chipVeredicto = (a) => {
+    if (!a.con_veredicto) return `<span class="chip-veredicto contexto">contexto</span>`;
+    const v = a.senal?.veredicto;
+    if (!v) return `<span class="chip-veredicto contexto">sin veredicto</span>`;
+    return `<span class="chip-veredicto ${esc(v)}">${esc(v)}</span>`;
+  };
+  const conf = { alta: "●●●", media: "●●○", baja: "●○○" };
+  const fmtp = (v, dec = 1) => (v == null ? "—" : `${v > 0 ? "+" : ""}${v.toFixed(dec)}%`);
+
+  const tecnicoLinea = (a) => {
+    const t = a.tecnico;
+    const partes = [
+      `Máx. 52 sem.: ${fmtp(t.pct_desde_max_52s)}`,
+      `SMA 50: ${fmtp(t.pct_vs_sma50)}`,
+      `SMA 200: ${fmtp(t.pct_vs_sma200)}`,
+      t.tendencia ? `tendencia ${t.tendencia}` : null,
+      a.y1 != null ? `1 año: ${fmtp(a.y1, 2)}` : null,
+    ].filter(Boolean);
+    return partes.join(" · ");
+  };
+
+  const carta = (a) => `
+    <details class="senal">
+      <summary>
+        <span class="senal-nombre">${esc(a.nombre)}</span>
+        ${a.senal?.confianza ? `<span class="senal-conf" title="Confianza ${esc(a.senal.confianza)}">${conf[a.senal.confianza] || ""}</span>` : ""}
+        ${chipVeredicto(a)}
+      </summary>
+      <div class="senal-cuerpo">
+        ${a.senal?.resumen ? `<p class="senal-resumen">${esc(a.senal.resumen)}</p>` : ""}
+        ${a.senal ? `
+          <div class="senal-args">
+            <div><h4>A favor</h4><ul>${a.senal.a_favor.map((x) => `<li>${esc(x)}</li>`).join("")}</ul></div>
+            <div><h4>En contra</h4><ul>${a.senal.en_contra.map((x) => `<li>${esc(x)}</li>`).join("")}</ul></div>
+          </div>` : ""}
+        ${!a.con_veredicto ? `<p class="senal-resumen">Instrumento de contexto: mide riesgo o condiciones de mercado; no recibe veredicto de inversión.</p>` : ""}
+        <p class="senal-tecnico">${tecnicoLinea(a)}</p>
+      </div>
+    </details>`;
+
+  const grupos = [];
+  for (const a of s.activos) {
+    let g = grupos.find((x) => x.nombre === a.grupo);
+    if (!g) grupos.push((g = { nombre: a.grupo, activos: [] }));
+    g.activos.push(a);
+  }
+  $("#senales-grupos").innerHTML = grupos
+    .map((g) => `<div class="grupo"><h3>${esc(g.nombre)}</h3>${g.activos.map(carta).join("")}</div>`)
+    .join("");
+}
+
 /* ---------------------------------------------------------- mercados */
 function pintarMercados(markets) {
   if (!markets) return;
@@ -235,12 +294,13 @@ function pintarRiesgo(extras, briefing) {
 
 /* ---------------------------------------------------------- arranque */
 (async function init() {
-  const [briefing, markets, news, extras, carteraDatos] = await Promise.all([
+  const [briefing, markets, news, extras, carteraDatos, senalesDatos] = await Promise.all([
     cargar("briefing.json"), cargar("markets.json"), cargar("news.json"), cargar("extras.json"),
-    cargar("cartera.json"),
+    cargar("cartera.json"), cargar("senales.json"),
   ]);
   pintarCarta(briefing);
   pintarCartera(carteraDatos);
+  pintarSenales(senalesDatos);
   pintarMercados(markets);
   pintarNoticias(news);
   pintarRiesgo(extras, briefing);

@@ -280,6 +280,73 @@ main { max-width: 860px; margin: 0 auto; padding: 0 20px 60px; }
   .distros { grid-template-columns: 1fr; gap: 8px; }
 }
 
+/* ------------------------------------------------ señales */
+.senal {
+  background: var(--superficie);
+  border: 1px solid var(--linea);
+  border-radius: 12px;
+  box-shadow: var(--sombra);
+  margin-bottom: 8px;
+}
+.senal summary {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 16px;
+  cursor: pointer;
+  list-style: none;
+}
+.senal summary::-webkit-details-marker { display: none; }
+.senal summary::after {
+  content: "▾";
+  margin-left: auto;
+  color: var(--tinta-suave);
+  font-size: 12px;
+  transition: transform 0.15s;
+}
+.senal[open] summary::after { transform: rotate(180deg); }
+.senal .senal-nombre { font-weight: 500; }
+.senal .senal-conf { color: var(--tinta-suave); font-size: 11px; letter-spacing: 0.15em; }
+.chip-veredicto {
+  padding: 2px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+}
+.chip-veredicto.comprar { color: var(--positivo); background: var(--positivo-fondo); }
+.chip-veredicto.vender { color: var(--negativo); background: var(--negativo-fondo); }
+.chip-veredicto.mantener { color: var(--tinta-suave); border: 1px solid var(--linea); }
+.chip-veredicto.contexto { color: var(--acento); border: 1px solid var(--acento); text-transform: none; }
+.senal-cuerpo { padding: 0 16px 14px; border-top: 1px solid var(--linea); }
+.senal-resumen { margin: 12px 0 0; }
+.senal-args {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  margin-top: 12px;
+}
+.senal-args h4 {
+  margin: 0 0 4px;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--tinta-suave);
+  font-weight: 600;
+}
+.senal-args ul { margin: 0; padding-left: 18px; }
+.senal-args li { margin-bottom: 4px; font-size: 14.5px; }
+.senal-tecnico {
+  margin: 12px 0 0;
+  color: var(--tinta-suave);
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+}
+@media (max-width: 640px) {
+  .senal-args { grid-template-columns: 1fr; gap: 10px; }
+}
+
 /* ------------------------------------------------ noticias */
 .lista-noticias { list-style: none; margin: 0; padding: 0; }
 .lista-noticias li {
