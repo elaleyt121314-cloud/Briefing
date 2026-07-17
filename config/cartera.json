@@ -1,0 +1,23 @@
+{
+  "_ayuda": [
+    "Tu cartera real. Rellena 'posiciones' copiando el formato de '_ejemplo_posicion'.",
+    "Mientras 'posiciones' esté vacía, la sección 'Mi cartera' no aparece en la web.",
+    "symbol: el símbolo de Yahoo Finance (igual que en watchlist.json).",
+    "participaciones: número de acciones/participaciones/unidades que tienes (admite decimales).",
+    "precio_medio: tu precio medio de compra POR unidad, en la moneda del activo (la de Yahoo).",
+    "fecha_compra: fecha de tu compra (o de la primera, si promedias) en formato AAAA-MM-DD.",
+    "sector y geografia: los escribes tú; se usan para la distribución de la cartera.",
+    "moneda_base: la moneda en la que quieres ver los totales."
+  ],
+  "moneda_base": "EUR",
+  "_ejemplo_posicion": {
+    "symbol": "MSFT",
+    "nombre": "Microsoft",
+    "participaciones": 10,
+    "precio_medio": 310.5,
+    "fecha_compra": "2024-03-15",
+    "sector": "Tecnología",
+    "geografia": "EE. UU."
+  },
+  "posiciones": []
+}

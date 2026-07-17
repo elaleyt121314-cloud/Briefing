@@ -15,6 +15,7 @@ from datetime import datetime, timezone
 
 sys.path.insert(0, os.path.dirname(__file__))
 import sources
+import cartera
 import llm
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -49,18 +50,23 @@ def main():
     watchlist = leer_json(os.path.join(CONFIG, "watchlist.json"))
     feeds = leer_json(os.path.join(CONFIG, "feeds.json"))
 
-    print("== 1/4 datos de mercado (Yahoo Finance, con retraso) ==")
+    print("== 1/5 datos de mercado (Yahoo Finance, con retraso) ==")
     grupos = sources.yahoo_watchlist(watchlist)
 
-    print("== 2/4 cripto y sentimiento ==")
+    print("== 2/5 cripto y sentimiento ==")
     cripto_global = sources.coingecko_global()
     fng = sources.fear_and_greed()
 
-    print("== 3/4 indicadores macro (FRED) ==")
+    print("== 3/5 indicadores macro (FRED) ==")
     macro = sources.indicadores_macro()
 
-    print("== 4/4 noticias (RSS) ==")
+    print("== 4/5 noticias (RSS) ==")
     noticias = sources.leer_feeds(feeds)
+
+    print("== 5/5 cartera personal ==")
+    ruta_cartera = os.path.join(CONFIG, "cartera.json")
+    config_cartera = leer_json(ruta_cartera) if os.path.exists(ruta_cartera) else {}
+    datos_cartera = cartera.calcular(config_cartera)
 
     escribir_json("markets.json", {"actualizado": ahora, "grupos": grupos})
     escribir_json("extras.json", {
@@ -70,6 +76,8 @@ def main():
         "macro": macro,
     })
     escribir_json("news.json", {"actualizado": ahora, "items": noticias[:30]})
+    datos_cartera["actualizado"] = ahora
+    escribir_json("cartera.json", datos_cartera)
 
     contexto = {
         "fecha_utc": ahora,
