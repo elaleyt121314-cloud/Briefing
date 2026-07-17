@@ -106,6 +106,65 @@ function pintarCarta(briefing) {
   }
 }
 
+/* ---------------------------------------------------------- cartera */
+function fmtDinero(v, moneda) {
+  if (v == null) return "—";
+  const n = v.toLocaleString("es-ES", { minimumFractionDigits: 0, maximumFractionDigits: 0 });
+  const simbolos = { USD: "$", EUR: "€", GBP: "£", JPY: "¥" };
+  return `${n} ${simbolos[moneda] || moneda}`;
+}
+
+function pintarCartera(c) {
+  if (!c?.activada) return;
+  $("#cartera").hidden = false;
+  $("#nav-cartera").hidden = false;
+  $("#cartera-fecha").textContent = `Actualizado: ${fmtHora(c.actualizado)}`;
+
+  const t = c.totales, m = c.moneda_base;
+  const signo = (v) => (v > 0 ? "+" : "");
+  const fichas = [
+    { etq: "Valor actual", val: fmtDinero(t.valor, m), sub: `coste ${fmtDinero(t.coste, m)}` },
+    { etq: "Resultado", val: `${signo(t.pl)}${fmtDinero(t.pl, m)}`, sub: `${signo(t.pl_pct)}${t.pl_pct}% desde la compra` },
+  ];
+  if (t.sp500_pl_pct != null) {
+    fichas.push({
+      etq: "S&P 500 mismo periodo",
+      val: `${signo(t.sp500_pl_pct)}${t.sp500_pl_pct}%`,
+      sub: `habría sido ${fmtDinero(t.sp500_valor_equivalente, m)}`,
+    });
+  }
+  $("#cartera-resumen").innerHTML = fichas
+    .map((f) => `<div class="ficha"><div class="etq">${esc(f.etq)}</div><div class="val">${esc(f.val)}</div><div class="sub">${esc(f.sub)}</div></div>`)
+    .join("");
+
+  $("#cartera-posiciones").innerHTML = `
+    <div class="fila fila-c cabecera">
+      <span>Activo</span><span class="precio">Valor</span>
+      <span class="var plano">Rentab.</span><span class="var plano w1">Resultado</span>
+      <span class="var plano m1">Peso</span><span class="var plano m1">S&amp;P periodo</span>
+    </div>
+    ${c.posiciones.map((p) => `
+      <div class="fila fila-c">
+        <span class="nombre">${esc(p.nombre)}</span>
+        <span class="precio">${fmtDinero(p.valor, m)}</span>
+        ${celdaVar(p.pl_pct)}
+        <span class="var plano w1">${p.pl > 0 ? "+" : ""}${fmtDinero(p.pl, m)}</span>
+        <span class="var plano m1">${p.peso_pct}%</span>
+        ${celdaVar(p.sp500_pct_mismo_periodo, "m1")}
+      </div>`).join("")}`;
+
+  const barras = (lista) => lista
+    .map((g) => `
+      <div class="distro">
+        <span class="etq">${esc(g.nombre)}</span>
+        <div class="barra"><div style="width:${Math.min(g.pct, 100)}%"></div></div>
+        <span class="pct">${g.pct}%</span>
+      </div>`)
+    .join("");
+  $("#cartera-sector").innerHTML = barras(c.por_sector || []);
+  $("#cartera-geo").innerHTML = barras(c.por_geografia || []);
+}
+
 /* ---------------------------------------------------------- mercados */
 function pintarMercados(markets) {
   if (!markets) return;
@@ -172,10 +231,12 @@ function pintarRiesgo(extras, briefing) {
 
 /* ---------------------------------------------------------- arranque */
 (async function init() {
-  const [briefing, markets, news, extras] = await Promise.all([
+  const [briefing, markets, news, extras, carteraDatos] = await Promise.all([
     cargar("briefing.json"), cargar("markets.json"), cargar("news.json"), cargar("extras.json"),
+    cargar("cartera.json"),
   ]);
   pintarCarta(briefing);
+  pintarCartera(carteraDatos);
   pintarMercados(markets);
   pintarNoticias(news);
   pintarRiesgo(extras, briefing);

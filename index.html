@@ -20,6 +20,7 @@
     <span class="marca">Briefing</span>
     <nav class="nav">
       <a href="#carta">Carta</a>
+      <a href="#cartera" id="nav-cartera" hidden>Cartera</a>
       <a href="#mercados">Mercados</a>
       <a href="#noticias">Noticias</a>
       <a href="#riesgo">Riesgo</a>
@@ -52,6 +53,30 @@
       El briefing de hoy no pudo generarse con IA (falta la clave o falló la llamada).
       Los datos de mercado de abajo sí están actualizados.
     </p>
+  </section>
+
+  <section id="cartera" class="seccion" hidden>
+    <div class="seccion-cab">
+      <h2>Mi cartera</h2>
+      <span class="actualizado" id="cartera-fecha"></span>
+    </div>
+    <div class="fichas" id="cartera-resumen"></div>
+    <div class="grupo cartera-grupo">
+      <h3>Posiciones</h3>
+      <div class="tabla" id="cartera-posiciones"></div>
+    </div>
+    <div class="distros">
+      <div class="grupo">
+        <h3>Por sector</h3>
+        <div id="cartera-sector"></div>
+      </div>
+      <div class="grupo">
+        <h3>Por geografía</h3>
+        <div id="cartera-geo"></div>
+      </div>
+    </div>
+    <p class="nota-datos">Rentabilidad desde tu fecha de compra, con el efecto divisa incluido.
+      «S&amp;P 500 mismo periodo» simula haber invertido ese mismo importe en el índice el mismo día.</p>
   </section>
 
   <section id="mercados" class="seccion">
