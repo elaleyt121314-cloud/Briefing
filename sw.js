@@ -1,13 +1,11 @@
-/* Service worker mínimo:
-   - la interfaz (html, css, js) se cachea para que la app abra al instante;
-   - los datos (data/*.json) se piden siempre a la red primero, con caché
-     de respaldo por si estás sin conexión. */
+/* Service worker: red primero, cache de respaldo.
+   Con conexion siempre se sirve lo ultimo (interfaz y datos) y se guarda
+   copia; sin conexion, la app abre con la ultima copia guardada. Asi las
+   mejoras de la interfaz llegan solas, sin borrar datos del navegador. */
 
-const CACHE = "briefing-v1";
-const SHELL = ["./", "index.html", "styles.css", "app.js", "manifest.webmanifest", "icon.svg"];
+const CACHE = "briefing-v2";
 
 self.addEventListener("install", (e) => {
-  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)));
   self.skipWaiting();
 });
 
@@ -22,17 +20,14 @@ self.addEventListener("activate", (e) => {
 
 self.addEventListener("fetch", (e) => {
   const url = new URL(e.request.url);
-  if (url.pathname.includes("/data/")) {
-    e.respondWith(
-      fetch(e.request)
-        .then((r) => {
-          const copia = r.clone();
-          caches.open(CACHE).then((c) => c.put(e.request, copia));
-          return r;
-        })
-        .catch(() => caches.match(e.request))
-    );
-  } else if (url.origin === location.origin) {
-    e.respondWith(caches.match(e.request).then((r) => r || fetch(e.request)));
-  }
+  if (url.origin !== location.origin || e.request.method !== "GET") return;
+  e.respondWith(
+    fetch(e.request)
+      .then((r) => {
+        const copia = r.clone();
+        caches.open(CACHE).then((c) => c.put(e.request, copia));
+        return r;
+      })
+      .catch(() => caches.match(e.request))
+  );
 });
