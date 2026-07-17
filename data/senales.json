@@ -1,0 +1,556 @@
+{
+ "actualizado": "2026-07-17T18:06:52+00:00",
+ "generado_con_ia": false,
+ "sentimiento": {
+  "vix": {
+   "valor": 18.14,
+   "d1": 8.43
+  },
+  "fear_and_greed_cripto": {
+   "valor": 27,
+   "texto": "Fear"
+  }
+ },
+ "activos": [
+  {
+   "symbol": "^GSPC",
+   "nombre": "S&P 500",
+   "grupo": "Índices",
+   "precio": 7468.54,
+   "moneda": "USD",
+   "d1": -0.87,
+   "m1": -0.57,
+   "y1": 18.6,
+   "tecnico": {
+    "pct_desde_max_52s": -1.86,
+    "pct_sobre_min_52s": 19.73,
+    "pct_vs_sma20": -0.15,
+    "pct_vs_sma50": 0.05,
+    "pct_vs_sma200": 6.89,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "^NDX",
+   "nombre": "Nasdaq 100",
+   "grupo": "Índices",
+   "precio": 28696.67,
+   "moneda": "USD",
+   "d1": -1.13,
+   "m1": -4.24,
+   "y1": 24.33,
+   "tecnico": {
+    "pct_desde_max_52s": -6.41,
+    "pct_sobre_min_52s": 26.07,
+    "pct_vs_sma20": -2.86,
+    "pct_vs_sma50": -2.89,
+    "pct_vs_sma200": 8.96,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "^DJI",
+   "nombre": "Dow Jones",
+   "grupo": "Índices",
+   "precio": 52238.76,
+   "moneda": "USD",
+   "d1": -0.6,
+   "m1": 0.46,
+   "y1": 17.43,
+   "tecnico": {
+    "pct_desde_max_52s": -1.54,
+    "pct_sobre_min_52s": 19.85,
+    "pct_vs_sma20": -0.14,
+    "pct_vs_sma50": 1.99,
+    "pct_vs_sma200": 7.12,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "^STOXX50E",
+   "nombre": "Euro Stoxx 50",
+   "grupo": "Índices",
+   "precio": 6230.87,
+   "moneda": "EUR",
+   "d1": -0.84,
+   "m1": -1.46,
+   "y1": 15.88,
+   "tecnico": {
+    "pct_desde_max_52s": -2.84,
+    "pct_sobre_min_52s": 18.86,
+    "pct_vs_sma20": -0.84,
+    "pct_vs_sma50": 1.49,
+    "pct_vs_sma200": 6.02,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "^GDAXI",
+   "nombre": "DAX",
+   "grupo": "Índices",
+   "precio": 24830.98,
+   "moneda": "EUR",
+   "d1": -0.34,
+   "m1": -0.78,
+   "y1": 1.89,
+   "tecnico": {
+    "pct_desde_max_52s": -3.82,
+    "pct_sobre_min_52s": 11.35,
+    "pct_vs_sma20": -1.04,
+    "pct_vs_sma50": -0.12,
+    "pct_vs_sma200": 1.97,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "^IBEX",
+   "nombre": "IBEX 35",
+   "grupo": "Índices",
+   "precio": 19216.9,
+   "moneda": "EUR",
+   "d1": -0.45,
+   "m1": -0.96,
+   "y1": 37.32,
+   "tecnico": {
+    "pct_desde_max_52s": -3.2,
+    "pct_sobre_min_52s": 37.37,
+    "pct_vs_sma20": -1.14,
+    "pct_vs_sma50": 2.48,
+    "pct_vs_sma200": 9.69,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "^N225",
+   "nombre": "Nikkei 225",
+   "grupo": "Índices",
+   "precio": 64141.12,
+   "moneda": "JPY",
+   "d1": -6.71,
+   "m1": -8.24,
+   "y1": 60.75,
+   "tecnico": {
+    "pct_desde_max_52s": -11.37,
+    "pct_sobre_min_52s": 61.26,
+    "pct_vs_sma20": -7.34,
+    "pct_vs_sma50": -3.74,
+    "pct_vs_sma200": 14.49,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "SPY",
+   "nombre": "SPDR S&P 500",
+   "grupo": "ETFs",
+   "precio": 744.3,
+   "moneda": "USD",
+   "d1": -0.86,
+   "m1": -0.8,
+   "y1": 18.51,
+   "tecnico": {
+    "pct_desde_max_52s": -2.01,
+    "pct_sobre_min_52s": 19.72,
+    "pct_vs_sma20": -0.1,
+    "pct_vs_sma50": -0.01,
+    "pct_vs_sma200": 6.83,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "VOO",
+   "nombre": "Vanguard S&P 500",
+   "grupo": "ETFs",
+   "precio": 684.07,
+   "moneda": "USD",
+   "d1": -0.88,
+   "m1": -0.82,
+   "y1": 18.52,
+   "tecnico": {
+    "pct_desde_max_52s": -2.03,
+    "pct_sobre_min_52s": 19.71,
+    "pct_vs_sma20": -0.18,
+    "pct_vs_sma50": -0.06,
+    "pct_vs_sma200": 6.78,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "QQQ",
+   "nombre": "Invesco QQQ",
+   "grupo": "ETFs",
+   "precio": 698.295,
+   "moneda": "USD",
+   "d1": -1.08,
+   "m1": -4.32,
+   "y1": 24.3,
+   "tecnico": {
+    "pct_desde_max_52s": -6.41,
+    "pct_sobre_min_52s": 26.07,
+    "pct_vs_sma20": -2.81,
+    "pct_vs_sma50": -2.89,
+    "pct_vs_sma200": 8.96,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "VTI",
+   "nombre": "Vanguard Total Market",
+   "grupo": "ETFs",
+   "precio": 367.545,
+   "moneda": "USD",
+   "d1": -0.82,
+   "m1": -0.76,
+   "y1": 18.85,
+   "tecnico": {
+    "pct_desde_max_52s": -1.82,
+    "pct_sobre_min_52s": 20.21,
+    "pct_vs_sma20": -0.3,
+    "pct_vs_sma50": 0.08,
+    "pct_vs_sma200": 7.0,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "AAPL",
+   "nombre": "Apple",
+   "grupo": "Acciones",
+   "precio": 332.14,
+   "moneda": "USD",
+   "d1": -0.34,
+   "m1": 10.99,
+   "y1": 58.15,
+   "tecnico": {
+    "pct_desde_max_52s": -0.34,
+    "pct_sobre_min_52s": 64.12,
+    "pct_vs_sma20": 8.74,
+    "pct_vs_sma50": 9.76,
+    "pct_vs_sma200": 21.13,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "MSFT",
+   "nombre": "Microsoft",
+   "grupo": "Acciones",
+   "precio": 395.0,
+   "moneda": "USD",
+   "d1": -1.52,
+   "m1": 0.3,
+   "y1": -22.81,
+   "tecnico": {
+    "pct_desde_max_52s": -27.13,
+    "pct_sobre_min_52s": 11.95,
+    "pct_vs_sma20": 3.62,
+    "pct_vs_sma50": -1.63,
+    "pct_vs_sma200": -10.1,
+    "tendencia": "bajista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "NVDA",
+   "nombre": "NVIDIA",
+   "grupo": "Acciones",
+   "precio": 204.045,
+   "moneda": "USD",
+   "d1": -1.62,
+   "m1": -1.62,
+   "y1": 17.95,
+   "tecnico": {
+    "pct_desde_max_52s": -13.44,
+    "pct_sobre_min_52s": 23.54,
+    "pct_vs_sma20": 0.92,
+    "pct_vs_sma50": -2.81,
+    "pct_vs_sma200": 6.05,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "AMZN",
+   "nombre": "Amazon",
+   "grupo": "Acciones",
+   "precio": 247.455,
+   "moneda": "USD",
+   "d1": -0.97,
+   "m1": 0.59,
+   "y1": 10.53,
+   "tecnico": {
+    "pct_desde_max_52s": -10.01,
+    "pct_sobre_min_52s": 24.48,
+    "pct_vs_sma20": 2.23,
+    "pct_vs_sma50": -1.86,
+    "pct_vs_sma200": 5.72,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "GOOGL",
+   "nombre": "Alphabet",
+   "grupo": "Acciones",
+   "precio": 344.25,
+   "moneda": "USD",
+   "d1": -2.88,
+   "m1": -7.77,
+   "y1": 87.52,
+   "tecnico": {
+    "pct_desde_max_52s": -14.5,
+    "pct_sobre_min_52s": 87.52,
+    "pct_vs_sma20": -3.24,
+    "pct_vs_sma50": -7.09,
+    "pct_vs_sma200": 7.03,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "META",
+   "nombre": "Meta",
+   "grupo": "Acciones",
+   "precio": 647.7,
+   "moneda": "USD",
+   "d1": -2.53,
+   "m1": 7.91,
+   "y1": -7.66,
+   "tecnico": {
+    "pct_desde_max_52s": -18.01,
+    "pct_sobre_min_52s": 23.2,
+    "pct_vs_sma20": 7.0,
+    "pct_vs_sma50": 7.13,
+    "pct_vs_sma200": 1.12,
+    "tendencia": "mixta"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "TSLA",
+   "nombre": "Tesla",
+   "grupo": "Acciones",
+   "precio": 381.86,
+   "moneda": "USD",
+   "d1": -2.35,
+   "m1": -5.63,
+   "y1": 19.55,
+   "tecnico": {
+    "pct_desde_max_52s": -22.05,
+    "pct_sobre_min_52s": 26.18,
+    "pct_vs_sma20": -4.03,
+    "pct_vs_sma50": -6.82,
+    "pct_vs_sma200": -8.44,
+    "tendencia": "bajista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "BTC-USD",
+   "nombre": "Bitcoin",
+   "grupo": "Criptomonedas",
+   "precio": 63953.63,
+   "moneda": "USD",
+   "d1": 0.26,
+   "m1": 6.56,
+   "y1": -46.39,
+   "tecnico": {
+    "pct_desde_max_52s": -48.74,
+    "pct_sobre_min_52s": 9.21,
+    "pct_vs_sma20": 2.08,
+    "pct_vs_sma50": 0.38,
+    "pct_vs_sma200": -12.72,
+    "tendencia": "bajista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "ETH-USD",
+   "nombre": "Ethereum",
+   "grupo": "Criptomonedas",
+   "precio": 1840.46,
+   "moneda": "USD",
+   "d1": -1.22,
+   "m1": 16.73,
+   "y1": -47.06,
+   "tecnico": {
+    "pct_desde_max_52s": -61.91,
+    "pct_sobre_min_52s": 17.62,
+    "pct_vs_sma20": 4.86,
+    "pct_vs_sma50": 5.74,
+    "pct_vs_sma200": -16.14,
+    "tendencia": "bajista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "SOL-USD",
+   "nombre": "Solana",
+   "grupo": "Criptomonedas",
+   "precio": 75.15,
+   "moneda": "USD",
+   "d1": -0.16,
+   "m1": 4.61,
+   "y1": -57.25,
+   "tecnico": {
+    "pct_desde_max_52s": -69.65,
+    "pct_sobre_min_52s": 20.84,
+    "pct_vs_sma20": -3.26,
+    "pct_vs_sma50": 2.1,
+    "pct_vs_sma200": -17.02,
+    "tendencia": "bajista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "GC=F",
+   "nombre": "Oro",
+   "grupo": "Materias primas",
+   "precio": 4013.7,
+   "moneda": "USD",
+   "d1": 0.71,
+   "m1": -7.32,
+   "y1": 20.17,
+   "tecnico": {
+    "pct_desde_max_52s": -24.53,
+    "pct_sobre_min_52s": 21.88,
+    "pct_vs_sma20": -1.59,
+    "pct_vs_sma50": -7.05,
+    "pct_vs_sma200": -10.28,
+    "tendencia": "bajista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "BZ=F",
+   "nombre": "Petróleo Brent",
+   "grupo": "Materias primas",
+   "precio": 88.05,
+   "moneda": "USD",
+   "d1": 4.54,
+   "m1": 11.51,
+   "y1": 26.65,
+   "tecnico": {
+    "pct_desde_max_52s": -25.6,
+    "pct_sobre_min_52s": 49.44,
+    "pct_vs_sma20": 13.83,
+    "pct_vs_sma50": -1.54,
+    "pct_vs_sma200": 11.0,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "CL=F",
+   "nombre": "Petróleo WTI",
+   "grupo": "Materias primas",
+   "precio": 81.78,
+   "moneda": "USD",
+   "d1": 3.58,
+   "m1": 7.53,
+   "y1": 21.08,
+   "tecnico": {
+    "pct_desde_max_52s": -27.6,
+    "pct_sobre_min_52s": 47.96,
+    "pct_vs_sma20": 11.46,
+    "pct_vs_sma50": -4.2,
+    "pct_vs_sma200": 9.64,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": true,
+   "senal": null
+  },
+  {
+   "symbol": "EURUSD=X",
+   "nombre": "EUR/USD",
+   "grupo": "Divisas",
+   "precio": 1.1438,
+   "moneda": "USD",
+   "d1": -0.28,
+   "m1": -0.6,
+   "y1": -1.7,
+   "tecnico": {
+    "pct_desde_max_52s": -4.83,
+    "pct_sobre_min_52s": 0.74,
+    "pct_vs_sma20": 0.22,
+    "pct_vs_sma50": -0.86,
+    "pct_vs_sma200": -1.74,
+    "tendencia": "bajista"
+   },
+   "con_veredicto": false,
+   "senal": null
+  },
+  {
+   "symbol": "^TNX",
+   "nombre": "Bono USA 10 años (rendimiento)",
+   "grupo": "Bonos y riesgo",
+   "precio": 4.547,
+   "moneda": "USD",
+   "d1": -0.48,
+   "m1": 2.69,
+   "y1": 1.88,
+   "tecnico": {
+    "pct_desde_max_52s": -2.57,
+    "pct_sobre_min_52s": 15.03,
+    "pct_vs_sma20": 1.14,
+    "pct_vs_sma50": 1.19,
+    "pct_vs_sma200": 6.93,
+    "tendencia": "alcista"
+   },
+   "con_veredicto": false,
+   "senal": null
+  },
+  {
+   "symbol": "^VIX",
+   "nombre": "VIX (volatilidad)",
+   "grupo": "Bonos y riesgo",
+   "precio": 18.14,
+   "moneda": "USD",
+   "d1": 8.43,
+   "m1": 10.54,
+   "y1": 9.81,
+   "tecnico": {
+    "pct_desde_max_52s": -41.58,
+    "pct_sobre_min_52s": 34.67,
+    "pct_vs_sma20": 6.83,
+    "pct_vs_sma50": 4.79,
+    "pct_vs_sma200": -2.93,
+    "tendencia": "bajista"
+   },
+   "con_veredicto": false,
+   "senal": null
+  }
+ ]
+}

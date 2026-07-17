@@ -16,6 +16,7 @@ from datetime import datetime, timezone
 sys.path.insert(0, os.path.dirname(__file__))
 import sources
 import cartera
+import senales
 import llm
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -68,6 +69,14 @@ def main():
     config_cartera = leer_json(ruta_cartera) if os.path.exists(ruta_cartera) else {}
     datos_cartera = cartera.calcular(config_cartera)
 
+    # El contexto tecnico de las senales se construye antes de publicar
+    # markets.json, porque usa los cierres del anio que luego se retiran
+    # (la web no los necesita y abultarian el archivo).
+    activos_senales, sentimiento = senales.construir(grupos, {"fear_and_greed": fng})
+    for g in grupos:
+        for a in g["activos"]:
+            a.pop("cierres", None)
+
     escribir_json("markets.json", {"actualizado": ahora, "grupos": grupos})
     escribir_json("extras.json", {
         "actualizado": ahora,
@@ -109,6 +118,39 @@ def main():
         "actualizado": ahora,
         "generado_con_ia": briefing is not None,
         "contenido": briefing,
+    })
+
+    print("== señales (técnico calculado + veredicto IA) ==")
+    # A la IA solo van los activos invertibles (los instrumentos de contexto,
+    # como el VIX, se publican con su tecnico pero sin veredicto).
+    contexto_senales = {
+        "fecha_utc": ahora,
+        "sentimiento": sentimiento,
+        "activos": [
+            {"symbol": a["symbol"], "nombre": a["nombre"], "grupo": a["grupo"],
+             "d1": a["d1"], "m1": a["m1"], "y1": a["y1"], "tecnico": a["tecnico"]}
+            for a in activos_senales if a["con_veredicto"]
+        ],
+    }
+    respuesta = llm.generar_senales(contexto_senales)
+    por_symbol = {}
+    if respuesta:
+        for s in respuesta.get("activos", []):
+            if s.get("symbol") and s.get("veredicto"):
+                por_symbol[s["symbol"]] = {
+                    "veredicto": s["veredicto"],
+                    "confianza": s.get("confianza"),
+                    "resumen": s.get("resumen"),
+                    "a_favor": s.get("a_favor") or [],
+                    "en_contra": s.get("en_contra") or [],
+                }
+    for a in activos_senales:
+        a["senal"] = por_symbol.get(a["symbol"]) if a["con_veredicto"] else None
+    escribir_json("senales.json", {
+        "actualizado": ahora,
+        "generado_con_ia": bool(por_symbol),
+        "sentimiento": sentimiento,
+        "activos": activos_senales,
     })
 
     escribir_json("meta.json", {"actualizado": ahora, "version": 1})

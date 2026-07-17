@@ -139,38 +139,103 @@ def _modelos_disponibles(api_key):
     return aptos
 
 
-def generar_briefing(contexto):
-    """Llama a Gemini con el contexto de datos y devuelve el briefing como dict.
+# Lista de modelos resuelta una vez por ejecucion (la carta y las senales
+# comparten el descubrimiento para no repetir la consulta).
+_cache_modelos = None
 
-    Si GEMINI_MODEL esta definido, respeta esa lista; si no, descubre los
-    modelos que la clave puede usar y prueba el primero que responda.
+
+def _resolver_modelos(api_key):
+    global _cache_modelos
+    if _cache_modelos is None:
+        # Con GEMINI_MODEL se puede forzar la lista; por defecto, autodescubrimiento
+        # (con los modelos por defecto como ultimo recurso si la consulta falla).
+        if os.environ.get("GEMINI_MODEL"):
+            _cache_modelos = MODELOS
+        else:
+            _cache_modelos = _modelos_disponibles(api_key) or MODELOS
+    return _cache_modelos
+
+
+def _generar(sistema, texto_usuario, etiqueta, max_tokens=2048, temperatura=0.4):
+    """Nucleo compartido: llama a Gemini y devuelve el JSON de respuesta.
+
+    'etiqueta' solo se usa en los mensajes de log (carta, senales...).
     """
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not api_key:
-        print("[aviso] GEMINI_API_KEY no configurada; se publica sin briefing de IA")
+        print(f"[aviso] GEMINI_API_KEY no configurada; se publica sin {etiqueta}")
         return None
     cuerpo = {
-        "system_instruction": {"parts": [{"text": SISTEMA}]},
-        "contents": [{
-            "role": "user",
-            "parts": [{"text": "DATOS DE HOY (única fuente permitida):\n" + json.dumps(contexto, ensure_ascii=False)}],
-        }],
+        "system_instruction": {"parts": [{"text": sistema}]},
+        "contents": [{"role": "user", "parts": [{"text": texto_usuario}]}],
         "generationConfig": {
-            "temperature": 0.4,
-            "maxOutputTokens": 2048,
+            "temperature": temperatura,
+            "maxOutputTokens": max_tokens,
             "responseMimeType": "application/json",
         },
     }
-    # Con GEMINI_MODEL se puede forzar la lista; por defecto, autodescubrimiento
-    # (con los modelos por defecto como ultimo recurso si la consulta falla).
-    if os.environ.get("GEMINI_MODEL"):
-        modelos = MODELOS
-    else:
-        modelos = _modelos_disponibles(api_key) or MODELOS
-    for modelo in modelos:
-        briefing = _llamar_modelo(modelo, api_key, cuerpo)
-        if briefing is not None:
-            print(f"[ok] briefing generado con {modelo}")
-            return briefing
-    print("[aviso] ningun modelo pudo generar el briefing; se publica sin IA")
+    for modelo in _resolver_modelos(api_key):
+        resultado = _llamar_modelo(modelo, api_key, cuerpo)
+        if resultado is not None:
+            print(f"[ok] {etiqueta}: generado con {modelo}")
+            return resultado
+    print(f"[aviso] ningun modelo pudo generar {etiqueta}; se publica sin IA")
     return None
+
+
+def generar_briefing(contexto):
+    """Redacta la carta del dia usando SOLO el contexto de datos recuperados."""
+    return _generar(
+        SISTEMA,
+        "DATOS DE HOY (única fuente permitida):\n" + json.dumps(contexto, ensure_ascii=False),
+        "la carta",
+    )
+
+
+SISTEMA_SENALES = """Eres el analista de un briefing financiero diario, privado y personal.
+Tu tono: mentor claro, tranquilo y riguroso. Escribes en español.
+
+Recibes el contexto técnico calculado de una lista de activos (posición respecto a máximos
+de 52 semanas y medias móviles, tendencia por reglas fijas, variaciones) y el sentimiento
+de mercado (VIX, Fear & Greed cripto). Para CADA activo recibido debes emitir una señal.
+
+Reglas irrenunciables:
+1. Solo puedes usar los datos incluidos. Nada de noticias, fundamentales ni datos externos.
+2. El veredicto SIEMPRE va acompañado de argumentos a favor y en contra: nunca un veredicto solo.
+3. La confianza refleja la coherencia de las señales: si el técnico y el sentimiento se
+   contradicen, la confianza es baja y lo dices.
+4. Si los datos no bastan para opinar, veredicto "mantener" con confianza "baja" y explica por qué.
+5. Esto es interpretación educativa para uso personal, no asesoramiento profesional. Sé prudente:
+   ante la duda, "mantener".
+6. Sé breve: resumen de 1-2 frases; cada argumento, una frase corta.
+
+Responde SOLO con un objeto JSON válido, sin markdown, con esta estructura exacta:
+{
+  "activos": [
+    {
+      "symbol": "el mismo symbol recibido",
+      "veredicto": "comprar" | "mantener" | "vender",
+      "confianza": "alta" | "media" | "baja",
+      "resumen": "la idea principal en 1-2 frases",
+      "a_favor": ["argumento breve", "..."],
+      "en_contra": ["argumento breve", "..."]
+    }
+  ]
+}
+Incluye entre 1 y 3 argumentos por lado. Todos los activos recibidos deben aparecer."""
+
+
+def generar_senales(contexto):
+    """Argumenta y emite el veredicto por activo sobre el contexto tecnico dado.
+
+    Llamada separada de la carta: mas presupuesto de salida (una lista de
+    ~25 activos no cabe en el de la carta) sin arriesgar su calidad.
+    """
+    return _generar(
+        SISTEMA_SENALES,
+        "CONTEXTO TÉCNICO Y SENTIMIENTO DE HOY (única fuente permitida):\n"
+        + json.dumps(contexto, ensure_ascii=False),
+        "las senales",
+        max_tokens=8192,
+        temperatura=0.3,
+    )
