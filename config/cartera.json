@@ -13,7 +13,7 @@
     "moneda_base: la moneda en la que quieres ver los totales."
   ],
   "moneda_base": "EUR",
-  "simulada": true,
+  "simulada": false,
   "_ejemplo_posicion": {
     "symbol": "MSFT",
     "nombre": "Microsoft",
@@ -25,40 +25,13 @@
   },
   "posiciones": [
     {
-      "symbol": "IWDA.AS",
-      "nombre": "iShares MSCI World",
-      "participaciones": 9,
-      "precio_medio": 114.93,
-      "fecha_compra": "2026-01-15",
-      "sector": "ETF global",
-      "geografia": "Mundo"
-    },
-    {
-      "symbol": "VUSA.AS",
-      "nombre": "Vanguard S&P 500",
-      "participaciones": 9,
-      "precio_medio": 113.84,
-      "fecha_compra": "2026-01-15",
-      "sector": "ETF índice",
+      "symbol": "TKE.F",
+      "nombre": "Take-Two Interactive",
+      "participaciones": 0.187,
+      "precio_medio": 224.19,
+      "fecha_compra": "2025-10-28",
+      "sector": "Videojuegos",
       "geografia": "EE. UU."
-    },
-    {
-      "symbol": "AAPL",
-      "nombre": "Apple",
-      "participaciones": 4,
-      "precio_medio": 264.72,
-      "fecha_compra": "2026-03-02",
-      "sector": "Tecnología",
-      "geografia": "EE. UU."
-    },
-    {
-      "symbol": "BTC-EUR",
-      "nombre": "Bitcoin",
-      "participaciones": 0.017,
-      "precio_medio": 58739.81,
-      "fecha_compra": "2026-04-01",
-      "sector": "Cripto",
-      "geografia": "Global"
     }
   ]
 }

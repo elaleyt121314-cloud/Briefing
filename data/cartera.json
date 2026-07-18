@@ -1,120 +1,47 @@
 {
  "activada": true,
- "simulada": true,
+ "simulada": false,
  "moneda_base": "EUR",
  "totales": {
-  "coste": 3957.98,
-  "valor": 4356.43,
-  "pl": 398.45,
-  "pl_pct": 10.07,
-  "sp500_valor_equivalente": 4399.45,
-  "sp500_pl_pct": 11.15
+  "coste": 41.92,
+  "valor": 38.9,
+  "pl": -3.02,
+  "pl_pct": -7.2,
+  "sp500_valor_equivalente": 46.19,
+  "sp500_pl_pct": 10.19
  },
  "posiciones": [
   {
-   "symbol": "AAPL",
-   "nombre": "Apple",
-   "sector": "Tecnología",
+   "symbol": "TKE.F",
+   "nombre": "Take-Two Interactive",
+   "sector": "Videojuegos",
    "geografia": "EE. UU.",
-   "fecha_compra": "2026-03-02",
-   "participaciones": 4,
-   "moneda": "USD",
-   "precio_actual": 333.74,
-   "coste": 900.47,
-   "valor": 1166.35,
-   "pl": 265.88,
-   "pl_pct": 29.53,
-   "sp500_pct_mismo_periodo": 11.34,
-   "peso_pct": 26.8
-  },
-  {
-   "symbol": "IWDA.AS",
-   "nombre": "iShares MSCI World",
-   "sector": "ETF global",
-   "geografia": "Mundo",
-   "fecha_compra": "2026-01-15",
-   "participaciones": 9,
+   "fecha_compra": "2025-10-28",
+   "participaciones": 0.187,
    "moneda": "EUR",
-   "precio_actual": 124.85,
-   "coste": 1034.37,
-   "valor": 1123.65,
-   "pl": 89.28,
-   "pl_pct": 8.63,
-   "sp500_pct_mismo_periodo": 9.28,
-   "peso_pct": 25.8
-  },
-  {
-   "symbol": "VUSA.AS",
-   "nombre": "Vanguard S&P 500",
-   "sector": "ETF índice",
-   "geografia": "EE. UU.",
-   "fecha_compra": "2026-01-15",
-   "participaciones": 9,
-   "moneda": "EUR",
-   "precio_actual": 123.743,
-   "coste": 1024.56,
-   "valor": 1113.69,
-   "pl": 89.13,
-   "pl_pct": 8.7,
-   "sp500_pct_mismo_periodo": 9.28,
-   "peso_pct": 25.6
-  },
-  {
-   "symbol": "BTC-EUR",
-   "nombre": "Bitcoin",
-   "sector": "Cripto",
-   "geografia": "Global",
-   "fecha_compra": "2026-04-01",
-   "participaciones": 0.017,
-   "moneda": "EUR",
-   "precio_actual": 56043.4805,
-   "coste": 998.58,
-   "valor": 952.74,
-   "pl": -45.84,
-   "pl_pct": -4.59,
-   "sp500_pct_mismo_periodo": 14.85,
-   "peso_pct": 21.9
+   "precio_actual": 208.0,
+   "coste": 41.92,
+   "valor": 38.9,
+   "pl": -3.03,
+   "pl_pct": -7.22,
+   "sp500_pct_mismo_periodo": 10.18,
+   "peso_pct": 100.0
   }
  ],
  "por_sector": [
   {
-   "nombre": "Tecnología",
-   "valor": 1166.35,
-   "pct": 26.8
-  },
-  {
-   "nombre": "ETF global",
-   "valor": 1123.65,
-   "pct": 25.8
-  },
-  {
-   "nombre": "ETF índice",
-   "valor": 1113.69,
-   "pct": 25.6
-  },
-  {
-   "nombre": "Cripto",
-   "valor": 952.74,
-   "pct": 21.9
+   "nombre": "Videojuegos",
+   "valor": 38.9,
+   "pct": 100.0
   }
  ],
  "por_geografia": [
   {
    "nombre": "EE. UU.",
-   "valor": 2280.04,
-   "pct": 52.3
-  },
-  {
-   "nombre": "Mundo",
-   "valor": 1123.65,
-   "pct": 25.8
-  },
-  {
-   "nombre": "Global",
-   "valor": 952.74,
-   "pct": 21.9
+   "valor": 38.9,
+   "pct": 100.0
   }
  ],
  "omitidas": [],
- "actualizado": "2026-07-18T15:18:33+00:00"
+ "actualizado": "2026-07-18T16:13:05+00:00"
 }
