@@ -285,7 +285,7 @@ function pintarRiesgo(extras, briefing) {
     });
   }
   for (const m of extras?.macro || []) {
-    fichas.push({ etq: m.nombre, val: `${m.valor}${m.serie.startsWith("DGS") || m.serie === "T10Y2Y" ? "%" : ""}`, sub: `FRED · ${m.fecha}` });
+    fichas.push({ etq: m.nombre, val: `${m.valor}${m.unidad || ""}`, sub: `${m.fuente || "FRED"} · ${m.fecha}` });
   }
   $("#riesgo-fichas").innerHTML = fichas
     .map((f) => `<div class="ficha"><div class="etq">${esc(f.etq)}</div><div class="val">${esc(String(f.val))}</div><div class="sub">${esc(f.sub)}</div></div>`)

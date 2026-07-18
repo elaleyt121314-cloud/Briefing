@@ -5,6 +5,8 @@ Cada adaptador es independiente: si una fuente falla, devuelve None o una
 lista vacia y el resto del sistema sigue funcionando. Para sustituir una
 fuente basta con cambiar el adaptador correspondiente.
 """
+import csv
+import io
 import json
 import time
 import email.utils
@@ -164,45 +166,77 @@ def fear_and_greed():
         return None
 
 
+# ------------------------------------------------------------- Tesoro EE. UU.
+def _treasury_filas(anio):
+    """Filas de la curva de tipos diaria del Tesoro para un anio (mas recientes
+    primero). Fuente oficial sin clave, accesible desde GitHub Actions (a
+    diferencia de FRED, que limita las IPs de centros de datos)."""
+    url = (f"https://home.treasury.gov/resource-center/data-chart-center/"
+           f"interest-rates/daily-treasury-rates.csv/{anio}/all")
+    r = requests.get(url, params={"type": "daily_treasury_yield_curve", "_format": "csv"},
+                     headers=UA, timeout=30)
+    r.raise_for_status()
+    filas = list(csv.reader(io.StringIO(r.text)))
+    return filas[0], filas[1:]  # cabecera, datos
+
+
+def treasury_curva():
+    """Bono a 2 y 10 anios y la pendiente 10a-2a, del Tesoro de EE. UU."""
+    try:
+        anio = datetime.now(timezone.utc).year
+        cabecera, filas = _treasury_filas(anio)
+        if not filas:  # a primeros de enero el anio nuevo aun no tiene datos
+            cabecera, filas = _treasury_filas(anio - 1)
+        idx = {c.strip(): i for i, c in enumerate(cabecera)}
+        fila = filas[0]  # la mas reciente
+        fecha = datetime.strptime(fila[idx["Date"]], "%m/%d/%Y").strftime("%Y-%m-%d")
+        dos = float(fila[idx["2 Yr"]])
+        diez = float(fila[idx["10 Yr"]])
+    except Exception as e:
+        print(f"[aviso] Tesoro EE.UU. (curva de tipos): {e}")
+        return []
+    return [
+        {"serie": "US2Y", "nombre": "Bono USA 2 años", "valor": round(dos, 2),
+         "fecha": fecha, "unidad": "%", "fuente": "Tesoro EE. UU."},
+        {"serie": "US10Y", "nombre": "Bono USA 10 años", "valor": round(diez, 2),
+         "fecha": fecha, "unidad": "%", "fuente": "Tesoro EE. UU."},
+        {"serie": "US10Y2Y", "nombre": "Curva de tipos USA (10a - 2a)",
+         "valor": round(diez - dos, 2), "fecha": fecha, "unidad": " pp",
+         "fuente": "Tesoro EE. UU."},
+    ]
+
+
 # ------------------------------------------------------------------------ FRED
-def fred_serie(serie_id, intentos=2):
+def fred_serie(serie_id, timeout=8):
     """Ultimo valor de una serie de FRED via CSV publico (sin clave).
 
-    FRED responde a veces lento desde los servidores de GitHub Actions, asi que
-    se usa un timeout holgado y un reintento antes de rendirse.
+    FRED limita las IPs de centros de datos, asi que desde GitHub Actions
+    suele dar timeout. Se usa solo para datos que no hay en otra fuente
+    (high yield spread), en modo "mejor esfuerzo": si responde, se usa; si no,
+    el resto del bloque macro (curva del Tesoro) se publica igualmente.
     """
-    url = "https://fred.stlouisfed.org/graph/fredgraph.csv"
-    for intento in range(1, intentos + 1):
-        try:
-            r = requests.get(url, params={"id": serie_id}, headers=UA, timeout=40)
-            r.raise_for_status()
-            filas = [f for f in r.text.strip().splitlines()[1:] if "," in f]
-            for fila in reversed(filas):
-                fecha, valor = fila.split(",", 1)
-                if valor not in (".", ""):
-                    return {"serie": serie_id, "fecha": fecha, "valor": float(valor)}
-            return None
-        except Exception as e:
-            print(f"[aviso] FRED {serie_id} (intento {intento}/{intentos}): {e}")
-            if intento < intentos:
-                time.sleep(2)
+    try:
+        r = requests.get("https://fred.stlouisfed.org/graph/fredgraph.csv",
+                         params={"id": serie_id}, headers=UA, timeout=timeout)
+        r.raise_for_status()
+        filas = [f for f in r.text.strip().splitlines()[1:] if "," in f]
+        for fila in reversed(filas):
+            fecha, valor = fila.split(",", 1)
+            if valor not in (".", ""):
+                return {"serie": serie_id, "fecha": fecha, "valor": float(valor)}
+    except Exception as e:
+        print(f"[aviso] FRED {serie_id}: {e}")
     return None
 
 
 def indicadores_macro():
-    """Indicadores macro de referencia desde FRED."""
-    series = {
-        "T10Y2Y": "Curva de tipos USA (10a - 2a)",
-        "DGS2": "Bono USA 2 años",
-        "DGS10": "Bono USA 10 años",
-        "BAMLH0A0HYM2": "High yield spread",
-    }
-    out = []
-    for sid, nombre in series.items():
-        dato = fred_serie(sid)
-        if dato:
-            dato["nombre"] = nombre
-            out.append(dato)
+    """Bloque macro: curva de tipos del Tesoro (fiable) + high yield de FRED
+    (mejor esfuerzo, solo disponible ahi)."""
+    out = treasury_curva()
+    hy = fred_serie("BAMLH0A0HYM2")
+    if hy:
+        out.append({"serie": "HY", "nombre": "High yield spread", "valor": round(hy["valor"], 2),
+                    "fecha": hy["fecha"], "unidad": "%", "fuente": "FRED"})
     return out
 
 
