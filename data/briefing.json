@@ -1,41 +1,36 @@
 {
- "actualizado": "2026-07-17T18:13:10+00:00",
+ "actualizado": "2026-07-18T10:06:32+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de corrección en los mercados globales impulsada por la incertidumbre tecnológica",
-  "resumen": "Los principales índices bursátiles han registrado descensos significativos, liderados por una fuerte caída en el sector tecnológico y una volatilidad creciente. El mercado muestra preocupación por la competencia global en inteligencia artificial, mientras que el sector energético destaca con alzas notables en el precio del petróleo.",
+  "titular": "Jornada de corrección bursátil marcada por el repunte del crudo y la volatilidad",
+  "resumen": "Los mercados globales experimentan una sesión de retroceso liderada por el sector tecnológico y una caída significativa en el Nikkei 225. En contraste, el sector energético destaca con alzas notables en el precio del petróleo, mientras la volatilidad aumenta de forma relevante.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Caída en el sector tecnológico y de IA",
-    "texto": "Las acciones tecnológicas como Alphabet, Meta y Tesla han sufrido retrocesos superiores al 2%, arrastrando al Nasdaq 100. La inquietud de los inversores se centra en la creciente competencia de China en el desarrollo de inteligencia artificial, lo que ha generado una presión vendedora en el sector.",
+    "titulo": "Caída en los mercados bursátiles",
+    "texto": "Los principales índices como el S&P 500 (-1.01%), Nasdaq 100 (-1.49%) y el Nikkei 225 (-4.03%) han cerrado con pérdidas. Este movimiento refleja una presión vendedora generalizada, afectando especialmente a las grandes tecnológicas como NVIDIA, Alphabet, Meta y Tesla.",
     "importancia": 5
    },
    {
-    "titulo": "Repunte de la volatilidad",
-    "texto": "El índice VIX ha experimentado un incremento del 9.5% en la jornada, alcanzando una subida acumulada del 21.89% en la semana. Este dato refleja un aumento claro en la aversión al riesgo y el nerviosismo de los inversores ante la inestabilidad en los mercados de renta variable.",
+    "titulo": "Repunte en el sector energético",
+    "texto": "El petróleo Brent (+4.59%) y el WTI (+3.58%) han registrado subidas importantes. Este comportamiento destaca en un día de caídas generalizadas, alineándose con la observación de que la geopolítica está impactando directamente en los precios de la energía.",
     "importancia": 4
    },
    {
-    "titulo": "Desplome del Nikkei 225",
-    "texto": "El índice japonés registró una caída severa del 6.71% en el día, acumulando un descenso mensual superior al 8%. Este movimiento destaca como el evento más extremo de la sesión, señalando una posible corrección profunda o un ajuste de posiciones en los mercados asiáticos.",
+    "titulo": "Aumento de la volatilidad",
+    "texto": "El índice VIX ha experimentado un incremento del 12.19% en el día, alcanzando los 18.77 puntos. Este aumento en la medición de la volatilidad sugiere un incremento en la cautela y la incertidumbre entre los inversores.",
     "importancia": 4
-   },
-   {
-    "titulo": "Fuerte subida en el precio del petróleo",
-    "texto": "El crudo Brent y el WTI han experimentado ganancias significativas, con el Brent subiendo un 4.4% y el WTI un 3.47%. Estos movimientos, que se suman a una tendencia alcista semanal, podrían estar relacionados con tensiones geopolíticas, aunque los datos no especifican una causa directa.",
-    "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución del índice VIX como termómetro de la ansiedad del mercado",
-   "Comportamiento de las acciones tecnológicas ante la competencia en IA",
-   "Estabilidad del precio del petróleo tras el fuerte repunte"
+   "Evolución del sector de semiconductores tras entrar en territorio de mercado bajista",
+   "Comportamiento del VIX como indicador de estrés en el mercado",
+   "Impacto del precio del petróleo en la inflación y los costes operativos"
   ],
   "proximos": [
-   "Resultados corporativos pendientes de empresas tecnológicas",
-   "Evolución de las tensiones geopolíticas que afectan al sector energético"
+   "Publicaciones de resultados corporativos del tercer trimestre",
+   "Actualizaciones sobre la investigación de la FDA respecto a la cadena de suministro de alimentos"
   ],
-  "nota_riesgo": "El nivel de riesgo es elevado, reflejado en el aumento de la volatilidad y las caídas generalizadas en renta variable. La divergencia entre la caída de las tecnológicas y el alza de las materias primas energéticas sugiere un mercado buscando refugio o reajustando sectores ante la incertidumbre."
+  "nota_riesgo": "El nivel de riesgo es elevado, reflejado en el fuerte repunte de la volatilidad y las caídas sincronizadas en los índices globales. La divergencia entre la debilidad tecnológica y la fortaleza del sector energético sugiere un mercado en fase de reajuste."
  }
 }

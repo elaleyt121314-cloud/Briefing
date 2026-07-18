@@ -4,11 +4,11 @@
  "moneda_base": "EUR",
  "totales": {
   "coste": 3957.98,
-  "valor": 4350.6,
-  "pl": 392.62,
-  "pl_pct": 9.92,
-  "sp500_valor_equivalente": 4405.09,
-  "sp500_pl_pct": 11.3
+  "valor": 4354.4,
+  "pl": 396.42,
+  "pl_pct": 10.02,
+  "sp500_valor_equivalente": 4399.45,
+  "sp500_pl_pct": 11.15
  },
  "posiciones": [
   {
@@ -19,13 +19,13 @@
    "fecha_compra": "2026-03-02",
    "participaciones": 4,
    "moneda": "USD",
-   "precio_actual": 332.4601,
+   "precio_actual": 333.74,
    "coste": 900.47,
-   "valor": 1162.55,
-   "pl": 262.07,
-   "pl_pct": 29.1,
-   "sp500_pct_mismo_periodo": 11.48,
-   "peso_pct": 26.7
+   "valor": 1166.35,
+   "pl": 265.88,
+   "pl_pct": 29.53,
+   "sp500_pct_mismo_periodo": 11.34,
+   "peso_pct": 26.8
   },
   {
    "symbol": "IWDA.AS",
@@ -40,7 +40,7 @@
    "valor": 1123.65,
    "pl": 89.28,
    "pl_pct": 8.63,
-   "sp500_pct_mismo_periodo": 9.42,
+   "sp500_pct_mismo_periodo": 9.28,
    "peso_pct": 25.8
   },
   {
@@ -56,7 +56,7 @@
    "valor": 1113.69,
    "pl": 89.13,
    "pl_pct": 8.7,
-   "sp500_pct_mismo_periodo": 9.42,
+   "sp500_pct_mismo_periodo": 9.28,
    "peso_pct": 25.6
   },
   {
@@ -67,20 +67,20 @@
    "fecha_compra": "2026-04-01",
    "participaciones": 0.017,
    "moneda": "EUR",
-   "precio_actual": 55924.0781,
+   "precio_actual": 55924.3984,
    "coste": 998.58,
    "valor": 950.71,
-   "pl": -47.87,
+   "pl": -47.86,
    "pl_pct": -4.79,
-   "sp500_pct_mismo_periodo": 15.0,
-   "peso_pct": 21.9
+   "sp500_pct_mismo_periodo": 14.85,
+   "peso_pct": 21.8
   }
  ],
  "por_sector": [
   {
    "nombre": "Tecnología",
-   "valor": 1162.55,
-   "pct": 26.7
+   "valor": 1166.35,
+   "pct": 26.8
   },
   {
    "nombre": "ETF global",
@@ -95,14 +95,14 @@
   {
    "nombre": "Cripto",
    "valor": 950.71,
-   "pct": 21.9
+   "pct": 21.8
   }
  ],
  "por_geografia": [
   {
    "nombre": "EE. UU.",
-   "valor": 2276.24,
-   "pct": 52.3
+   "valor": 2280.04,
+   "pct": 52.4
   },
   {
    "nombre": "Mundo",
@@ -112,9 +112,9 @@
   {
    "nombre": "Global",
    "valor": 950.71,
-   "pct": 21.9
+   "pct": 21.8
   }
  ],
  "omitidas": [],
- "actualizado": "2026-07-17T18:13:10+00:00"
+ "actualizado": "2026-07-18T10:06:32+00:00"
 }
