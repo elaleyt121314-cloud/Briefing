@@ -163,6 +163,34 @@ main { max-width: 860px; margin: 0 auto; padding: 0 20px 60px; }
 .carta-listas li { margin-bottom: 6px; }
 .carta-aviso { color: var(--tinta-suave); font-size: 14px; margin-top: 24px; }
 
+/* ------------------------------------------------ posiciones en la carta */
+.carta-posiciones { margin-top: 28px; }
+.carta-posiciones > h2 {
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--tinta-suave);
+  margin: 0 0 12px;
+  font-weight: 600;
+}
+.pos {
+  border-top: 1px solid var(--linea);
+  padding: 16px 0;
+}
+.pos-cab { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+.pos-cab h3 {
+  font-family: var(--serif);
+  font-size: 19px;
+  font-weight: 600;
+  margin: 0;
+}
+.pos-resumen { margin: 8px 0 0; }
+.pos-noticias { list-style: none; margin: 10px 0 0; padding: 0; }
+.pos-noticias li { padding: 5px 0; font-size: 14.5px; }
+.pos-noticias a { color: var(--tinta); text-decoration: none; font-weight: 500; }
+.pos-noticias a:hover, .pos-noticias a:focus-visible { color: var(--acento); }
+.pos-noticias .meta { color: var(--tinta-suave); font-size: 12.5px; }
+
 /* ------------------------------------------------ secciones */
 .seccion { margin-top: 56px; }
 .seccion-cab {

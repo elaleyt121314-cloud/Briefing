@@ -286,6 +286,33 @@ def _fecha_entrada(entry):
     return None
 
 
+def noticias_de_activo(symbol, max_items=6):
+    """Titulares recientes de un activo concreto (feed por simbolo de Yahoo).
+
+    Sirve para el apartado de impacto personal: noticias de las posiciones de
+    la cartera. Funciona incluso con el simbolo europeo (TKE.F devuelve las
+    noticias de Take-Two). Titulares en ingles; la IA los resume en espanol.
+    """
+    url = f"https://feeds.finance.yahoo.com/rss/2.0/headline?s={symbol}&region=US&lang=en-US"
+    items = []
+    try:
+        parsed = feedparser.parse(url, request_headers=UA)
+        for entry in parsed.entries[:max_items]:
+            titulo = (entry.get("title") or "").strip()
+            if not titulo:
+                continue
+            fecha = _fecha_entrada(entry)
+            items.append({
+                "titulo": titulo,
+                "fuente": (entry.get("source", {}) or {}).get("title") or "Yahoo Finanzas",
+                "url": entry.get("link", ""),
+                "fecha": fecha.isoformat() if fecha else None,
+            })
+    except Exception as e:
+        print(f"[aviso] noticias de {symbol}: {e}")
+    return items
+
+
 def leer_feeds(feeds_config, max_por_feed=8, max_total=60):
     """Lee todos los feeds RSS y devuelve titulares recientes deduplicados."""
     items = []

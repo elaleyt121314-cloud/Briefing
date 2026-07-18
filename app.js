@@ -106,6 +106,26 @@ function pintarCarta(briefing) {
   }
 }
 
+/* Impacto personal: tus posiciones y sus noticias (independiente de la carta IA). */
+function pintarPosicionesCarta(briefing) {
+  const pos = briefing?.posiciones;
+  if (!pos?.length) return;
+  $("#carta-posiciones").hidden = false;
+  $("#carta-posiciones-lista").innerHTML = pos
+    .map((p) => `
+      <article class="pos">
+        <div class="pos-cab">
+          <h3>${esc(p.nombre)}</h3>
+          ${p.pl_pct != null ? celdaVar(p.pl_pct) : ""}
+        </div>
+        ${p.resumen ? `<p class="pos-resumen">${esc(p.resumen)}</p>` : ""}
+        ${p.noticias?.length ? `<ul class="pos-noticias">${p.noticias.slice(0, 4)
+          .map((n) => `<li><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.titulo)}</a>${n.fecha ? `<span class="meta"> · ${fmtHora(n.fecha)}</span>` : ""}</li>`)
+          .join("")}</ul>` : `<p class="pos-resumen">Sin noticias específicas hoy.</p>`}
+      </article>`)
+    .join("");
+}
+
 /* ---------------------------------------------------------- cartera */
 function fmtDinero(v, moneda) {
   if (v == null) return "—";
@@ -299,6 +319,7 @@ function pintarRiesgo(extras, briefing) {
     cargar("cartera.json"), cargar("senales.json"),
   ]);
   pintarCarta(briefing);
+  pintarPosicionesCarta(briefing);
   pintarCartera(carteraDatos);
   pintarSenales(senalesDatos);
   pintarMercados(markets);

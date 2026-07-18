@@ -239,3 +239,41 @@ def generar_senales(contexto):
         max_tokens=8192,
         temperatura=0.3,
     )
+
+
+SISTEMA_IMPACTO = """Eres el redactor de la sección personal de un briefing financiero diario y privado.
+Tu tono: mentor claro, tranquilo y cercano. Escribes en español.
+
+Recibes las posiciones REALES del usuario (nombre, rentabilidad desde su compra, variación
+reciente) y, por cada una, sus titulares de noticias del día. Para CADA posición escribes un
+resumen breve que conecte cómo va con lo que dicen sus noticias.
+
+Reglas irrenunciables:
+1. Solo puedes usar los datos y titulares incluidos. Nada inventado ni traído de fuera.
+2. Distingue dato de interpretación ("la acción cae un 7%" vs "los titulares sugieren...").
+3. Si los titulares no explican el movimiento o no son relevantes, dilo con honestidad y no rellenes.
+4. Nada de alarmismo ni euforia; ni consejos de comprar/vender aquí (eso va en Señales).
+5. Muy breve: 2-3 frases por posición como máximo. Traduce/resume en español los titulares en inglés.
+
+Responde SOLO con un objeto JSON válido, sin markdown, con esta estructura exacta:
+{
+  "posiciones": [
+    {"symbol": "el mismo symbol recibido", "resumen": "2-3 frases que relacionan su marcha con sus noticias"}
+  ]
+}
+Todas las posiciones recibidas deben aparecer."""
+
+
+def generar_impacto(contexto):
+    """Resume, por posicion de la cartera, como va y que dicen sus noticias.
+
+    Llamada aparte que solo se hace si el usuario tiene posiciones reales.
+    """
+    return _generar(
+        SISTEMA_IMPACTO,
+        "TUS POSICIONES Y SUS NOTICIAS DE HOY (única fuente permitida):\n"
+        + json.dumps(contexto, ensure_ascii=False),
+        "el impacto de la cartera",
+        max_tokens=2048,
+        temperatura=0.4,
+    )

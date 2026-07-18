@@ -65,6 +65,35 @@ def resolver_isins(entradas):
     return salida
 
 
+def impacto_cartera(datos_cartera):
+    """Para cada posicion real, recoge sus noticias del dia y pide a la IA un
+    resumen que relacione su marcha con esas noticias. Devuelve la lista lista
+    para pintar en la carta (o [] si no hay posiciones). Las noticias se
+    muestran aunque la IA falle; el resumen es un extra."""
+    posiciones = datos_cartera.get("posiciones") or []
+    if not posiciones:
+        return []
+    salida = []
+    for p in posiciones:
+        noticias = sources.noticias_de_activo(p["symbol"])
+        salida.append({
+            "symbol": p["symbol"], "nombre": p["nombre"], "pl_pct": p["pl_pct"],
+            "resumen": None, "noticias": noticias,
+        })
+
+    contexto = {"posiciones": [
+        {"symbol": s["symbol"], "nombre": s["nombre"], "rentabilidad_pct": s["pl_pct"],
+         "titulares": [n["titulo"] for n in s["noticias"][:6]]}
+        for s in salida
+    ]}
+    respuesta = llm.generar_impacto(contexto)
+    if respuesta:
+        resumenes = {r["symbol"]: r.get("resumen") for r in respuesta.get("posiciones", [])}
+        for s in salida:
+            s["resumen"] = resumenes.get(s["symbol"])
+    return salida
+
+
 def main():
     ahora = datetime.now(timezone.utc).isoformat(timespec="seconds")
     watchlist = leer_json(os.path.join(CONFIG, "watchlist.json"))
@@ -140,10 +169,16 @@ def main():
     }
 
     briefing = llm.generar_briefing(contexto)
+
+    # Impacto personal: noticias de cada posicion real + resumen de la IA.
+    # Solo si el usuario tiene cartera real (no en modo simulacion vacio).
+    posiciones_carta = impacto_cartera(datos_cartera)
+
     escribir_json("briefing.json", {
         "actualizado": ahora,
         "generado_con_ia": briefing is not None,
         "contenido": briefing,
+        "posiciones": posiciones_carta,
     })
 
     print("== señales (técnico calculado + veredicto IA) ==")
