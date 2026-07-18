@@ -4,9 +4,9 @@
  "moneda_base": "EUR",
  "totales": {
   "coste": 3957.98,
-  "valor": 4354.4,
-  "pl": 396.42,
-  "pl_pct": 10.02,
+  "valor": 4356.43,
+  "pl": 398.45,
+  "pl_pct": 10.07,
   "sp500_valor_equivalente": 4399.45,
   "sp500_pl_pct": 11.15
  },
@@ -67,13 +67,13 @@
    "fecha_compra": "2026-04-01",
    "participaciones": 0.017,
    "moneda": "EUR",
-   "precio_actual": 55924.3984,
+   "precio_actual": 56043.4805,
    "coste": 998.58,
-   "valor": 950.71,
-   "pl": -47.86,
-   "pl_pct": -4.79,
+   "valor": 952.74,
+   "pl": -45.84,
+   "pl_pct": -4.59,
    "sp500_pct_mismo_periodo": 14.85,
-   "peso_pct": 21.8
+   "peso_pct": 21.9
   }
  ],
  "por_sector": [
@@ -94,15 +94,15 @@
   },
   {
    "nombre": "Cripto",
-   "valor": 950.71,
-   "pct": 21.8
+   "valor": 952.74,
+   "pct": 21.9
   }
  ],
  "por_geografia": [
   {
    "nombre": "EE. UU.",
    "valor": 2280.04,
-   "pct": 52.4
+   "pct": 52.3
   },
   {
    "nombre": "Mundo",
@@ -111,10 +111,10 @@
   },
   {
    "nombre": "Global",
-   "valor": 950.71,
-   "pct": 21.8
+   "valor": 952.74,
+   "pct": 21.9
   }
  ],
  "omitidas": [],
- "actualizado": "2026-07-18T10:06:32+00:00"
+ "actualizado": "2026-07-18T15:18:33+00:00"
 }

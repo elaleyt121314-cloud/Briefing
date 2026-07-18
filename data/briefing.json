@@ -1,36 +1,41 @@
 {
- "actualizado": "2026-07-18T10:06:32+00:00",
+ "actualizado": "2026-07-18T15:18:33+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de corrección bursátil marcada por el repunte del crudo y la volatilidad",
-  "resumen": "Los mercados globales experimentan una sesión de retroceso liderada por el sector tecnológico y una caída significativa en el Nikkei 225. En contraste, el sector energético destaca con alzas notables en el precio del petróleo, mientras la volatilidad aumenta de forma relevante.",
+  "titular": "Jornada de aversión al riesgo marcada por el desplome del Nikkei y el repunte del petróleo",
+  "resumen": "Los mercados globales experimentan una corrección significativa, liderada por una caída del 4% en el Nikkei 225 y un aumento notable en la volatilidad. Mientras las acciones tecnológicas sufren presiones vendedoras, el sector energético destaca con alzas importantes en los precios del crudo.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Caída en los mercados bursátiles",
-    "texto": "Los principales índices como el S&P 500 (-1.01%), Nasdaq 100 (-1.49%) y el Nikkei 225 (-4.03%) han cerrado con pérdidas. Este movimiento refleja una presión vendedora generalizada, afectando especialmente a las grandes tecnológicas como NVIDIA, Alphabet, Meta y Tesla.",
+    "titulo": "Caída generalizada en renta variable",
+    "texto": "El S&P 500 retrocede un 1,01% y el Nasdaq 100 un 1,49%, arrastrados por el mal desempeño de grandes tecnológicas como Meta, Tesla y NVIDIA. El Nikkei 225 destaca negativamente con un desplome del 4,03%, reflejando una fuerte presión vendedora a nivel global.",
     "importancia": 5
    },
    {
-    "titulo": "Repunte en el sector energético",
-    "texto": "El petróleo Brent (+4.59%) y el WTI (+3.58%) han registrado subidas importantes. Este comportamiento destaca en un día de caídas generalizadas, alineándose con la observación de que la geopolítica está impactando directamente en los precios de la energía.",
+    "titulo": "Repunte de la volatilidad",
+    "texto": "El índice VIX ha subido un 12,19% en la jornada, situándose en 18,77. Este incremento sugiere un aumento en la incertidumbre y la cautela de los inversores ante el entorno actual de mercado.",
     "importancia": 4
    },
    {
-    "titulo": "Aumento de la volatilidad",
-    "texto": "El índice VIX ha experimentado un incremento del 12.19% en el día, alcanzando los 18.77 puntos. Este aumento en la medición de la volatilidad sugiere un incremento en la cautela y la incertidumbre entre los inversores.",
+    "titulo": "El sector energético se dispara",
+    "texto": "En contraste con el resto del mercado, el petróleo Brent sube un 4,59% y el WTI un 3,58%. Este movimiento alcista en las materias primas energéticas destaca como el principal refugio o sector de crecimiento en un día de ventas generalizadas.",
     "importancia": 4
+   },
+   {
+    "titulo": "Estabilidad relativa en bonos y divisas",
+    "texto": "A pesar de la agitación en bolsa, el rendimiento del bono estadounidense a 10 años cae ligeramente un 0,61%, situándose en 4,541%. El par EUR/USD se mantiene prácticamente plano, mostrando poca reacción ante la volatilidad bursátil.",
+    "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución del sector de semiconductores tras entrar en territorio de mercado bajista",
-   "Comportamiento del VIX como indicador de estrés en el mercado",
-   "Impacto del precio del petróleo en la inflación y los costes operativos"
+   "Nivel de volatilidad (VIX) ante posibles contagios adicionales",
+   "Evolución del precio del petróleo y su impacto en la inflación",
+   "Estabilidad del Nikkei tras la fuerte caída de hoy"
   ],
   "proximos": [
-   "Publicaciones de resultados corporativos del tercer trimestre",
-   "Actualizaciones sobre la investigación de la FDA respecto a la cadena de suministro de alimentos"
+   "Reunión de la Reserva Federal (Fed) a finales de mes",
+   "Evolución de las apuestas en mercados de predicción relacionados con eventos globales"
   ],
-  "nota_riesgo": "El nivel de riesgo es elevado, reflejado en el fuerte repunte de la volatilidad y las caídas sincronizadas en los índices globales. La divergencia entre la debilidad tecnológica y la fortaleza del sector energético sugiere un mercado en fase de reajuste."
+  "nota_riesgo": "El riesgo se percibe elevado debido al incremento de dos dígitos en la volatilidad y la corrección sincronizada en los principales índices bursátiles. La calma en los mercados de bonos sugiere que, por ahora, no hay una huida masiva hacia la deuda soberana, sino un ajuste de posiciones."
  }
 }

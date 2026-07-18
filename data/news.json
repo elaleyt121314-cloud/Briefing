@@ -1,6 +1,90 @@
 {
- "actualizado": "2026-07-18T10:06:32+00:00",
+ "actualizado": "2026-07-18T15:18:33+00:00",
  "items": [
+  {
+   "titulo": "Your stock portfolio is tied to the Japanese yen — and a looming intervention is flashing a major warning sign",
+   "resumen": "What the link between the yen and U.S. stocks means for your portfolio.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
+   "fecha": "2026-07-18T15:14:00+00:00"
+  },
+  {
+   "titulo": "Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.",
+   "resumen": "About three-fourths of Americans lack the wealth needed to prosper in today’s economy, according to a new benchmark developed by the Aspen Institute.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/heres-the-net-worth-you-need-to-start-getting-ahead-in-your-20s-30s-40s-and-beyond-in-the-u-s-520c8d72?mod=mw_rss_topstories",
+   "fecha": "2026-07-18T14:49:00+00:00"
+  },
+  {
+   "titulo": "AI may force these workers to retire earlier than planned",
+   "resumen": "Older workers now face two major impediments: looming Social Security cuts and rapidly evolving workplace priorities",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/ai-may-force-these-workers-to-retire-earlier-than-planned-b590f0a8?mod=mw_rss_topstories",
+   "fecha": "2026-07-18T14:39:00+00:00"
+  },
+  {
+   "titulo": "Small-cap outperformance is persisting — and these 15 quality stocks pay rich dividends",
+   "resumen": "Think large caps are still the best bet? The data say you are looking in the wrong place.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/small-cap-outperformance-is-persisting-and-these-15-quality-stocks-pay-rich-dividends-5a814386?mod=mw_rss_topstories",
+   "fecha": "2026-07-18T14:22:00+00:00"
+  },
+  {
+   "titulo": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
+   "fecha": "2026-07-18T14:15:15+00:00"
+  },
+  {
+   "titulo": "Look on the bright side: Energy companies are booming",
+   "resumen": "You can’t beat them. Maybe you should join them.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/look-on-the-bright-side-energy-companies-are-booming-546164fb?mod=mw_rss_topstories",
+   "fecha": "2026-07-18T14:06:00+00:00"
+  },
+  {
+   "titulo": "Tokenization has become a strategic priority for 84% of financial firms",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
+   "fecha": "2026-07-18T14:00:00+00:00"
+  },
+  {
+   "titulo": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
+   "resumen": "The second quarter was a six-year best for U.S. stocks — here are the three sectors poised to lead the next leg higher.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/billionaires-are-loading-up-on-these-superior-stocks-why-it-pays-to-follow-their-money-9120c242?mod=mw_rss_topstories",
+   "fecha": "2026-07-18T13:58:00+00:00"
+  },
+  {
+   "titulo": "This overlooked index is a better investment than the S&P 500",
+   "resumen": "We did the math over a 30-year period, and it’s not even close.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
+   "fecha": "2026-07-18T13:41:00+00:00"
+  },
+  {
+   "titulo": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
+   "resumen": "“He is now no longer able to think clearly or communicate his wishes.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
+   "fecha": "2026-07-18T13:30:00+00:00"
+  },
+  {
+   "titulo": "America Caught World Cup Fever. His Job Is to Capitalize on It.",
+   "resumen": "Don Garber, the M.L.S. commissioner, has been planning for this moment for eight years.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/07/18/business/dealbook/mls-don-garber-world-cup.html",
+   "fecha": "2026-07-18T12:00:03+00:00"
+  },
+  {
+   "titulo": "Why Locals Are Gatekeeping Their Favorite Places From Tourists",
+   "resumen": "As visitors flock to places like Mexico City, Milan and Copenhagen, residents are rethinking what they share, and who they share it with.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/07/18/travel/gatekeeping-tourism-mexico-city-milan.html",
+   "fecha": "2026-07-18T11:12:11+00:00"
+  },
   {
    "titulo": "World Cup Final Drives Billions in Bets on Kalshi and Polymarket",
    "resumen": "The soccer tournament has helped propel the prediction markets to new user records, creating what may be the largest gambling event in history.",
@@ -30,39 +114,11 @@
    "fecha": "2026-07-18T09:01:31+00:00"
   },
   {
-   "titulo": "Why Locals Are Gatekeeping Their Favorite Places From Tourists",
-   "resumen": "As visitors flock to places like Mexico City, Milan and Copenhagen, residents are rethinking what they share, and who they share it with.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/07/18/travel/gatekeeping-tourism-mexico-city-milan.html",
-   "fecha": "2026-07-18T09:00:53+00:00"
-  },
-  {
-   "titulo": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley",
-   "resumen": "Moonshot AI’s new open model is catching up to Anthropic and OpenAI, raising questions about the future of the AI race.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738?mod=mw_rss_topstories",
-   "fecha": "2026-07-18T01:17:00+00:00"
-  },
-  {
    "titulo": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
    "resumen": "It's a small but growing problem in the property market - here's how to protect yourself.",
    "fuente": "BBC Negocios",
    "url": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-07-18T01:14:53+00:00"
-  },
-  {
-   "titulo": "The World Cup–winning side will make $50 million — and the IRS gets a cut",
-   "resumen": "“It doesn’t make a difference who wins the game. The IRS will get a piece.”",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
-   "fecha": "2026-07-17T23:05:00+00:00"
-  },
-  {
-   "titulo": "SpaceX postponed a crucial launch — and its stock went on to close below IPO price for second day",
-   "resumen": "Shares in SpaceX declined about 4% in premarket trading on Friday after aborted mission.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/spacex-postponed-a-crucial-launch-now-its-stock-is-set-to-slide-even-further-below-the-ipo-price-143adfe0?mod=mw_rss_topstories",
-   "fecha": "2026-07-17T22:55:00+00:00"
   },
   {
    "titulo": "Taylor Farms to Remove Products After Lettuce Is Linked to Cyclospora Cases",
@@ -86,20 +142,6 @@
    "fecha": "2026-07-17T22:13:30+00:00"
   },
   {
-   "titulo": "The average stock is having a moment as semiconductors struggle. It’s a sign of a healthy market.",
-   "resumen": "It has been a good week to be average on Wall Street.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/the-average-stock-is-having-a-moment-as-semiconductors-struggle-its-a-sign-of-a-healthy-market-0dc01e9a?mod=mw_rss_topstories",
-   "fecha": "2026-07-17T21:55:00+00:00"
-  },
-  {
-   "titulo": "19 (mostly) tech stocks that have fallen at least 25% in July",
-   "resumen": "Seven of the worst performers for the month were still up by triple digits for 2026.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/18-tech-stocks-that-have-fallen-at-least-30-during-july-4c373d5e?mod=mw_rss_topstories",
-   "fecha": "2026-07-17T21:45:00+00:00"
-  },
-  {
    "titulo": "Cara y cruz de los monederos autocustodia de 'criptos'",
    "resumen": "El 70% de sus usuarios en Europa se ha desplazado a monederos autocustodia, según Binance, un sistema que entraña riesgos para los inversores minoristas.&nbsp;<a href=\"https://www.expansion.com/mercados/criptomonedas/2026/07/17/6a5a81b6e5fdea2c448b4575.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&",
    "fuente": "Expansión Mercados",
@@ -107,39 +149,11 @@
    "fecha": "2026-07-17T21:41:01+00:00"
   },
   {
-   "titulo": "How your winning stock-index fund can turn on a dime",
-   "resumen": "Also in Weekend Reads: The changing bond market, housing-market opportunities and advice from the Moneyist.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/how-your-winning-stock-index-fund-can-turn-on-a-dime-e2e4b44e?mod=mw_rss_topstories",
-   "fecha": "2026-07-17T21:23:00+00:00"
-  },
-  {
    "titulo": "La geopolítica ya no mueve las Bolsas. Mueve el petróleo... y después todo lo demás",
    "resumen": "La buena noticia es que, por ahora, los fundamentales siguen sosteniendo buena parte del optimismo.&nbsp;<a href=\"https://www.expansion.com/opinion/2026/07/17/6a5a4fdce5fdea25678b456f.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/mercados.xml\" />",
    "fuente": "Expansión Mercados",
    "url": "https://www.expansion.com/opinion/2026/07/17/6a5a4fdce5fdea25678b456f.html",
    "fecha": "2026-07-17T21:20:07+00:00"
-  },
-  {
-   "titulo": "Look on the bright side: Energy companies are booming",
-   "resumen": "You can’t beat them. Maybe you should join them.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/look-on-the-bright-side-energy-companies-are-booming-546164fb?mod=mw_rss_topstories",
-   "fecha": "2026-07-17T21:08:00+00:00"
-  },
-  {
-   "titulo": "Chip stocks have entered a bear market. A BofA analyst says not to panic.",
-   "resumen": "The semiconductor sector is undergoing a reset and has a tendency to underperform in the third quarter.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/chip-stocks-enter-bear-market-territory-a-bofa-analyst-says-not-to-panic-4d34df17?mod=mw_rss_topstories",
-   "fecha": "2026-07-17T20:49:00+00:00"
-  },
-  {
-   "titulo": "China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead",
-   "resumen": "China’s Moonshot AI unveiled a freely available artificial intelligence model that seemed to narrow the gap with cutting-edge offerings from U.S. tech companies.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html",
-   "fecha": "2026-07-17T20:04:57+00:00"
   },
   {
    "titulo": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
@@ -196,20 +210,6 @@
    "fuente": "CoinDesk",
    "url": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
    "fecha": "2026-07-17T16:23:26+00:00"
-  },
-  {
-   "titulo": "El Ibex cae un 0,9% en una semana marcada por Oriente Medio y las tecnológicas",
-   "resumen": "Los nervios entre los inversores de las tecnológicas han sacudido de nuevo los mercados. Los resultados de Netflix y las caídas de las empresas de chips han desinflado los índices asiáticos, y han hecho mella en el Nasdaq. El Ibex, pese al apoyo de las energéticas, ha acabado con un descenso en el día cercano al 0,5%, por debajo de lo 19.300 puntos.&nbsp;<a href=\"https://www.expansion.com/mercados",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/17/6a59c2b6e5fdea26128b458e.html",
-   "fecha": "2026-07-17T16:15:47+00:00"
-  },
-  {
-   "titulo": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
-   "fecha": "2026-07-17T15:36:39+00:00"
   }
  ]
 }
