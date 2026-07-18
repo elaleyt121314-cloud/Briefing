@@ -32,7 +32,7 @@
       "id": "acciones",
       "nombre": "Acciones",
       "activos": [
-        { "symbol": "AAPL", "nombre": "Apple" },
+        { "symbol": "APC.DE", "nombre": "Apple" },
         { "symbol": "MSFT", "nombre": "Microsoft" },
         { "symbol": "NVDA", "nombre": "NVIDIA" },
         { "symbol": "AMZN", "nombre": "Amazon" },
