@@ -46,10 +46,34 @@ def movimientos_destacados(grupos, umbral=2.0):
     return out
 
 
+def resolver_isins(entradas):
+    """Rellena 'symbol' (y 'nombre' si falta) en las entradas que solo traen
+    'isin'. Asi el usuario puede pegar el ISIN que ve en Trade Republic y el
+    sistema encuentra el activo. Las entradas con 'symbol' explicito no se tocan.
+    """
+    salida = []
+    for e in entradas:
+        if not e.get("symbol") and e.get("isin"):
+            r = sources.yahoo_resolver_isin(e["isin"])
+            if not r:
+                print(f"[aviso] se omite {e.get('nombre') or e['isin']}: ISIN sin activo con datos")
+                continue
+            e = dict(e)
+            e["symbol"] = r["symbol"]
+            e.setdefault("nombre", r["nombre"])
+        salida.append(e)
+    return salida
+
+
 def main():
     ahora = datetime.now(timezone.utc).isoformat(timespec="seconds")
     watchlist = leer_json(os.path.join(CONFIG, "watchlist.json"))
     feeds = leer_json(os.path.join(CONFIG, "feeds.json"))
+
+    # Los activos indicados por ISIN (copiados de Trade Republic) se traducen
+    # a su simbolo de Yahoo antes de pedir datos.
+    for grupo in watchlist.get("grupos", []):
+        grupo["activos"] = resolver_isins(grupo.get("activos", []))
 
     print("== 1/5 datos de mercado (Yahoo Finance, con retraso) ==")
     grupos = sources.yahoo_watchlist(watchlist)
@@ -67,6 +91,8 @@ def main():
     print("== 5/5 cartera personal ==")
     ruta_cartera = os.path.join(CONFIG, "cartera.json")
     config_cartera = leer_json(ruta_cartera) if os.path.exists(ruta_cartera) else {}
+    if config_cartera.get("posiciones"):
+        config_cartera["posiciones"] = resolver_isins(config_cartera["posiciones"])
     datos_cartera = cartera.calcular(config_cartera)
 
     # El contexto tecnico de las senales se construye antes de publicar

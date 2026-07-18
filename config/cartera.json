@@ -5,6 +5,7 @@
     "simulada: true = cartera de práctica con dinero ficticio (la web lo etiqueta).",
     "Cuando inviertas de verdad: pon simulada en false y sustituye las posiciones por las reales.",
     "symbol: el símbolo de Yahoo Finance (igual que en watchlist.json).",
+    "isin: alternativa a symbol; pega el ISIN que ves en Trade Republic y la app resuelve el activo (prefiere la versión en euros). Si pones ambos, manda symbol.",
     "participaciones: número de acciones/participaciones/unidades (admite decimales, con punto).",
     "precio_medio: tu precio medio de compra POR unidad, en la moneda del activo (la de Yahoo).",
     "fecha_compra: fecha de la compra (o de la primera, si promedias) en formato AAAA-MM-DD.",

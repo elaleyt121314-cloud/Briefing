@@ -88,6 +88,40 @@ def yahoo_watchlist(watchlist):
     return grupos
 
 
+# Bolsas europeas que cotizan en euros: se prefieren al resolver un ISIN para
+# que los datos cuadren con Trade Republic (que muestra todo en euros).
+_BOLSAS_EUR = (".DE", ".F", ".SG", ".MU", ".BE", ".DU", ".HM", ".AS", ".MI", ".PA", ".MC", ".VI")
+_isin_cache = {}
+
+
+def yahoo_resolver_isin(isin):
+    """Traduce un ISIN (el que muestra Trade Republic) al mejor simbolo de Yahoo.
+
+    Prefiere una cotizacion europea en euros y valida que tenga datos antes de
+    devolverla. Devuelve {"symbol": ..., "nombre": ...} o None. Se cachea por
+    ejecucion para no repetir busquedas.
+    """
+    isin = isin.strip().upper()
+    if isin in _isin_cache:
+        return _isin_cache[isin]
+    resultado = None
+    data = _get_json("https://query1.finance.yahoo.com/v1/finance/search",
+                     params={"q": isin, "quotesCount": 10})
+    if data:
+        quotes = [q for q in data.get("quotes", []) if q.get("symbol")]
+        # Euro primero; dentro de cada grupo, se respeta el orden de Yahoo.
+        quotes.sort(key=lambda q: 0 if any(q["symbol"].endswith(s) for s in _BOLSAS_EUR) else 1)
+        for q in quotes:
+            if yahoo_series(q["symbol"]):  # nos aseguramos de que hay datos reales
+                resultado = {"symbol": q["symbol"],
+                             "nombre": q.get("longname") or q.get("shortname") or q["symbol"]}
+                break
+    if not resultado:
+        print(f"[aviso] no se pudo resolver el ISIN {isin} a un activo con datos")
+    _isin_cache[isin] = resultado
+    return resultado
+
+
 def yahoo_historico(symbol, desde_iso):
     """Cierres diarios de un simbolo desde una fecha (AAAA-MM-DD) hasta hoy.
 

@@ -1,4 +1,9 @@
 {
+  "_ayuda": [
+    "Los activos que sigues. Cada uno lleva 'symbol' (de Yahoo Finance) y 'nombre'.",
+    "Alternativa: en vez de 'symbol' puedes poner 'isin' (el que ves en Trade Republic) y la app resuelve el activo, prefiriendo la versión en euros.",
+    "Añadir un activo = copiar un bloque dentro de 'activos'; quitarlo = borrarlo. No rompe nada."
+  ],
   "grupos": [
     {
       "id": "indices",
