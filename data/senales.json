@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-07-18T15:18:33+00:00",
+ "actualizado": "2026-07-19T10:47:43+00:00",
  "generado_con_ia": true,
  "sentimiento": {
   "vix": {
@@ -7,8 +7,8 @@
    "d1": 12.19
   },
   "fear_and_greed_cripto": {
-   "valor": 25,
-   "texto": "Extreme Fear"
+   "valor": 28,
+   "texto": "Fear"
   }
  },
  "activos": [
@@ -33,14 +33,14 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "Tendencia alcista estructural, pero con debilidad técnica reciente y sentimiento de mercado cauto.",
+    "resumen": "El índice muestra una tendencia alcista estructural, pero la reciente debilidad técnica sugiere cautela.",
     "a_favor": [
-     "Tendencia alcista de largo plazo",
-     "Precio por encima de la SMA200"
+     "Tendencia alcista confirmada",
+     "Sólido rendimiento anual"
     ],
     "en_contra": [
-     "Corrección en el corto plazo",
-     "VIX en ascenso indicando mayor volatilidad"
+     "Sentimiento de mercado volátil con VIX en ascenso",
+     "Cotización ligeramente por debajo de medias móviles clave"
     ]
    }
   },
@@ -64,15 +64,15 @@
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
-    "confianza": "media",
-    "resumen": "El índice muestra una corrección técnica más profunda que el S&P 500, aunque mantiene su tendencia alcista.",
+    "confianza": "baja",
+    "resumen": "La corrección técnica es más pronunciada que en otros índices, lo que exige prudencia.",
     "a_favor": [
-     "Soporte sólido sobre la SMA200",
-     "Tendencia alcista de fondo"
+     "Tendencia alcista de largo plazo",
+     "Fuerte rendimiento anual"
     ],
     "en_contra": [
-     "Debilidad bajo las medias de corto plazo",
-     "Caída mensual significativa"
+     "Desviación negativa significativa respecto a medias móviles",
+     "Sentimiento de mercado adverso"
     ]
    }
   },
@@ -97,14 +97,14 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "Muestra mayor resiliencia que otros índices, aunque sufre el impacto del sentimiento general.",
+    "resumen": "Mantiene una estructura técnica más resiliente que sus pares tecnológicos.",
     "a_favor": [
-     "Precio sobre SMA50 y SMA200",
-     "Tendencia alcista vigente"
+     "Tendencia alcista clara",
+     "Cercanía a máximos de 52 semanas"
     ],
     "en_contra": [
-     "Debilidad bajo la SMA20",
-     "Entorno de mercado con alta aversión al riesgo"
+     "VIX en aumento presiona el sentimiento",
+     "Ligera debilidad en el corto plazo"
     ]
    }
   },
@@ -129,14 +129,14 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "Estructura técnica saludable a largo plazo, pero con presión bajista en el corto plazo.",
+    "resumen": "Estructura técnica estable dentro de una tendencia alcista general.",
     "a_favor": [
-     "Posición sobre SMA50 y SMA200",
-     "Tendencia alcista"
+     "Tendencia alcista vigente",
+     "Buen comportamiento respecto a la media de 200 días"
     ],
     "en_contra": [
-     "Bajo la SMA20",
-     "Sentimiento de mercado presionado"
+     "Presión bajista en el corto plazo",
+     "Sentimiento de mercado global inestable"
     ]
    }
   },
@@ -160,14 +160,15 @@
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
-    "confianza": "baja",
-    "resumen": "La tendencia alcista es débil y el precio está bajo las medias móviles clave de corto y medio plazo.",
+    "confianza": "media",
+    "resumen": "El índice muestra una consolidación técnica bajo presión.",
     "a_favor": [
-     "Soporte sobre la SMA200"
+     "Tendencia alcista mantenida",
+     "Soporte sobre la media de 200 días"
     ],
     "en_contra": [
-     "Precio bajo SMA20 y SMA50",
-     "Tendencia alcista muy ajustada"
+     "Debilidad frente a medias móviles de corto plazo",
+     "Sentimiento de mercado cauto"
     ]
    }
   },
@@ -192,14 +193,14 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "Mantiene una tendencia alcista sólida a largo plazo, aunque sufre el retroceso general del mercado.",
+    "resumen": "Excelente rendimiento anual, aunque actualmente bajo corrección técnica.",
     "a_favor": [
-     "Distancia positiva respecto a SMA200",
-     "Tendencia alcista clara"
+     "Tendencia alcista sólida",
+     "Fuerte posición sobre la media de 200 días"
     ],
     "en_contra": [
-     "Bajo la SMA20",
-     "Corrección desde máximos de 52 semanas"
+     "Corrección técnica reciente",
+     "Sentimiento de mercado global desfavorable"
     ]
    }
   },
@@ -224,13 +225,13 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "baja",
-    "resumen": "Fuerte corrección técnica que pone a prueba la tendencia alcista de largo plazo.",
+    "resumen": "La fuerte caída reciente pone a prueba la tendencia alcista de largo plazo.",
     "a_favor": [
-     "Gran distancia sobre la SMA200"
+     "Rendimiento anual excepcional"
     ],
     "en_contra": [
-     "Caída diaria y mensual severa",
-     "Bajo todas las medias móviles de corto y medio plazo"
+     "Corrección técnica severa",
+     "Distancia negativa respecto a medias móviles de corto plazo"
     ]
    }
   },
@@ -255,14 +256,13 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "Refleja la debilidad del S&P 500, manteniendo una estructura técnica de soporte a largo plazo.",
+    "resumen": "Refleja la situación del S&P 500 con una estructura técnica bajo presión moderada.",
     "a_favor": [
-     "Tendencia alcista",
-     "Sobre la SMA200"
+     "Tendencia alcista de fondo"
     ],
     "en_contra": [
-     "Bajo SMA20 y SMA50",
-     "Sentimiento de mercado adverso"
+     "Cotización bajo medias móviles de 20 y 50 días",
+     "Sentimiento de mercado volátil"
     ]
    }
   },
@@ -287,14 +287,13 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "Comportamiento idéntico al SPY, manteniendo cautela ante la volatilidad actual.",
+    "resumen": "Comportamiento técnico idéntico al SPY, manteniendo una postura de cautela.",
     "a_favor": [
-     "Tendencia alcista de fondo",
-     "Sobre la SMA200"
+     "Tendencia alcista estructural"
     ],
     "en_contra": [
-     "Bajo medias móviles de corto plazo",
-     "VIX en aumento"
+     "Debilidad técnica en el corto plazo",
+     "VIX en ascenso"
     ]
    }
   },
@@ -318,15 +317,14 @@
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
-    "confianza": "media",
-    "resumen": "El ETF tecnológico muestra debilidad técnica, aunque se mantiene sobre la SMA200.",
+    "confianza": "baja",
+    "resumen": "La debilidad técnica es notable frente a las medias móviles principales.",
     "a_favor": [
-     "Tendencia alcista",
-     "Sobre la SMA200"
+     "Tendencia alcista de largo plazo"
     ],
     "en_contra": [
-     "Bajo SMA20 y SMA50",
-     "Corrección mensual pronunciada"
+     "Desviación negativa significativa de medias móviles",
+     "Sentimiento de mercado adverso"
     ]
    }
   },
@@ -351,43 +349,42 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "Estructura técnica similar al mercado general, con tendencia alcista pero bajo presión de corto plazo.",
+    "resumen": "Estructura técnica similar al mercado amplio, con tendencia alcista bajo presión.",
     "a_favor": [
-     "Tendencia alcista",
-     "Sobre la SMA200"
+     "Tendencia alcista vigente"
     ],
     "en_contra": [
-     "Bajo SMA20 y SMA50",
-     "Sentimiento de mercado negativo"
+     "Cotización bajo medias de 20 y 50 días",
+     "Sentimiento de mercado cauto"
     ]
    }
   },
   {
-   "symbol": "AAPL",
+   "symbol": "APC.DE",
    "nombre": "Apple",
    "grupo": "Acciones",
-   "precio": 333.74,
-   "moneda": "USD",
-   "d1": 0.14,
-   "m1": 11.53,
-   "y1": 58.04,
+   "precio": 291.65,
+   "moneda": "EUR",
+   "d1": 0.86,
+   "m1": 12.54,
+   "y1": 60.78,
    "tecnico": {
     "pct_desde_max_52s": 0.0,
-    "pct_sobre_min_52s": 64.91,
-    "pct_vs_sma20": 9.24,
-    "pct_vs_sma50": 10.27,
-    "pct_vs_sma200": 21.71,
+    "pct_sobre_min_52s": 65.67,
+    "pct_vs_sma20": 8.85,
+    "pct_vs_sma50": 10.72,
+    "pct_vs_sma200": 23.52,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "comprar",
     "confianza": "alta",
-    "resumen": "Exhibe una fortaleza técnica excepcional, siendo el activo más sólido del grupo.",
+    "resumen": "Muestra una fortaleza técnica excepcional frente al resto del mercado.",
     "a_favor": [
-     "En máximos de 52 semanas",
-     "Sobre todas las medias móviles",
-     "Tendencia alcista clara"
+     "Tendencia alcista fuerte",
+     "Cotización en máximos de 52 semanas",
+     "Sobre todas las medias móviles"
     ],
     "en_contra": [
      "Sentimiento de mercado general adverso"
@@ -415,14 +412,13 @@
    "senal": {
     "veredicto": "vender",
     "confianza": "alta",
-    "resumen": "Tendencia bajista clara y precio bajo la SMA200, lo que indica debilidad estructural.",
+    "resumen": "La tendencia bajista y la posición bajo la media de 200 días confirman la debilidad.",
     "a_favor": [
-     "Tendencia bajista",
-     "Bajo la SMA200",
-     "Lejos de máximos"
+     "Tendencia bajista clara",
+     "Lejos de máximos de 52 semanas"
     ],
     "en_contra": [
-     "Ligero rebote sobre SMA20"
+     "Ligero rebote sobre media de 20 días"
     ]
    }
   },
@@ -446,15 +442,15 @@
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
-    "confianza": "baja",
-    "resumen": "Tendencia alcista en riesgo tras perder la SMA50, aunque se mantiene sobre la SMA200.",
+    "confianza": "media",
+    "resumen": "Tendencia alcista que lucha por mantenerse tras una corrección técnica.",
     "a_favor": [
-     "Sobre la SMA200",
-     "Tendencia alcista"
+     "Tendencia alcista vigente",
+     "Sobre la media de 200 días"
     ],
     "en_contra": [
-     "Bajo la SMA50",
-     "Sentimiento de mercado negativo"
+     "Bajo la media de 50 días",
+     "Sentimiento de mercado volátil"
     ]
    }
   },
@@ -479,14 +475,14 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "Situación mixta con tendencia alcista pero bajo la SMA50.",
+    "resumen": "Estructura mixta con tendencia alcista pero debilidad en el corto plazo.",
     "a_favor": [
-     "Sobre la SMA200",
-     "Tendencia alcista"
+     "Tendencia alcista",
+     "Sobre la media de 200 días"
     ],
     "en_contra": [
-     "Bajo la SMA50",
-     "Corrección desde máximos"
+     "Bajo la media de 50 días",
+     "Sentimiento de mercado cauto"
     ]
    }
   },
@@ -511,14 +507,14 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "Tendencia alcista de fondo, pero con debilidad técnica bajo las medias de corto y medio plazo.",
+    "resumen": "Tendencia alcista que muestra signos de fatiga técnica.",
     "a_favor": [
-     "Sobre la SMA200",
-     "Tendencia alcista"
+     "Tendencia alcista de largo plazo",
+     "Sobre la media de 200 días"
     ],
     "en_contra": [
-     "Bajo SMA20 y SMA50",
-     "Caída mensual fuerte"
+     "Bajo medias de 20 y 50 días",
+     "Sentimiento de mercado adverso"
     ]
    }
   },
@@ -543,13 +539,13 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "baja",
-    "resumen": "Tendencia mixta con señales contradictorias entre medias móviles.",
+    "resumen": "Tendencia técnica mixta que genera incertidumbre en la dirección.",
     "a_favor": [
-     "Sobre SMA20, SMA50 y SMA200"
+     "Sobre medias de 20 y 50 días"
     ],
     "en_contra": [
-     "Tendencia técnica mixta",
-     "Sentimiento de mercado adverso"
+     "Tendencia no definida",
+     "Lejos de máximos de 52 semanas"
     ]
    }
   },
@@ -574,13 +570,13 @@
    "senal": {
     "veredicto": "vender",
     "confianza": "alta",
-    "resumen": "Tendencia bajista consolidada y precio bajo todas las medias móviles clave.",
+    "resumen": "La tendencia bajista es clara y persistente en todas las medias móviles.",
     "a_favor": [
      "Tendencia bajista",
-     "Bajo SMA20, SMA50 y SMA200"
+     "Bajo todas las medias móviles principales"
     ],
     "en_contra": [
-     "Ninguno"
+     "Rendimiento anual positivo"
     ]
    }
   },
@@ -588,31 +584,31 @@
    "symbol": "BTC-USD",
    "nombre": "Bitcoin",
    "grupo": "Criptomonedas",
-   "precio": 64070.01,
+   "precio": 64623.0,
    "moneda": "USD",
-   "d1": 0.27,
-   "m1": 6.89,
-   "y1": -45.7,
+   "d1": -0.27,
+   "m1": 8.55,
+   "y1": -45.21,
    "tecnico": {
-    "pct_desde_max_52s": -48.64,
-    "pct_sobre_min_52s": 9.41,
-    "pct_vs_sma20": 1.9,
-    "pct_vs_sma50": 0.86,
-    "pct_vs_sma200": -12.42,
+    "pct_desde_max_52s": -48.2,
+    "pct_sobre_min_52s": 10.36,
+    "pct_vs_sma20": 2.36,
+    "pct_vs_sma50": 2.0,
+    "pct_vs_sma200": -11.53,
     "tendencia": "bajista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "vender",
     "confianza": "alta",
-    "resumen": "Tendencia bajista clara, sentimiento de 'Extreme Fear' y precio bajo la SMA200.",
+    "resumen": "Tendencia bajista confirmada por el sentimiento de 'Fear' extremo.",
     "a_favor": [
      "Tendencia bajista",
-     "Bajo la SMA200",
-     "Sentimiento de mercado extremo"
+     "Bajo la media de 200 días",
+     "Sentimiento de mercado negativo"
     ],
     "en_contra": [
-     "Ligero rebote sobre SMA20 y SMA50"
+     "Ligero rebote sobre medias de corto plazo"
     ]
    }
   },
@@ -620,31 +616,31 @@
    "symbol": "ETH-USD",
    "nombre": "Ethereum",
    "grupo": "Criptomonedas",
-   "precio": 1843.9,
+   "precio": 1873.4,
    "moneda": "USD",
-   "d1": 0.16,
-   "m1": 17.33,
-   "y1": -48.04,
+   "d1": 0.65,
+   "m1": 19.3,
+   "y1": -47.89,
    "tecnico": {
-    "pct_desde_max_52s": -61.83,
-    "pct_sobre_min_52s": 17.83,
-    "pct_vs_sma20": 4.24,
-    "pct_vs_sma50": 6.14,
-    "pct_vs_sma200": -15.77,
+    "pct_desde_max_52s": -61.22,
+    "pct_sobre_min_52s": 19.72,
+    "pct_vs_sma20": 5.08,
+    "pct_vs_sma50": 8.0,
+    "pct_vs_sma200": -14.21,
     "tendencia": "bajista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "vender",
     "confianza": "alta",
-    "resumen": "Estructura técnica muy débil con tendencia bajista y sentimiento de mercado adverso.",
+    "resumen": "Estructura técnica muy débil con sentimiento de mercado adverso.",
     "a_favor": [
      "Tendencia bajista",
-     "Bajo la SMA200",
-     "Sentimiento de mercado extremo"
+     "Bajo la media de 200 días",
+     "Sentimiento de mercado negativo"
     ],
     "en_contra": [
-     "Sobre SMA20 y SMA50"
+     "Sobre medias de 20 y 50 días"
     ]
    }
   },
@@ -652,31 +648,31 @@
    "symbol": "SOL-USD",
    "nombre": "Solana",
    "grupo": "Criptomonedas",
-   "precio": 74.92,
+   "precio": 76.35,
    "moneda": "USD",
-   "d1": -0.12,
-   "m1": 6.4,
-   "y1": -57.76,
+   "d1": 1.18,
+   "m1": 7.06,
+   "y1": -56.88,
    "tecnico": {
-    "pct_desde_max_52s": -69.75,
-    "pct_sobre_min_52s": 20.47,
-    "pct_vs_sma20": -3.77,
-    "pct_vs_sma50": 1.99,
-    "pct_vs_sma200": -17.05,
+    "pct_desde_max_52s": -69.17,
+    "pct_sobre_min_52s": 22.77,
+    "pct_vs_sma20": -2.06,
+    "pct_vs_sma50": 4.1,
+    "pct_vs_sma200": -15.24,
     "tendencia": "bajista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "vender",
     "confianza": "alta",
-    "resumen": "Tendencia bajista marcada y sentimiento de mercado muy negativo.",
+    "resumen": "Tendencia bajista clara con sentimiento de mercado muy desfavorable.",
     "a_favor": [
      "Tendencia bajista",
-     "Bajo la SMA200",
-     "Sentimiento de mercado extremo"
+     "Bajo la media de 200 días",
+     "Sentimiento de mercado negativo"
     ],
     "en_contra": [
-     "Sobre la SMA50"
+     "Sobre la media de 50 días"
     ]
    }
   },
@@ -688,11 +684,11 @@
    "moneda": "USD",
    "d1": 0.83,
    "m1": -7.21,
-   "y1": 19.86,
+   "y1": 18.13,
    "tecnico": {
     "pct_desde_max_52s": -24.44,
     "pct_sobre_min_52s": 22.03,
-    "pct_vs_sma20": -1.46,
+    "pct_vs_sma20": -1.47,
     "pct_vs_sma50": -6.93,
     "pct_vs_sma200": -10.16,
     "tendencia": "bajista"
@@ -701,13 +697,13 @@
    "senal": {
     "veredicto": "vender",
     "confianza": "media",
-    "resumen": "Tendencia bajista y precio bajo todas las medias móviles clave.",
+    "resumen": "La tendencia bajista y la posición bajo medias móviles sugieren debilidad.",
     "a_favor": [
      "Tendencia bajista",
-     "Bajo SMA20, SMA50 y SMA200"
+     "Bajo todas las medias móviles"
     ],
     "en_contra": [
-     "Ligera recuperación diaria"
+     "Rendimiento anual positivo"
     ]
    }
   },
@@ -719,7 +715,7 @@
    "moneda": "USD",
    "d1": 4.59,
    "m1": 11.58,
-   "y1": 27.17,
+   "y1": 27.29,
    "tecnico": {
     "pct_desde_max_52s": -25.56,
     "pct_sobre_min_52s": 49.52,
@@ -732,15 +728,14 @@
    "senal": {
     "veredicto": "comprar",
     "confianza": "media",
-    "resumen": "Fuerte impulso alcista y posición técnica robusta sobre las medias móviles.",
+    "resumen": "Fuerte impulso alcista reciente que desafía la volatilidad del mercado.",
     "a_favor": [
      "Tendencia alcista",
-     "Sobre SMA20 y SMA200",
-     "Fuerte subida diaria"
+     "Sobre medias de 20 y 200 días"
     ],
     "en_contra": [
-     "Bajo la SMA50",
-     "Corrección desde máximos"
+     "Bajo la media de 50 días",
+     "Sentimiento de mercado volátil"
     ]
    }
   },
@@ -752,27 +747,27 @@
    "moneda": "USD",
    "d1": 3.58,
    "m1": 7.53,
-   "y1": 21.44,
+   "y1": 21.7,
    "tecnico": {
     "pct_desde_max_52s": -27.6,
     "pct_sobre_min_52s": 47.96,
-    "pct_vs_sma20": 11.4,
-    "pct_vs_sma50": -4.22,
-    "pct_vs_sma200": 9.63,
+    "pct_vs_sma20": 11.46,
+    "pct_vs_sma50": -4.2,
+    "pct_vs_sma200": 9.64,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "comprar",
     "confianza": "media",
-    "resumen": "Impulso alcista claro con buena recuperación técnica.",
+    "resumen": "Muestra una recuperación técnica sólida con tendencia alcista.",
     "a_favor": [
      "Tendencia alcista",
-     "Sobre SMA20 y SMA200",
-     "Fuerte subida diaria"
+     "Sobre medias de 20 y 200 días"
     ],
     "en_contra": [
-     "Bajo la SMA50"
+     "Bajo la media de 50 días",
+     "Sentimiento de mercado cauto"
     ]
    }
   },

@@ -1,33 +1,187 @@
 {
- "actualizado": "2026-07-18T15:18:33+00:00",
+ "actualizado": "2026-07-19T10:47:43+00:00",
  "items": [
   {
-   "titulo": "Your stock portfolio is tied to the Japanese yen — and a looming intervention is flashing a major warning sign",
-   "resumen": "What the link between the yen and U.S. stocks means for your portfolio.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
-   "fecha": "2026-07-18T15:14:00+00:00"
+   "titulo": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
+   "fecha": "2026-07-19T10:00:00+00:00"
   },
   {
-   "titulo": "Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.",
-   "resumen": "About three-fourths of Americans lack the wealth needed to prosper in today’s economy, according to a new benchmark developed by the Aspen Institute.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/heres-the-net-worth-you-need-to-start-getting-ahead-in-your-20s-30s-40s-and-beyond-in-the-u-s-520c8d72?mod=mw_rss_topstories",
-   "fecha": "2026-07-18T14:49:00+00:00"
+   "titulo": "Is Burnham promising a new dawn for North Sea oil and gas?",
+   "resumen": "The incoming PM is expected to announce fresh support for the North Sea from day one of his premiership.",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-07-19T09:52:48+00:00"
   },
   {
-   "titulo": "AI may force these workers to retire earlier than planned",
-   "resumen": "Older workers now face two major impediments: looming Social Security cuts and rapidly evolving workplace priorities",
+   "titulo": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
+   "resumen": "“I’m wondering whether I should ask to work with someone closer to our generation.”",
    "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/ai-may-force-these-workers-to-retire-earlier-than-planned-b590f0a8?mod=mw_rss_topstories",
-   "fecha": "2026-07-18T14:39:00+00:00"
+   "url": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
+   "fecha": "2026-07-19T09:20:00+00:00"
   },
   {
-   "titulo": "Small-cap outperformance is persisting — and these 15 quality stocks pay rich dividends",
-   "resumen": "Think large caps are still the best bet? The data say you are looking in the wrong place.",
+   "titulo": "The Case of the 3:30 Emails",
+   "resumen": "Plus: Are you really paying attention to me on Zoom?",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/07/19/business/delayed-email-glitch.html",
+   "fecha": "2026-07-19T09:00:54+00:00"
+  },
+  {
+   "titulo": "Step Into the ‘Zone of Genius’ (Before A.I. Takes Your Job)",
+   "resumen": "A decades-old self-help concept is gaining new purchase among people searching for meaningful work in the age of artificial intelligence.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/07/19/business/step-into-the-zone-of-genius-before-ai-takes-your-job.html",
+   "fecha": "2026-07-19T09:00:48+00:00"
+  },
+  {
+   "titulo": "The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour",
+   "resumen": "Shayne Coplan of Polymarket and Tarek Mansour of Kalshi are young billionaires intent on dominating prediction markets. It’s more than a battle. It’s “bad blood.”",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html",
+   "fecha": "2026-07-19T09:00:24+00:00"
+  },
+  {
+   "titulo": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+   "fecha": "2026-07-19T05:37:34+00:00"
+  },
+  {
+   "titulo": "Madison Square Garden Sues Wired Magazine Over L.G.B.T.Q. Tracking Report",
+   "resumen": "The Manhattan venue claims a July article from the technology magazine falsely implied that it tracked information about some celebrities’ sexual orientation for “discriminatory purposes.”",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/07/18/business/media/msg-entertainment-sues-wired-magazine.html",
+   "fecha": "2026-07-19T02:34:10+00:00"
+  },
+  {
+   "titulo": "New EU border system tripling time at passport control, airport boss says",
+   "resumen": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-07-19T01:47:59+00:00"
+  },
+  {
+   "titulo": "The hidden cost of the night shift and how to sleep it off",
+   "resumen": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them?",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-07-19T00:01:55+00:00"
+  },
+  {
+   "titulo": "Adidas Hopes Its World Cup Moment Can Drive U.S. Sales",
+   "resumen": "Nearly everything on the field on Sunday will bear the German company’s logo. Bjørn Gulden, the chief executive, says he ‘couldn’t have scripted it better.’",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/07/18/business/adidas-world-cup-bjorn-gulden.html",
+   "fecha": "2026-07-18T23:13:26+00:00"
+  },
+  {
+   "titulo": "America Caught World Cup Fever. His Job Is to Capitalize on It.",
+   "resumen": "Don Garber, the M.L.S. commissioner, has been planning for this moment for eight years.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/07/18/business/dealbook/mls-don-garber-world-cup.html",
+   "fecha": "2026-07-18T22:28:17+00:00"
+  },
+  {
+   "titulo": "France orders country's internet service providers to block Polymarket",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
+   "fecha": "2026-07-18T21:52:18+00:00"
+  },
+  {
+   "titulo": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
+   "resumen": "“I met with a financial representative who was not aware that AT&amp;T was the shortened form of American Telephone and Telegraph.”",
    "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/small-cap-outperformance-is-persisting-and-these-15-quality-stocks-pay-rich-dividends-5a814386?mod=mw_rss_topstories",
-   "fecha": "2026-07-18T14:22:00+00:00"
+   "url": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
+   "fecha": "2026-07-18T19:16:00+00:00"
+  },
+  {
+   "titulo": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+   "resumen": "“I’ve just been ignoring their attempts.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
+   "fecha": "2026-07-18T19:00:00+00:00"
+  },
+  {
+   "titulo": "Netflix is spending big money on sports. Is the company making the right bets?",
+   "resumen": "The streaming service says live programming helps draw in new subscribers, but investors have become disillusioned with Netflix’s broader engagement trends.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories",
+   "fecha": "2026-07-18T18:54:00+00:00"
+  },
+  {
+   "titulo": "Your Netflix bill is up 29% in just over a year. It’s time for Washington to step in.",
+   "resumen": "Netflix is still a Wall Street favorite — and a target for government regulators",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories",
+   "fecha": "2026-07-18T18:49:00+00:00"
+  },
+  {
+   "titulo": "These are the obstacles still keeping women from retirement security",
+   "resumen": "Yes, women still need a “retirement security day.” Here’s why.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/these-are-the-obstacles-still-keeping-women-from-retirement-security-eea48a95?mod=mw_rss_topstories",
+   "fecha": "2026-07-18T18:48:00+00:00"
+  },
+  {
+   "titulo": "The World Cup–winning side will make $50 million — and the IRS gets a cut",
+   "resumen": "“It doesn’t make a difference who wins the game. The IRS will get a piece.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
+   "fecha": "2026-07-18T18:32:00+00:00"
+  },
+  {
+   "titulo": "I’m 67, own two homes outright worth $2.8 million, but I have $19,000 in credit-card debt. Should I get a HELOC?",
+   "resumen": "“My son was recently diagnosed with lymphoma, which may be related to burn-pit exposure during his military service in Afghanistan.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/im-67-own-two-mortgage-free-homes-worth-2-8-million-but-i-have-19-000-in-credit-card-debt-should-i-get-a-heloc-7b6c5192?mod=mw_rss_topstories",
+   "fecha": "2026-07-18T18:30:00+00:00"
+  },
+  {
+   "titulo": "Crypto executives say digital native generations may never need a bank account",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
+   "fecha": "2026-07-18T18:30:00+00:00"
+  },
+  {
+   "titulo": "DOG Mode explains Bitcoin's next governance fight",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
+   "fecha": "2026-07-18T17:00:00+00:00"
+  },
+  {
+   "titulo": "Cocinas contables",
+   "resumen": "&nbsp;<a href=\"https://www.expansion.com/opinion/2026/07/18/6a5b54ace5fdeacc2b8b4573.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/mercados.xml\" />",
+   "fuente": "Expansión Mercados",
+   "url": "https://www.expansion.com/opinion/2026/07/18/6a5b54ace5fdeacc2b8b4573.html",
+   "fecha": "2026-07-18T16:55:50+00:00"
+  },
+  {
+   "titulo": "Energía, tecnología y emergentes,  las categorías de fondos de inversión más rentables en 2026",
+   "resumen": "Los fondos de inversión de renta variable de energía y tecnología acumulan ganancias de más del 40% en el año y los de mercados emergentes rozan el 30%.&nbsp;<a href=\"https://www.expansion.com/mercados/fondos/2026/07/18/6a5a8084e5fdead16f8b4576.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=h",
+   "fuente": "Expansión Mercados",
+   "url": "https://www.expansion.com/mercados/fondos/2026/07/18/6a5a8084e5fdead16f8b4576.html",
+   "fecha": "2026-07-18T16:55:07+00:00"
+  },
+  {
+   "titulo": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+   "fecha": "2026-07-18T16:09:59+00:00"
+  },
+  {
+   "titulo": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
+   "fecha": "2026-07-18T15:50:31+00:00"
   },
   {
    "titulo": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
@@ -35,55 +189,6 @@
    "fuente": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
    "fecha": "2026-07-18T14:15:15+00:00"
-  },
-  {
-   "titulo": "Look on the bright side: Energy companies are booming",
-   "resumen": "You can’t beat them. Maybe you should join them.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/look-on-the-bright-side-energy-companies-are-booming-546164fb?mod=mw_rss_topstories",
-   "fecha": "2026-07-18T14:06:00+00:00"
-  },
-  {
-   "titulo": "Tokenization has become a strategic priority for 84% of financial firms",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
-   "fecha": "2026-07-18T14:00:00+00:00"
-  },
-  {
-   "titulo": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
-   "resumen": "The second quarter was a six-year best for U.S. stocks — here are the three sectors poised to lead the next leg higher.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/billionaires-are-loading-up-on-these-superior-stocks-why-it-pays-to-follow-their-money-9120c242?mod=mw_rss_topstories",
-   "fecha": "2026-07-18T13:58:00+00:00"
-  },
-  {
-   "titulo": "This overlooked index is a better investment than the S&P 500",
-   "resumen": "We did the math over a 30-year period, and it’s not even close.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
-   "fecha": "2026-07-18T13:41:00+00:00"
-  },
-  {
-   "titulo": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
-   "resumen": "“He is now no longer able to think clearly or communicate his wishes.”",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
-   "fecha": "2026-07-18T13:30:00+00:00"
-  },
-  {
-   "titulo": "America Caught World Cup Fever. His Job Is to Capitalize on It.",
-   "resumen": "Don Garber, the M.L.S. commissioner, has been planning for this moment for eight years.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/07/18/business/dealbook/mls-don-garber-world-cup.html",
-   "fecha": "2026-07-18T12:00:03+00:00"
-  },
-  {
-   "titulo": "Why Locals Are Gatekeeping Their Favorite Places From Tourists",
-   "resumen": "As visitors flock to places like Mexico City, Milan and Copenhagen, residents are rethinking what they share, and who they share it with.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/07/18/travel/gatekeeping-tourism-mexico-city-milan.html",
-   "fecha": "2026-07-18T11:12:11+00:00"
   },
   {
    "titulo": "World Cup Final Drives Billions in Bets on Kalshi and Polymarket",
@@ -100,116 +205,11 @@
    "fecha": "2026-07-18T09:01:42+00:00"
   },
   {
-   "titulo": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
-   "resumen": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html",
-   "fecha": "2026-07-18T09:01:37+00:00"
-  },
-  {
-   "titulo": "What Will You Do in Retirement? Your Money Depends on It.",
-   "resumen": "Workers often focus solely on their retirement savings balance. But figuring out how you want to spend the rest of your life could be job No. 1.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/07/18/business/retirement-plan.html",
-   "fecha": "2026-07-18T09:01:31+00:00"
-  },
-  {
    "titulo": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
    "resumen": "It's a small but growing problem in the property market - here's how to protect yourself.",
    "fuente": "BBC Negocios",
    "url": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-07-18T01:14:53+00:00"
-  },
-  {
-   "titulo": "Taylor Farms to Remove Products After Lettuce Is Linked to Cyclospora Cases",
-   "resumen": "The California company grows produce in more than 12 states, and in Mexico and Canada. Taco Bell and food distributor Sysco have pulled Taylor Farms lettuce from supply chains.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html",
-   "fecha": "2026-07-17T22:46:32+00:00"
-  },
-  {
-   "titulo": "Cyclospora Investigation Turns to Farms in Mexico",
-   "resumen": "The F.D.A. is planning to inspect farms and a lettuce shredding facility to determine how lettuce supplied by the produce company Taylor Farms to Taco Bell became contaminated and where it was shipped.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/07/17/health/cyclospora-taylor-farms-mexico-taco-bell-lettuce.html",
-   "fecha": "2026-07-17T22:22:30+00:00"
-  },
-  {
-   "titulo": "Valores que sacan pecho con España en el Mundial",
-   "resumen": "Patrocinadores, ropa deportiva, bebidas, viajes y medios de pago son los claros ganadores del mundial. En España destacan Telefónica, Mapfre e Iberdrola e IAG, que son patrocinadores oficiales.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/07/18/6a5a8dbae5fdea38398b45a1.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&a",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/2026/07/18/6a5a8dbae5fdea38398b45a1.html",
-   "fecha": "2026-07-17T22:13:30+00:00"
-  },
-  {
-   "titulo": "Cara y cruz de los monederos autocustodia de 'criptos'",
-   "resumen": "El 70% de sus usuarios en Europa se ha desplazado a monederos autocustodia, según Binance, un sistema que entraña riesgos para los inversores minoristas.&nbsp;<a href=\"https://www.expansion.com/mercados/criptomonedas/2026/07/17/6a5a81b6e5fdea2c448b4575.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/criptomonedas/2026/07/17/6a5a81b6e5fdea2c448b4575.html",
-   "fecha": "2026-07-17T21:41:01+00:00"
-  },
-  {
-   "titulo": "La geopolítica ya no mueve las Bolsas. Mueve el petróleo... y después todo lo demás",
-   "resumen": "La buena noticia es que, por ahora, los fundamentales siguen sosteniendo buena parte del optimismo.&nbsp;<a href=\"https://www.expansion.com/opinion/2026/07/17/6a5a4fdce5fdea25678b456f.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/mercados.xml\" />",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/opinion/2026/07/17/6a5a4fdce5fdea25678b456f.html",
-   "fecha": "2026-07-17T21:20:07+00:00"
-  },
-  {
-   "titulo": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
-   "fecha": "2026-07-17T18:00:11+00:00"
-  },
-  {
-   "titulo": "Stripe and Swift race to control the next generation of global payments infrastructure",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure",
-   "fecha": "2026-07-17T17:23:01+00:00"
-  },
-  {
-   "titulo": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
-   "resumen": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
-   "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-07-17T16:53:04+00:00"
-  },
-  {
-   "titulo": "America’s Enterprising Spirit Is Booming After Decades-Long Slump",
-   "resumen": "Hundreds of thousands of people are creating companies each year, ending a decades-long drought.",
-   "fuente": "NYT Economía",
-   "url": "https://www.nytimes.com/2026/07/17/business/economy/american-small-business-boom.html",
-   "fecha": "2026-07-17T16:51:43+00:00"
-  },
-  {
-   "titulo": "China hits out at British Steel nationalisation",
-   "resumen": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-   "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-07-17T16:44:22+00:00"
-  },
-  {
-   "titulo": "Brewdog founder faces data complaints over efforts to buy back firm",
-   "resumen": "The UK data watchdog has received complaints after James Watt reportedly contacted former shareholders.",
-   "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-07-17T16:44:15+00:00"
-  },
-  {
-   "titulo": "Stocks making the biggest moves midday: Travelers, SpaceX, Alphabet, Netflix, Synopsys & more",
-   "resumen": "Here are some of the companies making headlines in midday trading.",
-   "fuente": "CNBC Mercados",
-   "url": "https://www.cnbc.com/2026/07/17/stocks-making-the-biggest-moves-midday-trv-spcx-googl-nflx-snps.html",
-   "fecha": "2026-07-17T16:25:29+00:00"
-  },
-  {
-   "titulo": "Cardano hands core development to outside teams in decentralization push",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
-   "fecha": "2026-07-17T16:23:26+00:00"
   }
  ]
 }
