@@ -1,48 +1,49 @@
 {
- "actualizado": "2026-07-19T10:47:43+00:00",
+ "actualizado": "2026-07-20T13:17:17+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de corrección en los mercados globales con fuerte repunte en el petróleo",
-  "resumen": "Los mercados bursátiles han experimentado una sesión de ventas generalizadas, destacando la caída del Nikkei 225 y el sector tecnológico en EE. UU. En contraste, el petróleo ha registrado subidas significativas, mientras la volatilidad repunta notablemente.",
+  "titular": "Jornada de corrección en los mercados globales liderada por el sector tecnológico",
+  "resumen": "Los principales índices bursátiles cierran con descensos, destacando la caída del 4% en el Nikkei 225 y retrocesos significativos en las grandes tecnológicas estadounidenses. La incertidumbre geopolítica en Oriente Medio sigue presionando los costes energéticos y el sentimiento inversor.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Caída en los índices bursátiles",
-    "texto": "El S&P 500 y el Nasdaq 100 han retrocedido un 1,01% y 1,49% respectivamente. El Nikkei 225 destaca con una caída del 4,03%, reflejando un sentimiento negativo en los mercados internacionales.",
-    "importancia": 4
-   },
-   {
     "titulo": "Debilidad en el sector tecnológico",
-    "texto": "Empresas de gran capitalización como Meta (-2,79%), Tesla (-2,61%), NVIDIA (-2,21%) y Alphabet (-2,17%) han liderado los descensos en la sesión, presionando a los índices principales.",
+    "texto": "Empresas como NVIDIA, Alphabet, Meta y Tesla han registrado caídas superiores al 2%. Este movimiento refleja una mayor cautela de los inversores ante el elevado gasto en inteligencia artificial y las dudas sobre su rentabilidad a corto plazo.",
     "importancia": 4
    },
    {
-    "titulo": "Fuerte repunte del petróleo",
-    "texto": "El petróleo Brent ha subido un 4,59% y el WTI un 3,58%. Este movimiento alcista ocurre en un contexto de noticias sobre posibles nuevas políticas de apoyo al sector energético en el Mar del Norte.",
+    "titulo": "Impacto geopolítico en el petróleo",
+    "texto": "Las tensiones en Oriente Medio han provocado volatilidad en los precios del crudo, que llegaron a superar los 90 dólares antes de moderarse tras noticias sobre una posible tregua. El aumento en los costes de combustible ya está afectando a sectores como el transporte aéreo, según reportes de empresas como Ryanair.",
     "importancia": 5
    },
    {
-    "titulo": "Aumento de la volatilidad",
-    "texto": "El índice VIX ha experimentado un incremento del 12,19% en el día, alcanzando los 18,77 puntos. Este dato sugiere un aumento en la cautela y la incertidumbre de los inversores ante el entorno actual.",
+    "titulo": "Caída pronunciada en el Nikkei 225",
+    "texto": "El índice japonés sufrió un retroceso del 4,03%, marcando el movimiento más brusco de la jornada entre los índices principales. Este descenso subraya un entorno de aversión al riesgo en los mercados asiáticos que ha contagiado a otras plazas globales.",
     "importancia": 4
+   },
+   {
+    "titulo": "Estabilidad relativa en criptoactivos",
+    "texto": "A pesar de la caída en las bolsas, Bitcoin y Ethereum se mantienen estables con variaciones mínimas. Sin embargo, el índice 'Fear and Greed' del sector cripto se sitúa en 29, lo que indica un sentimiento predominante de miedo entre los inversores.",
+    "importancia": 2
    }
   ],
   "vigilar": [
-   "Evolución del índice VIX para medir el nivel de estrés en el mercado",
-   "Comportamiento del sector tecnológico tras las caídas de hoy",
-   "Impacto de las noticias sobre el sector energético en el precio del crudo"
+   "Evolución de las negociaciones de alto el fuego en Irán",
+   "Comportamiento del sector tecnológico tras las recientes caídas",
+   "Nivel del Brent ante nuevas amenazas en el transporte marítimo"
   ],
   "proximos": [
-   "Anuncios oficiales sobre el apoyo al sector de petróleo y gas en el Mar del Norte por parte del nuevo Primer Ministro"
+   "Pruebas de transacciones CBDC por parte del Banco de Corea en septiembre",
+   "Propuestas de tokenización de la autoridad reguladora de Brasil (plazo de 60 días)"
   ],
-  "nota_riesgo": "El riesgo general ha aumentado, reflejado por el incremento de dos dígitos en la volatilidad y las ventas generalizadas en renta variable. La divergencia entre la caída bursátil y el alza del petróleo sugiere un mercado reaccionando a factores sectoriales y geopolíticos específicos."
+  "nota_riesgo": "El riesgo se mantiene elevado debido a la combinación de tensiones geopolíticas y la corrección técnica en valores tecnológicos de alta capitalización. Aunque la volatilidad (VIX) ha descendido hoy, el mercado muestra señales de fragilidad ante cualquier escalada en el conflicto en Oriente Medio."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -7.22,
-   "resumen": "La acción registra una caída del 7.22%. Aunque los titulares destacan una demanda robusta por el futuro GTA VI y proyecciones de flujo de caja, el mercado parece reaccionar negativamente a su salida de los índices Russell Value y a la incertidumbre sobre el cumplimiento de expectativas trimestrales.",
+   "pl_pct": -6.69,
+   "resumen": "La acción acumula una caída del 6.69%, un movimiento que contrasta con la demanda robusta anticipada para GTA VI y las previsiones de flujo de caja. Los titulares sugieren que el descenso podría estar vinculado a su salida de los índices de valor Russell y a una mayor cautela de los inversores ante un trimestre que se espera en línea con lo previsto.",
    "noticias": [
     {
      "titulo": "GTA VI Release Date Confirmed? Take-Two SEC Filing Forecasts $1 Billion Cash Flow",
