@@ -1,40 +1,187 @@
 {
- "actualizado": "2026-07-21T12:02:10+00:00",
+ "actualizado": "2026-07-21T16:19:25+00:00",
  "items": [
+  {
+   "titulo": "Trump Escalates Canada Tariffs as Mark Carney Holds Firm",
+   "resumen": "The president’s new tariffs on a top U.S. trading partner aim at gaining concessions, but the Canadian government, and the public, have been bracing for the escalation.",
+   "fuente": "NYT Economía",
+   "url": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html",
+   "fecha": "2026-07-21T16:17:21+00:00"
+  },
+  {
+   "titulo": "Galaxy sets up $5 million fund to help shield Bitcoin against quantum computing threats",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/07/21/galaxy-sets-up-usd5-million-fund-to-help-shield-bitcoin-against-quantum-computing-threats",
+   "fecha": "2026-07-21T16:16:14+00:00"
+  },
+  {
+   "titulo": "Three reasons why UK electricity prices are so high",
+   "resumen": "The government has announced it will cut VAT on domestic electricity to zero but Britons still pay more for power than many other European nations.",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-07-21T16:11:14+00:00"
+  },
+  {
+   "titulo": "These signs suggest investors should give the software sector a second chance",
+   "resumen": "Software stocks and loans have started to find their footing in July, suggesting it may be time for investors to forgive and forget.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/here-are-some-signs-that-say-investors-should-give-the-software-sector-a-second-chance-f4143255?mod=mw_rss_topstories",
+   "fecha": "2026-07-21T16:10:00+00:00"
+  },
+  {
+   "titulo": "Berkeley Energía sube un 5,6% en Bolsa con los minerales críticos hallados en su proyecto en Salamanca",
+   "resumen": "Las acciones de Berkeley Energía han sido las más destacadas hoy en la Bolsa española con un alza del 5,60%, después de que la compañía haya anunciado que ha encontrado minerales críticos en su proyecto 'Conchas' ubicado en la provincia de Salamanca, cerca de la frontera con Portugal.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/07/21/6a5f2ba1468aebb4418b4578.html\">Leer</a><img alt=\"\" src",
+   "fuente": "Expansión Mercados",
+   "url": "https://www.expansion.com/mercados/2026/07/21/6a5f2ba1468aebb4418b4578.html",
+   "fecha": "2026-07-21T15:59:24+00:00"
+  },
+  {
+   "titulo": "El Ibex recupera los 19.300 puntos apoyado en los bancos",
+   "resumen": "Las compras se han impuesto en las Bolsas europeas, con los inversores atentos al aumento de las tensiones en Oriente Medio, al tiempo que se intentan reestablecer las negociaciones entre Irán y EEUU. El Ibex, a la cabeza de Europa, ha sumado un 0,90% animado por los bancos y partirá mañana desde los 19.379,80 puntos.&nbsp;<a href=\"https://www.expansion.com/mercados/cronica-bolsa/2026/07/21/6a5f0a",
+   "fuente": "Expansión Mercados",
+   "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/21/6a5f0a58468aeb65658b4574.html",
+   "fecha": "2026-07-21T15:38:54+00:00"
+  },
+  {
+   "titulo": "Lindt's Easter chocolate sales fall after price hike",
+   "resumen": "The Swiss chocolate maker adjusts its strategy in response to weaker demand after its price rises.",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/c74gxj937mmo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-07-21T15:37:58+00:00"
+  },
+  {
+   "titulo": "Ozempic-maker accuses rival of false advertising",
+   "resumen": "Novo Nordisk has launched legal action accusing Eli Lilly of creating \"misleading\" ads, a claim its rival denies.",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/c3v0rzd2l17o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-07-21T15:20:10+00:00"
+  },
+  {
+   "titulo": "Russia’s parliament passes crypto market law with $3,800 annual cap for retail investors",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/07/21/russia-s-parliament-passes-crypto-market-law-rules-to-take-effect-sept-1",
+   "fecha": "2026-07-21T15:19:44+00:00"
+  },
+  {
+   "titulo": "Pro stock pickers cannot beat simple math — war in the Middle East is proving it",
+   "resumen": "Active stock pickers almost always lose against the broad market. They can’t beat simple math.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
+   "fecha": "2026-07-21T15:12:00+00:00"
+  },
+  {
+   "titulo": "Novo Nordisk’s lawsuit against Eli Lilly over ads highlights intense competition in GLP-1 market",
+   "resumen": "The Danish company Novo Nordisk says U.S.-based Lilly isn’t including the most up-to-date clinical information about its drugs.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/novo-nordisk-sues-eli-lilly-over-ads-comparing-glp-1-medications-6b223080?mod=mw_rss_topstories",
+   "fecha": "2026-07-21T15:02:00+00:00"
+  },
+  {
+   "titulo": "Think this stock market is in a bubble? These earnings numbers say otherwise.",
+   "resumen": "Stay with the AI trade and overweight technology stocks, according to one earnings expert.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/welcome-to-the-roaring-20s-heres-how-this-earnings-season-will-keep-the-bull-market-strong-4a70be72?mod=mw_rss_topstories",
+   "fecha": "2026-07-21T15:01:00+00:00"
+  },
+  {
+   "titulo": "Why Paramount could win if it loses the Warner Bros. Discovery deal",
+   "resumen": "States are trying to block Paramount’s mega-merger. Shareholders should root for them.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/why-paramount-could-win-if-it-loses-the-warner-bros-discovery-deal-5f174963?mod=mw_rss_topstories",
+   "fecha": "2026-07-21T14:53:00+00:00"
+  },
   {
    "titulo": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
    "resumen": "Investors and economists are deliberating what the latest exchange in hostilities will mean for the broader economy.",
    "fuente": "CNBC Mercados",
    "url": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
-   "fecha": "2026-07-21T11:56:14+00:00"
+   "fecha": "2026-07-21T14:37:08+00:00"
   },
   {
-   "titulo": "Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’",
-   "resumen": "The spread between the cost of barrels of gasoline and crude oil — known as the “crack spread” — has widened sharply.",
+   "titulo": "Tesla earnings are on deck, and investors will be looking to settle this major debate",
+   "resumen": "Wall Street wants to see whether Tesla can deliver on its robotaxi and Optimus plans.",
    "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
-   "fecha": "2026-07-21T11:53:00+00:00"
+   "url": "https://www.marketwatch.com/story/tesla-earnings-are-on-deck-and-investors-will-be-looking-to-settle-this-major-debate-f5a11d0e?mod=mw_rss_topstories",
+   "fecha": "2026-07-21T14:32:00+00:00"
   },
   {
-   "titulo": "The co-founder of Stocktwits dumped chip stocks before their 20% slide. Where he’s putting his money now.",
-   "resumen": "Stocktwits’ Howard Lindzon talks to MarketWatch about sidestepping a chip selloff, where he sees opportunity and the “degenerate economy.”",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/the-co-founder-of-stocktwits-dumped-chip-stocks-before-a-20-slide-where-hes-putting-his-money-now-07e8724f?mod=mw_rss_topstories",
-   "fecha": "2026-07-21T11:47:00+00:00"
+   "titulo": "Augustus raises $180 million to build a clearing bank for the AI and stablecoin era",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era",
+   "fecha": "2026-07-21T14:27:03+00:00"
   },
   {
-   "titulo": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-   "resumen": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+   "titulo": "VAT to be cut from household electricity bills in October",
+   "resumen": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
    "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-07-21T11:42:41+00:00"
+   "url": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-07-21T14:25:22+00:00"
+  },
+  {
+   "titulo": "‘I have a $2,000 deductible’: I reported a cracked windshield on my Hertz rental car. Can they charge me?",
+   "resumen": "“I never heard a rock hit the windshield.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories",
+   "fecha": "2026-07-21T14:15:00+00:00"
+  },
+  {
+   "titulo": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?",
+   "resumen": "“Our daughter is a highly ranked competitive softball pitcher with a 3.94 GPA.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
+   "fecha": "2026-07-21T14:15:00+00:00"
+  },
+  {
+   "titulo": "Oil Buyers Battered by the Iran War Energy Crisis Race to Build Buffers",
+   "resumen": "As rising fuel costs clobber their economies, the Philippines and other developing countries in Asia are pushing to build strategic petroleum reserves to cushion against future shocks.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/07/21/business/asia-strategic-oil-reserves.html",
+   "fecha": "2026-07-21T14:01:11+00:00"
+  },
+  {
+   "titulo": "MoneyGram's CEO says blockchain works best when customers don't know it's there",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/07/17/moneygram-s-ceo-says-blockchain-works-best-when-customers-don-t-know-it-s-there",
+   "fecha": "2026-07-21T13:38:13+00:00"
+  },
+  {
+   "titulo": "Ryanair broken window may have been caused by 'foreign object'",
+   "resumen": "Passenger Ljubisa Karović was partially sucked out of a cabin window on the Boeing aircraft.",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/cy9wq82q1pgo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-07-21T13:10:49+00:00"
   },
   {
    "titulo": "Stocks making the biggest moves premarket: General Motors, 3M, Novartis, Nebius & more",
    "resumen": "These are the stocks posting the largest moves in early trading.",
    "fuente": "CNBC Mercados",
    "url": "https://www.cnbc.com/2026/07/21/stocks-making-the-biggest-moves-premarket-gm-mmm-nvs-nbis.html",
-   "fecha": "2026-07-21T11:38:25+00:00"
+   "fecha": "2026-07-21T13:09:44+00:00"
+  },
+  {
+   "titulo": "Will the U.S. and China Build Walls Around A.I.?",
+   "resumen": "Rapid advancements in Chinese artificial intelligence models reportedly have Washington and Beijing considering new ways to protect their technology sectors.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/07/21/business/dealbook/us-china-ai-limits.html",
+   "fecha": "2026-07-21T12:55:39+00:00"
+  },
+  {
+   "titulo": "Jack Mallers steps down as XXI Capital CEO as Tether's plans to merge three bitcoin firms falls",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/07/21/jack-mallers-steps-down-as-xxi-capital-ceo-as-tether-s-plans-to-merge-three-bitcoin-firms-falls",
+   "fecha": "2026-07-21T12:42:29+00:00"
+  },
+  {
+   "titulo": "UK borrows less than expected in June but public finances remain a challenge",
+   "resumen": "Public finances for last month were better than expected but the UK is carrying major debt.",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-07-21T12:36:29+00:00"
   },
   {
    "titulo": "Bitcoin rally has broad-based support as institutions, whales, options traders pile in",
@@ -58,158 +205,11 @@
    "fecha": "2026-07-21T11:19:18+00:00"
   },
   {
-   "titulo": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?",
-   "resumen": "“Our daughter is a highly ranked competitive softball pitcher with a 3.94 GPA.”",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
-   "fecha": "2026-07-21T11:15:00+00:00"
-  },
-  {
-   "titulo": "China has been buying the gold dip, and these analysts say a comeback is brewing",
-   "resumen": "For the last few years, China’s buying patterns have been an excellent investment signal on gold",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/china-has-been-buying-the-gold-dip-and-these-analysts-say-a-comeback-is-brewing-6b0400d3?mod=mw_rss_topstories",
-   "fecha": "2026-07-21T11:06:00+00:00"
-  },
-  {
    "titulo": "Crypto markets rally on Clarity progress report, Asian chip-stock rebound",
    "resumen": "",
    "fuente": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/07/21/crypto-markets-rally-on-clarity-progress-report-asian-chip-stock-rebound",
    "fecha": "2026-07-21T11:02:48+00:00"
-  },
-  {
-   "titulo": "Euríbor hoy, 21 de julio: El Euríbor continua al alza y sobrepasa el 2,9%, la preocupación entre los hipotecados aumenta",
-   "resumen": "La media mensual del Euríbor se sitúa en el 2,802% en julio.&nbsp;<a href=\"https://www.expansion.com/mercados/euribor/2026/07/21/6a5f50fb468aeb65658b4586.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/mercados.xml\" />",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/euribor/2026/07/21/6a5f50fb468aeb65658b4586.html",
-   "fecha": "2026-07-21T11:02:05+00:00"
-  },
-  {
-   "titulo": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
-   "resumen": "“We would rather pay taxes upfront than pay mortgage interest.”",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
-   "fecha": "2026-07-21T11:00:00+00:00"
-  },
-  {
-   "titulo": "Adobe stock has been crushed by AI fears. Now Morgan Stanley has cut its rating to underweight.",
-   "resumen": "Morgan Stanley cut its price target for Adobe by more than a third, citing multiple transitions and the potential for increased competition from artificial-intelligence alternatives.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/adobe-stock-has-been-crushed-by-ai-fears-now-morgan-stanley-has-cut-its-rating-to-underweight-38378183?mod=mw_rss_topstories",
-   "fecha": "2026-07-21T10:58:00+00:00"
-  },
-  {
-   "titulo": "Precio del Bitcoin hoy, 21 de julio: El precio del Bitcoin se ha revalorizado en un 1,75%",
-   "resumen": "El Bitcoin se sitúa hoy en los 65.871,05 dólares y registro una variación del 1,75 % con respecto a la sesión anterior&nbsp;<a href=\"https://www.expansion.com/mercados/bitcoin/2026/07/21/6a5f3c22e5fdeaab4b8b4598.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/merc",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/bitcoin/2026/07/21/6a5f3c22e5fdeaab4b8b4598.html",
-   "fecha": "2026-07-21T10:57:00+00:00"
-  },
-  {
-   "titulo": "Bolsa: ¿han dejado de funcionar los indicadores de valoración?",
-   "resumen": "Tal vez, las acciones no estén tan caras después de todo.&nbsp;<a href=\"https://www.expansion.com/inversion/2026/07/21/6a5f4cf0e5fdea3e5d8b457b.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/mercados.xml\" />",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/inversion/2026/07/21/6a5f4cf0e5fdea3e5d8b457b.html",
-   "fecha": "2026-07-21T10:41:58+00:00"
-  },
-  {
-   "titulo": "UK borrows less than expected in June but public finances remain a challenge",
-   "resumen": "Public finances for last month were better than expected but the UK is carrying major debt.",
-   "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-07-21T10:31:06+00:00"
-  },
-  {
-   "titulo": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-   "resumen": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-   "fecha": "2026-07-21T10:31:00+00:00"
-  },
-  {
-   "titulo": "Thames Water lenders offer 'golden share' to head off nationalisation",
-   "resumen": "The water supplier's lenders are trying to prevent the company from being taken over by the Burnham government",
-   "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-07-21T10:30:45+00:00"
-  },
-  {
-   "titulo": "‘I have a $2,000 deductible’: I reported a cracked windshield on my Hertz rental car. Can they charge me?",
-   "resumen": "“I never heard a rock hit the windshield.”",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories",
-   "fecha": "2026-07-21T10:15:00+00:00"
-  },
-  {
-   "titulo": "VAT to be cut from household electricity bills in October",
-   "resumen": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
-   "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-07-21T10:07:38+00:00"
-  },
-  {
-   "titulo": "What does an Andy Burnham-led government mean for your money?",
-   "resumen": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult.",
-   "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-07-21T09:45:21+00:00"
-  },
-  {
-   "titulo": "Why States Are Making It Harder to Save Money With Solar Panels",
-   "resumen": "The changes are costing homeowners money. But they also reflect a changing grid — and the need for home batteries.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/07/21/upshot/solar-panels-prices-batteries.html",
-   "fecha": "2026-07-21T09:02:21+00:00"
-  },
-  {
-   "titulo": "Berkeley Energía vuela en Bolsa con los minerales críticos hallados en su proyecto en Salamanca",
-   "resumen": "Las acciones de Berkeley Energía son las más destacadas hoy en la Bolsa española despues de que la compañía haya anunciado que ha encontrado ha encontrado minerales críticos en su proyecto 'Conchas' ubicado en la provincia de Salamanca, cerca de la frontera con Portugal.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/07/21/6a5f2ba1468aebb4418b4578.html\">Leer</a><img alt=\"\" src=\"http://secur",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/2026/07/21/6a5f2ba1468aebb4418b4578.html",
-   "fecha": "2026-07-21T08:30:13+00:00"
-  },
-  {
-   "titulo": "Bolsa de Londres planea lanzar operaciones las 24 horas el próximo año",
-   "resumen": "Al principio la nueva plataforma de negociación nocturna ofrecerá acceso a productos cotizados.&nbsp;<a href=\"https://www.expansion.com/economia/financial-times/2026/07/21/6a5f1f43e5fdeacb198b457b.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/mercados.xml\" />",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/economia/financial-times/2026/07/21/6a5f1f43e5fdeacb198b457b.html",
-   "fecha": "2026-07-21T07:27:04+00:00"
-  },
-  {
-   "titulo": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35",
-   "fecha": "2026-07-21T07:21:04+00:00"
-  },
-  {
-   "titulo": "Live markets: Bitcoin ETFs post a fifth straight day of inflows in a first since April",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april",
-   "fecha": "2026-07-21T06:42:52+00:00"
-  },
-  {
-   "titulo": "Andy Burnham, New UK Prime Minister, Names John Healey as Top Finance Official",
-   "resumen": "As chancellor, John Healey, who quit as defense secretary in the former government, will fill one of the most consequential posts, overseeing fiscal and economic policy.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html",
-   "fecha": "2026-07-21T06:40:50+00:00"
-  },
-  {
-   "titulo": "El Ibex recupera los 19.300 puntos, con la vista puesta en el petróleo y los resultados",
-   "resumen": "El Ibex vuelve a situarse por encima de los 19.300 puntos atento a Oriente Medio y la posibilidad de que se reestablezcan las negociaciones entre Estados Unidos e Irán pese a los continuos ataques. Los inversores permanecen expectantes ante la temporada de resultados.&nbsp;<a href=\"https://www.expansion.com/mercados/cronica-bolsa/2026/07/21/6a5f0a58468aeb65658b4574.html\">Leer</a><img alt=\"\" src=\"h",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/21/6a5f0a58468aeb65658b4574.html",
-   "fecha": "2026-07-21T06:15:37+00:00"
-  },
-  {
-   "titulo": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
-   "fecha": "2026-07-21T06:15:26+00:00"
   }
  ]
 }

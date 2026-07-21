@@ -1,50 +1,56 @@
 {
- "actualizado": "2026-07-21T12:02:10+00:00",
+ "actualizado": "2026-07-21T16:19:25+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de contrastes marcada por la escalada geopolítica y el rebote en activos de riesgo",
-  "resumen": "Los mercados muestran una sesión mixta con una notable recuperación en el Nikkei y las criptomonedas, mientras que los índices estadounidenses mantienen una ligera presión bajista. La tensión geopolítica en Oriente Medio y las nuevas tensiones comerciales entre EE. UU. y Canadá dominan el contexto macroeconómico actual.",
+  "titular": "Optimismo en los mercados bursátiles ante la moderación de la volatilidad",
+  "resumen": "Las bolsas cierran con ganancias generalizadas, destacando el Nasdaq y el sector tecnológico, mientras el índice VIX retrocede notablemente. El mercado muestra resiliencia a pesar de las tensiones geopolíticas en Oriente Medio, que continúan impulsando al alza los precios del petróleo y del oro.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Tensiones geopolíticas y comerciales",
-    "texto": "La reactivación del conflicto entre EE. UU. e Irán, sumada a la imposición de aranceles del 50% por parte de EE. UU. a Canadá, genera incertidumbre en los mercados. Estos eventos suelen presionar al alza los precios de las materias primas, como se observa en el petróleo Brent y WTI, que registran subidas significativas hoy.",
+    "titulo": "Recuperación tecnológica y volatilidad",
+    "texto": "El Nasdaq 100 lideró las subidas con un 1,87%, apoyado por un repunte en Tesla del 3,05%. Simultáneamente, el índice de volatilidad VIX cayó un 7,94%, lo que sugiere una mayor calma entre los inversores a pesar de las incertidumbres macroeconómicas.",
+    "importancia": 4
+   },
+   {
+    "titulo": "Impacto geopolítico en materias primas",
+    "texto": "El recrudecimiento de las tensiones en Oriente Medio presiona al alza los precios de la energía y activos refugio. El petróleo Brent subió un 1,96% y el oro un 1,79%, reflejando la preocupación de los mercados por posibles interrupciones en el suministro global.",
     "importancia": 5
    },
    {
-    "titulo": "Comportamiento de los índices",
-    "texto": "El Nikkei 225 destaca con una subida del 3,26%, liderando el optimismo en Asia, mientras que en EE. UU. el S&P 500 y el Dow Jones muestran ligeros retrocesos. Europa, por su parte, presenta un tono positivo con avances en el IBEX 35 y el Euro Stoxx 50.",
+    "titulo": "Contexto de tipos de interés",
+    "texto": "El rendimiento del bono estadounidense a 10 años subió un 0,61%, situándose en el 4,626%. Este movimiento ocurre en un entorno donde la curva de tipos (10a-2a) se mantiene en 0,39 puntos porcentuales, un dato a seguir para evaluar las expectativas de crecimiento económico.",
     "importancia": 3
    },
    {
-    "titulo": "Criptomonedas y sentimiento",
-    "texto": "Bitcoin y Ethereum registran ganancias superiores al 1,5%, apoyadas por un informe de progreso en 'Clarity'. A pesar de este repunte en precio, el índice 'Fear and Greed' de cripto se mantiene en niveles de 'Extreme Fear', reflejando una cautela persistente entre los inversores.",
-    "importancia": 3
-   },
-   {
-    "titulo": "Mercado de bonos y tipos",
-    "texto": "El rendimiento del bono estadounidense a 10 años sube un 1,26%, situándose en el 4,598%. Paralelamente, el Euríbor continúa su tendencia alcista superando el 2,9%, lo que incrementa la presión sobre los costes financieros de los hogares.",
-    "importancia": 4
+    "titulo": "Comportamiento del sector cripto",
+    "texto": "Bitcoin registró un avance del 2,02%, situándose en los 66.545 dólares, a pesar de que el indicador 'Fear and Greed' para criptomonedas se mantiene en 'Extreme Fear' (25). La capitalización total del mercado cripto creció un 1,37% en las últimas 24 horas.",
+    "importancia": 2
    }
   ],
   "vigilar": [
-   "Evolución del precio del petróleo ante la escalada en Oriente Medio",
-   "Impacto de los nuevos aranceles en la relación comercial EE. UU.-Canadá",
-   "Volatilidad en el sector tecnológico tras la rebaja de calificación de Adobe"
+   "Evolución de las tensiones en Oriente Medio y su impacto en el precio del petróleo",
+   "Resultados trimestrales de Tesla",
+   "Niveles de volatilidad (VIX) ante posibles noticias geopolíticas"
   ],
   "proximos": [
-   "Publicaciones de resultados corporativos adicionales",
-   "Evolución de las negociaciones sobre la nacionalización de Thames Water"
+   "Publicación de resultados de Tesla",
+   "Efectos de la reducción del IVA en la electricidad en Reino Unido a partir de octubre"
   ],
-  "nota_riesgo": "El riesgo general se mantiene elevado debido a la combinación de tensiones geopolíticas activas y una política comercial proteccionista. La divergencia entre la volatilidad (VIX) a la baja y el miedo extremo en cripto sugiere un mercado buscando dirección en un entorno de alta incertidumbre."
+  "nota_riesgo": "El riesgo general se mantiene moderado-alto debido a la inestabilidad geopolítica, aunque la caída en la volatilidad sugiere que los mercados están absorbiendo estas tensiones con mayor calma por el momento."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
    "pl_pct": -7.04,
-   "resumen": "La acción registra una rentabilidad negativa del 7,04%. Aunque los titulares destacan una demanda robusta por el futuro GTA VI y previsiones de flujo de caja, el mercado parece estar ignorando estas expectativas positivas, manteniendo el enfoque en los desafíos operativos a corto plazo.",
+   "resumen": "La acción registra una caída del 7.04% a pesar de que los titulares destacan una demanda robusta para el futuro lanzamiento de GTA VI y proyecciones de flujo de caja positivo. Aunque los analistas mantienen el enfoque en el próximo gran título, el mercado parece estar reaccionando con cautela, ya que las noticias actuales no explican directamente este descenso reciente.",
    "noticias": [
+    {
+     "titulo": "I Built a $12 Billion Company By Figuring Out How to Come Up With Hit Products. Here’s My Simple Formula.",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.entrepreneur.com/building-a-business/launch-your-business/i-built-a-12-billion-company-by-figuring-out-how-to-come-up-with-hit-products-heres-my-simple-formula?.tsrc=rss",
+     "fecha": "2026-07-21T12:00:00+00:00"
+    },
     {
      "titulo": "Roblox vs. Take-Two: Which Gaming Stock Has the Edge Now?",
      "fuente": "Yahoo Finanzas",
@@ -74,12 +80,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://finance.yahoo.com/markets/stocks/articles/two-apos-gta-vi-apos-165328884.html?.tsrc=rss",
      "fecha": "2026-07-10T16:53:28+00:00"
-    },
-    {
-     "titulo": "1 Internet Stock for Long-Term Investors and 2 Facing Challenges",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/1-internet-stock-long-term-084716698.html?.tsrc=rss",
-     "fecha": "2026-07-10T08:47:16+00:00"
     }
    ]
   }
