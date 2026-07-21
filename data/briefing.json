@@ -1,50 +1,56 @@
 {
- "actualizado": "2026-07-20T13:17:17+00:00",
+ "actualizado": "2026-07-21T12:02:10+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de corrección en los mercados globales liderada por el sector tecnológico",
-  "resumen": "Los principales índices bursátiles cierran con descensos, destacando la caída del 4% en el Nikkei 225 y retrocesos significativos en las grandes tecnológicas estadounidenses. La incertidumbre geopolítica en Oriente Medio sigue presionando los costes energéticos y el sentimiento inversor.",
+  "titular": "Jornada de contrastes marcada por la escalada geopolítica y el rebote en activos de riesgo",
+  "resumen": "Los mercados muestran una sesión mixta con una notable recuperación en el Nikkei y las criptomonedas, mientras que los índices estadounidenses mantienen una ligera presión bajista. La tensión geopolítica en Oriente Medio y las nuevas tensiones comerciales entre EE. UU. y Canadá dominan el contexto macroeconómico actual.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Debilidad en el sector tecnológico",
-    "texto": "Empresas como NVIDIA, Alphabet, Meta y Tesla han registrado caídas superiores al 2%. Este movimiento refleja una mayor cautela de los inversores ante el elevado gasto en inteligencia artificial y las dudas sobre su rentabilidad a corto plazo.",
-    "importancia": 4
-   },
-   {
-    "titulo": "Impacto geopolítico en el petróleo",
-    "texto": "Las tensiones en Oriente Medio han provocado volatilidad en los precios del crudo, que llegaron a superar los 90 dólares antes de moderarse tras noticias sobre una posible tregua. El aumento en los costes de combustible ya está afectando a sectores como el transporte aéreo, según reportes de empresas como Ryanair.",
+    "titulo": "Tensiones geopolíticas y comerciales",
+    "texto": "La reactivación del conflicto entre EE. UU. e Irán, sumada a la imposición de aranceles del 50% por parte de EE. UU. a Canadá, genera incertidumbre en los mercados. Estos eventos suelen presionar al alza los precios de las materias primas, como se observa en el petróleo Brent y WTI, que registran subidas significativas hoy.",
     "importancia": 5
    },
    {
-    "titulo": "Caída pronunciada en el Nikkei 225",
-    "texto": "El índice japonés sufrió un retroceso del 4,03%, marcando el movimiento más brusco de la jornada entre los índices principales. Este descenso subraya un entorno de aversión al riesgo en los mercados asiáticos que ha contagiado a otras plazas globales.",
-    "importancia": 4
+    "titulo": "Comportamiento de los índices",
+    "texto": "El Nikkei 225 destaca con una subida del 3,26%, liderando el optimismo en Asia, mientras que en EE. UU. el S&P 500 y el Dow Jones muestran ligeros retrocesos. Europa, por su parte, presenta un tono positivo con avances en el IBEX 35 y el Euro Stoxx 50.",
+    "importancia": 3
    },
    {
-    "titulo": "Estabilidad relativa en criptoactivos",
-    "texto": "A pesar de la caída en las bolsas, Bitcoin y Ethereum se mantienen estables con variaciones mínimas. Sin embargo, el índice 'Fear and Greed' del sector cripto se sitúa en 29, lo que indica un sentimiento predominante de miedo entre los inversores.",
-    "importancia": 2
+    "titulo": "Criptomonedas y sentimiento",
+    "texto": "Bitcoin y Ethereum registran ganancias superiores al 1,5%, apoyadas por un informe de progreso en 'Clarity'. A pesar de este repunte en precio, el índice 'Fear and Greed' de cripto se mantiene en niveles de 'Extreme Fear', reflejando una cautela persistente entre los inversores.",
+    "importancia": 3
+   },
+   {
+    "titulo": "Mercado de bonos y tipos",
+    "texto": "El rendimiento del bono estadounidense a 10 años sube un 1,26%, situándose en el 4,598%. Paralelamente, el Euríbor continúa su tendencia alcista superando el 2,9%, lo que incrementa la presión sobre los costes financieros de los hogares.",
+    "importancia": 4
    }
   ],
   "vigilar": [
-   "Evolución de las negociaciones de alto el fuego en Irán",
-   "Comportamiento del sector tecnológico tras las recientes caídas",
-   "Nivel del Brent ante nuevas amenazas en el transporte marítimo"
+   "Evolución del precio del petróleo ante la escalada en Oriente Medio",
+   "Impacto de los nuevos aranceles en la relación comercial EE. UU.-Canadá",
+   "Volatilidad en el sector tecnológico tras la rebaja de calificación de Adobe"
   ],
   "proximos": [
-   "Pruebas de transacciones CBDC por parte del Banco de Corea en septiembre",
-   "Propuestas de tokenización de la autoridad reguladora de Brasil (plazo de 60 días)"
+   "Publicaciones de resultados corporativos adicionales",
+   "Evolución de las negociaciones sobre la nacionalización de Thames Water"
   ],
-  "nota_riesgo": "El riesgo se mantiene elevado debido a la combinación de tensiones geopolíticas y la corrección técnica en valores tecnológicos de alta capitalización. Aunque la volatilidad (VIX) ha descendido hoy, el mercado muestra señales de fragilidad ante cualquier escalada en el conflicto en Oriente Medio."
+  "nota_riesgo": "El riesgo general se mantiene elevado debido a la combinación de tensiones geopolíticas activas y una política comercial proteccionista. La divergencia entre la volatilidad (VIX) a la baja y el miedo extremo en cripto sugiere un mercado buscando dirección en un entorno de alta incertidumbre."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -6.69,
-   "resumen": "La acción acumula una caída del 6.69%, un movimiento que contrasta con la demanda robusta anticipada para GTA VI y las previsiones de flujo de caja. Los titulares sugieren que el descenso podría estar vinculado a su salida de los índices de valor Russell y a una mayor cautela de los inversores ante un trimestre que se espera en línea con lo previsto.",
+   "pl_pct": -7.04,
+   "resumen": "La acción registra una rentabilidad negativa del 7,04%. Aunque los titulares destacan una demanda robusta por el futuro GTA VI y previsiones de flujo de caja, el mercado parece estar ignorando estas expectativas positivas, manteniendo el enfoque en los desafíos operativos a corto plazo.",
    "noticias": [
+    {
+     "titulo": "Roblox vs. Take-Two: Which Gaming Stock Has the Edge Now?",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/roblox-vs-two-gaming-stock-135000784.html?.tsrc=rss",
+     "fecha": "2026-07-20T13:50:00+00:00"
+    },
     {
      "titulo": "GTA VI Release Date Confirmed? Take-Two SEC Filing Forecasts $1 Billion Cash Flow",
      "fuente": "Yahoo Finanzas",
@@ -74,12 +80,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://finance.yahoo.com/markets/stocks/articles/1-internet-stock-long-term-084716698.html?.tsrc=rss",
      "fecha": "2026-07-10T08:47:16+00:00"
-    },
-    {
-     "titulo": "Take-Two’s Shift Out of Russell Value Indices Might Change The Case For Investing In TTWO",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-shift-russell-value-indices-171157804.html?.tsrc=rss",
-     "fecha": "2026-07-09T17:11:57+00:00"
     }
    ]
   }
