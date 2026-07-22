@@ -1,50 +1,56 @@
 {
- "actualizado": "2026-07-21T16:19:25+00:00",
+ "actualizado": "2026-07-22T12:09:26+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Optimismo en los mercados bursátiles ante la moderación de la volatilidad",
-  "resumen": "Las bolsas cierran con ganancias generalizadas, destacando el Nasdaq y el sector tecnológico, mientras el índice VIX retrocede notablemente. El mercado muestra resiliencia a pesar de las tensiones geopolíticas en Oriente Medio, que continúan impulsando al alza los precios del petróleo y del oro.",
+  "titular": "Apertura mixta en los mercados con fuertes contrastes en el petróleo y repunte de la volatilidad",
+  "resumen": "Los datos muestran una sesión variada en las bolsas y los mercados de materias primas, destacando la fuerte divergencia en los precios del petróleo y un incremento en la volatilidad. Los titulares recientes señalan que las tensiones geopolíticas y los riesgos de bloqueo en el Mar Rojo y en Irán están impactando en el sector energético. En criptomonedas, el Bitcoin cotiza en torno a los 65.844 dólares bajo un sentimiento de miedo en el mercado.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Recuperación tecnológica y volatilidad",
-    "texto": "El Nasdaq 100 lideró las subidas con un 1,87%, apoyado por un repunte en Tesla del 3,05%. Simultáneamente, el índice de volatilidad VIX cayó un 7,94%, lo que sugiere una mayor calma entre los inversores a pesar de las incertidumbres macroeconómicas.",
+    "titulo": "Fuerte volatilidad y comportamiento divergente en el petróleo",
+    "texto": "Los datos reflejan movimientos significativos en las materias primas energéticas: el Petróleo WTI sube un 2,89% hasta los 87,36 dólares, mientras que el Petróleo Brent registra una caída diaria del 6,45% situándose en 85,14 dólares. Las noticias recientes apuntan a que los precios se han visto impulsados hacia máximos de seis semanas por los temores de intensificación de conflictos y la falta de desescalada en Irán, además de la incertidumbre sobre el flujo en el Mar Rojo. Estos movimientos afectan directamente a la cotización de los activos energéticos y reavivan las preocupaciones inflacionarias.",
     "importancia": 4
    },
    {
-    "titulo": "Impacto geopolítico en materias primas",
-    "texto": "El recrudecimiento de las tensiones en Oriente Medio presiona al alza los precios de la energía y activos refugio. El petróleo Brent subió un 1,96% y el oro un 1,79%, reflejando la preocupación de los mercados por posibles interrupciones en el suministro global.",
-    "importancia": 5
-   },
-   {
-    "titulo": "Contexto de tipos de interés",
-    "texto": "El rendimiento del bono estadounidense a 10 años subió un 0,61%, situándose en el 4,626%. Este movimiento ocurre en un entorno donde la curva de tipos (10a-2a) se mantiene en 0,39 puntos porcentuales, un dato a seguir para evaluar las expectativas de crecimiento económico.",
+    "titulo": "Incremento de la volatilidad y rendimiento de los bonos",
+    "texto": "El índice de volatilidad VIX muestra un incremento diario del 3,23% hasta los 17,6 puntos, y acumula una subida semanal del 12,32%. Paralelamente, el rendimiento del bono estadounidense a 10 años se sitúa en el 4,628%, con un avance diario del 0,65%. Los datos objetivos de la curva de tipos USA muestran un diferencial de 0,37 pp entre los bonos a 10 y 2 años, reflejando las tensiones continuas en el mercado de renta fija.",
     "importancia": 3
    },
    {
-    "titulo": "Comportamiento del sector cripto",
-    "texto": "Bitcoin registró un avance del 2,02%, situándose en los 66.545 dólares, a pesar de que el indicador 'Fear and Greed' para criptomonedas se mantiene en 'Extreme Fear' (25). La capitalización total del mercado cripto creció un 1,37% en las últimas 24 horas.",
+    "titulo": "Comportamiento mixto en los principales índices bursátiles",
+    "texto": "Los índices cierran con signo positivo en su mayoría: el Nasdaq 100 avanza un 1,93% (hasta 29.155,18 puntos), el S&P 500 sube un 0,89% y el IBEX 35 un 1,13%. Sin embargo, la lectura semanal muestra correcciones previas en varios índices (como el Nasdaq que cede un 1,46% en la semana). Dentro de las acciones individuales, destacan las variaciones de Tesla con una subida del 2,53%, y caídas moderadas en Alphabet (-1,38%) y Microsoft (-1,13%).",
+    "importancia": 3
+   },
+   {
+    "titulo": "Mercado de criptomonedas bajo sentimiento de miedo",
+    "texto": "El Bitcoin cotiza a 65.844,48 dólares, registrando un descenso diario del 0,99% pero manteniendo una subida semanal del 3,04%. Ethereum se sitúa en 1.922,7 dólares con una caída del 0,29%. El índice Fear & Greed de criptomonedas se encuentra en 33, lo que indica un sentimiento de 'Fear' (miedo) en el mercado de activos digitales.",
     "importancia": 2
    }
   ],
   "vigilar": [
-   "Evolución de las tensiones en Oriente Medio y su impacto en el precio del petróleo",
-   "Resultados trimestrales de Tesla",
-   "Niveles de volatilidad (VIX) ante posibles noticias geopolíticas"
+   "La evolución de los precios del petróleo Brent y WTI ante las tensiones geopolíticas",
+   "El comportamiento del índice de volatilidad VIX y el rendimiento del bono a 10 años",
+   "El índice Fear & Greed en el mercado de criptomonedas"
   ],
   "proximos": [
-   "Publicación de resultados de Tesla",
-   "Efectos de la reducción del IVA en la electricidad en Reino Unido a partir de octubre"
+   "Nuevas publicaciones sobre datos de inflación y su relación con los precios energéticos",
+   "Próximos informes de resultados corporativos en el sector tecnológico y de telecomunicaciones"
   ],
-  "nota_riesgo": "El riesgo general se mantiene moderado-alto debido a la inestabilidad geopolítica, aunque la caída en la volatilidad sugiere que los mercados están absorbiendo estas tensiones con mayor calma por el momento."
+  "nota_riesgo": "El nivel de riesgo general muestra matices de cautela, reflejado en el repunte del VIX y el aumento de la volatilidad en la renta fija. Aunque los índices bursátiles muestran ganancias en la sesión, la incertidumbre geopolítica en Oriente Medio y su impacto directo en el petróleo sugieren mantener la prudencia."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -7.04,
-   "resumen": "La acción registra una caída del 7.04% a pesar de que los titulares destacan una demanda robusta para el futuro lanzamiento de GTA VI y proyecciones de flujo de caja positivo. Aunque los analistas mantienen el enfoque en el próximo gran título, el mercado parece estar reaccionando con cautela, ya que las noticias actuales no explican directamente este descenso reciente.",
+   "pl_pct": -7.49,
+   "resumen": "Tu posición acumula una caída del 7,49% mientras las noticias señalan descensos en bolsa contrarios a la tendencia del mercado. Los titulares apuntan a que el foco de los inversores está en el próximo lanzamiento de GTA VI y en unas previsiones de flujo de caja de mil millones según la documentación de la SEC, a la espera de un trimestre en línea con lo previsto.",
    "noticias": [
+    {
+     "titulo": "Take-Two Interactive (TTWO) Stock Declines While Market Improves: Some Information for Investors",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-ttwo-stock-declines-215003711.html?.tsrc=rss",
+     "fecha": "2026-07-21T21:50:03+00:00"
+    },
     {
      "titulo": "I Built a $12 Billion Company By Figuring Out How to Come Up With Hit Products. Here’s My Simple Formula.",
      "fuente": "Yahoo Finanzas",
@@ -74,12 +80,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-ttwo-stock-slides-215004438.html?.tsrc=rss",
      "fecha": "2026-07-14T21:50:04+00:00"
-    },
-    {
-     "titulo": "Take-Two 'GTA VI' Pre-Order Data Indicate 'Robust' Demand, B. Riley Says",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-apos-gta-vi-apos-165328884.html?.tsrc=rss",
-     "fecha": "2026-07-10T16:53:28+00:00"
     }
    ]
   }
