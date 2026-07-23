@@ -1,50 +1,62 @@
 {
- "actualizado": "2026-07-22T12:09:26+00:00",
+ "actualizado": "2026-07-23T12:06:43+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Apertura mixta en los mercados con fuertes contrastes en el petróleo y repunte de la volatilidad",
-  "resumen": "Los datos muestran una sesión variada en las bolsas y los mercados de materias primas, destacando la fuerte divergencia en los precios del petróleo y un incremento en la volatilidad. Los titulares recientes señalan que las tensiones geopolíticas y los riesgos de bloqueo en el Mar Rojo y en Irán están impactando en el sector energético. En criptomonedas, el Bitcoin cotiza en torno a los 65.844 dólares bajo un sentimiento de miedo en el mercado.",
+  "titular": "Jornada de corrección generalizada en los mercados con el petróleo al alza y repunte de la volatilidad",
+  "resumen": "Los principales índices bursátiles y las criptomonedas registran descensos en un contexto marcado por el aumento de la tensión geopolítica que impulsa al petróleo hacia los 100 dólares. El índice de volatilidad VIX experimenta un notable incremento, reflejando cautela entre los inversores.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Fuerte volatilidad y comportamiento divergente en el petróleo",
-    "texto": "Los datos reflejan movimientos significativos en las materias primas energéticas: el Petróleo WTI sube un 2,89% hasta los 87,36 dólares, mientras que el Petróleo Brent registra una caída diaria del 6,45% situándose en 85,14 dólares. Las noticias recientes apuntan a que los precios se han visto impulsados hacia máximos de seis semanas por los temores de intensificación de conflictos y la falta de desescalada en Irán, además de la incertidumbre sobre el flujo en el Mar Rojo. Estos movimientos afectan directamente a la cotización de los activos energéticos y reavivan las preocupaciones inflacionarias.",
+    "titulo": "Tensión geopolítica e impulso en el petróleo",
+    "texto": "El conflicto con Irán y los ataques en la zona del Mar Rojo y el estrecho de Ormuz han provocado que el precio del petróleo WTI suba un 4,45% y el Brent supere los 93 dólares, acercándose a la cota de los 100 dólares por barril. Esto podría indicar mayores presiones sobre los costes energéticos globales y la cadena de suministro. Los activos más afectados son las materias primas energéticas y el transporte.",
+    "importancia": 5
+   },
+   {
+    "titulo": "Repunte de la volatilidad en los mercados bursátiles",
+    "texto": "El índice de volatilidad VIX ha subido un 9,38% hasta situarse en los 18,2 puntos, acompañando a descensos moderados en las principales plazas de renta variable como el S&P 500 (-0,14%), el Nasdaq 100 (-0,54%) y el Euro Stoxx 50 (-0,95%). Esto refleja un incremento en la cautela a corto plazo de los inversores. Afecta de manera directa a los índices bursátiles globales y los principales ETFs.",
     "importancia": 4
    },
    {
-    "titulo": "Incremento de la volatilidad y rendimiento de los bonos",
-    "texto": "El índice de volatilidad VIX muestra un incremento diario del 3,23% hasta los 17,6 puntos, y acumula una subida semanal del 12,32%. Paralelamente, el rendimiento del bono estadounidense a 10 años se sitúa en el 4,628%, con un avance diario del 0,65%. Los datos objetivos de la curva de tipos USA muestran un diferencial de 0,37 pp entre los bonos a 10 y 2 años, reflejando las tensiones continuas en el mercado de renta fija.",
+    "titulo": "Comportamiento mixto en grandes tecnológicas y acciones",
+    "texto": "Dentro del sector tecnológico, se observan movimientos dispares con caídas notables en Meta (-2,58%) y Microsoft (-1,86%), mientras que NVIDIA avanza un 2,30% en la sesión. Los datos muestran divergencias sectoriales que recuerdan a divisiones de mercado pasadas. Los activos afectados son individualmente las acciones de gran capitalización tecnológica.",
     "importancia": 3
    },
    {
-    "titulo": "Comportamiento mixto en los principales índices bursátiles",
-    "texto": "Los índices cierran con signo positivo en su mayoría: el Nasdaq 100 avanza un 1,93% (hasta 29.155,18 puntos), el S&P 500 sube un 0,89% y el IBEX 35 un 1,13%. Sin embargo, la lectura semanal muestra correcciones previas en varios índices (como el Nasdaq que cede un 1,46% en la semana). Dentro de las acciones individuales, destacan las variaciones de Tesla con una subida del 2,53%, y caídas moderadas en Alphabet (-1,38%) y Microsoft (-1,13%).",
+    "titulo": "El mercado cripto en fase de pausa",
+    "texto": "Las criptomonedas muestran variaciones moderadas con Bitcoin cotizando en torno a los 65.500 dólares (-0,91% en el día) y Ethereum en los 1.924 dólares (-0,48%), acompañados de un indicador Fear & Greed de criptomonedas situado en 31, nivel de miedo. Esto podría indicar una fase de consolidación tras las subidas del último mes. Los activos afectados son Bitcoin, Ethereum y Solana.",
     "importancia": 3
-   },
-   {
-    "titulo": "Mercado de criptomonedas bajo sentimiento de miedo",
-    "texto": "El Bitcoin cotiza a 65.844,48 dólares, registrando un descenso diario del 0,99% pero manteniendo una subida semanal del 3,04%. Ethereum se sitúa en 1.922,7 dólares con una caída del 0,29%. El índice Fear & Greed de criptomonedas se encuentra en 33, lo que indica un sentimiento de 'Fear' (miedo) en el mercado de activos digitales.",
-    "importancia": 2
    }
   ],
   "vigilar": [
-   "La evolución de los precios del petróleo Brent y WTI ante las tensiones geopolíticas",
-   "El comportamiento del índice de volatilidad VIX y el rendimiento del bono a 10 años",
-   "El índice Fear & Greed en el mercado de criptomonedas"
+   "Evolución del precio del petróleo Brent y WTI ante la situación en el estrecho de Ormuz",
+   "Comportamiento del índice de volatilidad VIX",
+   "Niveles de soporte en los principales índices como el S&P 500 y Nasdaq 100"
   ],
   "proximos": [
-   "Nuevas publicaciones sobre datos de inflación y su relación con los precios energéticos",
-   "Próximos informes de resultados corporativos en el sector tecnológico y de telecomunicaciones"
+   "Próximos informes de resultados empresariales y decisiones de política monetaria",
+   "Evolución de los acontecimientos geopolíticos en Oriente Medio"
   ],
-  "nota_riesgo": "El nivel de riesgo general muestra matices de cautela, reflejado en el repunte del VIX y el aumento de la volatilidad en la renta fija. Aunque los índices bursátiles muestran ganancias en la sesión, la incertidumbre geopolítica en Oriente Medio y su impacto directo en el petróleo sugieren mantener la prudencia."
+  "nota_riesgo": "El nivel de riesgo general se eleva de forma moderada, impulsado por el repunte del VIX y la tensión geopolítica que presiona al alza los precios energéticos. Conviene mantener la prudencia y observar la evolución de los mercados de materias primas."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -7.49,
-   "resumen": "Tu posición acumula una caída del 7,49% mientras las noticias señalan descensos en bolsa contrarios a la tendencia del mercado. Los titulares apuntan a que el foco de los inversores está en el próximo lanzamiento de GTA VI y en unas previsiones de flujo de caja de mil millones según la documentación de la SEC, a la espera de un trimestre en línea con lo previsto.",
+   "pl_pct": -9.18,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 9,18%. Las noticias del día recogen anuncios sobre la portada del NBA 2K27, expectativas para el próximo informe de resultados del primer trimestre de 2027 y una caída en su cotización a pesar de la mejora del mercado. Sin embargo, estos titulares no explican de forma concluyente el motivo exacto de la bajada reciente.",
    "noticias": [
+    {
+     "titulo": "NBA® 2K27 Cover Athletes Revealed: Victor Wembanyama, Caitlin Clark, and Derrick Rose",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/media-advertising/articles/nba-2k27-cover-athletes-revealed-140000577.html?.tsrc=rss",
+     "fecha": "2026-07-22T14:00:00+00:00"
+    },
+    {
+     "titulo": "What to Expect From Take-Two Interactive’s Q1 2027 Earnings Report",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.barchart.com/story/news/3399266/what-to-expect-from-take-two-interactives-q1-2027-earnings-report?.tsrc=rss",
+     "fecha": "2026-07-22T10:18:32+00:00"
+    },
     {
      "titulo": "Take-Two Interactive (TTWO) Stock Declines While Market Improves: Some Information for Investors",
      "fuente": "Yahoo Finanzas",
@@ -68,18 +80,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://beincrypto.com/gta-vi-release-date-confirmed/?.tsrc=rss",
      "fecha": "2026-07-18T08:31:55+00:00"
-    },
-    {
-     "titulo": "Take-Two Interactive set for in-line quarter as investor focus remains on GTA VI",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.proactiveinvestors.com/companies/news/1095656/take-two-interactive-set-for-in-line-quarter-as-investor-focus-remains-on-gta-vi-1095656.html?.tsrc=rss",
-     "fecha": "2026-07-17T17:24:00+00:00"
-    },
-    {
-     "titulo": "Take-Two Interactive (TTWO) Stock Slides as Market Rises: Facts to Know Before You Trade",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-ttwo-stock-slides-215004438.html?.tsrc=rss",
-     "fecha": "2026-07-14T21:50:04+00:00"
     }
    ]
   }
