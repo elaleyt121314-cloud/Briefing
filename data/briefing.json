@@ -1,49 +1,50 @@
 {
- "actualizado": "2026-07-23T12:06:43+00:00",
+ "actualizado": "2026-07-24T11:27:26+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de corrección generalizada en los mercados con el petróleo al alza y repunte de la volatilidad",
-  "resumen": "Los principales índices bursátiles y las criptomonedas registran descensos en un contexto marcado por el aumento de la tensión geopolítica que impulsa al petróleo hacia los 100 dólares. El índice de volatilidad VIX experimenta un notable incremento, reflejando cautela entre los inversores.",
+  "titular": "Jornada de correcciones en Wall Street y fuerte caída del petróleo mientras las grandes tecnológicas sufren descensos",
+  "resumen": "Los principales índices de Wall Street cerraron con descensos liderados por el Nasdaq (-1,87%) y el S&P 500 (-1,21%), arrastrados por fuertes caídas en grandes acciones tecnológicas como Tesla, Alphabet y Amazon. En las materias primas, el petróleo Brent experimentó un retroceso del 8,63% situándose en 92 dólares. Por su parte, el Bitcoin se mantiene estable cerca de los 65.011 dólares en un contexto de miedo moderado en criptomonedas (Fear & Greed en 28).",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Tensión geopolítica e impulso en el petróleo",
-    "texto": "El conflicto con Irán y los ataques en la zona del Mar Rojo y el estrecho de Ormuz han provocado que el precio del petróleo WTI suba un 4,45% y el Brent supere los 93 dólares, acercándose a la cota de los 100 dólares por barril. Esto podría indicar mayores presiones sobre los costes energéticos globales y la cadena de suministro. Los activos más afectados son las materias primas energéticas y el transporte.",
-    "importancia": 5
-   },
-   {
-    "titulo": "Repunte de la volatilidad en los mercados bursátiles",
-    "texto": "El índice de volatilidad VIX ha subido un 9,38% hasta situarse en los 18,2 puntos, acompañando a descensos moderados en las principales plazas de renta variable como el S&P 500 (-0,14%), el Nasdaq 100 (-0,54%) y el Euro Stoxx 50 (-0,95%). Esto refleja un incremento en la cautela a corto plazo de los inversores. Afecta de manera directa a los índices bursátiles globales y los principales ETFs.",
+    "titulo": "Fuertes descensos en el sector tecnológico y de vehículos eléctricos",
+    "texto": "Los datos muestran caídas notables en varias de las principales acciones de Wall Street, destacando el desplome de Tesla con un -14,52%, Alphabet con un -7,13% y Amazon con un -4,57%. Estas caídas han pesado directamente sobre el índice Nasdaq 100, que ha retrocedido un 1,87%. Esto afecta de manera directa a los ETFs centrados en tecnología como Invesco QQQ y a los inversores expuestos al sector de crecimiento estadounidense.",
     "importancia": 4
    },
    {
-    "titulo": "Comportamiento mixto en grandes tecnológicas y acciones",
-    "texto": "Dentro del sector tecnológico, se observan movimientos dispares con caídas notables en Meta (-2,58%) y Microsoft (-1,86%), mientras que NVIDIA avanza un 2,30% en la sesión. Los datos muestran divergencias sectoriales que recuerdan a divisiones de mercado pasadas. Los activos afectados son individualmente las acciones de gran capitalización tecnológica.",
+    "titulo": "Corrección importante en el precio del petróleo",
+    "texto": "El petróleo Brent ha registrado una fuerte bajada del 8,63% en la sesión, situándose en 92 dólares por barril, mientras que el WTI ha caído un 2,54% hasta los 89,85 dólares. A pesar de este retroceso diario, el comportamiento mensual sigue reflejando subidas acumuladas importantes superiores al 24%. Este movimiento impacta directamente en el sector energético y en las materias primas globales.",
+    "importancia": 4
+   },
+   {
+    "titulo": "Estabilidad en criptomonedas pese al sentimiento de miedo",
+    "texto": "El Bitcoin se sitúa en los 65.011 dólares con una variación diaria prácticamente plana del -0,05%, mientras que Ethereum registra un leve ascenso del 0,18% hasta los 1.880 dólares. El índice Fear & Greed para criptomonedas se encuentra en 28 puntos, lo que denota un sentimiento de miedo en el mercado. Los activos digitales muestran resiliencia a corto plazo a pesar de este contexto de cautela.",
     "importancia": 3
    },
    {
-    "titulo": "El mercado cripto en fase de pausa",
-    "texto": "Las criptomonedas muestran variaciones moderadas con Bitcoin cotizando en torno a los 65.500 dólares (-0,91% en el día) y Ethereum en los 1.924 dólares (-0,48%), acompañados de un indicador Fear & Greed de criptomonedas situado en 31, nivel de miedo. Esto podría indicar una fase de consolidación tras las subidas del último mes. Los activos afectados son Bitcoin, Ethereum y Solana.",
+    "titulo": "Comportamiento mixto en los índices europeos y asiáticos",
+    "texto": "Mientras las bolsas estadounidenses sufrían correcciones, los índices europeos mostraron tono positivo con avances para el Euro Stoxx 50 (0,65%), el DAX (0,77%) y el IBEX 35 (0,82%). En contraste, el Nikkei 225 japonés experimentó una caída significativa del 2,73%. Esto refleja divergencias geográficas en los mercados bursátiles durante la jornada.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución del precio del petróleo Brent y WTI ante la situación en el estrecho de Ormuz",
-   "Comportamiento del índice de volatilidad VIX",
-   "Niveles de soporte en los principales índices como el S&P 500 y Nasdaq 100"
+   "Evolución de las grandes tecnológicas (Tesla, Alphabet, Amazon) tras las fuertes caídas de la sesión",
+   "Estabilización o continuidad del retroceso en el precio del petróleo Brent y WTI",
+   "Nivel clave de los 65.000 dólares en el Bitcoin y el índice de miedo en criptomonedas"
   ],
   "proximos": [
-   "Próximos informes de resultados empresariales y decisiones de política monetaria",
-   "Evolución de los acontecimientos geopolíticos en Oriente Medio"
+   "Nuevos desarrollos y detalles sobre los aranceles globales de Trump y su impacto comercial",
+   "Evolución del Euríbor diario de cara al cierre de la media mensual de julio",
+   "Publicaciones de resultados empresariales y datos macroeconómicos de tipos de interés y deuda"
   ],
-  "nota_riesgo": "El nivel de riesgo general se eleva de forma moderada, impulsado por el repunte del VIX y la tensión geopolítica que presiona al alza los precios energéticos. Conviene mantener la prudencia y observar la evolución de los mercados de materias primas."
+  "nota_riesgo": "El nivel de riesgo general se eleva debido a las correcciones generalizadas en la renta variable estadounidense, el desplome puntual de valores tecnológicos clave y la alta volatilidad en materias primas como el petróleo. No obstante, la renta fija y activos refugio como el oro muestran estabilidad, sugiriendo cautela sin entrar en pánico."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -9.18,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 9,18%. Las noticias del día recogen anuncios sobre la portada del NBA 2K27, expectativas para el próximo informe de resultados del primer trimestre de 2027 y una caída en su cotización a pesar de la mejora del mercado. Sin embargo, estos titulares no explican de forma concluyente el motivo exacto de la bajada reciente.",
+   "pl_pct": -10.52,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 10,52% y los titulares señalan que la acción ha bajado mientras el mercado mejoraba. Las noticias de hoy recogen la revelación de los atletas de portada de NBA 2K27, previsiones de cara a los próximos resultados trimestrales y un informe que apunta a flujos de caja futuros, aunque los titulares no explican de forma concluyente el motivo exacto de la caída reciente.",
    "noticias": [
     {
      "titulo": "NBA® 2K27 Cover Athletes Revealed: Victor Wembanyama, Caitlin Clark, and Derrick Rose",
