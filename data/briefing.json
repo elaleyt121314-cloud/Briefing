@@ -1,50 +1,44 @@
 {
- "actualizado": "2026-07-24T11:27:26+00:00",
+ "actualizado": "2026-07-25T10:49:03+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de correcciones en Wall Street y fuerte caída del petróleo mientras las grandes tecnológicas sufren descensos",
-  "resumen": "Los principales índices de Wall Street cerraron con descensos liderados por el Nasdaq (-1,87%) y el S&P 500 (-1,21%), arrastrados por fuertes caídas en grandes acciones tecnológicas como Tesla, Alphabet y Amazon. En las materias primas, el petróleo Brent experimentó un retroceso del 8,63% situándose en 92 dólares. Por su parte, el Bitcoin se mantiene estable cerca de los 65.011 dólares en un contexto de miedo moderado en criptomonedas (Fear & Greed en 28).",
+  "titular": "Fuerte corrección en las grandes tecnológicas y aumento de la volatilidad en los mercados",
+  "resumen": "Los datos muestran una jornada de descensos generalizados en los principales índices, liderados por las caídas del Nasdaq 100 y de valores tecnológicos clave como Tesla, Alphabet y Amazon. En paralelo, el índice de volatilidad VIX registra un notable repunte y el petróleo retrocede, mientras los inversores digieren un contexto de tipos elevados y tensiones geopolíticas.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Fuertes descensos en el sector tecnológico y de vehículos eléctricos",
-    "texto": "Los datos muestran caídas notables en varias de las principales acciones de Wall Street, destacando el desplome de Tesla con un -14,52%, Alphabet con un -7,13% y Amazon con un -4,57%. Estas caídas han pesado directamente sobre el índice Nasdaq 100, que ha retrocedido un 1,87%. Esto afecta de manera directa a los ETFs centrados en tecnología como Invesco QQQ y a los inversores expuestos al sector de crecimiento estadounidense.",
+    "titulo": "Fuerte presión vendedora en el sector tecnológico",
+    "texto": "Los datos indican caídas significativas en grandes tecnológicas como Tesla (-16.3%), Alphabet (-6.53%), Amazon (-5.2%) y Meta (-5.1%), lo que arrastró al Nasdaq 100 a un descenso del 3.0%. Esto afecta directamente a los ETFs de tecnología y refleja un comportamiento desfavorable para los llamados Siete Magníficos en la sesión. Los datos objetivos muestran estas variaciones, aunque las causas específicas del desplome bursátil individual no se detallan en las fuentes.",
+    "importancia": 5
+   },
+   {
+    "titulo": "Repunte de la volatilidad y los rendimientos de los bonos",
+    "texto": "El indicador de volatilidad VIX experimentó un fuerte incremento del 11.66% hasta los 18.58 puntos, reflejando un aumento de la tensión en los mercados. Simultáneamente, el rendimiento del bono estadounidense a 10 años subió hasta el 4.679%. Esto podría indicar un entorno de mayor cautela entre los inversores frente a la renta variable.",
     "importancia": 4
    },
    {
-    "titulo": "Corrección importante en el precio del petróleo",
-    "texto": "El petróleo Brent ha registrado una fuerte bajada del 8,63% en la sesión, situándose en 92 dólares por barril, mientras que el WTI ha caído un 2,54% hasta los 89,85 dólares. A pesar de este retroceso diario, el comportamiento mensual sigue reflejando subidas acumuladas importantes superiores al 24%. Este movimiento impacta directamente en el sector energético y en las materias primas globales.",
-    "importancia": 4
-   },
-   {
-    "titulo": "Estabilidad en criptomonedas pese al sentimiento de miedo",
-    "texto": "El Bitcoin se sitúa en los 65.011 dólares con una variación diaria prácticamente plana del -0,05%, mientras que Ethereum registra un leve ascenso del 0,18% hasta los 1.880 dólares. El índice Fear & Greed para criptomonedas se encuentra en 28 puntos, lo que denota un sentimiento de miedo en el mercado. Los activos digitales muestran resiliencia a corto plazo a pesar de este contexto de cautela.",
-    "importancia": 3
-   },
-   {
-    "titulo": "Comportamiento mixto en los índices europeos y asiáticos",
-    "texto": "Mientras las bolsas estadounidenses sufrían correcciones, los índices europeos mostraron tono positivo con avances para el Euro Stoxx 50 (0,65%), el DAX (0,77%) y el IBEX 35 (0,82%). En contraste, el Nikkei 225 japonés experimentó una caída significativa del 2,73%. Esto refleja divergencias geográficas en los mercados bursátiles durante la jornada.",
+    "titulo": "Descenso destacado en las materias primas energéticas",
+    "texto": "El petróleo Brent y el WTI registraron caídas del 3.88% y 3.12%, situándose en 96.78 y 89.31 dólares respectivamente, a pesar de las noticias sobre tensiones en el Golfo Pérsico y el Mar Rojo. Este movimiento contrasta con el comportamiento alcista del oro, que subió un 0.6% hasta los 4070.8 dólares, mostrando un flujo hacia activos refugio.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución de las grandes tecnológicas (Tesla, Alphabet, Amazon) tras las fuertes caídas de la sesión",
-   "Estabilización o continuidad del retroceso en el precio del petróleo Brent y WTI",
-   "Nivel clave de los 65.000 dólares en el Bitcoin y el índice de miedo en criptomonedas"
+   "Evolución del índice de volatilidad VIX",
+   "Comportamiento de las grandes tecnológicas tras las fuertes caídas diarias",
+   "Rendimiento de los bonos del Tesoro de EE. UU."
   ],
   "proximos": [
-   "Nuevos desarrollos y detalles sobre los aranceles globales de Trump y su impacto comercial",
-   "Evolución del Euríbor diario de cara al cierre de la media mensual de julio",
-   "Publicaciones de resultados empresariales y datos macroeconómicos de tipos de interés y deuda"
+   "Próximas decisiones o resoluciones sobre la demanda y el bloqueo de la fusión entre Paramount y Warner Bros.",
+   "Nuevos datos macroeconómicos sobre inflación y decisiones de tipos de interés"
   ],
-  "nota_riesgo": "El nivel de riesgo general se eleva debido a las correcciones generalizadas en la renta variable estadounidense, el desplome puntual de valores tecnológicos clave y la alta volatilidad en materias primas como el petróleo. No obstante, la renta fija y activos refugio como el oro muestran estabilidad, sugiriendo cautela sin entrar en pánico."
+  "nota_riesgo": "El nivel de riesgo general se eleva de manera moderada a la luz de los datos, impulsado por el repunte de doble dígito en el VIX, las fuertes caídas en índices tecnológicos y el incremento en los rendimientos de la deuda soberana."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -10.52,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 10,52% y los titulares señalan que la acción ha bajado mientras el mercado mejoraba. Las noticias de hoy recogen la revelación de los atletas de portada de NBA 2K27, previsiones de cara a los próximos resultados trimestrales y un informe que apunta a flujos de caja futuros, aunque los titulares no explican de forma concluyente el motivo exacto de la caída reciente.",
+   "pl_pct": -7.58,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 7,58%, en un día donde las acciones de la compañía han bajado mientras el mercado general mejoraba. Los titulares de hoy se centran en la revelación de los atletas de portada del NBA 2K27, las expectativas ante su próximo informe de resultados del primer trimestre de 2027 y una presentación ante la SEC que pronostica un flujo de caja de mil millones, aunque estas noticias no explican directamente la caída reciente.",
    "noticias": [
     {
      "titulo": "NBA® 2K27 Cover Athletes Revealed: Victor Wembanyama, Caitlin Clark, and Derrick Rose",
