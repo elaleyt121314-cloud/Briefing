@@ -1,49 +1,49 @@
 {
- "actualizado": "2026-07-26T11:05:10+00:00",
+ "actualizado": "2026-07-27T13:59:24+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Fuerte corrección en el sector tecnológico y caídas generalizadas en los índices de referencia",
-  "resumen": "Los mercados de renta variable han registrado descensos notables, con el Nasdaq 100 cayendo un 3,0% y fuertes caídas en grandes valores tecnológicos como Tesla y Alphabet. En paralelo, la volatilidad (VIX) se ha disparado un 11,66%, mientras que el petróleo Brent y WTI han sufrido correcciones superiores al 3%. Los datos muestran un incremento de la aversión al riesgo en las bolsas, sin que los datos ofrezcan una causa exógena única para este movimiento.",
+  "titular": "El petróleo sufre su mayor caída en dos meses tras una pausa de ataques y el Ibex alcanza récords",
+  "resumen": "Los precios del crudo cayeron con fuerza tras un alto el fuego y la pausa de ataques entre EE. UU. e Irán, impulsando a índices como el Ibex 35 a tocar máximos en un contexto de menor volatilidad general. Los datos muestran movimientos moderados en la renta variable con subidas destacadas en tecnológicas como Microsoft y Alphabet, mientras el sector cripto se mantiene en una zona de miedo.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Corrección severa en el sector tecnológico y grandes capitalizadas",
-    "texto": "El índice Nasdaq 100 ha retrocedido un 3,0% arrastrado por fuertes caídas en acciones de gran peso como Tesla (-16,3%), Alphabet (-6,53%), Amazon (-5,2%), Meta (-5,1%), NVIDIA (-2,46%) y Microsoft (-2,21%), aunque Apple se ha desmarcado con una subida del 3,36%. Este movimiento bajista en la tecnología ha impactado de lleno en el S&P 500 (-1,16%). Los datos muestran una presión vendedora concentrada en este sector, lo que podría indicar una toma de beneficios o una reconfiguración de carteras en los valores más alcistas.",
+    "titulo": "Desplome del petróleo por la pausa geopolítica",
+    "texto": "El petróleo Brent y el WTI registraron caídas superiores al 6% (con descensos concretos del 6,57% y 6,19% respectivamente) debido a la pausa en los ataques entre EE. UU. e Irán. Esta corrección repentina ha aliviado la presión sobre los mercados energéticos y ha coincidido con subidas notables en los índices europeos, destacando el Ibex 35 que toca récords.",
     "importancia": 5
    },
    {
-    "titulo": "Repunte destacado de la volatilidad en los mercados",
-    "texto": "El índice de volatilidad VIX ha experimentado un incremento del 11,66% en la jornada, situándose en los 18,58 puntos. Este comportamiento refleja un aumento notable en la inquietud de los inversores ante las caídas de la renta variable. Afecta directamente a la percepción de riesgo en el corto plazo para los índices globales como el S&P 500 y el Nasdaq 100.",
+    "titulo": "Comportamiento mixto en grandes tecnológicas",
+    "texto": "Dentro de las acciones, Microsoft y Alphabet avanzaron un 2,57% y un 2,56% respectivamente, superando el umbral del 2% de variación diaria, mientras que NVIDIA retrocedió un 2,49%. Estos movimientos se producen en un entorno donde los inversores pivotan hacia valores tecnológicos de gran capitalización y se debate sobre los modelos de inteligencia artificial.",
     "importancia": 4
    },
    {
-    "titulo": "Descenso pronunciado en los precios del petróleo",
-    "texto": "Las materias primas energéticas han registrado correcciones importantes, con el petróleo Brent cayendo un 3,88% hasta los 96,78 dólares y el WTI cediendo un 3,12% hasta los 89,31 dólares. Aunque acumulan subidas relevantes en el horizonte mensual, este movimiento diario muestra un alivio puntual en los precios del crudo. Afecta de manera directa al sector energético y a las expectativas de inflación.",
+    "titulo": "Reducción de la volatilidad en los mercados",
+    "texto": "El índice de volatilidad VIX experimentó un descenso del 2,05%, situándose en los 18,2 puntos. Los datos muestran también un rendimiento del bono de EE. UU. a 10 años en el 4,647% (bajando un 0,68% en el día), lo que refleja una sesión con menor tensión en los activos de referencia de renta fija y riesgo.",
     "importancia": 3
    },
    {
-    "titulo": "Caídas en los mercados asiáticos, liderados por el Nikkei 225",
-    "texto": "En la región de Asia-Pacífico, el índice Nikkei 225 ha sufrido un descenso del 2,28% en la jornada, ampliando su caída semanal hasta el -6,02%. Los datos objetivos reflejan un tono bajista generalizado en consonancia con la corrección de los mercados occidentales. Esto afecta a la confianza en los activos de riesgo de la región.",
+    "titulo": "Sentimiento de miedo en el ecosistema cripto",
+    "texto": "Bitcoin cotiza en torno a los 65.158 dólares con una ligera variación negativa del 0,28%, mientras que el indicador Fear & Greed de criptomonedas se sitúa en un valor de 30, reflejando un estado de 'Fear' (miedo). La capitalización total del mercado cripto se ubica en los 2,32 billones de dólares con un repunte diario del 1,66%.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución del índice de volatilidad VIX",
-   "Comportamiento de las grandes tecnológicas (Tesla, Alphabet, Amazon)",
-   "Rendimiento del bono USA a 10 años"
+   "Evolución del precio del petróleo tras la pausa de ataques entre EE. UU. e Irán",
+   "Comportamiento de los rendimientos de los bonos estadounidenses a 10 y 2 años",
+   "Nivel del índice de volatilidad VIX y su permanencia bajo la zona de tensión"
   ],
   "proximos": [
-   "Planes de infraestructura de comercio de criptomonedas de Sberbank previstos para diciembre",
-   "Próximas publicaciones de datos macroeconómicos y decisiones de tipos de interés"
+   "Próximas decisiones y declaraciones del nuevo presidente de la Reserva Federal (Fed), Kevin M. Warsh, respecto a la inflación",
+   "Nuevos datos y actualizaciones sobre la regulación de activos digitales y tokenización"
   ],
-  "nota_riesgo": "El nivel de riesgo general ha aumentado de forma perceptible, reflejado en el fuerte repunte del VIX (+11,66%) y las ventas generalizadas en tecnología. Conviene mantener la calma y la perspectiva a largo plazo ante episodios de alta volatilidad."
+  "nota_riesgo": "El nivel de riesgo general muestra un respiro gracias a la bajada de la volatilidad (VIX en 18,2) y el abaratamiento del petróleo, aunque persisten los interrogantes sobre la postura futura de la Reserva Federal y las tensiones geopolíticas latentes."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -7.58,
-   "resumen": "Tu posición registra una rentabilidad del -7,58% mientras el mercado mejora y la acción desciende. Los titulares de hoy informan sobre los deportistas de la portada del NBA 2K27, previsiones para el informe de resultados del primer trimestre de 2027 y una previsión de flujo de caja de mil millones en un documento de la SEC, pero estas noticias no explican de forma directa la caída actual.",
+   "pl_pct": -8.47,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 8,47% y los datos muestran que la acción ha bajado recientemente mientras el mercado mejoraba. Entre las noticias del día destacan anuncios sobre los atletas de portada de la NBA 2K27, previsiones de flujo de caja en un informe ante la SEC y expectativas de cara a los próximos resultados trimestrales, aunque ninguna de estas informaciones explica por sí sola de forma directa el movimiento actual de la cotización.",
    "noticias": [
     {
      "titulo": "NBA® 2K27 Cover Athletes Revealed: Victor Wembanyama, Caitlin Clark, and Derrick Rose",
