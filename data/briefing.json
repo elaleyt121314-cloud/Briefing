@@ -1,49 +1,50 @@
 {
- "actualizado": "2026-07-27T13:59:24+00:00",
+ "actualizado": "2026-07-28T12:23:14+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "El petróleo sufre su mayor caída en dos meses tras una pausa de ataques y el Ibex alcanza récords",
-  "resumen": "Los precios del crudo cayeron con fuerza tras un alto el fuego y la pausa de ataques entre EE. UU. e Irán, impulsando a índices como el Ibex 35 a tocar máximos en un contexto de menor volatilidad general. Los datos muestran movimientos moderados en la renta variable con subidas destacadas en tecnológicas como Microsoft y Alphabet, mientras el sector cripto se mantiene en una zona de miedo.",
+  "titular": "Jornada mixta en los mercados con fuertes caídas en el sector tecnológico y en el Nikkei 225",
+  "resumen": "Los datos muestran una sesión de contrastes donde los índices principales de EE. UU. y Europa se movieron de forma dispar, mientras que el Nikkei 225 sufrió un retroceso destacado del 3,95%. El sector tecnológico experimentó presiones a la baja, con especial atención al descenso del 4,99% en NVIDIA y a las tensiones sobre el gasto en inteligencia artificial. Por su parte, materias primas como el petróleo Brent y WTI continuaron a la baja.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Desplome del petróleo por la pausa geopolítica",
-    "texto": "El petróleo Brent y el WTI registraron caídas superiores al 6% (con descensos concretos del 6,57% y 6,19% respectivamente) debido a la pausa en los ataques entre EE. UU. e Irán. Esta corrección repentina ha aliviado la presión sobre los mercados energéticos y ha coincidido con subidas notables en los índices europeos, destacando el Ibex 35 que toca récords.",
+    "titulo": "Fuerte corrección en el Nikkei 225 y cautela en el sector tecnológico",
+    "texto": "Los datos objetivos reflejan que el índice Nikkei 225 cayó un 3,95% en la jornada, en una sesión marcada por ventas generalizadas en Asia y caídas en acciones de semiconductores ante preocupaciones sobre la competencia de chips en China y el gasto en inteligencia artificial. Esto afectó directamente a activos como NVIDIA, que retrocedió un 4,99%. Las noticias señalan que los inversores vigilan de cerca la sostenibilidad de los retornos en IA y el impacto de los nuevos avances tecnológicos asiáticos.",
     "importancia": 5
    },
    {
-    "titulo": "Comportamiento mixto en grandes tecnológicas",
-    "texto": "Dentro de las acciones, Microsoft y Alphabet avanzaron un 2,57% y un 2,56% respectivamente, superando el umbral del 2% de variación diaria, mientras que NVIDIA retrocedió un 2,49%. Estos movimientos se producen en un entorno donde los inversores pivotan hacia valores tecnológicos de gran capitalización y se debate sobre los modelos de inteligencia artificial.",
+    "titulo": "Descenso continuado en los precios del petróleo",
+    "texto": "El petróleo Brent registró una bajada del 1,60% hasta los 86,95 dólares y el WTI cayó un 1,32% hasta los 81,52 dólares. Los informes recientes apuntan a que este movimiento bajista se produce tras declaraciones sobre conversaciones profundas entre Estados Unidos y el acuerdo de pausa en el conflicto con Irán. Este comportamiento afecta de manera directa a los activos vinculados a la energía.",
     "importancia": 4
    },
    {
-    "titulo": "Reducción de la volatilidad en los mercados",
-    "texto": "El índice de volatilidad VIX experimentó un descenso del 2,05%, situándose en los 18,2 puntos. Los datos muestran también un rendimiento del bono de EE. UU. a 10 años en el 4,647% (bajando un 0,68% en el día), lo que refleja una sesión con menor tensión en los activos de referencia de renta fija y riesgo.",
+    "titulo": "Comportamiento dispar en los índices de EE. UU. y Europa",
+    "texto": "Mientras el S&P 500 se mantuvo prácticamente plano (0,02%) y el Nasdaq 100 bajó un 0,32%, el Dow Jones avanzó un 0,51% y el IBEX 35 subió un 0,21%. Los datos muestran que el mercado europeo y los índices de corte más tradicional esquivaron parcialmente el castigo tecnológico sufrido por otros parqués globales en la sesión.",
     "importancia": 3
    },
    {
-    "titulo": "Sentimiento de miedo en el ecosistema cripto",
-    "texto": "Bitcoin cotiza en torno a los 65.158 dólares con una ligera variación negativa del 0,28%, mientras que el indicador Fear & Greed de criptomonedas se sitúa en un valor de 30, reflejando un estado de 'Fear' (miedo). La capitalización total del mercado cripto se ubica en los 2,32 billones de dólares con un repunte diario del 1,66%.",
+    "titulo": "Clima de miedo en criptomonedas y estabilidad en Bitcoin",
+    "texto": "El indicador Fear and Greed de criptomonedas se sitúa en 29 (nivel de 'Fear'), mientras que Bitcoin registra una variación del -0,54% situándose en 63.380,57 dólares. La capitalización total del mercado cripto disminuyó un 2,51% en 24 horas. Las informaciones mencionan factores como la paralización de proyectos legislativos y la debilidad general de las altcoins.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución del precio del petróleo tras la pausa de ataques entre EE. UU. e Irán",
-   "Comportamiento de los rendimientos de los bonos estadounidenses a 10 y 2 años",
-   "Nivel del índice de volatilidad VIX y su permanencia bajo la zona de tensión"
+   "Evolución del sector tecnológico y anuncios de gasto en IA por parte de las grandes tecnológicas",
+   "Precios del petróleo Brent y WTI ante posibles novedades geopolíticas",
+   "Indicador de volatilidad VIX, situado en 18,76",
+   "Comportamiento del mercado de criptomonedas y el nivel del índice Fear and Greed"
   ],
   "proximos": [
-   "Próximas decisiones y declaraciones del nuevo presidente de la Reserva Federal (Fed), Kevin M. Warsh, respecto a la inflación",
-   "Nuevos datos y actualizaciones sobre la regulación de activos digitales y tokenización"
+   "Próximos resultados corporativos y actualizaciones sobre beneficios de Meta y otras grandes tecnológicas",
+   "Nuevos datos e informes relacionados con la competencia en chips y semiconductores"
   ],
-  "nota_riesgo": "El nivel de riesgo general muestra un respiro gracias a la bajada de la volatilidad (VIX en 18,2) y el abaratamiento del petróleo, aunque persisten los interrogantes sobre la postura futura de la Reserva Federal y las tensiones geopolíticas latentes."
+  "nota_riesgo": "El nivel de riesgo general muestra señales de cautela, reflejado en un VIX en 18,76, caídas notables en el sector de semiconductores (NVIDIA) y un índice de miedo en criptomonedas situado en 29. Los datos sugieren una mayor selectividad por parte de los inversores ante las incertidumbres sobre el gasto tecnológico."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -8.47,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 8,47% y los datos muestran que la acción ha bajado recientemente mientras el mercado mejoraba. Entre las noticias del día destacan anuncios sobre los atletas de portada de la NBA 2K27, previsiones de flujo de caja en un informe ante la SEC y expectativas de cara a los próximos resultados trimestrales, aunque ninguna de estas informaciones explica por sí sola de forma directa el movimiento actual de la cotización.",
+   "pl_pct": -5.35,
+   "resumen": "Tu posición registra una rentabilidad del -5.35%, mientras los titulares señalan un descenso de las acciones frente a la mejora del mercado. Las noticias recientes se centran en la revelación de los atletas de portada de NBA 2K27, las expectativas ante su próximo informe de resultados del primer trimestre de 2027 y las previsiones de flujo de caja en una presentación ante la SEC, aunque los titulares no explican de forma directa el motivo exacto de la caída.",
    "noticias": [
     {
      "titulo": "NBA® 2K27 Cover Athletes Revealed: Victor Wembanyama, Caitlin Clark, and Derrick Rose",
