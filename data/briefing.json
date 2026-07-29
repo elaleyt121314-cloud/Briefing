@@ -1,86 +1,80 @@
 {
- "actualizado": "2026-07-28T12:23:14+00:00",
+ "actualizado": "2026-07-29T12:33:17+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada mixta en los mercados con fuertes caídas en el sector tecnológico y en el Nikkei 225",
-  "resumen": "Los datos muestran una sesión de contrastes donde los índices principales de EE. UU. y Europa se movieron de forma dispar, mientras que el Nikkei 225 sufrió un retroceso destacado del 3,95%. El sector tecnológico experimentó presiones a la baja, con especial atención al descenso del 4,99% en NVIDIA y a las tensiones sobre el gasto en inteligencia artificial. Por su parte, materias primas como el petróleo Brent y WTI continuaron a la baja.",
+  "titular": "El petróleo sube con fuerza por tensiones geopolíticas mientras las tecnológicas sufren presiones y la volatilidad repunta",
+  "resumen": "Los precios del petróleo registraron subidas superiores al 6% impulsados por ataques de EE. UU. y Arabia Saudí contra milicias respaldadas por Irán en Irak. En los mercados bursátiles, el sector tecnológico y el Nasdaq 100 experimentaron caídas notables en un contexto de cautela a la espera de las decisiones de la Reserva Federal. Por su parte, el índice de volatilidad VIX subió un 3.24% reflejando el incremento de la tensión en los mercados.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Fuerte corrección en el Nikkei 225 y cautela en el sector tecnológico",
-    "texto": "Los datos objetivos reflejan que el índice Nikkei 225 cayó un 3,95% en la jornada, en una sesión marcada por ventas generalizadas en Asia y caídas en acciones de semiconductores ante preocupaciones sobre la competencia de chips en China y el gasto en inteligencia artificial. Esto afectó directamente a activos como NVIDIA, que retrocedió un 4,99%. Las noticias señalan que los inversores vigilan de cerca la sostenibilidad de los retornos en IA y el impacto de los nuevos avances tecnológicos asiáticos.",
+    "titulo": "Fuerte repunte del petróleo por conflicto en Oriente Medio",
+    "texto": "Los contratos de crudo Brent y WTI registraron subidas del 6.67% y 6.43% respectivamente. Las fuentes informan de que este movimiento se produce tras los ataques de Estados Unidos y Arabia Saudí contra milicias respaldadas por Irán en Irak, lo que ha generado preocupación en los inversores sobre el flujo continuo de energía. Este aumento afecta directamente a las materias primas energéticas y añade presión inflacionista.",
     "importancia": 5
    },
    {
-    "titulo": "Descenso continuado en los precios del petróleo",
-    "texto": "El petróleo Brent registró una bajada del 1,60% hasta los 86,95 dólares y el WTI cayó un 1,32% hasta los 81,52 dólares. Los informes recientes apuntan a que este movimiento bajista se produce tras declaraciones sobre conversaciones profundas entre Estados Unidos y el acuerdo de pausa en el conflicto con Irán. Este comportamiento afecta de manera directa a los activos vinculados a la energía.",
+    "titulo": "Corrección y turbulencias en el sector tecnológico y el Nasdaq",
+    "texto": "El Nasdaq 100 descendió un 0.98% y acumula caídas semanales del 4.77%, encontrándose cerca de terreno de corrección ante el nerviosismo por los beneficios empresariales y las próximas citas macroeconómicas. En España, el IBEX 35 retrocedió un 1.34%, lastrado por caídas en empresas como CaixaBank a pesar de reportar buenos resultados. Estos datos muestran la cautela actual en los mercados de renta variable frente al sector tecnológico.",
     "importancia": 4
    },
    {
-    "titulo": "Comportamiento dispar en los índices de EE. UU. y Europa",
-    "texto": "Mientras el S&P 500 se mantuvo prácticamente plano (0,02%) y el Nasdaq 100 bajó un 0,32%, el Dow Jones avanzó un 0,51% y el IBEX 35 subió un 0,21%. Los datos muestran que el mercado europeo y los índices de corte más tradicional esquivaron parcialmente el castigo tecnológico sufrido por otros parqués globales en la sesión.",
-    "importancia": 3
-   },
-   {
-    "titulo": "Clima de miedo en criptomonedas y estabilidad en Bitcoin",
-    "texto": "El indicador Fear and Greed de criptomonedas se sitúa en 29 (nivel de 'Fear'), mientras que Bitcoin registra una variación del -0,54% situándose en 63.380,57 dólares. La capitalización total del mercado cripto disminuyó un 2,51% en 24 horas. Las informaciones mencionan factores como la paralización de proyectos legislativos y la debilidad general de las altcoins.",
-    "importancia": 3
+    "titulo": "Aumento de la volatilidad y atención en la Reserva Federal",
+    "texto": "El indicador de volatilidad VIX subió un 3.24% hasta situarse en los 18.8 puntos, reflejando el nerviosismo de los inversores. La reunión de la Reserva Federal prevista para el día de hoy acapara la atención global de los mercados de bonos y divisas. Los datos objetivos muestran que el rendimiento del bono estadounidense a 10 años se sitúa en el 4.604% tras un descenso diario del 0.8%.",
+    "importancia": 4
    }
   ],
   "vigilar": [
-   "Evolución del sector tecnológico y anuncios de gasto en IA por parte de las grandes tecnológicas",
-   "Precios del petróleo Brent y WTI ante posibles novedades geopolíticas",
-   "Indicador de volatilidad VIX, situado en 18,76",
-   "Comportamiento del mercado de criptomonedas y el nivel del índice Fear and Greed"
+   "Evolución de los precios del petróleo Brent y WTI ante los acontecimientos en Oriente Medio",
+   "Comportamiento del índice de volatilidad VIX y del sector tecnológico (Nasdaq 100)",
+   "Decisiones e indicaciones de la Reserva Federal en su reunión de hoy"
   ],
   "proximos": [
-   "Próximos resultados corporativos y actualizaciones sobre beneficios de Meta y otras grandes tecnológicas",
-   "Nuevos datos e informes relacionados con la competencia en chips y semiconductores"
+   "Decisión de tipos y comunicado oficial de la Reserva Federal (Fed)",
+   "Próximos resultados trimestrales de grandes tecnológicas como Meta, Microsoft y Amazon"
   ],
-  "nota_riesgo": "El nivel de riesgo general muestra señales de cautela, reflejado en un VIX en 18,76, caídas notables en el sector de semiconductores (NVIDIA) y un índice de miedo en criptomonedas situado en 29. Los datos sugieren una mayor selectividad por parte de los inversores ante las incertidumbres sobre el gasto tecnológico."
+  "nota_riesgo": "El nivel de riesgo general se eleva moderadamente debido al incremento de la tensión geopolítica que impulsa el crudo y al repunte de la volatilidad (VIX), sumado a la incertidumbre en torno a las tecnológicas y la reunión de la Fed."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -5.35,
-   "resumen": "Tu posición registra una rentabilidad del -5.35%, mientras los titulares señalan un descenso de las acciones frente a la mejora del mercado. Las noticias recientes se centran en la revelación de los atletas de portada de NBA 2K27, las expectativas ante su próximo informe de resultados del primer trimestre de 2027 y las previsiones de flujo de caja en una presentación ante la SEC, aunque los titulares no explican de forma directa el motivo exacto de la caída.",
+   "pl_pct": -3.03,
+   "resumen": "Tu posición registra una rentabilidad del -3,03%. Entre las noticias de hoy se mencionan propuestas sobre la responsabilidad de los directivos, la atención de Wall Street y el impulso que Sony espera por 'GTA VI', aunque los titulares no explican de forma directa este movimiento reciente en el mercado.",
    "noticias": [
+    {
+     "titulo": "Take Two Interactive Software (TTWO) Could Be 11% Undervalued After Officer Exculpation Proposal",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-ttwo-could-080840681.html?.tsrc=rss",
+     "fecha": "2026-07-29T08:08:40+00:00"
+    },
+    {
+     "titulo": "Sony poised for 'GTA VI' boost as memory prices bite",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/technology/articles/sony-poised-gta-vi-boost-073336735.html?.tsrc=rss",
+     "fecha": "2026-07-29T07:33:36+00:00"
+    },
+    {
+     "titulo": "Take Two Interactive Software (TTWO) Proposes Officer Liability Amendment For Shareholder Vote",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-ttwo-proposes-031210082.html?.tsrc=rss",
+     "fecha": "2026-07-29T03:12:10+00:00"
+    },
+    {
+     "titulo": "Take-Two Interactive (TTWO) Laps the Stock Market: Here's Why",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-ttwo-laps-stock-215004311.html?.tsrc=rss",
+     "fecha": "2026-07-28T21:50:04+00:00"
+    },
+    {
+     "titulo": "Is Take-Two (TTWO) a Buy as Wall Street Analysts Look Optimistic?",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/two-ttwo-buy-wall-street-133002030.html?.tsrc=rss",
+     "fecha": "2026-07-28T13:30:02+00:00"
+    },
     {
      "titulo": "NBA® 2K27 Cover Athletes Revealed: Victor Wembanyama, Caitlin Clark, and Derrick Rose",
      "fuente": "Yahoo Finanzas",
      "url": "https://finance.yahoo.com/media-advertising/articles/nba-2k27-cover-athletes-revealed-140000577.html?.tsrc=rss",
      "fecha": "2026-07-22T14:00:00+00:00"
-    },
-    {
-     "titulo": "What to Expect From Take-Two Interactive’s Q1 2027 Earnings Report",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.barchart.com/story/news/3399266/what-to-expect-from-take-two-interactives-q1-2027-earnings-report?.tsrc=rss",
-     "fecha": "2026-07-22T10:18:32+00:00"
-    },
-    {
-     "titulo": "Take-Two Interactive (TTWO) Stock Declines While Market Improves: Some Information for Investors",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-ttwo-stock-declines-215003711.html?.tsrc=rss",
-     "fecha": "2026-07-21T21:50:03+00:00"
-    },
-    {
-     "titulo": "I Built a $12 Billion Company By Figuring Out How to Come Up With Hit Products. Here’s My Simple Formula.",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.entrepreneur.com/building-a-business/launch-your-business/i-built-a-12-billion-company-by-figuring-out-how-to-come-up-with-hit-products-heres-my-simple-formula?.tsrc=rss",
-     "fecha": "2026-07-21T12:00:00+00:00"
-    },
-    {
-     "titulo": "Roblox vs. Take-Two: Which Gaming Stock Has the Edge Now?",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/roblox-vs-two-gaming-stock-135000784.html?.tsrc=rss",
-     "fecha": "2026-07-20T13:50:00+00:00"
-    },
-    {
-     "titulo": "GTA VI Release Date Confirmed? Take-Two SEC Filing Forecasts $1 Billion Cash Flow",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://beincrypto.com/gta-vi-release-date-confirmed/?.tsrc=rss",
-     "fecha": "2026-07-18T08:31:55+00:00"
     }
    ]
   }
