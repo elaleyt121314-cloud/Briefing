@@ -1,45 +1,56 @@
 {
- "actualizado": "2026-07-29T12:33:17+00:00",
+ "actualizado": "2026-07-30T12:09:10+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "El petróleo sube con fuerza por tensiones geopolíticas mientras las tecnológicas sufren presiones y la volatilidad repunta",
-  "resumen": "Los precios del petróleo registraron subidas superiores al 6% impulsados por ataques de EE. UU. y Arabia Saudí contra milicias respaldadas por Irán en Irak. En los mercados bursátiles, el sector tecnológico y el Nasdaq 100 experimentaron caídas notables en un contexto de cautela a la espera de las decisiones de la Reserva Federal. Por su parte, el índice de volatilidad VIX subió un 3.24% reflejando el incremento de la tensión en los mercados.",
+  "titular": "Corrección en Wall Street con caídas en tecnología mientras Europa e IBEX avanzan",
+  "resumen": "Los principales índices de EE. UU. cerraron a la baja, destacando descensos en el Nasdaq 100 y el Dow Jones, lastrados por valores como NVIDIA y Tesla. En contraste, las bolsas europeas y el IBEX 35 registraron ganancias impulsadas por buenos resultados corporativos. El oro avanzó con fuerza un 2.5% y la volatilidad (VIX) se redujo un 7.7%, en una jornada marcada por la resaca de las decisiones de tipos de interés y tensiones geopolíticas.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Fuerte repunte del petróleo por conflicto en Oriente Medio",
-    "texto": "Los contratos de crudo Brent y WTI registraron subidas del 6.67% y 6.43% respectivamente. Las fuentes informan de que este movimiento se produce tras los ataques de Estados Unidos y Arabia Saudí contra milicias respaldadas por Irán en Irak, lo que ha generado preocupación en los inversores sobre el flujo continuo de energía. Este aumento afecta directamente a las materias primas energéticas y añade presión inflacionista.",
-    "importancia": 5
-   },
-   {
-    "titulo": "Corrección y turbulencias en el sector tecnológico y el Nasdaq",
-    "texto": "El Nasdaq 100 descendió un 0.98% y acumula caídas semanales del 4.77%, encontrándose cerca de terreno de corrección ante el nerviosismo por los beneficios empresariales y las próximas citas macroeconómicas. En España, el IBEX 35 retrocedió un 1.34%, lastrado por caídas en empresas como CaixaBank a pesar de reportar buenos resultados. Estos datos muestran la cautela actual en los mercados de renta variable frente al sector tecnológico.",
+    "titulo": "Descensos significativos en la renta variable estadounidense",
+    "texto": "Los datos muestran caídas notables en EE. UU., donde el Dow Jones retrocedió un 2.19% y el Nasdaq 100 un 2.06%. Dentro del sector tecnológico, acciones como NVIDIA sufrieron un recorte del 3.55% y Tesla cayó un 2.97%. Esto refleja una sesión de presión bajista en los grandes índices de Wall Street y sus ETFs asociados.",
     "importancia": 4
    },
    {
-    "titulo": "Aumento de la volatilidad y atención en la Reserva Federal",
-    "texto": "El indicador de volatilidad VIX subió un 3.24% hasta situarse en los 18.8 puntos, reflejando el nerviosismo de los inversores. La reunión de la Reserva Federal prevista para el día de hoy acapara la atención global de los mercados de bonos y divisas. Los datos objetivos muestran que el rendimiento del bono estadounidense a 10 años se sitúa en el 4.604% tras un descenso diario del 0.8%.",
+    "titulo": "Comportamiento dispar en los mercados europeos y el IBEX",
+    "texto": "A diferencia de EE. UU., los selectivos europeos mostraron tono verde, destacando el IBEX 35 con una subida del 1.51%, apoyado por resultados empresariales favorables en el sector bancario (como BBVA). El Euro Stoxx 50 y el DAX también registraron avances moderados del 1.02% y 0.31% respectivamente, premiando las cuentas trimestrales.",
+    "importancia": 3
+   },
+   {
+    "titulo": "Repunte del oro y caídas en el petróleo",
+    "texto": "El oro experimentó un incremento destacado del 2.5% situándose en 4,135.5 dólares, lo que podría indicar una búsqueda de refugio o reacción a la incertidumbre macroeconómica y tensiones inflacionistas. Por otro lado, el petróleo Brent y el WTI registraron descensos del 1.1% y 1.29% respectivamente, cotizando en torno a los 89 y 83 dólares.",
+    "importancia": 3
+   },
+   {
+    "titulo": "Tensión entre los mercados y los bancos centrales",
+    "texto": "Los datos recientes y las noticias reflejan que la Reserva Federal mantuvo los tipos estables, generando un debate sobre la credibilidad del organismo y ventas en el mercado de bonos ante preocupaciones inflacionistas. Asimismo, el Banco de Inglaterra mantuvo los tipos advirtiendo que la inflación podría repuntar debido a la incertidumbre derivada del conflicto en Irán.",
     "importancia": 4
    }
   ],
   "vigilar": [
-   "Evolución de los precios del petróleo Brent y WTI ante los acontecimientos en Oriente Medio",
-   "Comportamiento del índice de volatilidad VIX y del sector tecnológico (Nasdaq 100)",
-   "Decisiones e indicaciones de la Reserva Federal en su reunión de hoy"
+   "Evolución de los rendimientos de los bonos soberanos y su presión sobre la renta variable",
+   "Comportamiento de las acciones tecnológicas de gran capitalización tras las recientes correcciones",
+   "Precios de la energía (petróleo) y su impacto en las expectativas de inflación global"
   ],
   "proximos": [
-   "Decisión de tipos y comunicado oficial de la Reserva Federal (Fed)",
-   "Próximos resultados trimestrales de grandes tecnológicas como Meta, Microsoft y Amazon"
+   "Nuevos datos sobre flujos en ETFs de criptomonedas y decisiones regulatorias en Corea del Sur",
+   "Evolución de los conflictos geopolíticos en Oriente Medio y sus consecuencias en las materias primas"
   ],
-  "nota_riesgo": "El nivel de riesgo general se eleva moderadamente debido al incremento de la tensión geopolítica que impulsa el crudo y al repunte de la volatilidad (VIX), sumado a la incertidumbre en torno a las tecnológicas y la reunión de la Fed."
+  "nota_riesgo": "El nivel de riesgo se mantiene moderado-alto, reflejado por la presión bajista en la tecnología estadounidense y las tensiones en el mercado de bonos por la política de los bancos centrales."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -3.03,
-   "resumen": "Tu posición registra una rentabilidad del -3,03%. Entre las noticias de hoy se mencionan propuestas sobre la responsabilidad de los directivos, la atención de Wall Street y el impulso que Sony espera por 'GTA VI', aunque los titulares no explican de forma directa este movimiento reciente en el mercado.",
+   "pl_pct": -4.55,
+   "resumen": "Tu posición registra una rentabilidad del -4.55%. Los titulares de hoy debaten una propuesta de enmienda sobre la responsabilidad de los directivos que genera dudas de gobernanza, aunque algunos análisis sugieren que podría estar infravalorada y mencionan posibles impulsos de Sony relacionados con 'GTA VI'.",
    "noticias": [
+    {
+     "titulo": "Should Take-Two’s Officer Liability Shield Proposal Reshape How TTWO Investors View Governance and Performance Risk?",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/two-officer-liability-shield-proposal-191148947.html?.tsrc=rss",
+     "fecha": "2026-07-29T19:11:48+00:00"
+    },
     {
      "titulo": "Take Two Interactive Software (TTWO) Could Be 11% Undervalued After Officer Exculpation Proposal",
      "fuente": "Yahoo Finanzas",
@@ -69,12 +80,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://finance.yahoo.com/markets/stocks/articles/two-ttwo-buy-wall-street-133002030.html?.tsrc=rss",
      "fecha": "2026-07-28T13:30:02+00:00"
-    },
-    {
-     "titulo": "NBA® 2K27 Cover Athletes Revealed: Victor Wembanyama, Caitlin Clark, and Derrick Rose",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/media-advertising/articles/nba-2k27-cover-athletes-revealed-140000577.html?.tsrc=rss",
-     "fecha": "2026-07-22T14:00:00+00:00"
     }
    ]
   }
