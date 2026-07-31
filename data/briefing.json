@@ -1,50 +1,57 @@
 {
- "actualizado": "2026-07-30T12:09:10+00:00",
+ "actualizado": "2026-07-31T12:30:59+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Corrección en Wall Street con caídas en tecnología mientras Europa e IBEX avanzan",
-  "resumen": "Los principales índices de EE. UU. cerraron a la baja, destacando descensos en el Nasdaq 100 y el Dow Jones, lastrados por valores como NVIDIA y Tesla. En contraste, las bolsas europeas y el IBEX 35 registraron ganancias impulsadas por buenos resultados corporativos. El oro avanzó con fuerza un 2.5% y la volatilidad (VIX) se redujo un 7.7%, en una jornada marcada por la resaca de las decisiones de tipos de interés y tensiones geopolíticas.",
+  "titular": "Sesión de fuertes contrastes tecnológicos en Wall Street y cierre de julio con el Euríbor al alza",
+  "resumen": "Los principales índices bursátiles cierran la jornada en terreno positivo, destacando el avance del Nasdaq 100 (3,36%) y el Nikkei 225 (4,03%). Sin embargo, la sesión muestra una marcada divergencia en el sector tecnológico estadounidense, con un fuerte repunte de Microsoft mientras Apple y Meta registran caídas notables. En el ámbito macroeconómico, el Euríbor cierra el mes de julio en el 2,85%, su nivel más alto en los últimos doce meses.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Descensos significativos en la renta variable estadounidense",
-    "texto": "Los datos muestran caídas notables en EE. UU., donde el Dow Jones retrocedió un 2.19% y el Nasdaq 100 un 2.06%. Dentro del sector tecnológico, acciones como NVIDIA sufrieron un recorte del 3.55% y Tesla cayó un 2.97%. Esto refleja una sesión de presión bajista en los grandes índices de Wall Street y sus ETFs asociados.",
+    "titulo": "Fuerte divergencia en los gigantes tecnológicos",
+    "texto": "Los datos muestran movimientos muy dispares entre las grandes tecnológicas en la sesión. Microsoft destaca con una subida del 15,51%, mientras que Amazon y NVIDIA también avanzan un 3,90% y un 2,65% respectivamente. En contraste, Apple cae un 7,13% y Meta cede un 7,95%, afectando de manera desigual al comportamiento de los índices de renta variable.",
     "importancia": 4
    },
    {
-    "titulo": "Comportamiento dispar en los mercados europeos y el IBEX",
-    "texto": "A diferencia de EE. UU., los selectivos europeos mostraron tono verde, destacando el IBEX 35 con una subida del 1.51%, apoyado por resultados empresariales favorables en el sector bancario (como BBVA). El Euro Stoxx 50 y el DAX también registraron avances moderados del 1.02% y 0.31% respectivamente, premiando las cuentas trimestrales.",
+    "titulo": "Avance generalizado en índices globales",
+    "texto": "La renta variable internacional registra ganancias notables en la jornada. El Nasdaq 100 sube un 3,36% y el Nikkei 225 destaca con un incremento del 4,03%. En Europa, el S&P 500 avanza un 1,66% y el Euro Stoxx 50 sube un 0,61%, reflejando un tono alcista general en los mercados de índices y ETFs.",
     "importancia": 3
    },
    {
-    "titulo": "Repunte del oro y caídas en el petróleo",
-    "texto": "El oro experimentó un incremento destacado del 2.5% situándose en 4,135.5 dólares, lo que podría indicar una búsqueda de refugio o reacción a la incertidumbre macroeconómica y tensiones inflacionistas. Por otro lado, el petróleo Brent y el WTI registraron descensos del 1.1% y 1.29% respectivamente, cotizando en torno a los 89 y 83 dólares.",
-    "importancia": 3
-   },
-   {
-    "titulo": "Tensión entre los mercados y los bancos centrales",
-    "texto": "Los datos recientes y las noticias reflejan que la Reserva Federal mantuvo los tipos estables, generando un debate sobre la credibilidad del organismo y ventas en el mercado de bonos ante preocupaciones inflacionistas. Asimismo, el Banco de Inglaterra mantuvo los tipos advirtiendo que la inflación podría repuntar debido a la incertidumbre derivada del conflicto en Irán.",
+    "titulo": "Cierre de julio con el Euríbor al alza",
+    "texto": "Según los datos de mercado, el Euríbor cierra el mes de julio con una subida que sitúa su tasa mensual en el 2,85%, alcanzando su nivel más elevado de los últimos doce meses. Este movimiento se produce en un contexto donde los datos de la Reserva Federal reflejan divisiones internas sobre la política de tipos de interés debido a preocupaciones inflacionarias.",
     "importancia": 4
    }
   ],
   "vigilar": [
-   "Evolución de los rendimientos de los bonos soberanos y su presión sobre la renta variable",
-   "Comportamiento de las acciones tecnológicas de gran capitalización tras las recientes correcciones",
-   "Precios de la energía (petróleo) y su impacto en las expectativas de inflación global"
+   "Evolución de la volatilidad (VIX en 17,13)",
+   "Comportamiento de los precios del petróleo (Brent en 90,36 dólares)",
+   "Sentimiento en criptomonedas con el indicador Fear & Greed en zona de miedo extremo (25)"
   ],
   "proximos": [
-   "Nuevos datos sobre flujos en ETFs de criptomonedas y decisiones regulatorias en Corea del Sur",
-   "Evolución de los conflictos geopolíticos en Oriente Medio y sus consecuencias en las materias primas"
+   "Próximas reuniones y decisiones de política monetaria de la Reserva Federal",
+   "Nuevos datos sobre la evolución de la inflación y su impacto en los tipos de interés"
   ],
-  "nota_riesgo": "El nivel de riesgo se mantiene moderado-alto, reflejado por la presión bajista en la tecnología estadounidense y las tensiones en el mercado de bonos por la política de los bancos centrales."
+  "nota_riesgo": "El nivel de riesgo general se mantiene mixto: los índices bursátiles muestran fortaleza con subidas en la renta variable, pero persisten focos de tensión como el miedo extremo en criptomonedas, la volatilidad en grandes valores tecnológicos y la presión al alza en los costes de financiación y materias primas."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -4.55,
-   "resumen": "Tu posición registra una rentabilidad del -4.55%. Los titulares de hoy debaten una propuesta de enmienda sobre la responsabilidad de los directivos que genera dudas de gobernanza, aunque algunos análisis sugieren que podría estar infravalorada y mencionan posibles impulsos de Sony relacionados con 'GTA VI'.",
+   "pl_pct": -2.94,
+   "resumen": "Tu posición registra una rentabilidad del -2.94%. Las noticias de hoy giran en torno a propuestas sobre la responsabilidad de los directivos sometidas a votación, análisis sobre si está infravalorada tras esta medida, el interés de los inversores y menciones a un posible impulso para 'GTA VI' desde Sony, aunque los titulares no explican directamente este pequeño movimiento.",
    "noticias": [
+    {
+     "titulo": "ASML and 21 More Stocks to Consider Buying Out of the AI Wreckage",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/m/daac8338-7872-383c-aec0-1bbbb6a3293b/asml-and-21-more-stocks-to.html?.tsrc=rss",
+     "fecha": "2026-07-30T21:25:00+00:00"
+    },
+    {
+     "titulo": "Investors Heavily Search Take-Two Interactive Software, Inc. (TTWO): Here is What You Need to Know",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-two-interactive-130004142.html?.tsrc=rss",
+     "fecha": "2026-07-30T13:00:04+00:00"
+    },
     {
      "titulo": "Should Take-Two’s Officer Liability Shield Proposal Reshape How TTWO Investors View Governance and Performance Risk?",
      "fuente": "Yahoo Finanzas",
@@ -68,18 +75,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-ttwo-proposes-031210082.html?.tsrc=rss",
      "fecha": "2026-07-29T03:12:10+00:00"
-    },
-    {
-     "titulo": "Take-Two Interactive (TTWO) Laps the Stock Market: Here's Why",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-ttwo-laps-stock-215004311.html?.tsrc=rss",
-     "fecha": "2026-07-28T21:50:04+00:00"
-    },
-    {
-     "titulo": "Is Take-Two (TTWO) a Buy as Wall Street Analysts Look Optimistic?",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-ttwo-buy-wall-street-133002030.html?.tsrc=rss",
-     "fecha": "2026-07-28T13:30:02+00:00"
     }
    ]
   }
