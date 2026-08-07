@@ -1,49 +1,49 @@
 {
- "actualizado": "2026-08-06T12:28:41+00:00",
+ "actualizado": "2026-08-07T08:40:15+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada mixta en los mercados con contención en Wall Street y avances en Europa",
-  "resumen": "Los principales índices bursátiles muestran un comportamiento dispar, destacando la subida del IBEX 35, que supera los 20.000 puntos, frente al retroceso de tecnológicas como Alphabet. En el plano de materias primas, el oro registra repuntes, mientras que la volatilidad se mantiene contenida en niveles de 15,85 puntos.",
+  "titular": "Sesión contenida a la espera del informe oficial de empleo de EE. UU. con ascensos destacados en oro y Microsoft",
+  "resumen": "Los principales índices bursátiles registran variaciones moderadas mientras los inversores aguardan el dato macroeconómico más relevante de la semana. En el plano de movimientos superiores al dos por ciento, destacan positivamente las acciones de Microsoft y la cotización del oro. El resto de activos se mantiene en rangos contenidos a la espera de confirmaciones definitivas.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Comportamiento dispar en la renta variable y caídas en grandes tecnológicas",
-    "texto": "La sesión refleja movimientos opuestos entre regiones y valores. Mientras que el IBEX 35 amplía su racha con una subida del 1,03% y se adentra en nuevos máximos consolidando la barrera de los 20.000 puntos, el Nasdaq 100 cede un 0,83%. Entre las acciones individuales destacan las caídas de Alphabet con un -4,03% y los descensos de otras grandes tecnológicas, en una jornada donde NVIDIA avanza un 3,43%. Estos movimientos afectan directamente a los índices tecnológicos y fondos indexados como el Invesco QQQ.",
+    "titulo": "Cautela generalizada en los índices a la espera de empleo",
+    "texto": "Los datos muestran descensos ligeros en la mayoría de grandes índices como el S&P 500 (-0.18%), Nasdaq 100 (-0.39%) y Dow Jones (-0.85%), mientras que en Europa el DAX sube un 0.56% y el IBEX 35 cede un 0.47%. Esto podría indicar una actitud de espera y cautela por parte de los operadores ante el informe oficial de empleo de EE. UU. que condiciona los movimientos de la sesión. Afecta directamente a la renta variable global.",
     "importancia": 4
    },
    {
-    "titulo": "El IBEX 35 consolida máximos en una jornada de tono mixto europeo",
-    "texto": "El índice español amplía su racha alcista con un incremento diario del 1,03%, apoyado también por el impulso en el sector de telecomunicaciones europeo. A nivel general, los selectivos europeos como el Euro Stoxx 50 y el DAX registran ligeros avances del 0,49% y 0,17% respectivamente. Esto demuestra una relativa fortaleza de la renta variable europea en comparación con la cautela mostrada en la sesión norteamericana.",
+    "titulo": "Subida notable del oro y comportamiento de materias primas",
+    "texto": "El oro experimenta un incremento del 2.63% en el día, situando su precio en 4,353.7 dólares y acumulando una subida semanal del 7.52%. Por su parte, el petróleo Brent sube un 1.02% hasta los 83.33 dólares y el WTI avanza un 0.71%. Los datos reflejan un fortalecimiento puntual de los metales preciosos en este tramo de la semana.",
+    "importancia": 4
+   },
+   {
+    "titulo": "Microsoft lidera los movimientos positivos en acciones",
+    "texto": "Dentro del grupo de grandes acciones tecnológicas, Microsoft destaca con una subida diaria del 2.54% y un avance acumulado del 10.81% en la semana. El resto de valores tecnológicos muestran variaciones más discretas, como Alphabet que cede un 1.29%. Este movimiento positivo en Microsoft contrasta con la tónica general de cautela de la sesión.",
     "importancia": 3
    },
    {
-    "titulo": "Avance destacado en el precio del oro",
-    "texto": "El oro experimenta una subida del 1,76% en el día, situando su precio en 4,320.7 dólares y acumulando un incremento semanal del 5,38%. Este movimiento en el mercado de materias primas refleja un mayor interés de los inversores por activos considerados refugio. El comportamiento afecta de forma directa al valor de este metal precioso y a las carteras expuestas a materias primas.",
+    "titulo": "Bitcoin y criptomonedas en rangos estables con sentimiento de miedo",
+    "texto": "El bitcoin cotiza plano en torno a los 64,438.5 dólares (un 0.27% arriba en el día), mientras el índice Fear and Greed de criptomonedas se sitúa en 29 puntos, reflejando un nivel de miedo. Los datos recientes también recogen entradas de capital a través de ballenas y ETFs, aunque el mercado afronta la debilidad histórica del mes de agosto.",
     "importancia": 3
-   },
-   {
-    "titulo": "Criptomonedas y sentimiento de mercado con miedo extremo",
-    "texto": "Bitcoin cotiza en torno a los 64.786 dólares con una variación diaria moderada del 0,29%, mientras que el indicador 'Fear and Greed' de criptomonedas se sitúa en 25, reflejando un estado de 'Extreme Fear'. Los datos muestran una baja volatilidad general en el sector cripto a pesar de la cautela institucional. Esto afecta directamente a los tokens principales y al apetito por el riesgo en activos digitales.",
-    "importancia": 2
    }
   ],
   "vigilar": [
-   "Evolución del sector tecnológico estadounidense tras los recientes descensos en gigantes como Alphabet.",
-   "El comportamiento del índice de volatilidad VIX, actualmente en 15,85 puntos.",
-   "La cotización del oro ante su fuerte repunte semanal superior al 5%."
+   "Informe oficial de empleo de EE. UU.",
+   "Evolución del precio del oro y su continuidad por encima de 4.350 dólares",
+   "Comportamiento del Bitcoin en el rango de los 64.000 dólares"
   ],
   "proximos": [
-   "Próximo informe de empleo de EE. UU. (July jobs report), que podría mostrar un ritmo suave de contratación.",
-   "Evolución y publicación de datos sobre el Euríbor mensual, situado provisionalmente en el 2,920% en agosto."
+   "Informe oficial de empleo de EE. UU.",
+   "Votación de la ley Clarity Act sobre criptomonedas prevista para septiembre"
   ],
-  "nota_riesgo": "El nivel de riesgo general se mantiene moderado, reflejado en un VIX bajo control en 15,85 puntos y un rendimiento del bono a 10 años en el 4,617%. No obstante, persisten focos de cautela y miedo extremo en determinados segmentos como el de criptomonedas."
+  "nota_riesgo": "Los indicadores muestran un nivel de volatilidad bajo (VIX en 15.28) y un sentimiento de miedo moderado en criptomonedas (29), lo que refleja prudencia temporal sin señales de pánico, condicionados por la publicación macroeconómica inminente."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -9.9,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 9,9% y la acción ha bajado recientemente mientras el mercado mejoraba. Las noticias de hoy se centran en la expectación ante la publicación de sus resultados trimestrales y el interés de los inversores, aunque los titulares proporcionados no explican directamente el motivo exacto de la caída.",
+   "pl_pct": -7.67,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 7,67% y las noticias recogen descensos recientes mientras el mercado mejora. Los titulares señalan que la compañía se prepara para presentar sus resultados del primer trimestre y que hay interés de búsqueda por parte de los inversores, aunque los textos proporcionados no explican claramente el motivo exacto de la caída.",
    "noticias": [
     {
      "titulo": "Take-Two Set to Report Q1 Earnings: What's in the Cards for the Stock?",
