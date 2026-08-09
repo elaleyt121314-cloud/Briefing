@@ -1,40 +1,187 @@
 {
- "actualizado": "2026-08-08T08:02:25+00:00",
+ "actualizado": "2026-08-09T08:04:52+00:00",
  "items": [
   {
-   "titulo": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+   "titulo": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
    "resumen": "",
    "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
-   "fecha": "2026-08-08T07:46:04+00:00"
+   "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+   "fecha": "2026-08-09T05:08:20+00:00"
   },
   {
-   "titulo": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
-   "fecha": "2026-08-08T03:30:00+00:00"
-  },
-  {
-   "titulo": "Can Netflix Save a Summer Slump With a Stunt on Sunset Boulevard?",
-   "resumen": "The streaming giant, still looking for this year’s blockbuster, paid an actor to spend three days inside a billboard in Los Angeles to promote an upcoming film.",
+   "titulo": "Think It’s Cool to Wear Fancy Sneakers to Work? You Might Be Old.",
+   "resumen": "After years of office casual, young people are embracing loafers, derbies and oxfords.",
    "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/08/07/business/media/netflix-billboard-marketing-strategy.html",
-   "fecha": "2026-08-08T02:56:32+00:00"
+   "url": "https://www.nytimes.com/2026/08/08/business/dealbook/loafers-sneakers-work.html",
+   "fecha": "2026-08-09T00:13:52+00:00"
   },
   {
-   "titulo": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
+   "titulo": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
    "resumen": "",
    "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
-   "fecha": "2026-08-08T02:30:00+00:00"
+   "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+   "fecha": "2026-08-08T20:06:47+00:00"
+  },
+  {
+   "titulo": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+   "resumen": "“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+   "fecha": "2026-08-08T20:00:00+00:00"
+  },
+  {
+   "titulo": "Firmas 'cripto' reguladas para protegerse de los 'hackeos'",
+   "resumen": "Esta semana, un grupo de hackers atacó un 'cold wallet', uno de los lugares considerado más seguro para custodiar las criptomonedas, y robó más de 100 millones de dólares. Los monederos autocustodia quedan fuera del ámbito de cualquier regulación y, por tanto, de cualquier protección de las autoridades a la hora de recuperar los activos robados.&nbsp;<a href=\"https://www.expansion.com/mercados/cri",
+   "fuente": "Expansión Mercados",
+   "url": "https://www.expansion.com/mercados/criptomonedas/2026/08/08/6a760f38468aebbb6d8b4599.html",
+   "fecha": "2026-08-08T19:25:59+00:00"
+  },
+  {
+   "titulo": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
+   "resumen": "“I plan to retire at the end of my 70th year and transition to Medicare.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
+   "fecha": "2026-08-08T19:00:00+00:00"
+  },
+  {
+   "titulo": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
+   "resumen": "Timing is everything when balancing retirement distributions and moving across state lines.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
+   "fecha": "2026-08-08T19:00:00+00:00"
+  },
+  {
+   "titulo": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
+   "resumen": "Don’t compare your nest-egg balance to a number that doesn’t actually mean anything. Instead, do this calculation to see if you’re on track for retirement.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
+   "fecha": "2026-08-08T18:37:00+00:00"
+  },
+  {
+   "titulo": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+   "resumen": "“He has never been particularly generous or nurturing.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+   "fecha": "2026-08-08T18:30:00+00:00"
+  },
+  {
+   "titulo": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
+   "resumen": "“I was approached by one company who wants to use AI to dispatch ambulances.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
+   "fecha": "2026-08-08T18:30:00+00:00"
+  },
+  {
+   "titulo": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
+   "resumen": "“Right now, we’re withdrawing about $100,000 a year from our investments.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
+   "fecha": "2026-08-08T18:30:00+00:00"
+  },
+  {
+   "titulo": "MacKenzie Scott Steps Back Into Spotlight With New Book",
+   "resumen": "She posted four pages of a manuscript on a newly started Substack newsletter on Saturday and said that the novel would be released serially throughout August.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/08/08/business/mackenzie-scott-new-book.html",
+   "fecha": "2026-08-08T18:16:04+00:00"
+  },
+  {
+   "titulo": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?",
+   "resumen": "The popular default investments may need to be more aggressive in order to fund decades of retirement.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
+   "fecha": "2026-08-08T17:58:00+00:00"
+  },
+  {
+   "titulo": "A agosto lo carga el diablo, a veces",
+   "resumen": "El octavo mes del año, entiéndase agosto, lleva anexa la etiqueta de 'negro' por la multiplicidad de sucesos negativos vividos en este periodo.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/08/08/6a776b26e5fdea5e088b456e.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expan",
+   "fuente": "Expansión Mercados",
+   "url": "https://www.expansion.com/mercados/2026/08/08/6a776b26e5fdea5e088b456e.html",
+   "fecha": "2026-08-08T17:57:03+00:00"
+  },
+  {
+   "titulo": "Hardware wallet sales in Russia more than double as new crypto rules near",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
+   "fecha": "2026-08-08T17:48:02+00:00"
+  },
+  {
+   "titulo": "Greg Abel pone por fin a trabajar la montaña de efectivo de Warren Buffett",
+   "resumen": "El máximo responsable de Berkshire Hathaway pone fin a una racha de ventas de más de tres años al invertir 20.000 millones de dólares netos en acciones.&nbsp;<a href=\"https://www.expansion.com/economia/2026/08/08/6a773693468aeb85698b4592.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://",
+   "fuente": "Expansión Mercados",
+   "url": "https://www.expansion.com/economia/2026/08/08/6a773693468aeb85698b4592.html",
+   "fecha": "2026-08-08T17:25:53+00:00"
+  },
+  {
+   "titulo": "How an N.F.L.-Backed Plan to Revitalize Canton, Ohio, Faltered",
+   "resumen": "The “Hall of Fame Village” was pitched in 2014 as a boon to the city. But hundreds of millions were spent, the N.F.L. backed out, and the project is unfinished.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/08/08/business/nfl-canton-hall-of-fame-village.html",
+   "fecha": "2026-08-08T17:06:54+00:00"
+  },
+  {
+   "titulo": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+   "fecha": "2026-08-08T15:25:38+00:00"
   },
   {
    "titulo": "Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal",
    "resumen": "Prime Minister Mark Carney is attempting to prevent 50 percent tariffs against many Canadian goods scheduled for this month.",
    "fuente": "NYT Negocios",
    "url": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html",
-   "fecha": "2026-08-08T00:50:19+00:00"
+   "fecha": "2026-08-08T14:39:26+00:00"
+  },
+  {
+   "titulo": "Can Netflix Save a Summer Slump With a Stunt on Sunset Boulevard?",
+   "resumen": "The streaming giant, still looking for this year’s blockbuster, paid an actor to spend three days inside a billboard in Los Angeles to promote an upcoming film.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/08/07/business/media/netflix-billboard-marketing-strategy.html",
+   "fecha": "2026-08-08T14:16:20+00:00"
+  },
+  {
+   "titulo": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
+   "fecha": "2026-08-08T14:00:00+00:00"
+  },
+  {
+   "titulo": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+   "resumen": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-08-08T13:41:32+00:00"
+  },
+  {
+   "titulo": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
+   "fecha": "2026-08-08T13:00:00+00:00"
+  },
+  {
+   "titulo": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
+   "fecha": "2026-08-08T09:07:24+00:00"
+  },
+  {
+   "titulo": "Medicare Advantage’s Perks Are Getting Scrutiny",
+   "resumen": "Officials said no to health plans that wanted to expand extra benefits to cover medical marijuana, streaming services and shopping clubs. More changes are coming in 2027.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/08/08/business/medicare-advantage-benefits.html",
+   "fecha": "2026-08-08T09:00:54+00:00"
+  },
+  {
+   "titulo": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+   "fecha": "2026-08-08T07:46:04+00:00"
   },
   {
    "titulo": "El aumento de los beneficios apunta a máximos más altos",
@@ -44,74 +191,11 @@
    "fecha": "2026-08-07T22:08:03+00:00"
   },
   {
-   "titulo": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
-   "resumen": "Two months after he was blocked by the Supreme Court, President Donald Trump has resumed his effort to oust Federal Reserve governor Lisa Cook as part of an effort to stack the central bank’s board with more allies.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
-   "fecha": "2026-08-07T22:05:00+00:00"
-  },
-  {
-   "titulo": "The smart way to invest in gold right now as the dollar slips",
-   "resumen": "Also in Weekend Reads: Kevin O’Leary’s investing strategy, a 9% dividend paired with lower stock-market risk and advice from the Moneyist.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories",
-   "fecha": "2026-08-07T21:58:00+00:00"
-  },
-  {
    "titulo": "Quince valores para invertir con la Bolsa en máximos",
    "resumen": "La Bolsa española pisa el acelerador en su cuarto año consecutivo al alza. El Ibex ha coronado la cota de los 20.000 puntos por primera vez en su historia. El índice más representativo del mercado español esta semana ha alcanzado un máximo en 20.180 puntos y aún tiene gasolina alcista para conquistar nuevas cotas de la mano del sector bancario, las eléctricas y las empresas de infraestructuras, en",
    "fuente": "Expansión Mercados",
    "url": "https://www.expansion.com/inversion/2026/08/07/6a760fabe5fdeab2088b4590.html",
    "fecha": "2026-08-07T21:57:44+00:00"
-  },
-  {
-   "titulo": "Los mejores fondos de inversión de Bolsa de España, Europa y EEUU",
-   "resumen": "España, Europa y Wall Street han marcado máximos históricos esta semana. Una selección de fondos supera la subida de estos índices de doble dígito en 2026.&nbsp;<a href=\"https://www.expansion.com/mercados/fondos/2026/08/07/6a760d8ce5fdeadb7d8b4591.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;s",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/fondos/2026/08/07/6a760d8ce5fdeadb7d8b4591.html",
-   "fecha": "2026-08-07T21:45:40+00:00"
-  },
-  {
-   "titulo": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
-   "fecha": "2026-08-07T21:13:21+00:00"
-  },
-  {
-   "titulo": "Palantir’s stock stages best week since 2024 — showing it’s no longer an ‘AI loser’",
-   "resumen": "Booming demand for Palantir’s AI solutions is restoring confidence in the company.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
-   "fecha": "2026-08-07T20:54:00+00:00"
-  },
-  {
-   "titulo": "Two reasons why Nvidia’s stock saw its biggest weekly surge in more than a year",
-   "resumen": "The chip maker recorded its largest-ever weekly increase in market capitalization.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories",
-   "fecha": "2026-08-07T20:41:00+00:00"
-  },
-  {
-   "titulo": "SpaceX’s stock just had one of its best days ever — with the first lockup expiration now behind it",
-   "resumen": "Stocks often come under pressure once insiders are able to unload shares — but in the case of SpaceX, that risk may have been already priced in.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories",
-   "fecha": "2026-08-07T20:38:00+00:00"
-  },
-  {
-   "titulo": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
-   "resumen": "A reader writes: “I will likely be in a position to decline my benefits.”",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
-   "fecha": "2026-08-07T20:30:00+00:00"
-  },
-  {
-   "titulo": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
-   "fecha": "2026-08-07T20:20:00+00:00"
   },
   {
    "titulo": "El Ibex sube un 2% en la semana de los 20.000 puntos",
@@ -121,95 +205,11 @@
    "fecha": "2026-08-07T20:15:43+00:00"
   },
   {
-   "titulo": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
-   "resumen": "“I was surprised — and flattered — to find myself on the guest list.”",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
-   "fecha": "2026-08-07T20:15:00+00:00"
-  },
-  {
-   "titulo": "Las claves bursátiles de la próxima semana",
-   "resumen": "&nbsp;<a href=\"https://videos.expansion.com/v/xavrhvm-las-claves-bursatiles-de-la-proxima-semana-07-08-2026?uetv_pl=0\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/mercados.xml\" />",
-   "fuente": "Expansión Mercados",
-   "url": "https://videos.expansion.com/v/xavrhvm-las-claves-bursatiles-de-la-proxima-semana-07-08-2026?uetv_pl=0",
-   "fecha": "2026-08-07T20:14:35+00:00"
-  },
-  {
-   "titulo": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes",
-   "resumen": "The popular default investments may need to be more aggressive in order to fund decades of retirement.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
-   "fecha": "2026-08-07T20:04:00+00:00"
-  },
-  {
    "titulo": "U.S. economy unexpectedly lost 23,000 jobs in July",
    "resumen": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
    "fuente": "CNBC Economía",
    "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
    "fecha": "2026-08-07T19:14:22+00:00"
-  },
-  {
-   "titulo": "Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook",
-   "resumen": "The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html",
-   "fecha": "2026-08-07T18:54:45+00:00"
-  },
-  {
-   "titulo": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
-   "fecha": "2026-08-07T18:42:44+00:00"
-  },
-  {
-   "titulo": "Labor Market Shifts Into Reverse as Employers Balk at Hiring",
-   "resumen": "A spring surge rapidly faded as the summer brought higher prices and more uncertainty for businesses, even as they avoided layoffs.",
-   "fuente": "NYT Economía",
-   "url": "https://www.nytimes.com/2026/08/07/business/economy/heres-the-latest.html",
-   "fecha": "2026-08-07T18:35:32+00:00"
-  },
-  {
-   "titulo": "Trump retoma su amenaza de despedir a Lisa Cook como gobernadora de la Fed",
-   "resumen": "El intento tiene lugar  después de que el Tribunal Supremo dictaminara en junio que la funcionaria podía permanecer en su puesto mientras se resolvía el caso.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/08/07/6a7621a5468aeb8e128b45d1.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=ht",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/2026/08/07/6a7621a5468aeb8e128b45d1.html",
-   "fecha": "2026-08-07T18:23:49+00:00"
-  },
-  {
-   "titulo": "Here are three key takeaways from the disappointing July jobs report",
-   "resumen": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.",
-   "fuente": "CNBC Economía",
-   "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
-   "fecha": "2026-08-07T18:09:18+00:00"
-  },
-  {
-   "titulo": "Stocks making the biggest moves midday: SpaceX, Coherent, Atlassian, Airbnb, Trade Desk & more",
-   "resumen": "Here are some of the companies making headlines in midday trading.",
-   "fuente": "CNBC Mercados",
-   "url": "https://www.cnbc.com/2026/08/07/stocks-making-the-biggest-moves-midday-spcx-cohr-team-abnb-ttd.html",
-   "fecha": "2026-08-07T17:07:16+00:00"
-  },
-  {
-   "titulo": "The Bond Market Is Signaling Rising Risks. Investors Should Listen.",
-   "resumen": "While the Fed didn’t raise rates, the bond market did. That means hardship for home buyers and higher hurdles for A.I. data centers and the stock market. But it’s also a boon for retirees.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html",
-   "fecha": "2026-08-07T16:58:58+00:00"
-  },
-  {
-   "titulo": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/07/31/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business",
-   "fecha": "2026-08-07T16:53:56+00:00"
-  },
-  {
-   "titulo": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
-   "fecha": "2026-08-07T16:32:41+00:00"
   }
  ]
 }
