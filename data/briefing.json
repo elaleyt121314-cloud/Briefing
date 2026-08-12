@@ -1,49 +1,49 @@
 {
- "actualizado": "2026-08-11T08:37:29+00:00",
+ "actualizado": "2026-08-12T09:43:34+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de movimientos moderados en los índices con el petróleo y el oro al alza",
-  "resumen": "Los principales índices bursátiles registran variaciones contenidas en la sesión, mientras que las materias primas como el petróleo Brent, WTI y el oro destacan con subidas superiores al 1%. En el plano corporativo, Nvidia cae un 2.86% a pesar de anunciar una alianza para financiar infraestructuras de IA, y el Nikkei 225 avanza un 2.08%.",
+  "titular": "Jornada de cautela en las bolsas con descensos moderados en EE.UU., avances en el oro y la atención puesta en la macroeconomía",
+  "resumen": "Los principales índices estadounidenses cerraron con ligeros retrocesos en torno al 0,3% en una sesión donde destacaron las caídas de algunas grandes tecnológicas como Alphabet y Amazon. En las materias primas, el oro experimentó una subida significativa del 2,08%, mientras los mercados aguardan la publicación de datos clave sobre la inflación en Estados Unidos.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Avanzan las materias primas: petróleo y oro",
-    "texto": "Los datos muestran subidas notables en el petróleo Brent (2.47%) y el WTI (2.61%), así como en el oro, que repunta un 1.49% en la jornada y acumula una subida semanal del 8.09%. Esto podría indicar un aumento en la presión sobre los costes energéticos y un mayor atractivo de los activos refugio. Estos movimientos afectan directamente a los mercados de materias primas y a la percepción del riesgo inflacionario.",
+    "titulo": "Descensos moderados en Wall Street",
+    "texto": "Los índices S&P 500, Nasdaq 100 y Dow Jones registraron variaciones negativas idénticas o muy cercanas al -0,32% y -0,34%. Entre las acciones individuales, destacaron las caídas de Alphabet con un -3,84% y Amazon con un -2,09%. Los datos muestran este ajuste diario, aunque los ETF y fondos indexados asociados al S&P 500 se movieron en la misma línea bajista.",
+    "importancia": 3
+   },
+   {
+    "titulo": "Fuerte repunte del oro",
+    "texto": "El oro avanzó un 2,08% en la sesión, situándose en 4.474,2 dólares, lo que consolida una subida semanal del 5,38% y mensual de más del 10%. Esto refleja una búsqueda de refugio o cobertura por parte de los inversores ante los diferentes focos de inquietud macroeconómica y geopolítica mencionados en los titulares, como la presión del petróleo y la incertidumbre en Oriente Medio.",
     "importancia": 4
    },
    {
-    "titulo": "Comportamiento dispar en grandes tecnológicas y caída de Nvidia",
-    "texto": "Dentro de las acciones principales, Nvidia registra un retroceso del 2.86% a pesar de conocerse su alianza con siete instituciones financieras para levantar más de 500.000 millones para infraestructuras de IA. Por otro lado, Microsoft avanza un 1.21% y Amazon un 1.32%, mientras Apple cede un 1.07%. Esto refleja rotaciones selectivas dentro del sector tecnológico estadounidense.",
-    "importancia": 3
+    "titulo": "Atención al IPC de EE.UU. y la presión del petróleo",
+    "texto": "Los datos informan que el Ibex y los mercados europeos vigilan de cerca la evolución del IPC de Estados Unidos y la presión del petróleo (con el Brent en 88,59 dólares). Los nuevos acontecimientos en Irán alejan un posible acuerdo y añaden presión sobre las materias primas energéticas, un factor de riesgo directo para la inflación y los costes de producción.",
+    "importancia": 4
    },
    {
-    "titulo": "Fuerte repunte del Nikkei 225",
-    "texto": "El índice japonés Nikkei 225 destaca con una subida diaria del 2.08%, situándose en 66.970,22 puntos y acumulando un avance semanal del 5.04%. Los datos objetivos confirman que es uno de los pocos activos que supera con claridad el umbral del 2% de variación en la sesión. Afecta directamente al mercado asiático y muestra un apetito por el riesgo específico en dicha plaza.",
-    "importancia": 3
-   },
-   {
-    "titulo": "Clima de cautela en criptomonedas y sentimiento de miedo",
-    "texto": "El mercado de criptomonedas se mantiene estable con Bitcoin cotizando en torno a los 64.010 dólares (subida del 0.16%) y Ethereum en 1.875 dólares. Sin embargo, el índice de miedo y codicia (Fear and Greed Cripto) se sitúa en 29, lo que denota un estado de 'Fear' (miedo). Esto afecta a la liquidez y al comportamiento de los inversores en activos digitales.",
+    "titulo": "Clima de miedo en criptomonedas con movimientos estables",
+    "texto": "El indicador de sentimiento Fear & Greed para criptomonedas se sitúa en 27, reflejando 'Fear' (miedo). A pesar de ello, Bitcoin cotiza en torno a los 63.986 dólares con una subida diaria del 0,68%, y Ethereum avanza un 1,15% hasta los 1.903 dólares, mostrando una aparente calma operativa a la espera de la publicación del IPC estadounidense.",
     "importancia": 2
    }
   ],
   "vigilar": [
-   "Evolución de los precios del petróleo Brent y WTI tras sus recientes subidas",
-   "Comportamiento de la volatilidad (VIX en 15.49)",
-   "Sentimiento del mercado cripto con el indicador de miedo en 29"
+   "La publicación del IPC de EE.UU. y su impacto en la renta variable y los bonos.",
+   "La cotización del petróleo Brent y WTI ante los movimientos geopolíticos en Irán.",
+   "El comportamiento del oro como activo refugio y la volatilidad (VIX en 15,38)."
   ],
   "proximos": [
-   "Posible propuesta regulatoria de la SEC de EE. UU. (Reg Crypto) para ciertos activos digitales",
-   "Evolución de las tensiones geopolíticas y su impacto en las negociaciones entre EE. UU. e Irán"
+   "Publicación del IPC de EE.UU.",
+   "Evolución de los mercados de criptomonedas ante los datos de inflación y los flujos de ETF de ether de Fidelity."
   ],
-  "nota_riesgo": "El nivel de riesgo general se mantiene moderado, con una volatilidad (VIX) contenida en 15.49, aunque persisten focos de tensión geopolítica y repuntes aislados en materias primas que exigen prudencia."
+  "nota_riesgo": "El nivel de riesgo general se mantiene contenido pero vigilante, con un índice VIX en 15,38 que no muestra pánico, pero con presiones claras en materias primas como el petróleo y el oro que reflejan cautela ante la inminente publicación del IPC en Estados Unidos."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -1.24,
-   "resumen": "Tu posición registra una rentabilidad levemente negativa del -1.24%. Sin embargo, las noticias muestran un panorama optimista impulsado por buenos resultados trimestrales gracias a NBA 2K y GTA, y los analistas de UBS y Wedbush señalan que las proyecciones futuras y las futuras reservas de GTA VI podrían tener un potencial alcista.",
+   "pl_pct": -2.76,
+   "resumen": "Tu posición registra una rentabilidad negativa del 2,76% en este momento. Sin embargo, las noticias destacan factores muy positivos de cara al futuro, como los sólidos resultados del primer trimestre gracias a NBA 2K y GTA, y el optimismo de analistas como UBS y Wedbush ante la cercanía del lanzamiento de GTA VI y sus previsiones conservadoras.",
    "noticias": [
     {
      "titulo": "Take-Two Interactive Software Fiscal 2027 Guidance Could Prove Conservative, UBS Says",
