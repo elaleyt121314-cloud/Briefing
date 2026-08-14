@@ -1,45 +1,64 @@
 {
- "actualizado": "2026-08-13T09:42:48+00:00",
+ "actualizado": "2026-08-14T09:34:38+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Sesión mixta en la renta variable con descensos en el petróleo y avances destacados en el sector tecnológico y de índices globales",
-  "resumen": "Los principales índices bursátiles registran una jornada en su mayoría positiva, destacando el avance del Nikkei 225 y del Nasdaq 100, mientras que el sector energético sufre recortes cercanos al 2% en los precios del petróleo Brent y WTI. Los datos muestran movimientos relevantes en acciones tecnológicas como NVIDIA, que sube un 3,03%, frente a descensos en Microsoft y Meta.",
+  "titular": "Sesión de ganancias moderadas en las bolsas con avances destacados en Meta y Tesla",
+  "resumen": "Los principales índices bursátiles registran ligeras subidas lideradas por el Nasdaq 100 y el S&P 500, mientras que el sector tecnológico muestra un tono positivo. En el mercado de criptomonedas se observa un tono de cautela con Bitcoin cotizando por debajo de los 63.000 dólares y el indicador de miedo y aversión en niveles de temor. Los datos de materias primas reflejan subidas moderadas tanto en el oro como en los tipos de petróleo Brent y WTI.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Comportamiento dispar en el sector tecnológico",
-    "texto": "Las acciones del sector tecnológico muestran divergencias significativas en la sesión. Mientras NVIDIA destaca con una subida del 3,03%, otras grandes compañías como Meta ceden un 3,38% y Microsoft retrocede un 2,26%. Estos movimientos se producen en un contexto donde empresas como Lenovo reportan fuertes beneficios impulsados por la inteligencia artificial y el mercado valora la evolución general del sector.",
+    "titulo": "Avances destacados en valores tecnológicos seleccionados",
+    "texto": "Las acciones de Meta y Tesla han registrado movimientos al alza superiores al 2% en la jornada, con subidas del 2,78% y 3,80% respectivamente. Este comportamiento se enmarca dentro de un contexto general de tono positivo para los índices tecnológicos como el Nasdaq 100, que avanza un 1,15%. Estos movimientos reflejan el dinamismo particular de estos valores de gran capitalización frente a un mercado más plano en otras plazas.",
     "importancia": 4
    },
    {
-    "titulo": "Corrección en los precios del petróleo",
-    "texto": "El petróleo Brent experimenta un descenso del 1,81% hasta los 87,37 dólares por barril, y el crudo WTI baja un 1,89% situándose en 81,70 dólares. Los datos muestran que la ausencia de novedades en el conflicto entre EE. UU. e Irán contribuye a enfriar las cotizaciones del crudo en los mercados internacionales de materias primas.",
+    "titulo": "Corrección en el mercado de criptomonedas",
+    "texto": "Bitcoin retrocede hasta los 62.729,4 dólares, situándose por debajo de los 63.000 dólares en una jornada con descensos generalizados para los principales activos digitales como Ethereum y Solana. El índice Fear & Greed cripto se sitúa en 29 puntos, reflejando un sentimiento de 'Fear' (miedo) en el sector. Esto podría indicar una mayor prudencia por parte de los inversores en activos de riesgo digital.",
     "importancia": 3
    },
    {
-    "titulo": "Optimismo en los índices europeos y asiáticos",
-    "texto": "Los mercados internacionales registran tono verde en su mayoría, liderados por el Nikkei 225 japonés con un incremento del 1,16%. En Europa, el IBEX 35 avanza un 0,68% hasta los 20.342 puntos, con analistas que mantienen una visión optimista sobre su evolución, mientras el DAX alemán sube un 0,51% y el Euro Stoxx 50 gana un 0,58%.",
-    "importancia": 4
+    "titulo": "Subidas en materias primas energéticas y refugio",
+    "texto": "El oro experimenta un incremento del 0,97% situándose en 4.406 dólares por onza, consolidando una ganancia mensual superior al 10%. Paralelamente, el petróleo Brent y el WTI registran avances del 0,67% y 1,14% respectivamente. Los datos muestran un encarecimiento sostenido de estas materias primas tanto en su comparativa semanal como mensual.",
+    "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución de los precios del petróleo Brent y WTI ante posibles cambios geopolíticos",
-   "Comportamiento de la volatilidad (VIX), situada actualmente en 14,65 puntos",
-   "Sentimiento en el mercado cripto, que refleja un índice Fear & Greed en zona de miedo (valor 29)"
+   "La evolución del precio de Bitcoin por debajo de la cota de los 63.000 dólares",
+   "El comportamiento del índice de volatilidad VIX, situado actualmente en 14,55 puntos",
+   "La cotización del petróleo Brent y WTI ante sus recientes subidas semanales"
   ],
   "proximos": [
-   "Publicaciones de datos de inflación y su persistencia en EE. UU.",
-   "Evolución de las tensiones geopolíticas y su impacto en las materias primas"
+   "Posibles movimientos derivados de la futura incorporación de Reddit al S&P 500",
+   "Evolución de las decisiones regulatorias sobre plataformas de predicción como Kalshi",
+   "Actualizaciones sobre las normativas de aranceles y comercio internacional reportadas por EE. UU."
   ],
-  "nota_riesgo": "El nivel de riesgo general se mantiene moderado, reflejado en una volatilidad (VIX) contenida en 14,65 puntos. No obstante, persisten señales mixtas, como el sentimiento de miedo en el mercado de criptomonedas y la divergencia entre el optimismo en la renta variable y la cautela mostrada por los mercados de crédito."
+  "nota_riesgo": "El nivel de riesgo general se mantiene moderado, reflejado en un índice VIX bajo de 14,55 que apunta a tranquilidad en los mercados tradicionales. No obstante, el sentimiento de 'Fear' en el sector cripto y la presión en materias primas sugieren mantener la selectividad."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -6.6,
-   "resumen": "Tu posición registra una rentabilidad del -6,6% desde la compra. A pesar de este descenso, las noticias reflejan un tono positivo de analistas como UBS y Wedbush, que apuntan a un potencial alcista de cara al año fiscal 2027 y al lanzamiento de GTA VI, sumado a unos resultados del primer trimestre que batieron estimaciones gracias a GTA y NBA 2K. Los titulares actuales no explican directamente la caída reciente que muestras, pero anticipan un buen panorama futuro.",
+   "pl_pct": -7.31,
+   "resumen": "Tu posición registra una rentabilidad del -7.31%. Aunque las noticias no explican directamente este movimiento reciente, se centran en la alta expectación por GTA VI, previsiones conservadoras y optimismo de analistas como UBS y Wedbush ante futuros lanzamientos.",
    "noticias": [
+    {
+     "titulo": "GTA 6 Owner Take-Two Is Not Interested In Selling To Netflix Or Anyone Right Now",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-to-netflix-or-anyone-right-now/#ftag=YHF6738a5f?.tsrc=rss",
+     "fecha": "2026-08-11T15:04:00+00:00"
+    },
+    {
+     "titulo": "As GTA 6 anticipation builds and the games industry buckles, Take-Two boss says \"I don't love winning by at...",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-anticipation-builds-and-the-games-industry-buckles-take-two-boss-says-i-dont-love-winning-by-attrition-but-ill-take-it/?.tsrc=rss",
+     "fecha": "2026-08-10T21:08:00+00:00"
+    },
+    {
+     "titulo": "Grand Theft Auto 5 averages more copies sold per year than most megahits manage in their entire lifetime, w...",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.pcgamer.com/gaming-industry/grand-theft-auto-5-averages-more-copies-sold-per-year-than-most-megahits-manage-in-their-entire-lifetime-with-a-total-of-230-million-since-2013/?.tsrc=rss",
+     "fecha": "2026-08-10T20:31:05+00:00"
+    },
     {
      "titulo": "Take-Two Interactive Software Fiscal 2027 Guidance Could Prove Conservative, UBS Says",
      "fuente": "Yahoo Finanzas",
@@ -57,24 +76,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://www.proactiveinvestors.com/companies/news/1096827/take-two-interactive-s-gta-vi-pre-orders-emerge-as-potential-upside-driver-says-wedbush-1096827.html?.tsrc=rss",
      "fecha": "2026-08-10T19:06:00+00:00"
-    },
-    {
-     "titulo": "Take-Two Q1 Earnings Beat Estimates on NBA 2K and GTA Strength",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-q1-earnings-beat-estimates-161100338.html?.tsrc=rss",
-     "fecha": "2026-08-10T16:11:00+00:00"
-    },
-    {
-     "titulo": "TTWO Q1 Earnings Call Keeps GTA VI at Center of FY27 Outlook",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/ttwo-q1-earnings-call-keeps-140000131.html?.tsrc=rss",
-     "fecha": "2026-08-10T14:00:00+00:00"
-    },
-    {
-     "titulo": "Company News for Aug 10, 2026",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-aug-10-2026-104100904.html?.tsrc=rss",
-     "fecha": "2026-08-10T10:41:00+00:00"
     }
    ]
   }
