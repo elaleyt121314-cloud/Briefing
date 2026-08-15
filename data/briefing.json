@@ -1,46 +1,51 @@
 {
- "actualizado": "2026-08-14T09:34:38+00:00",
+ "actualizado": "2026-08-15T06:01:58+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Sesión de ganancias moderadas en las bolsas con avances destacados en Meta y Tesla",
-  "resumen": "Los principales índices bursátiles registran ligeras subidas lideradas por el Nasdaq 100 y el S&P 500, mientras que el sector tecnológico muestra un tono positivo. En el mercado de criptomonedas se observa un tono de cautela con Bitcoin cotizando por debajo de los 63.000 dólares y el indicador de miedo y aversión en niveles de temor. Los datos de materias primas reflejan subidas moderadas tanto en el oro como en los tipos de petróleo Brent y WTI.",
-  "dia_tranquilo": false,
+  "titular": "Jornada de suaves descensos en los principales índices bursátiles y repunte en materias primas",
+  "resumen": "Los mercados de renta variable global registraron variaciones moderadamente negativas o estables, con descensos ligeros en Wall Street como el S&P 500 y el Nasdaq 100. Por otro lado, las materias primas como el oro y el petróleo mostraron avances destacados, mientras la volatilidad retrocedió.",
+  "dia_tranquilo": true,
   "claves": [
    {
-    "titulo": "Avances destacados en valores tecnológicos seleccionados",
-    "texto": "Las acciones de Meta y Tesla han registrado movimientos al alza superiores al 2% en la jornada, con subidas del 2,78% y 3,80% respectivamente. Este comportamiento se enmarca dentro de un contexto general de tono positivo para los índices tecnológicos como el Nasdaq 100, que avanza un 1,15%. Estos movimientos reflejan el dinamismo particular de estos valores de gran capitalización frente a un mercado más plano en otras plazas.",
-    "importancia": 4
+    "titulo": "Comportamiento mixto y moderado en la renta variable",
+    "texto": "Los principales índices de Wall Street cerraron con ligeras caídas (S&P 500 un -0.17% y Nasdaq 100 un -0.13%), mientras que en Europa el DAX alemán avanzó un 0.53% y el IBEX 35 cedió un 0.06%. Estos movimientos reducidos reflejan una sesión de transición sin grandes sobresaltos macroeconómicos inmediatos para los índices generales.",
+    "importancia": 2
    },
    {
-    "titulo": "Corrección en el mercado de criptomonedas",
-    "texto": "Bitcoin retrocede hasta los 62.729,4 dólares, situándose por debajo de los 63.000 dólares en una jornada con descensos generalizados para los principales activos digitales como Ethereum y Solana. El índice Fear & Greed cripto se sitúa en 29 puntos, reflejando un sentimiento de 'Fear' (miedo) en el sector. Esto podría indicar una mayor prudencia por parte de los inversores en activos de riesgo digital.",
+    "titulo": "Avance en el oro y el petróleo",
+    "texto": "Las materias primas registraron subidas notables en la sesión. El oro repuntó un 1.69% situándose en 4,437.30 dólares, y los contratos de petróleo Brent y WTI avanzaron un 1.67% y un 1.42% respectivamente. Estos incrementos afectan directamente a los activos vinculados a energía y metales preciosos.",
     "importancia": 3
    },
    {
-    "titulo": "Subidas en materias primas energéticas y refugio",
-    "texto": "El oro experimenta un incremento del 0,97% situándose en 4.406 dólares por onza, consolidando una ganancia mensual superior al 10%. Paralelamente, el petróleo Brent y el WTI registran avances del 0,67% y 1,14% respectivamente. Los datos muestran un encarecimiento sostenido de estas materias primas tanto en su comparativa semanal como mensual.",
-    "importancia": 3
+    "titulo": "Disminución de la volatilidad en el mercado",
+    "texto": "El índice de volatilidad VIX experimentó una bajada del 2.60%, situándose en los 14.25 puntos. Los datos muestran un descenso en la percepción de riesgo a corto plazo en los mercados financieros tradicionales, lo que suele acompañar a jornadas de menor tensión inversora.",
+    "importancia": 2
    }
   ],
   "vigilar": [
-   "La evolución del precio de Bitcoin por debajo de la cota de los 63.000 dólares",
-   "El comportamiento del índice de volatilidad VIX, situado actualmente en 14,55 puntos",
-   "La cotización del petróleo Brent y WTI ante sus recientes subidas semanales"
+   "Evolución de los precios del oro y del petróleo",
+   "Comportamiento de la volatilidad (VIX)",
+   "Indicadores de criptomonedas bajo el sentimiento de 'Fear'"
   ],
   "proximos": [
-   "Posibles movimientos derivados de la futura incorporación de Reddit al S&P 500",
-   "Evolución de las decisiones regulatorias sobre plataformas de predicción como Kalshi",
-   "Actualizaciones sobre las normativas de aranceles y comercio internacional reportadas por EE. UU."
+   "Resultados empresariales de Nvidia",
+   "Reuniones de altos ejecutivos del sector cripto con la administración estadounidense"
   ],
-  "nota_riesgo": "El nivel de riesgo general se mantiene moderado, reflejado en un índice VIX bajo de 14,55 que apunta a tranquilidad en los mercados tradicionales. No obstante, el sentimiento de 'Fear' en el sector cripto y la presión en materias primas sugieren mantener la selectividad."
+  "nota_riesgo": "El nivel de riesgo general se mantiene contenido, reflejado en un VIX bajo (14.25) y variaciones diarias muy reducidas en la renta variable. No obstante, el miedo en el mercado cripto (Fear & Greed en 34) y las tensiones en materias primas aconsejan mantener la prudencia."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -7.31,
-   "resumen": "Tu posición registra una rentabilidad del -7.31%. Aunque las noticias no explican directamente este movimiento reciente, se centran en la alta expectación por GTA VI, previsiones conservadoras y optimismo de analistas como UBS y Wedbush ante futuros lanzamientos.",
+   "pl_pct": -4.81,
+   "resumen": "Tu posición registra una rentabilidad del -4.81% desde la compra. Las noticias de hoy recogen la transcripción de sus resultados del primer trimestre de 2027 y la postura firme de su directiva de no vender la compañía, mientras analistas de UBS señalan que su guía fiscal y su perspectiva de cara al lanzamiento de GTA VI podrían ser conservadoras y apuntar al alza.",
    "noticias": [
+    {
+     "titulo": "Take-Two (TTWO) Q1 2027 Earnings Call Transcript",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.fool.com/earnings/call-transcripts/2026/08/14/take-two-ttwo-q1-2027-earnings-call-transcript/?.tsrc=rss",
+     "fecha": "2026-08-14T13:14:20+00:00"
+    },
     {
      "titulo": "GTA 6 Owner Take-Two Is Not Interested In Selling To Netflix Or Anyone Right Now",
      "fuente": "Yahoo Finanzas",
@@ -70,12 +75,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://finance.yahoo.com/media-advertising/articles/two-outlook-poised-upside-gta-190820433.html?.tsrc=rss",
      "fecha": "2026-08-10T19:08:20+00:00"
-    },
-    {
-     "titulo": "Take-Two Interactive’s GTA VI pre-orders emerge as potential upside driver, says Wedbush",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.proactiveinvestors.com/companies/news/1096827/take-two-interactive-s-gta-vi-pre-orders-emerge-as-potential-upside-driver-says-wedbush-1096827.html?.tsrc=rss",
-     "fecha": "2026-08-10T19:06:00+00:00"
     }
    ]
   }
