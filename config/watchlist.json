@@ -38,7 +38,8 @@
         { "symbol": "AMZN", "nombre": "Amazon" },
         { "symbol": "GOOGL", "nombre": "Alphabet" },
         { "symbol": "META", "nombre": "Meta" },
-        { "symbol": "TSLA", "nombre": "Tesla" }
+        { "symbol": "TSLA", "nombre": "Tesla" },
+        { "symbol": "SPCX", "nombre": "SpaceX" }
       ]
     },
     {
