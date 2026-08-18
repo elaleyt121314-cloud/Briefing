@@ -1,45 +1,62 @@
 {
- "actualizado": "2026-08-17T05:58:25+00:00",
+ "actualizado": "2026-08-18T05:53:06+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de transición en los mercados bursátiles con ligeras caídas y el oro al alza",
-  "resumen": "Los principales índices bursátiles de EE.UU. y Europa registraron variaciones moderadamente negativas o planas en una sesión tranquila. Destaca el avance del oro, que sube un 1,65% diario, mientras los inversores evalúan los próximos movimientos de la Reserva Federal. Por su parte, el VIX de volatilidad retrocede un 2,6% situándose en los 14,25 puntos.",
-  "dia_tranquilo": true,
+  "titular": "Jornada de corrección moderada en los principales índices bursátiles y caídas destacadas en tecnológicas clave",
+  "resumen": "Los mercados globales registran descensos generalizados en la sesión, liderados por las caídas en grandes valores tecnológicos como Meta y Microsoft, mientras que el sector cripto muestra un comportamiento mixto con subidas en Bitcoin. Los datos de renta fija reflejan un incremento en el rendimiento de los bonos estadounidenses y el índice de volatilidad VIX experimenta un repunte. Paralelamente, la atención internacional se centra en las negociaciones comerciales de última hora entre Estados Unidos y Canadá ante el vencimiento del plazo arancelario.",
+  "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Comportamiento plano en los principales índices bursátiles",
-    "texto": "Los futuros de las acciones estadounidenses y los principales índices como el S&P 500 (-0,17%), Nasdaq 100 (-0.13%) y el Dow Jones (-0,20%) se mantuvieron sin grandes cambios en una sesión tranquila. En Europa, el Euro Stoxx 50 y el IBEX 35 registraron variaciones mínimas del -0,09% y -0,06% respectivamente, con el DAX alemán al alza en un 0,53%. Esto refleja una pausa en los mercados mientras los inversores sopesan los pasos futuros de la política monetaria de la Fed.",
-    "importancia": 2
+    "titulo": "Descensos en grandes tecnológicas americanas",
+    "texto": "Las acciones de Meta registraron una caída del 4,37% y Microsoft retrocedió un 3,33%, destacando entre los movimientos mayores al 2% de la sesión. Estos retrocesos se producen en un contexto donde el BCE advierte sobre una posible corrección en las tecnológicas de EE. UU. que podría amenazar la estabilidad financiera. Este comportamiento afecta directamente a los índices principales como el S&P 500 y el Nasdaq 100, que cerraron en negativo con caídas del 0,69% y 0,30% respectivamente.",
+    "importancia": 4
    },
    {
-    "titulo": "Aceleración notable en el precio del oro",
-    "texto": "El oro experimentó una subida destacada del 1,65% en la jornada, situando su precio en los 4.452,5 dólares y acumulando una subida mensual superior al 10%. Este movimiento en el metal precioso contrasta con la estabilidad general en los mercados de renta variable. Los datos reflejan este incremento claro de cotización, aunque los eventos específicos que lo motivan no se detallan en la fuente.",
+    "titulo": "Comportamiento al alza en Bitcoin y activos refugio",
+    "texto": "Bitcoin subió un 2,11% superando los 64.000 dólares, desmarcándose de los descensos generalizados en la mayoría de grandes valores bursátiles, aunque el indicador de sentimiento cripto se sitúa en zona de miedo (Fear) con 41 puntos. Por otro lado, las materias primas como el oro y el petróleo (tanto Brent como WTI) registraron subidas moderadas del 0,64%, 0,56% y 0,78% respectivamente. Esto refleja una búsqueda diversificada de activos mientras la volatilidad (VIX) sube un 3,83% hasta los 15,19 puntos.",
     "importancia": 3
    },
    {
-    "titulo": "Estabilidad y descensos en la volatilidad (VIX)",
-    "texto": "El índice de volatilidad VIX cayó un 2,60% hasta los 14,25 puntos, prolongando su descenso semanal y mensual. Este nivel reducido de volatilidad indica un clima de menor tensión percibida en los mercados de renta variable a corto plazo. Afecta principalmente a la lectura de riesgo general para los inversores en opciones y acciones.",
-    "importancia": 2
+    "titulo": "Presión en la renta fija y subida de rendimientos",
+    "texto": "El rendimiento del bono estadounidense a 10 años aumentó un 1,79% situándose en el 4,724%, mientras que el bono a 2 años marca un 4,19%, dejando una curva de tipos (10a - 2a) en 0,53 pp. Además, informes de mercado señalan que un conocido ETF que rastrea el mercado de bonos del Tesoro de EE. UU. ha alcanzado su nivel más bajo en más de 20 años. Este incremento en las rentabilidades de la deuda soberana condiciona las valoraciones de los activos de riesgo.",
+    "importancia": 4
+   },
+   {
+    "titulo": "Negociaciones comerciales intensas entre EE. UU. y Canadá",
+    "texto": "Los negociadores lidian contrarreloj con conversaciones descritas como intensas ante la proximidad de la medianoche del martes como fecha límite para evitar nuevos aranceles de la administración Trump sobre Canadá. Mark Carney y las autoridades canadienses buscan un acuerdo de última hora para esquivar un mayor dolor económico. Este acontecimiento geopolítico mantiene en vilo a los inversores atentos al impacto en el comercio norteamericano.",
+    "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución del rendimiento del bono estadounidense a 10 años, situado actualmente en el 4,696%.",
-   "Movimientos en el mercado de criptomonedas, donde Bitcoin cotiza en torno a los 63.458 dólares con un índice Fear & Greed en zona de miedo (31).",
-   "El comportamiento de las acciones del sector tecnológico, especialmente Meta debido a la demanda de treinta estados de EE.UU."
+   "Evolución del rendimiento del bono estadounidense a 10 años y su impacto en los mercados de renta variable",
+   "Desenlace de las negociaciones comerciales entre Estados Unidos y Canadá ante el límite de los aranceles",
+   "Comportamiento de los valores tecnológicos de gran capitalización (como Meta y Microsoft) tras las advertencias del BCE"
   ],
   "proximos": [
-   "Posibles pistas o declaraciones de la Reserva Federal sobre sus próximos movimientos en tipos de interés.",
-   "Evolución de la demanda global de petróleo crudo frente a los precios actuales de Brent (88,55 dólares) y WTI (82,12 dólares)."
+   "Vencimiento del plazo a medianoche del martes para las negociaciones comerciales entre EE. UU. y Canadá",
+   "Nuevos datos y publicaciones sobre la evolución de la política comercial y arancelaria"
   ],
-  "nota_riesgo": "El nivel de riesgo general se mantiene moderado-bajo según el índice de volatilidad VIX (14,25), aunque persisten focos de cautela como el sentimiento de miedo (31) en el mercado de criptomonedas y las tensiones regulatorias en grandes tecnológicas."
+  "nota_riesgo": "El nivel de riesgo general se mantiene moderado-bajo pero en aumento, reflejado en el repunte del 3,83% del índice de volatilidad VIX hasta los 15,19 puntos y el incremento en las rentabilidades de la deuda soberana. Las advertencias sobre correcciones en tecnológicas sugieren prudencia en las valoraciones actuales."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
    "pl_pct": -4.55,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 4,55 %. En el plano informativo, UBS señala que las previsiones fiscales podrían ser conservadoras y apuntan a un potencial de mejora conforme se acerca el lanzamiento de GTA VI, mientras que la compañía descarta venderse a Netflix u otros compradores.",
+   "resumen": "Tu posición registra una rentabilidad del -4.55%. Las noticias del día recogen la anticipación en torno a GTA 6, los resultados del primer trimestre de 2027 y la postura de la compañía de no estar interesada en vender a Netflix ni a nadie, aunque estos titulares no explican directamente el movimiento reciente de la cotización.",
    "noticias": [
+    {
+     "titulo": "Does Take-Two’s Shift To Modest Profit Guidance Reframe The Bull Case For TTWO?",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/does-two-shift-modest-profit-010748760.html?.tsrc=rss",
+     "fecha": "2026-08-18T01:07:48+00:00"
+    },
+    {
+     "titulo": "Snail Stock Tumbles 38% in a Month: Buy the Dip, Hold or Sell?",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/snail-stock-tumbles-38-month-155200019.html?.tsrc=rss",
+     "fecha": "2026-08-17T15:52:00+00:00"
+    },
     {
      "titulo": "Take-Two (TTWO) Q1 2027 Earnings Call Transcript",
      "fuente": "Yahoo Finanzas",
@@ -63,18 +80,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://www.pcgamer.com/gaming-industry/grand-theft-auto-5-averages-more-copies-sold-per-year-than-most-megahits-manage-in-their-entire-lifetime-with-a-total-of-230-million-since-2013/?.tsrc=rss",
      "fecha": "2026-08-10T20:31:05+00:00"
-    },
-    {
-     "titulo": "Take-Two Interactive Software Fiscal 2027 Guidance Could Prove Conservative, UBS Says",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-fiscal-2027-190913936.html?.tsrc=rss",
-     "fecha": "2026-08-10T19:09:13+00:00"
-    },
-    {
-     "titulo": "Take-Two Outlook Poised for Upside as GTA VI Approaches, UBS Says",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/media-advertising/articles/two-outlook-poised-upside-gta-190820433.html?.tsrc=rss",
-     "fecha": "2026-08-10T19:08:20+00:00"
     }
    ]
   }
