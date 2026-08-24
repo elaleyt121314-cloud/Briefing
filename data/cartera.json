@@ -7,8 +7,8 @@
   "valor": 38.9,
   "pl": -3.02,
   "pl_pct": -7.2,
-  "sp500_valor_equivalente": 46.58,
-  "sp500_pl_pct": 11.12
+  "sp500_valor_equivalente": 46.56,
+  "sp500_pl_pct": 11.07
  },
  "posiciones": [
   {
@@ -24,7 +24,7 @@
    "valor": 38.9,
    "pl": -3.03,
    "pl_pct": -7.22,
-   "sp500_pct_mismo_periodo": 11.12,
+   "sp500_pct_mismo_periodo": 11.08,
    "peso_pct": 100.0
   }
  ],
@@ -43,5 +43,5 @@
   }
  ],
  "omitidas": [],
- "actualizado": "2026-08-23T05:52:53+00:00"
+ "actualizado": "2026-08-24T06:01:42+00:00"
 }
