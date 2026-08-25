@@ -1,44 +1,50 @@
 {
- "actualizado": "2026-08-24T06:01:42+00:00",
+ "actualizado": "2026-08-25T05:56:25+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Tono moderadamente positivo en los mercados globales de renta variable y avance destacado en Tesla y el oro",
-  "resumen": "Los principales índices bursátiles registran ligeros avances diarios, destacando el Dow Jones con un 0.98% y las bolsas europeas al alza. El sector de criptomonedas mantiene su fortaleza con un sentimiento de codicia (Greed en 73), mientras que la volatilidad (VIX) desciende un 5.5%. Por otro lado, la atención geopolítica y comercial se centra en posibles tensiones arancelarias entre EE. UU. y Canadá.",
+  "titular": "Tensión comercial entre EE.UU. y Canadá, fuertes subidas en criptomonedas y Nvidia bajo presión",
+  "resumen": "Los mercados muestran movimientos mixtos con caídas notables en el sector tecnológico como Nvidia y Tesla, mientras las criptomonedas repuntan con fuerza superando los 80.000 dólares para el Bitcoin. En el plano macroeconómico y político, destaca la amenaza de aranceles del 50% por parte de EE.UU. a los productos de Canadá y las tensiones geopolíticas con Irán.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Comportamiento mixto en acciones y subida notable de Tesla",
-    "texto": "Las acciones tecnológicas muestran movimientos divididos, donde Apple cae un 1.7% y NVIDIA baja un 0.98%, mientras Alphabet sube un 1.22%. El movimiento más destacado del día lo protagoniza Tesla, con un repunte del 5.14% en su cotización. Estos cambios impactan directamente en los principales ETF y fondos que replican el mercado estadounidense.",
-    "importancia": 3
+    "titulo": "Escalada en la guerra comercial entre EE.UU. y Canadá",
+    "texto": "El presidente Trump ha amenazado con imponer nuevos aranceles del 50% sobre automóviles, camiones, piezas y acero a partir del 1 de enero, desatando un conflicto comercial con Canadá. Mark Carney acusó a EE.UU. de querer destruir la industria automotriz canadiense, lo que genera incertidumbre sobre el impacto en las empresas y el empleo de ambos países. Esta situación afecta directamente a los activos norteamericanos y a la estabilidad de las relaciones comerciales en la región.",
+    "importancia": 5
    },
    {
-    "titulo": "Avance del oro y descenso de la volatilidad",
-    "texto": "El oro registra una subida diaria del 1.6%, situándose en 4,698.2 dólares. Paralelamente, el índice de volatilidad VIX cae un 5.5% hasta los 15.13 puntos. Los datos reflejan un apetito por activos refugio tradicionales como el oro a pesar de la reducción general de la volatilidad en las bolsas.",
-    "importancia": 3
-   },
-   {
-    "titulo": "Tensiones comerciales entre EE. UU. y Canadá y futuros planos",
-    "texto": "Los futuros de las acciones estadounidenses se muestran planos ante los indicios de que Estados Unidos y Canadá podrían dirigirse hacia una guerra comercial. Este contexto geopolítico afecta a las perspectivas de los inversores de cara a la apertura oficial de los mercados. La situación mantiene en cautela a los operadores de renta variable norteamericana.",
+    "titulo": "Fuerte rally alcista en criptomonedas con el Bitcoin sobre los 80.000 dólares",
+    "texto": "El mercado cripto registra importantes subidas, destacando el Bitcoin al superar la barrera de los 80.000 dólares por primera vez desde mayo, acompañado por incrementos del 3,84% en el día y un notable optimismo reflejado en el índice de Fear & Greed en niveles de 74 ('Greed'). Solana también destaca con una subida diaria del 6,94% y un avance semanal cercano al 20%, aunque los datos apuntan a advertencias de sobrecompra en el corto plazo.",
     "importancia": 4
+   },
+   {
+    "titulo": "Nvidia y Tesla lideran descensos en la tecnología",
+    "texto": "Dentro del sector de acciones, Nvidia registra una caída del 2,91% y acumula siete caídas consecutivas en bolsa a la espera de publicar sus resultados trimestrales bajo máxima presión. Por su parte, Tesla cede un 3,83% en la sesión, lastrando al índice Nasdaq 100 que retrocede un 0,97%. Estos movimientos reflejan la cautela de los inversores ante los próximos informes de grandes tecnológicas.",
+    "importancia": 4
+   },
+   {
+    "titulo": "Nuevas sanciones de EE.UU. a Irán y contexto financiero global",
+    "texto": "Los datos recogen que Estados Unidos ha preparado lo que denomina una 'ofensiva financiera' o 'D-Day económico' contra Irán, mientras Teherán afirma estar preparado con un plan para contrarrestarlas. Paralelamente, el oro registra un avance del 1,22% diario y se sitúa en los 4.697,3 dólares, reflejando la búsqueda de refugio o el comportamiento alcista de las materias primas en el mes.",
+    "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución de las relaciones comerciales entre EE. UU. y Canadá",
-   "Comportamiento del oro y su continuidad en la tendencia alcista",
-   "Movimientos en la cotización de Tesla y SpaceX tras las variaciones superiores al 2%"
+   "Evolución de la cotización de Nvidia ante la publicación inminente de sus resultados trimestrales",
+   "Posibles represalias económicas de Canadá frente a la amenaza de aranceles de EE.UU.",
+   "Indicadores de sobrecompra en el mercado de criptomonedas (Bitcoin y Solana)"
   ],
   "proximos": [
-   "Debut bursátil de Shein en Hong Kong previsto para el 1 de septiembre con una valoración estimada de casi 27 mil millones",
-   "Debut de Warsh en Jackson Hole y su enfoque en el sector cripto y financiero"
+   "Publicación de cuentas trimestrales de Nvidia",
+   "Próximos movimientos y negociaciones en torno a la disputa comercial EE.UU.-Canada",
+   "Evolución del presupuesto de otoño y decisiones fiscales en el Reino Unido"
   ],
-  "nota_riesgo": "El nivel de riesgo general se mantiene equilibrado, reflejado en un índice VIX en 15.13 que reduce la presión inmediata de pánico, aunque persisten riesgos geopolíticos y comerciales latentes entre EE. UU. y Canadá."
+  "nota_riesgo": "El nivel de riesgo general se mantiene moderado-alto, reflejado en un VIX que sube un 4,76% hasta los 15,85 puntos y la tensión geopolítica y comercial internacional. Los datos sugieren cautela ante la combinación de alta volatilidad en criptomonedas y la presión en valores tecnológicos clave."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
    "pl_pct": -7.22,
-   "resumen": "Tu posición registra una caída del 7.22% desde la compra. Las noticias señalan que la empresa perdió valor tras filtraciones de GTA 6 y discuten si está infravalorada o cómo afecta un ajuste hacia guías de beneficios más modestas.",
+   "resumen": "Tu posición registra una rentabilidad negativa del 7.22%. Las noticias señalan pérdidas recientes vinculadas a filtraciones de GTA 6 y un cambio hacia una guía de beneficios más modesta, mientras los analistas debaten si la compañía podría estar infravalorada de cara a sus próximos resultados.",
    "noticias": [
     {
      "titulo": "Take-Two Stock's Next Leg Sits In A Guide That Has Not Moved",
