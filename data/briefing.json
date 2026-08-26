@@ -1,51 +1,62 @@
 {
- "actualizado": "2026-08-25T05:56:25+00:00",
+ "actualizado": "2026-08-26T05:58:14+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Tensión comercial entre EE.UU. y Canadá, fuertes subidas en criptomonedas y Nvidia bajo presión",
-  "resumen": "Los mercados muestran movimientos mixtos con caídas notables en el sector tecnológico como Nvidia y Tesla, mientras las criptomonedas repuntan con fuerza superando los 80.000 dólares para el Bitcoin. En el plano macroeconómico y político, destaca la amenaza de aranceles del 50% por parte de EE.UU. a los productos de Canadá y las tensiones geopolíticas con Irán.",
+  "titular": "Jornada de ganancias moderadas en las bolsas y retroceso en el petróleo",
+  "resumen": "Los principales índices bursátiles registran avances moderados en una sesión donde la volatilidad cae ligeramente. En el mercado de materias primas, el petróleo Brent sufre un descenso destacado del 3%, mientras que el oro avanza. El bitcoin se mantiene en torno a los 79.000 dólares con el indicador de miedo y codicia en zona de codicia.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Escalada en la guerra comercial entre EE.UU. y Canadá",
-    "texto": "El presidente Trump ha amenazado con imponer nuevos aranceles del 50% sobre automóviles, camiones, piezas y acero a partir del 1 de enero, desatando un conflicto comercial con Canadá. Mark Carney acusó a EE.UU. de querer destruir la industria automotriz canadiense, lo que genera incertidumbre sobre el impacto en las empresas y el empleo de ambos países. Esta situación afecta directamente a los activos norteamericanos y a la estabilidad de las relaciones comerciales en la región.",
-    "importancia": 5
+    "titulo": "Avance generalizado en los índices bursátiles",
+    "texto": "Los datos muestran subidas en la mayoría de grandes índices, destacando el Nasdaq 100 con un 0,64% y el DAX alemán con un 0,61%, mientras que el S&P 500 sube un 0,32%. Esto afecta directamente a los fondos indexados y ETF de renta variable global, reflejando un tono positivo en los mercados occidentales y asiáticos, donde el Nikkei 225 suma un 0,68%.",
+    "importancia": 3
    },
    {
-    "titulo": "Fuerte rally alcista en criptomonedas con el Bitcoin sobre los 80.000 dólares",
-    "texto": "El mercado cripto registra importantes subidas, destacando el Bitcoin al superar la barrera de los 80.000 dólares por primera vez desde mayo, acompañado por incrementos del 3,84% en el día y un notable optimismo reflejado en el índice de Fear & Greed en niveles de 74 ('Greed'). Solana también destaca con una subida diaria del 6,94% y un avance semanal cercano al 20%, aunque los datos apuntan a advertencias de sobrecompra en el corto plazo.",
+    "titulo": "Caída destacada en el precio del petróleo Brent",
+    "texto": "El petróleo Brent registra una bajada del 3,0%, situándose en 85,92 dólares por barril, y el WTI retrocede un 1,86%. Los datos no especifican una causa directa para este movimiento en el mercado energético. Este descenso contrasta con el comportamiento alcista de materias primas refugio como el oro, que sube un 1,28% hasta los 4.697 dólares.",
     "importancia": 4
    },
    {
-    "titulo": "Nvidia y Tesla lideran descensos en la tecnología",
-    "texto": "Dentro del sector de acciones, Nvidia registra una caída del 2,91% y acumula siete caídas consecutivas en bolsa a la espera de publicar sus resultados trimestrales bajo máxima presión. Por su parte, Tesla cede un 3,83% en la sesión, lastrando al índice Nasdaq 100 que retrocede un 0,97%. Estos movimientos reflejan la cautela de los inversores ante los próximos informes de grandes tecnológicas.",
-    "importancia": 4
+    "titulo": "Comportamiento mixto y codicia en criptomonedas",
+    "texto": "Bitcoin se mantiene estable en 79.019 dólares con una variación mínima del 0,07% en el día, aunque acumula una subida semanal del 8,2%. Ethereum y Solana registran ligeros retrocesos diarios del 0,74% y 1,56% respectivamente. El índice Fear & Greed cripto se sitúa en 65, lo que denota un sentimiento de codicia en el sector.",
+    "importancia": 3
    },
    {
-    "titulo": "Nuevas sanciones de EE.UU. a Irán y contexto financiero global",
-    "texto": "Los datos recogen que Estados Unidos ha preparado lo que denomina una 'ofensiva financiera' o 'D-Day económico' contra Irán, mientras Teherán afirma estar preparado con un plan para contrarrestarlas. Paralelamente, el oro registra un avance del 1,22% diario y se sitúa en los 4.697,3 dólares, reflejando la búsqueda de refugio o el comportamiento alcista de las materias primas en el mes.",
+    "titulo": "Descenso de la volatilidad y los rendimientos de los bonos",
+    "texto": "El índice de volatilidad VIX baja un 2,52% hasta los 15,45 puntos, lo que indica un menor nerviosismo a corto plazo en los mercados. Por su parte, el rendimiento del bono USA a 10 años desciende un 1,38% situándose en el 4,639%. Los datos reflejan un movimiento a la baja en los costes de financiación soberana a largo plazo.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución de la cotización de Nvidia ante la publicación inminente de sus resultados trimestrales",
-   "Posibles represalias económicas de Canadá frente a la amenaza de aranceles de EE.UU.",
-   "Indicadores de sobrecompra en el mercado de criptomonedas (Bitcoin y Solana)"
+   "Evolución del precio del petróleo Brent tras la caída del 3%",
+   "Comportamiento del Bitcoin alrededor del nivel de los 79.000 dólares",
+   "Niveles de volatilidad del VIX en la franja de los 15 puntos"
   ],
   "proximos": [
-   "Publicación de cuentas trimestrales de Nvidia",
-   "Próximos movimientos y negociaciones en torno a la disputa comercial EE.UU.-Canada",
-   "Evolución del presupuesto de otoño y decisiones fiscales en el Reino Unido"
+   "Impacto de las nuevas regulaciones o sanciones de EE. UU. sobre activos digitales y energía de Irán",
+   "Efectos de la retirada masiva de vehículos en China anunciada para fabricantes como Tesla y XPeng"
   ],
-  "nota_riesgo": "El nivel de riesgo general se mantiene moderado-alto, reflejado en un VIX que sube un 4,76% hasta los 15,85 puntos y la tensión geopolítica y comercial internacional. Los datos sugieren cautela ante la combinación de alta volatilidad en criptomonedas y la presión en valores tecnológicos clave."
+  "nota_riesgo": "El nivel de riesgo general se mantiene contenido, respaldado por una bajada en la volatilidad (VIX en 15,45) y avances estables en la renta variable. No obstante, la caída abrupta en el petróleo y el sentimiento de codicia en criptomonedas invitan a mantener la prudencia."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -7.22,
-   "resumen": "Tu posición registra una rentabilidad negativa del 7.22%. Las noticias señalan pérdidas recientes vinculadas a filtraciones de GTA 6 y un cambio hacia una guía de beneficios más modesta, mientras los analistas debaten si la compañía podría estar infravalorada de cara a sus próximos resultados.",
+   "pl_pct": -10.08,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 10,08%. Aunque las noticias mencionan pérdidas pasadas por filtraciones de GTA 6 y debates sobre el sentimiento de Wall Street, los titulares de hoy mezclan información sobre otras compañías como Mattel y NetEase, por lo que las noticias actuales no explican con claridad el movimiento reciente de la acción.",
    "noticias": [
+    {
+     "titulo": "Mattel Q2 Sales Beat Estimates as Margin Pressure Squeezes Earnings",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/mattel-q2-sales-beat-estimates-160800464.html?.tsrc=rss",
+     "fecha": "2026-08-25T16:08:00+00:00"
+    },
+    {
+     "titulo": "Should You Buy Mattel as Growth Battles Margin and Execution Risks?",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/buy-mattel-growth-battles-margin-160600139.html?.tsrc=rss",
+     "fecha": "2026-08-25T16:06:00+00:00"
+    },
     {
      "titulo": "Take-Two Stock's Next Leg Sits In A Guide That Has Not Moved",
      "fuente": "Yahoo Finanzas",
@@ -69,18 +80,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://247wallst.com/investing/2026/08/19/heres-why-investors-may-want-to-own-netease-before-august-20th/?.tsrc=rss",
      "fecha": "2026-08-19T15:54:44+00:00"
-    },
-    {
-     "titulo": "Take Two Interactive Software (TTWO) Could Be 13% Undervalued As Earnings And Guidance Land",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-ttwo-could-091228231.html?.tsrc=rss",
-     "fecha": "2026-08-18T09:12:28+00:00"
-    },
-    {
-     "titulo": "Does Take-Two’s Shift To Modest Profit Guidance Reframe The Bull Case For TTWO?",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/does-two-shift-modest-profit-010748760.html?.tsrc=rss",
-     "fecha": "2026-08-18T01:07:48+00:00"
     }
    ]
   }
