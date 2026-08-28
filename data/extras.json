@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-08-27T16:37:16+00:00",
+ "actualizado": "2026-08-28T17:33:03+00:00",
  "cripto_global": {
-  "dominancia_btc": 59.2,
-  "cap_total_usd": 2713695434002,
-  "variacion_cap_24h": 0.43
+  "dominancia_btc": 59.0,
+  "cap_total_usd": 2639821010518,
+  "variacion_cap_24h": -5.28
  },
  "fear_and_greed": {
-  "valor": 71,
+  "valor": 73,
   "texto": "Greed"
  },
  "macro": [
   {
    "serie": "US2Y",
    "nombre": "Bono USA 2 años",
-   "valor": 4.19,
-   "fecha": "2026-08-26",
+   "valor": 4.2,
+   "fecha": "2026-08-27",
    "unidad": "%",
    "fuente": "Tesoro EE. UU."
   },
   {
    "serie": "US10Y",
    "nombre": "Bono USA 10 años",
-   "valor": 4.66,
-   "fecha": "2026-08-26",
+   "valor": 4.67,
+   "fecha": "2026-08-27",
    "unidad": "%",
    "fuente": "Tesoro EE. UU."
   },
@@ -30,7 +30,7 @@
    "serie": "US10Y2Y",
    "nombre": "Curva de tipos USA (10a - 2a)",
    "valor": 0.47,
-   "fecha": "2026-08-26",
+   "fecha": "2026-08-27",
    "unidad": " pp",
    "fuente": "Tesoro EE. UU."
   }
