@@ -1,49 +1,44 @@
 {
- "actualizado": "2026-08-30T10:34:27+00:00",
+ "actualizado": "2026-08-31T11:43:12+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada mixta en los mercados con descensos en criptomonedas y tecnología seleccionada",
-  "resumen": "Los principales índices bursátiles de EE. UU. cerraron con ligeros retrocesos mientras que Europa mostró avances moderados. Las criptomonedas registraron descensos generalizados con caídas superiores al 2% en Bitcoin y Ethereum. Por su parte, el sector tecnológico mixto vio descensos notables en NVIDIA frente a subidas en Apple y Amazon.",
+  "titular": "Escalada bélica en Irán impulsa el petróleo y frena a las bolsas en el cierre de agosto",
+  "resumen": "Los mercados cierran el mes de agosto con descensos moderados en los principales índices, presionados por el impacto del conflicto en Irán en los precios energéticos. El petróleo WTI avanza con fuerza un 3.91% y el Brent roza los 90 dólares por barril. En paralelo, la volatilidad (VIX) sube un 5.27% y el bitcoin experimenta frenos tras un mes de fuertes ganancias.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Movimientos destacados en grandes tecnológicas",
-    "texto": "Las acciones tecnológicas mostraron divergencias significativas en la sesión. NVIDIA experimentó un descenso del 4.57%, mientras que Apple subió un 3.53% y Amazon avanzó un 3.97%. Estos movimientos afectan directamente a los índices de referencia como el Nasdaq 100, que retrocedió un 0.70%.",
+    "titulo": "Escalada en Oriente Medio y subida del petróleo",
+    "texto": "Un nuevo intercambio de ataques entre Estados Unidos e Irán ha acelerado las subidas en el mercado energético. El petróleo WTI ha repuntado un 3.91% hasta los 86.66 dólares, mientras el Brent se sitúa en torno a los 88.87 dólares. Los datos muestran cómo esta tensión geopolítica domina la agenda económica global y afecta directamente a las materias primas.",
+    "importancia": 5
+   },
+   {
+    "titulo": "Corrección bursátil y aumento de la volatilidad",
+    "texto": "La sesión deja números rojos generalizados en los índices bursátiles, con descensos destacados en el Nasdaq 100 (-0.7%) y el DAX alemán (-0.68%). Dentro de las acciones individuales, resalta la caída del 4.57% en NVIDIA frente al avance del 3.97% en Amazon. La volatilidad medida por el VIX ha repuntado un 5.27%, situándose en los 15.19 puntos.",
     "importancia": 4
    },
    {
-    "titulo": "Corrección en el mercado de criptomonedas",
-    "texto": "El sector cripto cerró con números rojos destacados, con descensos del 2.74% para Bitcoin y del 3.94% para Solana. El índice Fear & Greed de criptomonedas se sitúa en 69 puntos en la categoría de 'Greed'. La capitalización total del mercado cripto registró una variación negativa del 1.99% en 24 horas.",
-    "importancia": 3
-   },
-   {
-    "titulo": "Comportamiento dispar entre EE. UU. y Europa",
-    "texto": "Mientras que los índices estadounidenses como el S&P 500 (-0.25%) y el Nasdaq 100 cerraron a la baja, las plazas europeas registraron ganancias moderadas. El Euro Stoxx 50 subió un 0.95%, el DAX alemán un 0.77% y el IBEX 35 español avanzó un 0.81%.",
-    "importancia": 3
-   },
-   {
-    "titulo": "Descensos en materias primas energéticas y metales",
-    "texto": "El oro experimentó una bajada del 1.73% situándose en 4529.9 dólares. El petróleo Brent también retrocedió un 1.78% hasta los 88.1 dólares por barril. Estos movimientos reflejan la corrección de precios en activos de materias primas durante la jornada.",
+    "titulo": "Freno en el mercado de criptomonedas",
+    "texto": "El bitcoin y otros activos digitales experimentan un freno en su cotización al cierre de un mes de agosto que, no obstante, mantiene balances mensuales muy positivos (con el bitcoin acumulando una subida mensual superior al 20%). Los datos recientes apuntan a que la actuación de la Fed y la cautela general de los inversores han enfriado temporalmente el rally.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "La evolución del Bitcoin en torno a la resistencia de los 80.000 dólares",
-   "El comportamiento del rendimiento del bono estadounidense a 10 años, situado en el 4.72%",
-   "La volatilidad del índice VIX, que se mantiene en niveles bajos de 14.43"
+   "Evolución del precio del petróleo Brent y WTI ante los acontecimientos en Irán",
+   "Nivel del índice de volatilidad VIX",
+   "Rendimiento del bono estadounidense a 10 años, situado en el 4.72%"
   ],
   "proximos": [
-   "Próxima subasta de Letras a 6 y 12 meses por parte del Tesoro Público español",
-   "Próximas decisiones sobre tipos de interés por parte de la Reserva Federal ante la presión inflacionaria"
+   "Reuniones y decisiones sobre tipos de interés previstas entre el 10 y el 18 de septiembre",
+   "Seguimiento de la cumbre de ministros de Finanzas del G20 sobre el impacto económico de la guerra en Irán"
   ],
-  "nota_riesgo": "El nivel de volatilidad (VIX) se mantiene bajo en 14.43, lo que indica calma general en los mercados de renta variable a pesar de las correcciones puntuales en criptomonedas y ciertos valores tecnológicos."
+  "nota_riesgo": "El nivel de riesgo general aumenta ligeramente debido al conflicto geopolítico en Oriente Medio y su reflejo inmediato en el encarecimiento del petróleo, la subida del rendimiento de los bonos y el repunte de la volatilidad bursátil."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -10.08,
-   "resumen": "Tu posición acumula una rentabilidad del -10,08%. Las noticias de hoy se centran en las expectativas sobre GTA VI, destacando avances en vídeo, exclusivas con Netflix y el éxito en las reservas de la edición de 100 dólares, aunque también debaten si su valoración actual es razonable o si es una acción a largo plazo.",
+   "pl_pct": -8.56,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 8,56%. Las noticias de hoy se centran en el atractivo de sus preventas para 'Grand Theft Auto 6' y suculentas ediciones especiales, aunque los titulares no explican de forma directa este movimiento a la baja en tu rentabilidad.",
    "noticias": [
     {
      "titulo": "2 Monster Stocks to Buy for the Next 10 Years",
