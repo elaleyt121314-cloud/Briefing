@@ -1,45 +1,62 @@
 {
- "actualizado": "2026-09-04T09:48:16+00:00",
+ "actualizado": "2026-09-05T09:11:41+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de tono positivo en los índices de EE. UU. y avances destacados en criptomonedas y grandes tecnológicas",
-  "resumen": "Los principales índices de Wall Street registran subidas moderadas lideradas por el Dow Jones y el Nasdaq 100. En el mercado de criptomonedas se observan ganancias notables con Bitcoin superando los 81.000 dólares, mientras que Europa muestra un comportamiento plano o ligeramente bajista a la espera de datos macroeconómicos clave.",
+  "titular": "Jornada mixta en los mercados con foco en el empleo de EE.UU. y caídas destacadas en grandes tecnológicas",
+  "resumen": "Los principales índices bursátiles mostraron movimientos variados al cierre de la semana, mientras que el empleo estadounidense mostró estabilidad con la creación de 162.000 puestos y un desempleo en el 4,1%. En el plano corporativo, Tesla registró caídas notables tras el lanzamiento de su Cybercab y los títulos de Apple y Microsoft sufrieron retrocesos superiores al 2%.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Avances destacados en tecnología y criptoactivos",
-    "texto": "Los datos muestran subidas superiores al 2% en acciones como Microsoft (2,68%), Meta (3,01%), Tesla (5,42%) y SpaceX (6,42%). Paralelamente, el mercado cripto experimenta fuertes alzas, con Bitcoin subiendo un 4,90% hasta los 81.091,92 dólares y Ethereum avanzando un 5,49%. El indicador Fear & Greed de criptomonedas se sitúa en 74 en zona de 'Greed', acompañado de entradas significativas en ETFs de Bitcoin.",
+    "titulo": "Datos de empleo robustos en Estados Unidos",
+    "texto": "Los empleadores estadounidenses añadieron 162.000 puestos de trabajo el mes pasado y la tasa de desempleo se mantuvo en el 4,1%, según los datos publicados. Esta referencia macroeconómica refuerza la percepción de solidez de la economía estadounidense frente a la presión de la inflación. Esta estabilidad laboral impacta directamente en la valoración de los activos de renta variable y en la evolución de los rendimientos de los bonos.",
     "importancia": 4
    },
    {
-    "titulo": "Comportamiento mixto en los mercados de renta variable global",
-    "texto": "Mientras el S&P 500 (1,06%), el Nasdaq 100 (1,16%) y el Dow Jones (1,18%) cierran con ganancias claras, los índices europeos muestran un tono más contenido. El Euro Stoxx 50 cede un 0,11%, el DAX baja un 0,03% y el IBEX 35 retrocede un 0,32%, situándose cerca de los 20.000 puntos en una jornada donde la atención se concentra en las referencias macroeconómicas de EE. UU.",
+    "titulo": "Descensos significativos en Tesla, Apple y Microsoft",
+    "texto": "Las acciones del sector tecnológico y de grandes capitalizadas sufrieron correcciones notables durante la jornada. Tesla cayó un 5,92% tras un lanzamiento del Cybercab que no cumplió con las expectativas de amplitud esperadas por algunos inversores. Por su parte, Apple y Microsoft registraron descensos del 2,29% y 2,04% respectivamente, afectando a los índices norteamericanos como el S&P 500 y el Dow Jones.",
+    "importancia": 4
+   },
+   {
+    "titulo": "Comportamiento mixto en índices globales",
+    "texto": "Los mercados internacionales cerraron con signo mixto y variaciones contenidas. En Europa, el Ibex 35 cerró con suaves alzas del 0,25%, mientras que el Euro Stoxx 50 y el DAX avanzaron ligeramente un 0,16% y 0,17% respectivamente. En Asia, el Nikkei 225 destacó con una subida del 1,26%, reflejando dinámicas bursátiles divergentes a escala global.",
     "importancia": 3
    },
    {
-    "titulo": "Evolución de la deuda soberana y materias primas",
-    "texto": "El rendimiento del bono estadounidense a 10 años desciende un 0,71% hasta situarse en el 4,762%, reflejando los movimientos recientes en los mercados de deuda. Por su parte, el oro cotiza con una subida del 0,53% hasta los 4.515,50 dólares por onza, mientras que el petróleo Brent registra una ligera bajada del 0,36% situándose en 95,18 dólares.",
+    "titulo": "Materias primas y mercado de deuda estables",
+    "texto": "El petróleo Brent cotizó en torno a los 96,28 dólares con un repunte del 0,8%, y el WTI se situó en 91,48 dólares, manteniendo las subidas acumuladas en las últimas semanas. El rendimiento del bono estadounidense a 10 años se situó en el 4,784%, experimentando un ligero incremento del 0,46% en el día. El índice de volatilidad VIX se mantuvo moderado en los 14,53 puntos.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución del IBEX 35 en su intento de sostener los 20.000 puntos",
-   "Comportamiento del Bitcoin tras superar la barrera de los 81.000 dólares",
-   "Niveles de rendimiento de los bonos soberanos en EE. UU."
+   "Evolución de las acciones de Tesla, Apple y Microsoft tras las caídas recientes",
+   "Comportamiento de los precios del petróleo Brent y WTI",
+   "Rendimiento del bono estadounidense a 10 años y su impacto en los tipos"
   ],
   "proximos": [
-   "Informe oficial de empleo de EE. UU.",
-   "Decisiones y expectativas sobre los tipos de interés de los bancos centrales"
+   "Próximos resultados trimestrales de Oracle",
+   "Nuevos acontecimientos y acuerdos corporativos en la industria automotriz y tecnológica"
   ],
-  "nota_riesgo": "El índice VIX se sitúa en un nivel bajo de 14,24, descendiendo un 0,56% en la jornada y reflejande una baja volatilidad general en los mercados tradicionales. No obstante, la atención a los datos de empleo en EE. UU. mantiene la cautela en ciertas plazas europeas."
+  "nota_riesgo": "El nivel de riesgo general se mantiene moderado, reflejado en un índice de volatilidad VIX contenido en 14,53 puntos y un sentimiento de codicia (Greed) en criptomonedas de 73. No obstante, las caídas puntuales superiores al 2% en valores de gran peso como Tesla, Apple y Microsoft recuerdan la sensibilidad del mercado a las novedades corporativas."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -17.21,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 17,21% mientras las acciones entran en territorio de corrección. Los titulares señalan que, a pesar del interés minorista en comprar la caída y el éxito de visualización de avances de GTA VI, las dudas sobre su valoración prémium y los análisis que sugieren que una revelación extendida no moverá la acción frenan su impulso.",
+   "pl_pct": -17.93,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 17.93%. Aunque hay noticias sobre el lanzamiento mundial de NBA 2K27 y filtraciones de la jugabilidad de GTA VI en Netflix, los titulares señalan que las acciones han entrado en territorio de corrección debido a que estas novedades no han logrado impulsar el valor y las dudas sobre su valoración persisten.",
    "noticias": [
+    {
+     "titulo": "Ball Over Everything in NBA® 2K27 Now Available Worldwide",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/media-advertising/articles/ball-over-everything-nba-2k27-140000550.html?.tsrc=rss",
+     "fecha": "2026-09-04T14:00:00+00:00"
+    },
+    {
+     "titulo": "How to invest in a booming stock market that’s way cheaper than the S&P 500",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?.tsrc=rss",
+     "fecha": "2026-09-03T14:57:00+00:00"
+    },
     {
      "titulo": "TTWO Stock Slides Into Correction Territory: GTA VI Leak Tests Investor Confidence In Take-Two’s Premium Valuation",
      "fuente": "Yahoo Finanzas",
@@ -63,18 +80,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://247wallst.com/investing/2026/09/01/roblox-falls-3-as-cathie-woods-ark-keeps-selling-take-two-interactive-barely-budges/?.tsrc=rss",
      "fecha": "2026-09-01T14:47:34+00:00"
-    },
-    {
-     "titulo": "GTA VI Rally Fades For TTWO: Retail Is Buying The Dip Even As Analyst Says Extended Reveal Won't Move Stock",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://stocktwits.com/news-articles/markets/equity/gta-vi-rally-fades-for-ttwo-retail-is-buying-the-dip-even-as-analyst-says-extended-reveal-won-t-move-stock/cZsoOcmRJtZ?.tsrc=rss",
-     "fecha": "2026-09-01T07:15:11+00:00"
-    },
-    {
-     "titulo": "Dow Futures Climb While S&P 500, Nasdaq Futures Slide After Strong August Rally: TTWO, TSLA, EIX, MDB Stocks In Focus",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://stocktwits.com/news-articles/markets/equity/dow-futures-climb-while-s-and-p-500-nasdaq-futures-slide-after-strong-august-rally-ttwo-tsla-eix-mdb-stocks-in-focus/cZsodftRJte?.tsrc=rss",
-     "fecha": "2026-09-01T03:02:33+00:00"
     }
    ]
   }
