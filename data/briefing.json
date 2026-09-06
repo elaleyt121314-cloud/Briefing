@@ -1,49 +1,44 @@
 {
- "actualizado": "2026-09-05T09:11:41+00:00",
+ "actualizado": "2026-09-06T09:34:04+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada mixta en los mercados con foco en el empleo de EE.UU. y caídas destacadas en grandes tecnológicas",
-  "resumen": "Los principales índices bursátiles mostraron movimientos variados al cierre de la semana, mientras que el empleo estadounidense mostró estabilidad con la creación de 162.000 puestos y un desempleo en el 4,1%. En el plano corporativo, Tesla registró caídas notables tras el lanzamiento de su Cybercab y los títulos de Apple y Microsoft sufrieron retrocesos superiores al 2%.",
+  "titular": "Sesión mixta en los mercados con descensos destacados en grandes tecnológicas y presión en materias primas energéticas",
+  "resumen": "Los principales índices bursátiles muestran un comportamiento dispar con caídas en el S&P 500 y Dow Jones frente a ligeras subidas en el Nasdaq y otros selectivos. En el plano corporativo, Tesla, Apple y Microsoft registran descensos superiores al 2%. Las tensiones geopolíticas vinculadas a los ataques en el Estrecho de Ormuz mantienen la presión sobre el petróleo Brent, que supera los 96 dólares.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Datos de empleo robustos en Estados Unidos",
-    "texto": "Los empleadores estadounidenses añadieron 162.000 puestos de trabajo el mes pasado y la tasa de desempleo se mantuvo en el 4,1%, según los datos publicados. Esta referencia macroeconómica refuerza la percepción de solidez de la economía estadounidense frente a la presión de la inflación. Esta estabilidad laboral impacta directamente en la valoración de los activos de renta variable y en la evolución de los rendimientos de los bonos.",
+    "titulo": "Caídas notables en acciones tecnológicas y de automoción",
+    "texto": "Los datos muestran descensos significativos en valores destacados del sector tecnológico y de consumo, con Tesla cediendo un 5,92%, Apple un 3,10% y Microsoft un 2,04%. Esto contrasta con subidas moderadas en otras grandes tecnológicas como Meta (1,00%) y NVIDIA (0,84%). Estos movimientos afectan directamente a la evolución de los índices bursátiles principales como el Dow Jones y el S&P 500.",
     "importancia": 4
    },
    {
-    "titulo": "Descensos significativos en Tesla, Apple y Microsoft",
-    "texto": "Las acciones del sector tecnológico y de grandes capitalizadas sufrieron correcciones notables durante la jornada. Tesla cayó un 5,92% tras un lanzamiento del Cybercab que no cumplió con las expectativas de amplitud esperadas por algunos inversores. Por su parte, Apple y Microsoft registraron descensos del 2,29% y 2,04% respectivamente, afectando a los índices norteamericanos como el S&P 500 y el Dow Jones.",
+    "titulo": "El petróleo y las materias primas energéticas al alza por tensiones en Ormuz",
+    "texto": "Los precios del petróleo continúan reflejando tensiones geopolíticas, con el Brent cotizando a 96,28 dólares (subiendo un 0,80% en el día y un 7,80% en la semana) y el WTI en 91,48 dólares. Las informaciones sobre ataques en el Estrecho de Ormuz que afectan al transporte de petroleros explican este comportamiento. Esta situación impacta de manera directa en los costes energéticos globales.",
     "importancia": 4
    },
    {
-    "titulo": "Comportamiento mixto en índices globales",
-    "texto": "Los mercados internacionales cerraron con signo mixto y variaciones contenidas. En Europa, el Ibex 35 cerró con suaves alzas del 0,25%, mientras que el Euro Stoxx 50 y el DAX avanzaron ligeramente un 0,16% y 0,17% respectivamente. En Asia, el Nikkei 225 destacó con una subida del 1,26%, reflejando dinámicas bursátiles divergentes a escala global.",
-    "importancia": 3
-   },
-   {
-    "titulo": "Materias primas y mercado de deuda estables",
-    "texto": "El petróleo Brent cotizó en torno a los 96,28 dólares con un repunte del 0,8%, y el WTI se situó en 91,48 dólares, manteniendo las subidas acumuladas en las últimas semanas. El rendimiento del bono estadounidense a 10 años se situó en el 4,784%, experimentando un ligero incremento del 0,46% en el día. El índice de volatilidad VIX se mantuvo moderado en los 14,53 puntos.",
+    "titulo": "Comportamiento positivo en el ecosistema cripto",
+    "texto": "Las criptomonedas muestran una tendencia alcista moderada, destacando Solana con una subida del 3,56% en el día y Ethereum con un 0,91%. El indicador de sentimiento Fear & Greed para criptomonedas se sitúa en 73, reflejando optimismo (Greed) en este mercado. La capitalización total del sector se sitúa en torno a los 2,7 billones de dólares.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución de las acciones de Tesla, Apple y Microsoft tras las caídas recientes",
-   "Comportamiento de los precios del petróleo Brent y WTI",
-   "Rendimiento del bono estadounidense a 10 años y su impacto en los tipos"
+   "Evolución del precio del petróleo Brent ante la persistencia del conflicto en el Estrecho de Ormuz",
+   "Comportamiento de las grandes tecnológicas (Tesla, Apple, Microsoft) tras las caídas de más del 2%",
+   "Rendimiento del bono estadounidense a 10 años, situado actualmente en el 4,78%"
   ],
   "proximos": [
-   "Próximos resultados trimestrales de Oracle",
-   "Nuevos acontecimientos y acuerdos corporativos en la industria automotriz y tecnológica"
+   "Próxima reunión de la Reserva Federal prevista para mediados de mes, con atención a posibles decisiones sobre tipos de interés",
+   "Publicación de futuros informes de empleo e indicadores macroeconómicos en EE. UU."
   ],
-  "nota_riesgo": "El nivel de riesgo general se mantiene moderado, reflejado en un índice de volatilidad VIX contenido en 14,53 puntos y un sentimiento de codicia (Greed) en criptomonedas de 73. No obstante, las caídas puntuales superiores al 2% en valores de gran peso como Tesla, Apple y Microsoft recuerdan la sensibilidad del mercado a las novedades corporativas."
+  "nota_riesgo": "Los indicadores muestran un nivel de volatilidad moderado (VIX en 14,53), aunque persisten focos de riesgo claro en el mercado energético debido a las tensiones geopolíticas y la presión sobre los tipos de interés de la deuda soberana."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -17.93,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 17.93%. Aunque hay noticias sobre el lanzamiento mundial de NBA 2K27 y filtraciones de la jugabilidad de GTA VI en Netflix, los titulares señalan que las acciones han entrado en territorio de corrección debido a que estas novedades no han logrado impulsar el valor y las dudas sobre su valoración persisten.",
+   "pl_pct": -16.95,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 16,95%. Los titulares señalan que la acción ha entrado en territorio de corrección debido a filtraciones de GTA VI que ponen a prueba la confianza de los inversores, a pesar de que el avance del juego lidera las listas de Netflix y se ha lanzado NBA 2K27.",
    "noticias": [
     {
      "titulo": "Ball Over Everything in NBA® 2K27 Now Available Worldwide",
