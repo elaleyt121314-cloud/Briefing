@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-10T09:55:32+00:00",
+ "actualizado": "2026-09-11T09:53:03+00:00",
  "generado_con_ia": true,
  "sentimiento": {
   "vix": {
-   "valor": 16.57,
-   "d1": 0.67
+   "valor": 17.22,
+   "d1": -3.48
   },
   "fear_and_greed_cripto": {
-   "valor": 69,
+   "valor": 56,
    "texto": "Greed"
   }
  },
@@ -16,30 +16,31 @@
    "symbol": "^GSPC",
    "nombre": "S&P 500",
    "grupo": "Índices",
-   "precio": 7636.36,
+   "precio": 7591.7,
    "moneda": "USD",
-   "d1": -0.48,
-   "m1": -1.51,
-   "y1": 16.91,
+   "d1": -0.58,
+   "m1": -1.77,
+   "y1": 15.24,
    "tecnico": {
-    "pct_desde_max_52s": -2.09,
-    "pct_sobre_min_52s": 20.38,
-    "pct_vs_sma20": -0.83,
-    "pct_vs_sma50": 0.45,
-    "pct_vs_sma200": 6.77,
+    "pct_desde_max_52s": -2.66,
+    "pct_sobre_min_52s": 19.67,
+    "pct_vs_sma20": -1.31,
+    "pct_vs_sma50": -0.16,
+    "pct_vs_sma200": 6.07,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "El S&P 500 muestra una tendencia alcista a largo plazo, aunque frena en el corto plazo.",
+    "resumen": "Mantiene tendencia alcista de largo plazo pese a correcciones recientes bajo la media de 20 sesiones.",
     "a_favor": [
-     "Se mantiene un 6.77% por encima de la media de 200 sesiones.",
-     "La tendencia global sigue catalogada como alcista."
+     "Se mantiene holgadamente por encima de la media de 200 sesiones.",
+     "La tendencia general sigue clasificada como alcista."
     ],
     "en_contra": [
-     "Registra un descenso diario del 0.48% y cotiza ligeramente bajo la media de 20 sesiones."
+     "Cotiza ligeramente por debajo de la media de 20 sesiones.",
+     "Registra descensos recientes en el corto plazo."
     ]
    }
   },
@@ -47,30 +48,31 @@
    "symbol": "^NDX",
    "nombre": "Nasdaq 100",
    "grupo": "Índices",
-   "precio": 29421.553,
+   "precio": 29103.514,
    "moneda": "USD",
-   "d1": -0.29,
-   "m1": -0.68,
-   "y1": 23.36,
+   "d1": -1.08,
+   "m1": -1.43,
+   "y1": 21.3,
    "tecnico": {
-    "pct_desde_max_52s": -4.04,
-    "pct_sobre_min_52s": 28.18,
-    "pct_vs_sma20": -0.18,
-    "pct_vs_sma50": 0.66,
-    "pct_vs_sma200": 8.65,
+    "pct_desde_max_52s": -5.08,
+    "pct_sobre_min_52s": 26.79,
+    "pct_vs_sma20": -1.15,
+    "pct_vs_sma50": -0.35,
+    "pct_vs_sma200": 7.38,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "El Nasdaq 100 conserva solidez tendencial pese a ligeros recortes recientes.",
+    "resumen": "Consolida su estructura alcista general aunque muestra debilidad puntual frente a las medias rápidas.",
     "a_favor": [
-     "Soporte claro al cotizar un 8.65% por encima de su media de 200 sesiones.",
-     "Tendencia general alcista."
+     "Conserva un margen positivo frente a la media de 200 sesiones.",
+     "La tendencia técnica principal es alcista."
     ],
     "en_contra": [
-     "Desciende un 0.29% en el día y se sitúa levemente por debajo de la media de 20 sesiones."
+     "Se encuentra bajo las medias de 20 y 50 sesiones.",
+     "Acumula un retroceso superior al 5% desde sus máximos anuales."
     ]
    }
   },
@@ -78,30 +80,31 @@
    "symbol": "^DJI",
    "nombre": "Dow Jones",
    "grupo": "Índices",
-   "precio": 52380.66,
+   "precio": 52064.1,
    "moneda": "USD",
-   "d1": -0.77,
-   "m1": -2.96,
-   "y1": 15.15,
+   "d1": -0.6,
+   "m1": -3.21,
+   "y1": 12.92,
    "tecnico": {
-    "pct_desde_max_52s": -3.62,
-    "pct_sobre_min_52s": 15.97,
-    "pct_vs_sma20": -1.77,
-    "pct_vs_sma50": -1.11,
-    "pct_vs_sma200": 4.92,
+    "pct_desde_max_52s": -4.2,
+    "pct_sobre_min_52s": 15.27,
+    "pct_vs_sma20": -2.21,
+    "pct_vs_sma50": -1.7,
+    "pct_vs_sma200": 4.22,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
-    "confianza": "baja",
-    "resumen": "El Dow Jones muestra debilidad relativa frente a otros índices al perforar medias clave.",
+    "confianza": "media",
+    "resumen": "El índice muestra cierta fatiga a corto plazo pero respeta su soporte estructural principal.",
     "a_favor": [
-     "Conserva una ganancia interanual positiva del 15.15%."
+     "Permanece por encima de la media móvil de 200 sesiones.",
+     "Su tendencia de fondo sigue siendo alcista."
     ],
     "en_contra": [
-     "Se encuentra por debajo de sus medias de 20 y 50 sesiones.",
-     "Acumula una caída del 2.96% en el último mes."
+     "Se sitúa por debajo de las medias de 20 y 50 sesiones.",
+     "Registra caídas continuadas en el último mes."
     ]
    }
   },
@@ -109,30 +112,31 @@
    "symbol": "^STOXX50E",
    "nombre": "Euro Stoxx 50",
    "grupo": "Índices",
-   "precio": 6297.08,
+   "precio": 6307.27,
    "moneda": "EUR",
-   "d1": -0.23,
-   "m1": -3.63,
-   "y1": 17.45,
+   "d1": 0.61,
+   "m1": -3.64,
+   "y1": 17.09,
    "tecnico": {
-    "pct_desde_max_52s": -3.88,
-    "pct_sobre_min_52s": 17.45,
-    "pct_vs_sma20": -1.99,
-    "pct_vs_sma50": -1.35,
-    "pct_vs_sma200": 4.47,
+    "pct_desde_max_52s": -3.72,
+    "pct_sobre_min_52s": 17.46,
+    "pct_vs_sma20": -1.64,
+    "pct_vs_sma50": -1.15,
+    "pct_vs_sma200": 4.57,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
-    "confianza": "baja",
-    "resumen": "El Euro Stoxx 50 atraviesa una fase de corrección a corto plazo.",
+    "confianza": "media",
+    "resumen": "A pesar de la subida diaria, la corrección mensual y la distancia a medias rápidas aconsejan prudencia.",
     "a_favor": [
-     "Mantiene una estructura alcista de fondo respecto a la media de 200 sesiones."
+     "La tendencia global sigue marcada como alcista.",
+     "Cotiza moderadamente por encima de la media de 200 sesiones."
     ],
     "en_contra": [
-     "Cotiza por debajo de las medias de 20 y 50 sesiones.",
-     "Retrocede un 3.63% en el último mes."
+     "Se encuentra por debajo de las medias de 20 y 50 sesiones.",
+     "Acumula pérdidas notables en el horizonte mensual."
     ]
    }
   },
@@ -140,30 +144,31 @@
    "symbol": "^GDAXI",
    "nombre": "DAX",
    "grupo": "Índices",
-   "precio": 25511.11,
+   "precio": 25501.92,
    "moneda": "EUR",
-   "d1": -0.26,
-   "m1": -3.11,
-   "y1": 7.95,
+   "d1": 0.56,
+   "m1": -3.03,
+   "y1": 7.59,
    "tecnico": {
-    "pct_desde_max_52s": -3.99,
-    "pct_sobre_min_52s": 14.4,
-    "pct_vs_sma20": -2.24,
+    "pct_desde_max_52s": -4.02,
+    "pct_sobre_min_52s": 14.35,
+    "pct_vs_sma20": -2.07,
     "pct_vs_sma50": -0.94,
-    "pct_vs_sma200": 3.21,
+    "pct_vs_sma200": 3.13,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
-    "confianza": "baja",
-    "resumen": "El DAX alemán sufre presión vendedora a corto plazo.",
+    "confianza": "media",
+    "resumen": "Rebote diario insuficiente para invalidar el retroceso actual respecto a sus referencias de corto plazo.",
     "a_favor": [
-     "Continúa cotizando por encima de su media de 200 sesiones."
+     "Mantiene una estructura de tendencia alcista.",
+     "Sigue cotizando sobre la media de 200 sesiones."
     ],
     "en_contra": [
-     "Se sitúa bajo las medias de 20 y 50 sesiones.",
-     "Acumula una caída mensual superior al 3%."
+     "Perforó a la baja las medias de 20 y 50 sesiones.",
+     "Se aleja de sus máximos de 52 semanas."
     ]
    }
   },
@@ -171,30 +176,31 @@
    "symbol": "^IBEX",
    "nombre": "IBEX 35",
    "grupo": "Índices",
-   "precio": 19698.1,
+   "precio": 19800.9,
    "moneda": "EUR",
-   "d1": 0.01,
-   "m1": -2.51,
-   "y1": 29.44,
+   "d1": 0.72,
+   "m1": -1.82,
+   "y1": 29.24,
    "tecnico": {
-    "pct_desde_max_52s": -2.55,
-    "pct_sobre_min_52s": 30.6,
-    "pct_vs_sma20": -1.23,
-    "pct_vs_sma50": -0.41,
-    "pct_vs_sma200": 7.69,
+    "pct_desde_max_52s": -2.04,
+    "pct_sobre_min_52s": 31.28,
+    "pct_vs_sma20": -0.62,
+    "pct_vs_sma50": 0.12,
+    "pct_vs_sma200": 8.15,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "mantener",
+    "veredicto": "comprar",
     "confianza": "media",
-    "resumen": "El IBEX 35 muestra resiliencia anual pero descansa en el corto plazo.",
+    "resumen": "Demuestra mayor solidez relativa que otros índices, encontrándose cerca de sus máximos.",
     "a_favor": [
-     "Sólida rentabilidad interanual cercana al 30%.",
-     "Tendencia alcista de fondo con la media de 200 sesiones superada."
+     "Cotiza muy cerca de su media de 50 sesiones y de los máximos anuales.",
+     "Mantiene una sólida tendencia alcista respaldada por la media de 200 sesiones."
     ],
     "en_contra": [
-     "Se encuentra ligeramente por debajo de las medias de 20 y 50 sesiones."
+     "Se sitúa levemente por debajo de la media de 20 sesiones en el muy corto plazo.",
+     "El entorno general de los índices globales presenta algo de presión."
     ]
    }
   },
@@ -202,30 +208,31 @@
    "symbol": "^N225",
    "nombre": "Nikkei 225",
    "grupo": "Índices",
-   "precio": 65270.95,
+   "precio": 64011.34,
    "moneda": "JPY",
-   "d1": 0.2,
-   "m1": -3.34,
-   "y1": 48.89,
+   "d1": -1.93,
+   "m1": -6.29,
+   "y1": 44.26,
    "tecnico": {
-    "pct_desde_max_52s": -9.8,
-    "pct_sobre_min_52s": 48.89,
-    "pct_vs_sma20": -1.2,
-    "pct_vs_sma50": -1.48,
-    "pct_vs_sma200": 10.12,
+    "pct_desde_max_52s": -11.55,
+    "pct_sobre_min_52s": 44.26,
+    "pct_vs_sma20": -2.76,
+    "pct_vs_sma50": -3.19,
+    "pct_vs_sma200": 7.87,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
     "confianza": "baja",
-    "resumen": "El Nikkei 225 corrige de manera pronunciada desde máximos anuales.",
+    "resumen": "Profundiza su corrección mensual y se aleja considerablemente de sus máximos anuales.",
     "a_favor": [
-     "Gran rentabilidad acumulada en el año del 48.89%."
+     "La media de 200 sesiones sigue ofreciendo soporte a largo plazo.",
+     "La tendencia fijada continúa siendo alcista."
     ],
     "en_contra": [
-     "Se encuentra un 9.8% alejado de sus máximos de 52 semanas.",
-     "Cotiza por debajo de su media de 50 sesiones."
+     "Acumula una caída superior al 11% desde máximos.",
+     "Perfora con claridad las medias de 20 y 50 sesiones."
     ]
    }
   },
@@ -233,30 +240,31 @@
    "symbol": "SPY",
    "nombre": "SPDR S&P 500",
    "grupo": "ETFs",
-   "precio": 762.4,
+   "precio": 757.83,
    "moneda": "USD",
-   "d1": -0.46,
-   "m1": -1.38,
-   "y1": 16.89,
+   "d1": -0.6,
+   "m1": -1.65,
+   "y1": 15.24,
    "tecnico": {
-    "pct_desde_max_52s": -1.99,
-    "pct_sobre_min_52s": 20.64,
-    "pct_vs_sma20": -0.77,
-    "pct_vs_sma50": 0.58,
-    "pct_vs_sma200": 6.9,
+    "pct_desde_max_52s": -2.58,
+    "pct_sobre_min_52s": 19.92,
+    "pct_vs_sma20": -1.27,
+    "pct_vs_sma50": -0.05,
+    "pct_vs_sma200": 6.18,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "El ETF principal del S&P 500 mantiene el sesgo alcista de largo plazo.",
+    "resumen": "Comportamiento idéntico al índice de referencia, manteniendo soporte a largo plazo pero con debilidad temporal.",
     "a_favor": [
-     "Soporte firme un 6.9% por encima de la media de 200 sesiones.",
-     "Estructura de tendencia alcista vigente."
+     "La tendencia de fondo sigue siendo alcista.",
+     "Se mantiene por encima de la media de 200 sesiones."
     ],
     "en_contra": [
-     "Ligero retroceso diario y cotización por debajo de la media de 20 sesiones."
+     "Cotiza por debajo de la media de 20 sesiones.",
+     "Presenta ligeros descensos diarios y mensuales."
     ]
    }
   },
@@ -264,29 +272,31 @@
    "symbol": "VOO",
    "nombre": "Vanguard S&P 500",
    "grupo": "ETFs",
-   "precio": 700.87,
+   "precio": 696.65,
    "moneda": "USD",
-   "d1": -0.45,
-   "m1": -1.38,
-   "y1": 16.87,
+   "d1": -0.6,
+   "m1": -1.66,
+   "y1": 15.23,
    "tecnico": {
-    "pct_desde_max_52s": -1.97,
-    "pct_sobre_min_52s": 20.65,
-    "pct_vs_sma20": -0.76,
-    "pct_vs_sma50": 0.59,
-    "pct_vs_sma200": 6.87,
+    "pct_desde_max_52s": -2.56,
+    "pct_sobre_min_52s": 19.92,
+    "pct_vs_sma20": -1.26,
+    "pct_vs_sma50": -0.05,
+    "pct_vs_sma200": 6.15,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "Comportamiento idéntico al índice con respaldo técnico a largo plazo.",
+    "resumen": "Estructura estable a largo plazo con ligeros recortes en el corto plazo.",
     "a_favor": [
-     "Tendencia alcista confirmada y cotización sobre la media de 200 sesiones."
+     "Conserva una posición holgada sobre la media de 200 sesiones.",
+     "Tendencia técnica alcista confirmada."
     ],
     "en_contra": [
-     "Presión bajista leve a corto plazo por debajo de la media de 20 sesiones."
+     "Se sitúa por debajo de la media rápida de 20 sesiones.",
+     "Las variaciones recientes de un mes son negativas."
     ]
    }
   },
@@ -294,30 +304,31 @@
    "symbol": "QQQ",
    "nombre": "Invesco QQQ",
    "grupo": "ETFs",
-   "precio": 716.31,
+   "precio": 708.69,
    "moneda": "USD",
-   "d1": -0.29,
-   "m1": -0.63,
-   "y1": 23.35,
+   "d1": -1.06,
+   "m1": -1.36,
+   "y1": 21.33,
    "tecnico": {
-    "pct_desde_max_52s": -4.0,
-    "pct_sobre_min_52s": 28.31,
-    "pct_vs_sma20": -0.13,
-    "pct_vs_sma50": 0.72,
-    "pct_vs_sma200": 8.71,
+    "pct_desde_max_52s": -5.02,
+    "pct_sobre_min_52s": 26.94,
+    "pct_vs_sma20": -1.09,
+    "pct_vs_sma50": -0.27,
+    "pct_vs_sma200": 7.46,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "El ETF del Nasdaq muestra fortaleza relativa moderada.",
+    "resumen": "Refleja la corrección del sector tecnológico, operando por debajo de sus medias de corto plazo.",
     "a_favor": [
-     "Distancia reducida respecto a sus máximos anuales.",
-     "Media de 200 sesiones superada holgadamente."
+     "La media de 200 sesiones respalda la tendencia alcista principal.",
+     "Se mantiene a una distancia prudencial de sus mínimos anuales."
     ],
     "en_contra": [
-     "Variación negativa intradía del 0.29%."
+     "Se encuentra cotizando bajo las medias de 20 y 50 sesiones.",
+     "Acumula un retroceso cercano al 5% desde máximos."
     ]
    }
   },
@@ -325,29 +336,31 @@
    "symbol": "VTI",
    "nombre": "Vanguard Total Market",
    "grupo": "ETFs",
-   "precio": 375.56,
+   "precio": 373.24,
    "moneda": "USD",
-   "d1": -0.54,
-   "m1": -1.59,
-   "y1": 16.71,
+   "d1": -0.62,
+   "m1": -1.95,
+   "y1": 14.92,
    "tecnico": {
-    "pct_desde_max_52s": -2.27,
-    "pct_sobre_min_52s": 20.5,
-    "pct_vs_sma20": -0.95,
-    "pct_vs_sma50": 0.34,
-    "pct_vs_sma200": 6.75,
+    "pct_desde_max_52s": -2.88,
+    "pct_sobre_min_52s": 19.75,
+    "pct_vs_sma20": -1.45,
+    "pct_vs_sma50": -0.29,
+    "pct_vs_sma200": 6.01,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "El mercado total estadounidense refleja la pausa general de los índices.",
+    "resumen": "Diversificación amplia que respeta la tendencia alcista general a pesar del retroceso mensual.",
     "a_favor": [
-     "Tendencia alcista estructural intacta sobre la media de 200 sesiones."
+     "Mantiene su cotización por encima de la media de 200 sesiones.",
+     "Tendencia general alcista."
     ],
     "en_contra": [
-     "Descenso del 0.54% en la última sesión."
+     "Cotiza por debajo de la media de 20 sesiones.",
+     "Muestra descensos continuados en el último mes."
     ]
    }
   },
@@ -355,30 +368,31 @@
    "symbol": "APC.DE",
    "nombre": "Apple",
    "grupo": "Acciones",
-   "precio": 273.8,
+   "precio": 280.75,
    "moneda": "EUR",
-   "d1": 1.58,
-   "m1": 3.01,
-   "y1": 41.62,
+   "d1": 0.75,
+   "m1": 7.51,
+   "y1": 44.15,
    "tecnico": {
-    "pct_desde_max_52s": -8.37,
-    "pct_sobre_min_52s": 41.62,
-    "pct_vs_sma20": 0.99,
-    "pct_vs_sma50": -0.46,
-    "pct_vs_sma200": 11.69,
+    "pct_desde_max_52s": -6.04,
+    "pct_sobre_min_52s": 44.15,
+    "pct_vs_sma20": 3.13,
+    "pct_vs_sma50": 1.93,
+    "pct_vs_sma200": 14.41,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "comprar",
-    "confianza": "media",
-    "resumen": "Apple muestra un impulso alcista diario destacado dentro de su tendencia principal.",
+    "confianza": "alta",
+    "resumen": "Muestra una excelente fortaleza con todas sus medias al alza y buen rendimiento mensual.",
     "a_favor": [
-     "Subida diaria del 1.58% con cotización sobre la media de 20 sesiones.",
-     "Sólida rentabilidad interanual del 41.62%."
+     "Cotiza por encima de todas sus medias móviles (20, 50 y 200).",
+     "Tendencia claramente alcista con rentabilidad positiva a un mes."
     ],
     "en_contra": [
-     "Aún se sitúa un 8.37% por debajo de sus máximos anuales."
+     "Aún se encuentra a un 6% de sus máximos de 52 semanas.",
+     "Pequeña corrección acumulada desde máximos anuales."
     ]
    }
   },
@@ -386,29 +400,31 @@
    "symbol": "MSFT",
    "nombre": "Microsoft",
    "grupo": "Acciones",
-   "precio": 491.65,
+   "precio": 492.44,
    "moneda": "USD",
-   "d1": -0.47,
-   "m1": -2.85,
-   "y1": -1.74,
+   "d1": 0.16,
+   "m1": -2.26,
+   "y1": -1.71,
    "tecnico": {
-    "pct_desde_max_52s": -9.3,
-    "pct_sobre_min_52s": 39.34,
-    "pct_vs_sma20": -0.58,
-    "pct_vs_sma50": 9.49,
-    "pct_vs_sma200": 14.05,
+    "pct_desde_max_52s": -9.16,
+    "pct_sobre_min_52s": 39.57,
+    "pct_vs_sma20": -0.42,
+    "pct_vs_sma50": 9.08,
+    "pct_vs_sma200": 14.22,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "mantener",
+    "veredicto": "comprar",
     "confianza": "media",
-    "resumen": "Microsoft consolida posiciones con excelentes medias móviles a largo plazo.",
+    "resumen": "Conserva un soporte sólido en las medias de medio y largo plazo a pesar del tono mixto.",
     "a_favor": [
-     "Las medias de 50 y 200 sesiones muestran gran solidez alcista."
+     "Se sitúa muy por encima de las medias de 50 y 200 sesiones.",
+     "Tendencia alcista establecida."
     ],
     "en_contra": [
-     "Ligera corrección diaria y mensual en el precio."
+     "Cotiza ligeramente por debajo de la media de 20 sesiones.",
+     "El balance del último mes muestra un leve descenso."
     ]
    }
   },
@@ -416,30 +432,31 @@
    "symbol": "NVDA",
    "nombre": "NVIDIA",
    "grupo": "Acciones",
-   "precio": 223.67,
+   "precio": 218.36,
    "moneda": "USD",
-   "d1": -0.91,
-   "m1": 2.81,
-   "y1": 26.13,
+   "d1": -2.37,
+   "m1": 0.4,
+   "y1": 23.25,
    "tecnico": {
-    "pct_desde_max_52s": -5.12,
-    "pct_sobre_min_52s": 35.42,
-    "pct_vs_sma20": 1.3,
-    "pct_vs_sma50": 5.6,
-    "pct_vs_sma200": 13.49,
+    "pct_desde_max_52s": -7.37,
+    "pct_sobre_min_52s": 32.2,
+    "pct_vs_sma20": -0.98,
+    "pct_vs_sma50": 2.92,
+    "pct_vs_sma200": 10.69,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "comprar",
+    "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "NVIDIA mantiene una fuerte estructura técnica y superación de medias.",
+    "resumen": "Oscila cerca de sus medias principales con una corrección diaria que frena el impulso reciente.",
     "a_favor": [
-     "Cotiza con claridad por encima de sus medias de 20, 50 y 200 sesiones.",
-     "Buen comportamiento acumulado en el último mes."
+     "Se mantiene por encima de las medias de 50 y 200 sesiones.",
+     "Tendencia de fondo alcista."
     ],
     "en_contra": [
-     "Leve descenso diario del 0.91%."
+     "Cotiza por debajo de la media de 20 sesiones en el corto plazo.",
+     "Registra un descenso significativo en la jornada de hoy."
     ]
    }
   },
@@ -447,30 +464,31 @@
    "symbol": "AMZN",
    "nombre": "Amazon",
    "grupo": "Acciones",
-   "precio": 252.4,
+   "precio": 251.89,
    "moneda": "USD",
-   "d1": -1.78,
-   "m1": -9.24,
-   "y1": 9.58,
+   "d1": -0.2,
+   "m1": -7.49,
+   "y1": 9.54,
    "tecnico": {
-    "pct_desde_max_52s": -11.13,
-    "pct_sobre_min_52s": 26.97,
-    "pct_vs_sma20": -2.98,
-    "pct_vs_sma50": -0.9,
-    "pct_vs_sma200": 5.41,
+    "pct_desde_max_52s": -11.31,
+    "pct_sobre_min_52s": 26.71,
+    "pct_vs_sma20": -2.89,
+    "pct_vs_sma50": -1.2,
+    "pct_vs_sma200": 5.12,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
-    "confianza": "baja",
-    "resumen": "Amazon atraviesa un periodo de corrección sensible en el último mes.",
+    "confianza": "media",
+    "resumen": "Presenta debilidad en el corto plazo al operar por debajo de varias medias móviles clave.",
     "a_favor": [
-     "Se mantiene por encima de la media de 200 sesiones."
+     "Mantiene la tendencia alcista de largo plazo sobre la media de 200 sesiones.",
+     "Distancia positiva respecto a los mínimos de 52 semanas."
     ],
     "en_contra": [
-     "Acumula una caída mensual superior al 9%.",
-     "Cotiza por debajo de sus medias de 20 y 50 sesiones."
+     "Cotiza por debajo de las medias de 20 y 50 sesiones.",
+     "Acumula una caída mensual importante y se aleja de máximos."
     ]
    }
   },
@@ -478,30 +496,31 @@
    "symbol": "GOOGL",
    "nombre": "Alphabet",
    "grupo": "Acciones",
-   "precio": 330.65,
+   "precio": 332.6,
    "moneda": "USD",
-   "d1": -2.28,
-   "m1": -7.52,
-   "y1": 38.25,
+   "d1": 0.59,
+   "m1": -3.26,
+   "y1": 38.37,
    "tecnico": {
-    "pct_desde_max_52s": -17.88,
-    "pct_sobre_min_52s": 39.77,
-    "pct_vs_sma20": -3.32,
-    "pct_vs_sma50": -5.02,
-    "pct_vs_sma200": -1.71,
+    "pct_desde_max_52s": -17.39,
+    "pct_sobre_min_52s": 40.59,
+    "pct_vs_sma20": -2.59,
+    "pct_vs_sma50": -4.32,
+    "pct_vs_sma200": -1.19,
     "tendencia": "mixta"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
     "confianza": "baja",
-    "resumen": "Alphabet presenta una tendencia mixta con debilidad frente a sus medias clave.",
+    "resumen": "Tendencia mixta y cotización por debajo de la media de 200 sesiones que invitan a la cautela.",
     "a_favor": [
-     "Rentabilidad interanual positiva del 38.25%."
+     "Mantiene un rendimiento positivo acumulado en el año.",
+     "La caída desde máximos se mantiene contenida frente a otros activos."
     ],
     "en_contra": [
-     "Tendencia técnica catalogada como mixta.",
-     "Cotiza por debajo de las medias de 20, 50 y 200 sesiones."
+     "Clasificado con tendencia mixta.",
+     "Cotiza por debajo de su media de 200 sesiones y de las de corto plazo."
     ]
    }
   },
@@ -509,30 +528,31 @@
    "symbol": "META",
    "nombre": "Meta",
    "grupo": "Acciones",
-   "precio": 653.69,
+   "precio": 644.38,
    "moneda": "USD",
-   "d1": 6.55,
-   "m1": 9.88,
-   "y1": -13.07,
+   "d1": -1.42,
+   "m1": 7.55,
+   "y1": -14.19,
    "tecnico": {
-    "pct_desde_max_52s": -16.22,
-    "pct_sobre_min_52s": 24.34,
-    "pct_vs_sma20": 12.6,
-    "pct_vs_sma50": 9.21,
-    "pct_vs_sma200": 4.98,
+    "pct_desde_max_52s": -17.41,
+    "pct_sobre_min_52s": 22.57,
+    "pct_vs_sma20": 10.37,
+    "pct_vs_sma50": 7.36,
+    "pct_vs_sma200": 3.44,
     "tendencia": "mixta"
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "comprar",
-    "confianza": "media",
-    "resumen": "Meta destaca por un fuerte impulso diario y rebote sobre medias clave.",
+    "veredicto": "mantener",
+    "confianza": "baja",
+    "resumen": "A pesar de su gran comportamiento en el corto plazo, su tendencia mixta y los datos anuales exigen prudencia.",
     "a_favor": [
-     "Fuerte subida diaria del 6.55%.",
-     "Cotización muy por encima de la media de 20 sesiones."
+     "Supera con claridad las medias de 20, 50 y 200 sesiones.",
+     "Fuerte impulso alcista en el último mes."
     ],
     "en_contra": [
-     "Persiste una distancia de más del 16% respecto a los máximos de 52 semanas."
+     "La tendencia oficial marcada es mixta.",
+     "El balance anual sigue siendo negativo."
     ]
    }
   },
@@ -540,30 +560,31 @@
    "symbol": "TSLA",
    "nombre": "Tesla",
    "grupo": "Acciones",
-   "precio": 367.81,
+   "precio": 363.56,
    "moneda": "USD",
-   "d1": -0.1,
-   "m1": 11.16,
-   "y1": 5.76,
+   "d1": -1.16,
+   "m1": 9.24,
+   "y1": -1.42,
    "tecnico": {
-    "pct_desde_max_52s": -24.92,
-    "pct_sobre_min_52s": 23.29,
-    "pct_vs_sma20": 4.48,
-    "pct_vs_sma50": 3.08,
-    "pct_vs_sma200": -7.87,
+    "pct_desde_max_52s": -25.79,
+    "pct_sobre_min_52s": 21.87,
+    "pct_vs_sma20": 2.74,
+    "pct_vs_sma50": 2.21,
+    "pct_vs_sma200": -8.89,
     "tendencia": "bajista"
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "mantener",
-    "confianza": "baja",
-    "resumen": "Tesla muestra una tendencia bajista de fondo a pesar de rebotes puntuales.",
+    "veredicto": "vender",
+    "confianza": "media",
+    "resumen": "La tendencia bajista confirmada y su posición bajo la media de largo plazo sugieren evitar exposición.",
     "a_favor": [
-     "Recuperación notable en el último mes con alza superior al 11%."
+     "Muestra un rebote positivo en el último mes.",
+     "Cotiza temporalmente por encima de las medias de 20 y 50 sesiones."
     ],
     "en_contra": [
-     "Tendencia técnica general bajista.",
-     "Se sitúa por debajo de su media de 200 sesiones."
+     "Tendencia principal claramente bajista.",
+     "Se sitúa por debajo de su media móvil de 200 sesiones y acumula una gran caída desde máximos."
     ]
    }
   },
@@ -571,16 +592,16 @@
    "symbol": "SPCX",
    "nombre": "SpaceX",
    "grupo": "Acciones",
-   "precio": 147.55,
+   "precio": 148.18,
    "moneda": "USD",
-   "d1": -3.86,
-   "m1": 6.35,
+   "d1": 0.43,
+   "m1": 11.17,
    "y1": null,
    "tecnico": {
-    "pct_desde_max_52s": -30.2,
-    "pct_sobre_min_52s": 36.28,
-    "pct_vs_sma20": 3.62,
-    "pct_vs_sma50": 8.77,
+    "pct_desde_max_52s": -29.9,
+    "pct_sobre_min_52s": 36.86,
+    "pct_vs_sma20": 3.99,
+    "pct_vs_sma50": 9.6,
     "pct_vs_sma200": null,
     "tendencia": null
    },
@@ -588,13 +609,14 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "baja",
-    "resumen": "SpaceX presenta datos incompletos y alta distancia a máximos.",
+    "resumen": "Faltan datos clave de largo plazo, por lo que se recomienda cautela a pesar de su buen rendimiento mensual.",
     "a_favor": [
-     "Cotiza por encima de sus medias de 20 y 50 sesiones."
+     "Cotiza por encima de las medias de 20 y 50 sesiones.",
+     "Registra un rendimiento mensual muy positivo."
     ],
     "en_contra": [
-     "Caída diaria del 3.86% y falta de datos históricos a 200 sesiones.",
-     "Gran alejamiento de los máximos anuales."
+     "No hay datos disponibles para la media de 200 sesiones ni para el rendimiento anual.",
+     "La tendencia técnica no está definida por falta de datos."
     ]
    }
   },
@@ -602,30 +624,31 @@
    "symbol": "BTC-USD",
    "nombre": "Bitcoin",
    "grupo": "Criptomonedas",
-   "precio": 77955.54,
+   "precio": 77024.27,
    "moneda": "USD",
-   "d1": -0.39,
-   "m1": 6.74,
-   "y1": -31.59,
+   "d1": 0.6,
+   "m1": -1.67,
+   "y1": -33.32,
    "tecnico": {
-    "pct_desde_max_52s": -37.51,
-    "pct_sobre_min_52s": 33.12,
-    "pct_vs_sma20": -0.92,
-    "pct_vs_sma50": 10.68,
-    "pct_vs_sma200": 11.41,
+    "pct_desde_max_52s": -38.26,
+    "pct_sobre_min_52s": 31.53,
+    "pct_vs_sma20": -2.01,
+    "pct_vs_sma50": 9.03,
+    "pct_vs_sma200": 10.0,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "mantener",
+    "veredicto": "comprar",
     "confianza": "media",
-    "resumen": "Bitcoin se beneficia del sentimiento de codicia en cripto, pero frena a corto plazo.",
+    "resumen": "El sentimiento de mercado en cripto muestra codicia y el activo recupera posiciones clave sobre las medias.",
     "a_favor": [
-     "Sentimiento de mercado alcista (Greed en 69).",
-     "Medias de 50 y 200 sesiones superadas con claridad."
+     "Cotiza por encima de las medias de 50 y 200 sesiones.",
+     "Sentimiento de mercado alcista (Greed en 56) que acompaña al rebote técnico."
     ],
     "en_contra": [
-     "Alejado un 37.51% de sus máximos de 52 semanas."
+     "Se encuentra ligeramente por debajo de la media de 20 sesiones.",
+     "Acumula un gran descenso en el horizonte anual."
     ]
    }
   },
@@ -633,30 +656,31 @@
    "symbol": "ETH-USD",
    "nombre": "Ethereum",
    "grupo": "Criptomonedas",
-   "precio": 2469.09,
+   "precio": 2468.78,
    "moneda": "USD",
-   "d1": 0.09,
-   "m1": 6.13,
-   "y1": -43.23,
+   "d1": 1.3,
+   "m1": -1.85,
+   "y1": -44.66,
    "tecnico": {
     "pct_desde_max_52s": -47.64,
-    "pct_sobre_min_52s": 57.79,
-    "pct_vs_sma20": 0.18,
-    "pct_vs_sma50": 14.92,
-    "pct_vs_sma200": 20.49,
+    "pct_sobre_min_52s": 57.77,
+    "pct_vs_sma20": 0.14,
+    "pct_vs_sma50": 14.31,
+    "pct_vs_sma200": 20.31,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "mantener",
-    "confianza": "media",
-    "resumen": "Ethereum acompaña el optimismo cripto con buenos soportes técnicos.",
+    "veredicto": "comprar",
+    "confianza": "alta",
+    "resumen": "Gran fortaleza técnica con todas las medias superadas y el sentimiento de mercado apoyando el riesgo.",
     "a_favor": [
-     "Contexto de Fear & Greed en zona de codicia.",
-     "Sólido posicionamiento sobre las medias de 50 y 200 sesiones."
+     "Supera holgadamente las medias de 20, 50 y 200 sesiones.",
+     "Índice de miedo y codicia en zona de codicia (56)."
     ],
     "en_contra": [
-     "Gran caída acumulada en el indicador interanual."
+     "La caída anual acumulada sigue siendo elevada.",
+     "Alta volatilidad propia del mercado cripto."
     ]
    }
   },
@@ -664,30 +688,31 @@
    "symbol": "SOL-USD",
    "nombre": "Solana",
    "grupo": "Criptomonedas",
-   "precio": 101.12,
+   "precio": 99.37,
    "moneda": "USD",
-   "d1": -0.48,
-   "m1": 15.39,
-   "y1": -54.85,
+   "d1": 0.69,
+   "m1": 6.1,
+   "y1": -56.56,
    "tecnico": {
-    "pct_desde_max_52s": -59.17,
-    "pct_sobre_min_52s": 62.6,
-    "pct_vs_sma20": -0.69,
-    "pct_vs_sma50": 17.05,
-    "pct_vs_sma200": 22.11,
+    "pct_desde_max_52s": -59.87,
+    "pct_sobre_min_52s": 59.79,
+    "pct_vs_sma20": -2.55,
+    "pct_vs_sma50": 14.47,
+    "pct_vs_sma200": 19.86,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "mantener",
+    "veredicto": "comprar",
     "confianza": "media",
-    "resumen": "Solana destaca por fuertes subidas mensuales apoyadas por el sentimiento de mercado.",
+    "resumen": "Excelente comportamiento mensual respaldado por medias de medio y largo plazo favorables.",
     "a_favor": [
-     "Notable repunte del 15.39% en el último mes.",
-     "Claro sesgo alcista sobre sus medias móviles principales."
+     "Se sitúa de forma clara por encima de las medias de 50 y 200 sesiones.",
+     "Fuerte subida mensual y contexto de mercado favorable al riesgo."
     ],
     "en_contra": [
-     "Profundo descuento desde sus máximos de 52 semanas."
+     "Opera levemente por debajo de la media de 20 sesiones en el día.",
+     "Gran distancia negativa respecto a los máximos de 52 semanas."
     ]
    }
   },
@@ -695,30 +720,31 @@
    "symbol": "GC=F",
    "nombre": "Oro",
    "grupo": "Materias primas",
-   "precio": 4436.6,
+   "precio": 4384.3,
    "moneda": "USD",
-   "d1": 0.47,
-   "m1": 1.22,
-   "y1": 21.76,
+   "d1": 0.45,
+   "m1": -0.56,
+   "y1": 20.55,
    "tecnico": {
-    "pct_desde_max_52s": -16.58,
-    "pct_sobre_min_52s": 21.99,
-    "pct_vs_sma20": -0.79,
-    "pct_vs_sma50": 4.11,
-    "pct_vs_sma200": -1.97,
+    "pct_desde_max_52s": -17.56,
+    "pct_sobre_min_52s": 20.55,
+    "pct_vs_sma20": -1.9,
+    "pct_vs_sma50": 2.77,
+    "pct_vs_sma200": -3.15,
     "tendencia": "bajista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
     "confianza": "baja",
-    "resumen": "El oro muestra una tendencia bajista a pesar de la subida diaria.",
+    "resumen": "Tendencia bajista y cotización bajo la media de 200 sesiones que aconsejan no tomar posiciones largas.",
     "a_favor": [
-     "Variación positiva en el día y por encima de la media de 50 sesiones."
+     "Mantiene un rendimiento anual positivo.",
+     "Supera la media móvil de 50 sesiones."
     ],
     "en_contra": [
-     "Tendencia técnica catalogada como bajista.",
-     "Cotiza por debajo de su media de 200 sesiones."
+     "Clasificado con tendencia bajista.",
+     "Se encuentra por debajo de la media de 200 sesiones."
     ]
    }
   },
@@ -726,30 +752,31 @@
    "symbol": "BZ=F",
    "nombre": "Petróleo Brent",
    "grupo": "Materias primas",
-   "precio": 102.39,
+   "precio": 104.13,
    "moneda": "USD",
-   "d1": 1.17,
-   "m1": 15.16,
-   "y1": 51.71,
+   "d1": -3.25,
+   "m1": 17.03,
+   "y1": 56.89,
    "tecnico": {
-    "pct_desde_max_52s": -13.49,
-    "pct_sobre_min_52s": 73.78,
-    "pct_vs_sma20": 10.16,
-    "pct_vs_sma50": 16.55,
-    "pct_vs_sma200": 21.32,
+    "pct_desde_max_52s": -12.02,
+    "pct_sobre_min_52s": 76.73,
+    "pct_vs_sma20": 10.7,
+    "pct_vs_sma50": 17.52,
+    "pct_vs_sma200": 23.04,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "comprar",
     "confianza": "alta",
-    "resumen": "El petróleo Brent demuestra una fortaleza técnica excepcional en todos los plazos.",
+    "resumen": "Solidez excepcional con tendencia alcista clara y superación de todas las referencias técnicas.",
     "a_favor": [
-     "Tendencia claramente alcista con más de un 15% de subida mensual.",
-     "Cotización muy por encima de sus medias de 20, 50 y 200 sesiones."
+     "Cotiza muy por encima de las medias de 20, 50 y 200 sesiones.",
+     "Excelente rentabilidad mensual y anual."
     ],
     "en_contra": [
-     "Aún presenta una brecha del 13.49% respecto a sus máximos anuales."
+     "Registra un descenso notable en la última sesión diaria.",
+     "Elevada separación respecto a los mínimos anuales."
     ]
    }
   },
@@ -757,30 +784,31 @@
    "symbol": "CL=F",
    "nombre": "Petróleo WTI",
    "grupo": "Materias primas",
-   "precio": 97.6,
+   "precio": 99.76,
    "moneda": "USD",
-   "d1": 1.61,
-   "m1": 17.31,
-   "y1": 53.29,
+   "d1": -2.65,
+   "m1": 19.8,
+   "y1": 59.95,
    "tecnico": {
-    "pct_desde_max_52s": -13.59,
-    "pct_sobre_min_52s": 76.59,
-    "pct_vs_sma20": 11.75,
-    "pct_vs_sma50": 18.3,
-    "pct_vs_sma200": 23.0,
+    "pct_desde_max_52s": -11.68,
+    "pct_sobre_min_52s": 80.5,
+    "pct_vs_sma20": 12.71,
+    "pct_vs_sma50": 19.87,
+    "pct_vs_sma200": 25.35,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "comprar",
     "confianza": "alta",
-    "resumen": "El petróleo WTI encabeza la fortaleza de las materias primas con gran impulso técnico.",
+    "resumen": "Demuestra una gran fortaleza con tendencia alcista confirmada y dominio absoluto sobre sus medias.",
     "a_favor": [
-     "Fuerte subida mensual del 17.31%.",
-     "Todas las medias móviles principales superadas con holgura."
+     "Se sitúa firmemente por encima de todas sus medias móviles.",
+     "Tendencia alcista muy sólida con rentabilidades anuales sobresalientes."
     ],
     "en_contra": [
-     "Corrección pendiente del 13.59% para alcanzar los máximos de 52 semanas."
+     "Corrección bajista puntual en la sesión de hoy.",
+     "Fuerte subida previa que podría buscar consolidación."
     ]
    }
   },
@@ -788,18 +816,18 @@
    "symbol": "EURUSD=X",
    "nombre": "EUR/USD",
    "grupo": "Divisas",
-   "precio": 1.1637,
+   "precio": 1.1601,
    "moneda": "USD",
-   "d1": 0.08,
-   "m1": 0.81,
-   "y1": -0.56,
+   "d1": -0.28,
+   "m1": 0.62,
+   "y1": -0.88,
    "tecnico": {
-    "pct_desde_max_52s": -3.17,
-    "pct_sobre_min_52s": 2.49,
-    "pct_vs_sma20": 0.11,
-    "pct_vs_sma50": 0.98,
-    "pct_vs_sma200": 0.03,
-    "tendencia": "mixta"
+    "pct_desde_max_52s": -3.47,
+    "pct_sobre_min_52s": 2.18,
+    "pct_vs_sma20": -0.23,
+    "pct_vs_sma50": 0.64,
+    "pct_vs_sma200": -0.28,
+    "tendencia": "bajista"
    },
    "con_veredicto": false,
    "senal": null
@@ -808,17 +836,17 @@
    "symbol": "^TNX",
    "nombre": "Bono USA 10 años (rendimiento)",
    "grupo": "Bonos y riesgo",
-   "precio": 4.837,
+   "precio": 4.944,
    "moneda": "USD",
-   "d1": 0.65,
-   "m1": 2.94,
-   "y1": 18.73,
+   "d1": 2.21,
+   "m1": 5.55,
+   "y1": 22.62,
    "tecnico": {
     "pct_desde_max_52s": 0.0,
-    "pct_sobre_min_52s": 22.36,
-    "pct_vs_sma20": 2.4,
-    "pct_vs_sma50": 3.99,
-    "pct_vs_sma200": 10.78,
+    "pct_sobre_min_52s": 25.07,
+    "pct_vs_sma20": 4.37,
+    "pct_vs_sma50": 6.05,
+    "pct_vs_sma200": 13.12,
     "tendencia": "alcista"
    },
    "con_veredicto": false,
@@ -828,17 +856,17 @@
    "symbol": "^VIX",
    "nombre": "VIX (volatilidad)",
    "grupo": "Bonos y riesgo",
-   "precio": 16.57,
+   "precio": 17.22,
    "moneda": "USD",
-   "d1": 0.67,
-   "m1": 13.88,
-   "y1": 7.95,
+   "d1": -3.48,
+   "m1": 17.7,
+   "y1": 17.06,
    "tecnico": {
-    "pct_desde_max_52s": -46.63,
-    "pct_sobre_min_52s": 23.01,
-    "pct_vs_sma20": 8.26,
-    "pct_vs_sma50": 2.93,
-    "pct_vs_sma200": -8.47,
+    "pct_desde_max_52s": -44.54,
+    "pct_sobre_min_52s": 27.84,
+    "pct_vs_sma20": 10.97,
+    "pct_vs_sma50": 6.65,
+    "pct_vs_sma200": -4.87,
     "tendencia": "bajista"
    },
    "con_veredicto": false,
