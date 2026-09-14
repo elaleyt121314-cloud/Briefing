@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-09-13T10:25:59+00:00",
+ "actualizado": "2026-09-14T10:51:06+00:00",
  "cripto_global": {
-  "dominancia_btc": 58.8,
-  "cap_total_usd": 2615307661878,
-  "variacion_cap_24h": -4.43
+  "dominancia_btc": 58.9,
+  "cap_total_usd": 2653378236214,
+  "variacion_cap_24h": -1.3
  },
  "fear_and_greed": {
-  "valor": 61,
+  "valor": 57,
   "texto": "Greed"
  },
  "macro": [
