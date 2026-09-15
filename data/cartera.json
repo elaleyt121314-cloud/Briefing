@@ -4,11 +4,11 @@
  "moneda_base": "EUR",
  "totales": {
   "coste": 41.92,
-  "valor": 35.72,
-  "pl": -6.2,
-  "pl_pct": -14.79,
-  "sp500_valor_equivalente": 47.03,
-  "sp500_pl_pct": 12.19
+  "valor": 36.17,
+  "pl": -5.75,
+  "pl_pct": -13.72,
+  "sp500_valor_equivalente": 46.81,
+  "sp500_pl_pct": 11.67
  },
  "posiciones": [
   {
@@ -19,29 +19,29 @@
    "fecha_compra": "2025-10-28",
    "participaciones": 0.187,
    "moneda": "EUR",
-   "precio_actual": 191.0,
+   "precio_actual": 193.4,
    "coste": 41.92,
-   "valor": 35.72,
-   "pl": -6.21,
-   "pl_pct": -14.8,
-   "sp500_pct_mismo_periodo": 12.18,
+   "valor": 36.17,
+   "pl": -5.76,
+   "pl_pct": -13.73,
+   "sp500_pct_mismo_periodo": 11.66,
    "peso_pct": 100.0
   }
  ],
  "por_sector": [
   {
    "nombre": "Videojuegos",
-   "valor": 35.72,
+   "valor": 36.17,
    "pct": 100.0
   }
  ],
  "por_geografia": [
   {
    "nombre": "EE. UU.",
-   "valor": 35.72,
+   "valor": 36.17,
    "pct": 100.0
   }
  ],
  "omitidas": [],
- "actualizado": "2026-09-14T10:51:06+00:00"
+ "actualizado": "2026-09-15T10:15:17+00:00"
 }
