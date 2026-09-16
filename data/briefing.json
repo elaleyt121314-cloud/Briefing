@@ -1,85 +1,80 @@
 {
- "actualizado": "2026-09-15T10:15:17+00:00",
+ "actualizado": "2026-09-16T10:08:52+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Los mercados moderan las caídas a la espera de la decisión de la Reserva Federal y pendientes de la energía",
-  "resumen": "Los principales índices bursátiles registran ligeros retrocesos en una jornada marcada por la presión alcista en los precios del petróleo y la expectativa de una posible subida de tipos por parte de la Fed. En el mercado cripto, el bitcoin cotiza en torno a los 76.947 dólares mientras el Senado de EE. UU. afronta la votación de la Clarity Act. Los datos muestran una volatilidad (VIX) al alza que refleja la cautela de los inversores.",
+  "titular": "Cautela en los mercados bursátiles ante la inminente decisión de la Reserva Federal y tensiones en el petróleo",
+  "resumen": "Los principales índices de Wall Street cierran con descensos moderados mientras los inversores aguardan la reunión de tipos de la Reserva Federal. En las materias primas, el oro registra repuntes y el petróleo se mantiene elevado tras los ataques a un oleoducto saudí. Por su parte, el mercado cripto sufre caídas generalizadas tras el rechazo del Senado de EE. UU. a la norma Clarity Act.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Presión en la renta variable y expectativas sobre la Fed",
-    "texto": "Los principales índices bursátiles globales muestran descensos moderados, con el S&P 500 cediendo un 0,48% y el Nasdaq 100 bajando un 0,82%. Los datos reflejan que entidades como Morgan Stanley y Goldman Sachs prevén una subida de tipos por parte de la Reserva Federal. Esto, sumado al rendimiento del bono de EE. UU. a 10 años cerca de máximos de 20 años por la preocupación sobre la inflación energética, afecta directamente a la valoración de los activos de riesgo.",
+    "titulo": "Expectación máxima ante la Reserva Federal",
+    "texto": "Los datos muestran descensos en los principales índices estadounidenses como el S&P 500 (-0.45%), Nasdaq 100 (-0.65%) y Dow Jones (-0.63%) en una jornada marcada por la espera ante el desenlace de la reunión de la Reserva Federal. Esto podría indicar cautela generalizada en los inversores y un examen directo a la credibilidad del banco central ante el rendimiento del bono de EE. UU. a 10 años, que se sitúa en el 4.996%.",
+    "importancia": 5
+   },
+   {
+    "titulo": "Impacto en criptomonedas por el rechazo a la Clarity Act",
+    "texto": "El mercado de criptomonedas se ve afectado por el rechazo del Senado de EE. UU. a la norma diseñada para regular el sector, provocando caídas y un descenso en la capitalización global del 4.28%. Bitcoin cotiza alrededor de los 75,925 dólares con una dominancia del 58.5%, mientras que el sentimiento de Fear and Greed se sitúa en un nivel neutral de 51.",
     "importancia": 4
    },
    {
-    "titulo": "Comportamiento dispar en el sector tecnológico",
-    "texto": "Dentro de las grandes tecnológicas, se observan movimientos divergentes que superan el 2% de variación diaria. Por un lado, NVIDIA sufre un retroceso del 3,36% y SpaceX baja un 2,02%. Por otro lado, Alphabet y Meta registran subidas del 3,22% y 2,71% respectivamente. Los datos muestran que el sector tecnológico mantiene una alta sensibilidad en un entorno de tipos e inflación elevados.",
-    "importancia": 3
-   },
-   {
-    "titulo": "El bitcoin y el mercado cripto ante la Clarity Act",
-    "texto": "El bitcoin cotiza a 76.947,95 dólares, con un descenso diario del 1,55% y una capitalización de mercado total que cae un 3,89% en 24 horas. Los datos y titulares de la jornada señalan que el mercado cripto se encuentra en vilo debido a la votación de la Clarity Act en el Senado de EE. UU. A pesar de este retropeto puntual, el indicador Fear & Greed se mantiene en la zona de 'Greed' con un valor de 69.",
-    "importancia": 4
-   },
-   {
-    "titulo": "Atención al petróleo y su impacto inflacionario",
-    "texto": "Los precios del crudo muestran movimientos relevantes, con el Petróleo Brent cayendo un 3,1% hasta los 102,40 dólares y el WTI subiendo un 2,21% hasta los 103,63 dólares. Sin embargo, su evolución mensual acumula subidas muy significativas (superando el 15% en el Brent y el 25% en el WTI). Los informes indican que esta escalada energética alimenta las preocupaciones sobre la inflación y presiona al alza los rendimientos de los bonos.",
+    "titulo": "Presión en el petróleo y refugio en el oro",
+    "texto": "Los precios del petróleo se mantienen en niveles elevados —con el Brent en 107.77 dólares (-0.9% en el día pero con fuertes alzas mensuales e impulsado en las noticias por ataques a una tubería en Arabia Saudí y conflictos en Oriente Medio)—, mientras que el oro avanza un 1.08% hasta los 4,379.6 dólares. Estos movimientos en materias primas reflejan la sensibilidad actual del mercado ante riesgos geopolíticos y energéticos.",
     "importancia": 4
    }
   ],
   "vigilar": [
-   "Evolución del rendimiento del bono de EE. UU. a 10 años",
-   "Desarrollos legislativos en torno a la Clarity Act para el bitcoin",
-   "Comportamiento de la volatilidad (VIX)"
+   "El desenlace y la decisión de tipos de la reunión de la Reserva Federal",
+   "La evolución de los rendimientos de los bonos estadounidenses a 2 y 10 años",
+   "El comportamiento del petróleo Brent y WTI ante la situación de los suministros en Oriente Medio"
   ],
   "proximos": [
-   "Decisión sobre tipos de interés de la Reserva Federal (FOMC)",
-   "Votación de la Clarity Act en el Senado de EE. UU."
+   "Anuncio oficial de tipos de interés y decisión de la Reserva Federal el miércoles",
+   "Evolución del debate político y regulatorio sobre criptomonedas en EE. UU."
   ],
-  "nota_riesgo": "El nivel de riesgo general es moderadamente alto. Los datos muestran un incremento de la volatilidad (VIX en 17,5 con subida semanal de más del 11%), tensiones en el mercado de bonos por los rendimientos de la deuda y la incertidumbre ante la inminente decisión de política monetaria de la Fed."
+  "nota_riesgo": "El nivel de riesgo general se mantiene elevado y condicionado por la incertidumbre macroeconómica de los tipos de interés de la Fed, la tensión geopolítica en Oriente Medio y la volatilidad en activos digitales tras los reveses regulatorios."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -13.73,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 13,73%. Las noticias de hoy muestran movimientos estables o ligeros repuntes influidos por el sector, junto con menciones a la cercanía del lanzamiento de Grand Theft Auto 6, la venta de acciones de su director financiero y la convocatoria de su junta anual, aunque estos titulares no explican por sí mismos la caída acumulada.",
+   "pl_pct": -17.21,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 17,21% y ha sufrido una caída mayor que el mercado general, con dudas sobre si justifica una prima en su flujo de caja. Los titulares también mencionan leves repuntes recientes junto a movimientos en otras empresas del sector como Roblox, aunque sin noticias propias que expliquen un cambio de tendencia claro.",
    "noticias": [
+    {
+     "titulo": "Does Take Two Interactive Software (TTWO) Justify A Premium On Cash Flow?",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/does-two-interactive-software-ttwo-091213167.html?.tsrc=rss",
+     "fecha": "2026-09-16T09:12:13+00:00"
+    },
+    {
+     "titulo": "Why Did Roblox Stock Surge Past The Target An Analyst Just Raised?",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.trefis.com/articles/615344/why-did-roblox-stock-surge-past-the-target-an-analyst-just-raised/2026-09-15?.tsrc=rss",
+     "fecha": "2026-09-16T01:05:54+00:00"
+    },
+    {
+     "titulo": "Take-Two Interactive (TTWO) Suffers a Larger Drop Than the General Market: Key Insights",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-ttwo-suffers-larger-215005423.html?.tsrc=rss",
+     "fecha": "2026-09-15T21:50:05+00:00"
+    },
+    {
+     "titulo": "Is Take-Two Interactive Stock Underperforming the S&P 500?",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.barchart.com/story/news/4609760/is-take-two-interactive-stock-underperforming-the-s-p-500?.tsrc=rss",
+     "fecha": "2026-09-15T12:34:19+00:00"
+    },
+    {
+     "titulo": "The Best Founders in America Oversubscribe Beanstalk 2026, Three Weeks Before Opening",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/small-business/articles/best-founders-america-oversubscribe-beanstalk-102500188.html?.tsrc=rss",
+     "fecha": "2026-09-15T10:25:00+00:00"
+    },
     {
      "titulo": "Roblox Jumps 10% as Wedbush Lifts Target to $48 While Staying Neutral; Take-Two and GameStop Nudge Higher",
      "fuente": "Yahoo Finanzas",
      "url": "https://247wallst.com/investing/2026/09/14/roblox-jumps-10-as-wedbush-lifts-target-to-48-while-staying-neutral-take-two-and-gamestop-nudge-higher/?.tsrc=rss",
      "fecha": "2026-09-14T15:44:02+00:00"
-    },
-    {
-     "titulo": "How Far Could Take-Two Stock Fall In A Market Shock, With Grand Theft Auto VI Still To Come?",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.trefis.com/articles/615057/how-far-could-take-two-stock-fall-in-a-market-shock-with-grand-theft-auto-vi-still-to-come/2026-09-11?.tsrc=rss",
-     "fecha": "2026-09-11T21:17:43+00:00"
-    },
-    {
-     "titulo": "GameStop Climbs 4% as Ryan Cohen Buys One Million Shares, Take-Two and Roblox Hold Steady",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://247wallst.com/investing/2026/09/11/gamestop-climbs-4-as-ryan-cohen-buys-one-million-shares-take-two-and-roblox-hold-steady/?.tsrc=rss",
-     "fecha": "2026-09-11T13:22:31+00:00"
-    },
-    {
-     "titulo": "Take-Two Interactive to Host Webcast of 2026 Annual Meeting of Stockholders",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-host-webcast-2026-120000994.html?.tsrc=rss",
-     "fecha": "2026-09-10T12:00:00+00:00"
-    },
-    {
-     "titulo": "GameStop Rises 4% as Collectibles Sales Jump 57% and a Director Buys $1M",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://247wallst.com/investing/2026/09/09/gamestop-rises-4-as-collectibles-sales-jump-57-and-a-director-buys-1m/?.tsrc=rss",
-     "fecha": "2026-09-09T15:13:56+00:00"
-    },
-    {
-     "titulo": "Take-Two CFO Sells 1,335 Company Shares as Grand Theft Auto 6 Nears Launch",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.fool.com/coverage/filings/2026/09/08/take-two-cfo-sells-1-335-company-shares-as-grand-theft-auto-6-nears-launch/?.tsrc=rss",
-     "fecha": "2026-09-08T19:50:23+00:00"
     }
    ]
   }
