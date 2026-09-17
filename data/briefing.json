@@ -1,45 +1,56 @@
 {
- "actualizado": "2026-09-16T10:08:52+00:00",
+ "actualizado": "2026-09-17T10:12:15+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Cautela en los mercados bursátiles ante la inminente decisión de la Reserva Federal y tensiones en el petróleo",
-  "resumen": "Los principales índices de Wall Street cierran con descensos moderados mientras los inversores aguardan la reunión de tipos de la Reserva Federal. En las materias primas, el oro registra repuntes y el petróleo se mantiene elevado tras los ataques a un oleoducto saudí. Por su parte, el mercado cripto sufre caídas generalizadas tras el rechazo del Senado de EE. UU. a la norma Clarity Act.",
+  "titular": "La Reserva Federal sube los tipos de interés en un contexto de tensiones monetarias y caídas destacadas en materias primas",
+  "resumen": "Los mercados reaccionan a la nueva subida de tipos de la Fed y al tono agresivo de sus mensajes, destacando caídas significativas en el petróleo Brent y una notable reducción de la volatilidad medida por el VIX. Los índices europeos como el Ibex y el DAX han resistido en positivo, mientras que Wall Street muestra un comportamiento mixto con descensos en el Dow Jones.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Expectación máxima ante la Reserva Federal",
-    "texto": "Los datos muestran descensos en los principales índices estadounidenses como el S&P 500 (-0.45%), Nasdaq 100 (-0.65%) y Dow Jones (-0.63%) en una jornada marcada por la espera ante el desenlace de la reunión de la Reserva Federal. Esto podría indicar cautela generalizada en los inversores y un examen directo a la credibilidad del banco central ante el rendimiento del bono de EE. UU. a 10 años, que se sitúa en el 4.996%.",
+    "titulo": "Subida de tipos de la Fed y resistencia del mercado",
+    "texto": "La Reserva Federal ha aprobado una subida de tipos de interés y su presidente, Kevin Warsh, ha dejado abierta la puerta a futuras alzas para controlar la inflación, rechazando las exigencias de Donald Trump de reducirlos. A pesar de este entorno monetario más exigente y del rechazo del Senado, los índices europeos como el Euro Stoxx 50 (+0,57%) y el Ibex 35 (+0,47%) han aguantado en positivo. En Wall Street, el Dow Jones ha cedido un 1,21% mientras el Nasdaq 100 se mantuvo prácticamente plano (+0,02%).",
     "importancia": 5
    },
    {
-    "titulo": "Impacto en criptomonedas por el rechazo a la Clarity Act",
-    "texto": "El mercado de criptomonedas se ve afectado por el rechazo del Senado de EE. UU. a la norma diseñada para regular el sector, provocando caídas y un descenso en la capitalización global del 4.28%. Bitcoin cotiza alrededor de los 75,925 dólares con una dominancia del 58.5%, mientras que el sentimiento de Fear and Greed se sitúa en un nivel neutral de 51.",
+    "titulo": "Fuerte corrección en el petróleo Brent y el oro",
+    "texto": "El petróleo Brent ha registrado un movimiento destacado a la baja, desplomándose un 5,75% hasta los 99,75 dólares, mientras que el WTI ha retrocedido un 1,32%. Por su parte, el oro también ha sufrido pérdidas, cayendo un 0,95% hasta los 4.345,8 dólares. Estos descensos se producen en un escenario donde la economía global afronta tensiones energéticas y costes elevados según apuntan diversos análisis macroeconómicos.",
     "importancia": 4
    },
    {
-    "titulo": "Presión en el petróleo y refugio en el oro",
-    "texto": "Los precios del petróleo se mantienen en niveles elevados —con el Brent en 107.77 dólares (-0.9% en el día pero con fuertes alzas mensuales e impulsado en las noticias por ataques a una tubería en Arabia Saudí y conflictos en Oriente Medio)—, mientras que el oro avanza un 1.08% hasta los 4,379.6 dólares. Estos movimientos en materias primas reflejan la sensibilidad actual del mercado ante riesgos geopolíticos y energéticos.",
+    "titulo": "Desplome de la volatilidad y rendimiento de los bonos",
+    "texto": "El índice de volatilidad VIX ha experimentado una fuerte contracción del 9,26%, situándose en los 16,07 puntos, lo que refleja una menor inquietud inmediata en los mercados de opciones pese al endurecimiento monetario. En renta fija, el rendimiento del bono estadounidense a 10 años se sitúa en el 5,01% tras registrar una subida diaria del 0,2%, reflejando la presión al alza en los costes de endeudamiento a largo plazo.",
     "importancia": 4
+   },
+   {
+    "titulo": "Comportamiento mixto en grandes tecnológicas y criptomonedas",
+    "texto": "Dentro de las acciones de gran capitalización, Microsoft ha cedido un 1,37% y Amazon un 0,99%, mientras que Apple ha avanzado un 0,94% y SpaceX ha destacado con una subida del 5,15%. En el mercado de criptomonedas, el bitcoin resiste con una subida del 0,25% hasta los 76.342 dólares y Ethereum avanza un 0,72%, manteniendo una actitud neutral en el indicador Fear and Greed (50) a pesar de las comparaciones con el entorno de 2022.",
+    "importancia": 3
    }
   ],
   "vigilar": [
-   "El desenlace y la decisión de tipos de la reunión de la Reserva Federal",
-   "La evolución de los rendimientos de los bonos estadounidenses a 2 y 10 años",
-   "El comportamiento del petróleo Brent y WTI ante la situación de los suministros en Oriente Medio"
+   "Evolución del precio del petróleo Brent tras su brusca caída",
+   "Rendimiento del bono estadounidense a 10 años en torno al nivel del 5%",
+   "Reacción de los mercados ante las próximas decisiones de otros bancos centrales, como el Banco de Inglaterra"
   ],
   "proximos": [
-   "Anuncio oficial de tipos de interés y decisión de la Reserva Federal el miércoles",
-   "Evolución del debate político y regulatorio sobre criptomonedas en EE. UU."
+   "Actualización de la política monetaria del Banco de Inglaterra",
+   "Posibles declaraciones adicionales de miembros de la Reserva Federal sobre futuras sendas de tipos"
   ],
-  "nota_riesgo": "El nivel de riesgo general se mantiene elevado y condicionado por la incertidumbre macroeconómica de los tipos de interés de la Fed, la tensión geopolítica en Oriente Medio y la volatilidad en activos digitales tras los reveses regulatorios."
+  "nota_riesgo": "El nivel de riesgo general se mantiene elevado pero contenido, reflejado en un VIX que baja hasta los 16,07 puntos pero con la rentabilidad del bono a 10 años consolidada en el 5%. Las tensiones macroeconómicas globales y el endurecimiento monetario exigen cautela en la gestión de carteras."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -17.21,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 17,21% y ha sufrido una caída mayor que el mercado general, con dudas sobre si justifica una prima en su flujo de caja. Los titulares también mencionan leves repuntes recientes junto a movimientos en otras empresas del sector como Roblox, aunque sin noticias propias que expliquen un cambio de tendencia claro.",
+   "pl_pct": -16.5,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 16,5% y ha sufrido una caída mayor que la del mercado general. Las noticias mencionan beneficios a corto plazo más suaves y un costoso pipeline, además de debatir si justifica su prima en flujo de caja, aunque los titulares también incluyen referencias a otras empresas que no guardan relación directa contigo.",
    "noticias": [
+    {
+     "titulo": "What Take-Two Interactive Software (TTWO)'s Softer Near-Term Earnings vs Costly Pipeline Means For Shareholders",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-ttwo-softer-141035525.html?.tsrc=rss",
+     "fecha": "2026-09-16T14:10:35+00:00"
+    },
     {
      "titulo": "Does Take Two Interactive Software (TTWO) Justify A Premium On Cash Flow?",
      "fuente": "Yahoo Finanzas",
@@ -69,12 +80,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://finance.yahoo.com/small-business/articles/best-founders-america-oversubscribe-beanstalk-102500188.html?.tsrc=rss",
      "fecha": "2026-09-15T10:25:00+00:00"
-    },
-    {
-     "titulo": "Roblox Jumps 10% as Wedbush Lifts Target to $48 While Staying Neutral; Take-Two and GameStop Nudge Higher",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://247wallst.com/investing/2026/09/14/roblox-jumps-10-as-wedbush-lifts-target-to-48-while-staying-neutral-take-two-and-gamestop-nudge-higher/?.tsrc=rss",
-     "fecha": "2026-09-14T15:44:02+00:00"
     }
    ]
   }
