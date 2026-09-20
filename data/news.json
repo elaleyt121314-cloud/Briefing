@@ -1,61 +1,208 @@
 {
- "actualizado": "2026-09-19T09:39:10+00:00",
+ "actualizado": "2026-09-20T09:55:06+00:00",
  "items": [
   {
-   "titulo": "A Borrower’s Timeline of the Public Service Loan Forgiveness Quagmire",
-   "resumen": "One county lawyer’s repayment saga stretches nearly 20 years, though she’s tried 22 times over the past 20 months to erase her debt.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/09/19/business/public-service-loan-forgiveness-buybacks.html",
-   "fecha": "2026-09-19T09:02:13+00:00"
+   "titulo": "Ed Davey calls for immediate 10p cut to fuel duty",
+   "resumen": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-09-20T09:32:50+00:00"
   },
   {
-   "titulo": "At DraftKings, AI Targets the Gamblers Likeliest to Lose",
-   "resumen": "Data science helps determine who receives betting incentives, but the company has resisted using similar technology to protect gamblers at risk of addiction.",
+   "titulo": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
+   "resumen": "As Xi Jinping arrives in the United States this week for a state visit, China’s advances in artificial intelligence will be in the air. Less discussed: China’s economy in its worst shape in decades.",
    "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
-   "fecha": "2026-09-19T09:00:18+00:00"
+   "url": "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html",
+   "fecha": "2026-09-20T09:01:40+00:00"
   },
   {
-   "titulo": "Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger",
-   "resumen": "Seeking to settle a lawsuit with 12 states, Paramount has discussed measures to protect the editorial independence of CNN and the divestiture of Comedy Central.",
+   "titulo": "Rivian C.E.O. RJ Scaringe Has Some Ideas for How to Make More Cars in America",
+   "resumen": "RJ Scaringe thinks it will take robots, tariffs and diplomacy to maintain a manufacturing base in the United States.",
    "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/09/18/business/paramount-warner-bros-settlement.html",
-   "fecha": "2026-09-19T02:33:53+00:00"
+   "url": "https://www.nytimes.com/2026/09/20/business/rivian-rj-scaringe.html",
+   "fecha": "2026-09-20T09:01:32+00:00"
   },
   {
-   "titulo": "Trump Says He Has Banned CNN, MS NOW and Politico From White House",
-   "resumen": "The president cited reporting from the outlets that he deemed “fake news.” It was unclear how such a ban would be enforced or defended in court.",
+   "titulo": "What to Do If You’re Laid Off and Too Young for Medicare",
+   "resumen": "At best, older, laid-off workers will struggle to find health insurance that bridges the years before they qualify for Medicare at age 65.",
    "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html",
-   "fecha": "2026-09-19T00:31:59+00:00"
+   "url": "https://www.nytimes.com/2026/09/20/business/jobless-health-insurance.html",
+   "fecha": "2026-09-20T09:01:23+00:00"
   },
   {
-   "titulo": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
-   "resumen": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
+   "titulo": "Mistakes? We’ve Made a Few",
+   "resumen": "For most of its life, The New York Times has tried to correct its errors. These efforts have not always been perfect.",
    "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
-   "fecha": "2026-09-19T00:23:01+00:00"
+   "url": "https://www.nytimes.com/2026/09/20/business/media/new-york-times-journalism-errors.html",
+   "fecha": "2026-09-20T09:00:56+00:00"
   },
   {
-   "titulo": "Trump Promotes Program to Reduce Medicaid Drug Prices",
-   "resumen": "Ahead of the midterm elections, the president said that all states had opted in to an effort to align Medicaid’s prices for medicines with those in other wealthy countries.",
+   "titulo": "As the Rich Buy Bigger Boats, Private Equity Is Investing in the Booming Marina Business",
+   "resumen": "The private equity firm Blackstone now owns more marinas than anyone in the world.",
    "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/09/18/business/trump-drug-prices-medicaid.html",
-   "fecha": "2026-09-19T00:22:20+00:00"
+   "url": "https://www.nytimes.com/2026/09/20/business/boats-marina-consolidation-blackstone.html",
+   "fecha": "2026-09-20T09:00:19+00:00"
   },
   {
-   "titulo": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-   "resumen": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
+   "titulo": "France’s wine production nears a 70-year low, leaving winemakers with tough choices",
+   "resumen": "As the French wine industry reaches a crisis point, key players are considering new markets, products and generations.",
+   "fuente": "CNBC Economía",
+   "url": "https://www.cnbc.com/2026/09/20/france-wine-production-70-year-low-heatwaves-drought.html",
+   "fecha": "2026-09-20T05:00:01+00:00"
+  },
+  {
+   "titulo": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+   "resumen": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
    "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-   "fecha": "2026-09-18T23:30:00+00:00"
+   "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+   "fecha": "2026-09-20T01:45:00+00:00"
   },
   {
    "titulo": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
    "resumen": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
    "fuente": "MarketWatch",
    "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-   "fecha": "2026-09-18T23:00:00+00:00"
+   "fecha": "2026-09-20T01:30:00+00:00"
+  },
+  {
+   "titulo": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+   "resumen": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+   "fecha": "2026-09-20T01:03:00+00:00"
+  },
+  {
+   "titulo": "Not all AI workers think the tech could kill everyone",
+   "resumen": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-09-19T23:01:57+00:00"
+  },
+  {
+   "titulo": "California Cracks Down on Influencers’ Undisclosed Political Ads",
+   "resumen": "Under a new law, creators could face fines of $5,000 per post if they don’t disclose that they were paid to make political content.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html",
+   "fecha": "2026-09-19T22:59:57+00:00"
+  },
+  {
+   "titulo": "Converse Removes Ad That Drew Comparisons to K.K.K. Imagery",
+   "resumen": "“This should not have happened and we will do better,” said Converse, which apologized for the ad. Critics said it depicted a Ku Klux Klan robe and a lynching.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/09/19/business/converse-sneaker-ad-kkk.html",
+   "fecha": "2026-09-19T19:41:21+00:00"
+  },
+  {
+   "titulo": "Here’s the latest.",
+   "resumen": "The prohibition on certain journalists was a major escalation in President Trump’s war on the media, and will probably face a legal challenge.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/live/2026/09/19/business/trump-white-house-press-ban/heres-the-latest",
+   "fecha": "2026-09-19T19:26:42+00:00"
+  },
+  {
+   "titulo": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
+   "resumen": "Selling a condominium unit has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+   "fecha": "2026-09-19T18:57:00+00:00"
+  },
+  {
+   "titulo": "90% of retirees are making this miscalculation with their savings",
+   "resumen": "The order in which you spend your money makes a difference for your taxes — and your enjoyment of life.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
+   "fecha": "2026-09-19T18:40:00+00:00"
+  },
+  {
+   "titulo": "Many young investors can’t afford to invest without their parents’ help",
+   "resumen": "Parents are providing help with things like housing and groceries, and sometimes directly investing for their children, to give them a head start in a challenging economy.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
+   "fecha": "2026-09-19T18:22:00+00:00"
+  },
+  {
+   "titulo": "The future of retirement? Work until you die.",
+   "resumen": "Social Security, once seen as “old-age insurance,” will eventually disappear, this author predicts.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+   "fecha": "2026-09-19T17:53:00+00:00"
+  },
+  {
+   "titulo": "These are the 10 biggest retirement fears — and what you can do about them",
+   "resumen": "No amount of wealth can erase retirement worries.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
+   "fecha": "2026-09-19T17:21:00+00:00"
+  },
+  {
+   "titulo": "Chips: los soportes esperan más abajo",
+   "resumen": "El índice SOX de los chips presenta un magnífico soporte en el rango de los 10.000-10.200 puntos.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/09/19/6aa2a76f468aebd5218b456d.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/mercados.xml\" />",
+   "fuente": "Expansión Mercados",
+   "url": "https://www.expansion.com/mercados/2026/09/19/6aa2a76f468aebd5218b456d.html",
+   "fecha": "2026-09-19T17:06:24+00:00"
+  },
+  {
+   "titulo": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
+   "fecha": "2026-09-19T16:00:00+00:00"
+  },
+  {
+   "titulo": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
+   "fecha": "2026-09-19T14:00:00+00:00"
+  },
+  {
+   "titulo": "Google's Gemini AI hacked three companies in security test",
+   "resumen": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-09-19T13:39:32+00:00"
+  },
+  {
+   "titulo": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+   "fecha": "2026-09-19T13:39:15+00:00"
+  },
+  {
+   "titulo": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+   "resumen": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+   "fuente": "CNBC Economía",
+   "url": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+   "fecha": "2026-09-19T12:50:49+00:00"
+  },
+  {
+   "titulo": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+   "fecha": "2026-09-19T12:13:57+00:00"
+  },
+  {
+   "titulo": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
+   "fecha": "2026-09-19T12:00:00+00:00"
+  },
+  {
+   "titulo": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
+   "fecha": "2026-09-19T12:00:00+00:00"
+  },
+  {
+   "titulo": "Billionaire Man United owner says he has lost confidence in the UK",
+   "resumen": "Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea.",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-09-18T23:06:16+00:00"
   },
   {
    "titulo": "El retraso en la ley 'cripto' de EEUU frena el despegue del sector",
@@ -63,153 +210,6 @@
    "fuente": "Expansión Mercados",
    "url": "https://www.expansion.com/mercados/criptomonedas/2026/09/19/6aad7637e5fdeab6628b4583.html",
    "fecha": "2026-09-18T22:57:19+00:00"
-  },
-  {
-   "titulo": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-   "resumen": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-   "fecha": "2026-09-18T22:45:00+00:00"
-  },
-  {
-   "titulo": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
-   "resumen": "You may be able to profit from investors’ irrational belief that crashes are especially likely to occur in October.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
-   "fecha": "2026-09-18T22:41:00+00:00"
-  },
-  {
-   "titulo": "Guía de valores en Bolsa: los beneficios apuntalan las cotizaciones",
-   "resumen": "Las grandes empresas de la Bolsa española enfilan la recta final del año con fortaleza de beneficios y un saldo positivo en sus acciones en la mayoría de los casos. Muchas de ellas están en pleno proceso de expansión de sus negocio o de venta de activos.&nbsp;<a href=\"https://www.expansion.com/mercados/2024/04/05/660d827a468aeb13368b4582.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/2024/04/05/660d827a468aeb13368b4582.html",
-   "fecha": "2026-09-18T22:04:02+00:00"
-  },
-  {
-   "titulo": "La carrera global por la IA despeja el recorrido en Bolsa de las tecnológicas",
-   "resumen": "Ni EEUU ni China van a pisar el freno en la competición por ser líderes a pesar de las dudas generadas al inicio de esta semana sobre la ética y la IA. Las compañías tienen asegurada su actividad de varios años, según los expertos. La inteligencia artificial entra en una nueva fase con más importancia de la ciberseguridad.&nbsp;<a href=\"https://www.expansion.com/inversion/2026/09/19/6aad7c4ce5fdea",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/inversion/2026/09/19/6aad7c4ce5fdeafa338b4592.html",
-   "fecha": "2026-09-18T22:02:59+00:00"
-  },
-  {
-   "titulo": "Los inversores, optimistas ante la recta final del año",
-   "resumen": "Los expertos esperan que las bolsas terminen 2026 por encima de los niveles actuales tras unas semanas de consolidación. La fortaleza de los beneficios es clave.&nbsp;<a href=\"https://www.expansion.com/inversion/2026/09/19/6aad81af468aeba1058b4592.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;s",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/inversion/2026/09/19/6aad81af468aeba1058b4592.html",
-   "fecha": "2026-09-18T22:02:43+00:00"
-  },
-  {
-   "titulo": "Valores internacionales: ¿Qué puede salir mal con estos liderazgos?",
-   "resumen": "Las bolsas parecen estar nerviosas por las dudas sobre la IA más que por el muy preocupante cuadro macroeconómico y geopolítico.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/09/19/6aad9aab468aeb710e8b4578.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/me",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/2026/09/19/6aad9aab468aeb710e8b4578.html",
-   "fecha": "2026-09-18T22:01:44+00:00"
-  },
-  {
-   "titulo": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
-   "resumen": "Selling a condominium unit has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
-   "fecha": "2026-09-18T21:16:00+00:00"
-  },
-  {
-   "titulo": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
-   "resumen": "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
-   "fecha": "2026-09-18T21:14:00+00:00"
-  },
-  {
-   "titulo": "Stocks are failing the ‘breadth’ test, but options traders still see reason to buy",
-   "resumen": "An options volatility tracker has produced a “spike peak” buy signal for stocks for the first time in months, at a time that internal market indicators are negative.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
-   "fecha": "2026-09-18T20:48:00+00:00"
-  },
-  {
-   "titulo": "Most of what you know about data centers is wrong",
-   "resumen": "As AI hysteria reaches a fever pitch, it’s time to look at the evidence.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/most-of-what-you-know-about-data-centers-is-wrong-e6e8936c?mod=mw_rss_topstories",
-   "fecha": "2026-09-18T20:15:00+00:00"
-  },
-  {
-   "titulo": "Stocks making the biggest moves midday: Netflix, Xenon Pharmaceuticals, Coinbase, Sandisk, SpaceX & more",
-   "resumen": "Here are some of the companies making headlines in midday trading.",
-   "fuente": "CNBC Mercados",
-   "url": "https://www.cnbc.com/2026/09/18/stocks-making-the-biggest-moves-midday-nflx-xene-coin-sndk-spcx.html",
-   "fecha": "2026-09-18T19:38:02+00:00"
-  },
-  {
-   "titulo": "Uber to Pay $40 Million to Parents of Woman Fatally Hit by Car",
-   "resumen": "Emily Normandin-Parker, 23, was struck and killed on a California freeway after an Uber driver ordered her and a friend out of his car in August 2023.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/09/18/business/uber-payment-woman-killed-freeway-california.html",
-   "fecha": "2026-09-18T18:47:54+00:00"
-  },
-  {
-   "titulo": "S.E.C. Seeks to End Shareholder Proposals Process Commonly Used by Activists",
-   "resumen": "Activists have often used the rule to push for changes in companies’ governance and environmental and social policies.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/09/18/business/sec-shareholder-proposals-activists.html",
-   "fecha": "2026-09-18T17:58:48+00:00"
-  },
-  {
-   "titulo": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-   "resumen": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
-   "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-09-18T17:57:30+00:00"
-  },
-  {
-   "titulo": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-   "resumen": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
-   "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-09-18T17:15:02+00:00"
-  },
-  {
-   "titulo": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-   "resumen": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
-   "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-09-18T17:10:58+00:00"
-  },
-  {
-   "titulo": "Lagarde deja abierta su salida anticipada del BCE: \"Ya veremos\"",
-   "resumen": "&nbsp;<a href=\"https://www.expansion.com/mercados/2026/09/18/6aad64efe5fdea7b5f8b4571.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/mercados.xml\" />",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/2026/09/18/6aad64efe5fdea7b5f8b4571.html",
-   "fecha": "2026-09-18T16:21:05+00:00"
-  },
-  {
-   "titulo": "Telefónica, víctima del correctivo bursátil a las telecos",
-   "resumen": "Las empresas de telecomunicaciones se convierten hoy en el peor sector de toda la renta variable europea. El correctivo es generalizado, y la cotización de Telefónica no es una excepción.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/09/18/6aad24d7e5fdeafd1f8b458f.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/2026/09/18/6aad24d7e5fdeafd1f8b458f.html",
-   "fecha": "2026-09-18T16:14:26+00:00"
-  },
-  {
-   "titulo": "Flight chaos caused by 'millisecond' software defect, report says",
-   "resumen": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
-   "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-09-18T15:48:58+00:00"
-  },
-  {
-   "titulo": "El Ibex cae hasta los 19.500 puntos y pierde en la semana un 1,6%",
-   "resumen": "Jornada de fuertes caídas en las Bolsas europeas en una sesión marcada por la cuádruple hora bruja. El Ibex se ha dejado un 1,60% hasta los 19.513,80 puntos. En el conjunto de la semana, el selectivo español ha perdido un 1,64%.&nbsp;<a href=\"https://www.expansion.com/mercados/cronica-bolsa/2026/09/18/6aacd28c468aebb3298b4599.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/18/6aacd28c468aebb3298b4599.html",
-   "fecha": "2026-09-18T15:38:48+00:00"
-  },
-  {
-   "titulo": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
-   "fecha": "2026-09-18T15:16:37+00:00"
   }
  ]
 }

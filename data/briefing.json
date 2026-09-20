@@ -1,44 +1,44 @@
 {
- "actualizado": "2026-09-19T09:39:10+00:00",
+ "actualizado": "2026-09-20T09:55:06+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Fuerte corrección en el petróleo y comportamiento mixto en las bolsas con avances en tecnología y caídas en Europa",
-  "resumen": "La jornada viene marcada por descensos pronunciados en el petróleo Brent y WTI superiores al 5%, mientras que los índices europeos registran pérdidas notables encabezadas por el DAX y el IBEX 35. En contraste, el sector tecnológico muestra resistencia con subidas en Apple y el Nasdaq 100, y la volatilidad (VIX) retrocede de forma moderada.",
+  "titular": "Fuerte corrección en el petróleo y caídas generalizadas en las bolsas europeas",
+  "resumen": "Los precios del petróleo Brent y WTI sufrieron descensos superiores al 5% en la jornada. En los mercados de renta variable, las bolsas europeas cerraron con descensos destacados mientras que los índices estadounidenses mostraron un comportamiento más mixto. La volatilidad (VIX) descendió un 4,08% situándose en los 14,81 puntos.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Desplome destacado en los precios del petróleo",
-    "texto": "Los datos muestran caídas significativas en las materias primas energéticas, con el Petróleo Brent cediendo un 5.28% y el Petróleo WTI un 5.72%. Los datos proporcionados no especifican las causas concretas de este movimiento bajista, pero sitúan a ambos contratos cerca de los 99 y 96 dólares respectivamente. Este descenso afecta de manera directa al sector energético y a las materias primas.",
+    "titulo": "Desplome en los precios del petróleo",
+    "texto": "El petróleo Brent registró una caída del 5,28% hasta los 99,29 dólares, mientras que el WTI retrocedió un 5,72% para situarse en los 96,08 dólares. Este movimiento representa una de las variaciones más acusadas de la sesión dentro del mercado de materias primas. Los datos objetivos muestran esta contracción significativa de precios, aunque los motivos específicos no se detallan en las cifras puras de mercado.",
+    "importancia": 5
+   },
+   {
+    "titulo": "Corrección en los índices bursátiles europeos",
+    "texto": "Los principales selectivos de Europa sufrieron retrocesos notables durante la jornada: el Euro Stoxx 50 bajó un 1,37%, el DAX alemán descendió un 1,60% y el IBEX 35 español cayó también un 1,60%. Estos descensos reflejan un tono bajista generalizado en la región frente al comportamiento mixto observado en Wall Street, donde el Nasdaq 100 avanzó un 0,67%.",
     "importancia": 4
    },
    {
-    "titulo": "Comportamiento dispar entre los índices bursátiles",
-    "texto": "Los mercados de renta variable reflejan divergencias geográficas: mientras que el Euro Stoxx 50 (-1.37%), el DAX (-1.6%) y el IBEX 35 (-1.6%) sufren correcciones acusadas, los índices estadounidenses se mueven de forma más contenida, destacando el avance del Nasdaq 100 con un 0.67%. Dentro de las acciones individuales, Apple sube un 2.29% y Meta retrocede un 2.43%. Los datos objetivos muestran estas variaciones, sin que se aporten factores externos concretos que expliquen la brecha entre Europa y Estados Unidos.",
-    "importancia": 3
-   },
-   {
-    "titulo": "Descenso de la volatilidad y repunte en el rendimiento de los bonos",
-    "texto": "El índice de volatilidad VIX registra una bajada del 4.08% situándose en 14.81 puntos, lo que refleja un contexto de menor nerviosismo general en los mercados pese a las caídas sectoriales. Por otro lado, el rendimiento del bono estadounidense a 10 años avanza un 1.03% hasta el 4.998%. Estos movimientos de renta fija y riesgo ofrecen una lectura de estabilidad relativa en los indicadores de pánico.",
+    "titulo": "Comportamiento del mercado de bonos en Estados Unidos",
+    "texto": "El rendimiento del bono estadounidense a 10 años se situó en el 4,998% tras registrar una subida diaria del 1,03%, consolidándose cerca de la cota del 5%. Por su parte, la curva de tipos entre el bono a 10 años y el de 2 años marcó un diferencial de 0,25 puntos porcentuales según los registros del Tesoro de EE. UU.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución de los precios del petróleo Brent y WTI tras la caída superior al 5%",
-   "Comportamiento de los índices europeos (DAX e IBEX 35) ante las correcciones recientes",
-   "Rendimiento del bono USA a 10 años en su aproximación al nivel del 5%"
+   "Evolución de los precios del petróleo Brent y WTI tras la fuerte caída",
+   "Comportamiento de las bolsas europeas en relación con sus soportes",
+   "Rendimiento del bono estadounidense a 10 años ante su proximidad al 5%"
   ],
   "proximos": [
-   "Elecciones de mitad de mandato (midterms) en Estados Unidos",
-   "Evolución de la tramitación de la normativa 'cripto' en el Senado de EE. UU. tras tumbarse la 'Clarity Act'"
+   "Visita de Estado de Xi Jinping a Estados Unidos y su enfoque en avances de inteligencia artificial",
+   "Posibles desarrollos legales sobre las restricciones a determinados periodistas en EE. UU."
   ],
-  "nota_riesgo": "El nivel de riesgo general se mantiene contenido según refleja el índice VIX en 14.81 y una métrica de Fear and Greed en criptomonedas en 71 ('Greed'). No obstante, la fuerte caída del petróleo y las divergencias bajistas en Europa invitan a la prudencia y a vigilar de cerca la renta fija."
+  "nota_riesgo": "El nivel de riesgo general muestra señales mixtas: por un lado, el índice de volatilidad VIX se reduce hasta los 14,81 puntos reflejando calma aparente; por otro, los descensos marcados en materias primas como el petróleo y la debilidad en la renta variable europea invitan a mantener la prudencia."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -17.61,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 17.61% y sufre caídas superiores a las del mercado general. Los titulares señalan que, aunque se reafirma el lanzamiento de GTA VI y se evalúa su flujo de caja, el mercado parece centrarse en unos beneficios a corto plazo más suaves y los costes de su cartera de proyectos.",
+   "pl_pct": -17.93,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 17.93% y sufre una caída mayor que la del mercado general. Las noticias apuntan a unos beneficios a corto plazo más suaves frente a un costoso pipeline, aunque la compañía ha reafirmado la fecha de lanzamiento de GTA VI en su junta anual.",
    "noticias": [
     {
      "titulo": "Take-Two Reaffirms GTA VI Launch Date, Maps Global Strategy at Annual Meeting",
