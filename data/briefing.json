@@ -1,50 +1,62 @@
 {
- "actualizado": "2026-09-24T10:18:22+00:00",
+ "actualizado": "2026-09-25T10:21:19+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Aumento de la tensión en los mercados de bonos y materias primas mientras las bolsas bajan moderadamente",
-  "resumen": "Los principales índices bursátiles registran descensos encabezados por el Dow Jones (-1,03%) y el S&P 500 (-0,76%), acompañados por un repunte del rendimiento del bono estadounidense a 10 años que supera el 5,11%. En paralelo, el petróleo Brent avanza un 2,26% y la volatilidad (VIX) sube un 7,58%, en un contexto de atención a tipos de interés y tensiones geopolíticas y comerciales.",
+  "titular": "Fuerte corrección en el petróleo Brent y comportamiento mixto en las bolsas con alivio en el Ibex",
+  "resumen": "Los mercados muestran un comportamiento dispar con caídas destacadas en el petróleo Brent (-7,33%) y un tono positivo en las bolsas europeas, donde el Ibex 35 sube un 1,07%. Los datos muestran que el rendimiento del bono estadounidense a 10 años continúa su ascenso hasta el 5,162%, mientras que las criptomonedas se mantienen estables con el Bitcoin rondando los 84.460 dólares.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Presión en la renta fija y subida de rendimientos",
-    "texto": "El rendimiento del bono estadounidense a 10 años ha subido un 3,04% hasta situarse en el 5,114%, mientras que el bono a 2 años marca un 4,85%. Los datos reflejan que los mercados continúan descontando posibles subidas de tipos de la Reserva Federal (con operadores valorando hasta 4 alzas para junio de 2027), lo cual presiona a los mercados de deuda y genera cautela generalizada en las valoraciones de activos de riesgo.",
+    "titulo": "Fuerte caída del petróleo Brent",
+    "texto": "El precio del petróleo Brent ha registrado un descenso del 7,33% en la jornada, situándose en 98,79 dólares. Los titulares recientes apuntan a que un alto el fuego propuesto por Irán a EE. UU. y el freno en la escalada del crudo han aliviado las presiones bajistas previas sobre los mercados bursátiles. Este movimiento afecta directamente a las materias primas y al sector energético.",
     "importancia": 5
    },
    {
-    "titulo": "Comportamiento mixto y caídas moderadas en la renta variable",
-    "texto": "Los índices bursátiles muestran descensos en su mayoría: el Dow Jones retrocede un 1,03% y el S&P 500 un 0,76%, mientras que el Nasdaq 100 se mantiene prácticamente plano (-0,04%). Entre las acciones individuales destacan las caídas superiores al 2% en valores como Amazon (-2,24%), Alphabet (-3,8%) y SpaceX (-4,11%), afectando al sentimiento del sector tecnológico y de crecimiento.",
+    "titulo": "Ascenso en el rendimiento de los bonos",
+    "texto": "El rendimiento del bono estadounidense a 10 años ha subido un 0,94% en el día, alcanzando el 5,162% (y situándose en el 5,18% según las series de la Fed). Este incremento continuado en los costes de financiación genera atención en los mercados de renta fija y afecta de manera transversal a la valoración de activos de riesgo.",
     "importancia": 4
    },
    {
-    "titulo": "Incremento del petróleo Brent y de la volatilidad",
-    "texto": "El petróleo Brent registra un incremento del 2,26% situándose en 105,41 dólares por barril, continuando con las presiones alcistas en materias primas energéticas. Por su parte, el índice de volatilidad VIX experimenta un repunte del 7,58% hasta los 16,33 puntos, reflejando una mayor sensibilidad y cautela a corto plazo entre los inversores.",
+    "titulo": "Repunte en Europa y el Ibex 35",
+    "texto": "Las principales bolsas europeas registran avances, destacando el Euro Stoxx 50 (0,77%), el DAX (0,75%) y el IBEX 35 (1,07%). Según los datos informativos, la tregua propuesta por Irán y la moderación en los precios del petróleo han contribuido a mitigar las presiones bajistas semanales en el índice español.",
     "importancia": 4
    },
    {
-    "titulo": "Ajustes en criptomonedas y tono de cautela macroeconómica",
-    "texto": "El mercado cripto muestra correcciones con Bitcoin cediendo hasta los 83.283 dólares (-1,3%) y Ethereum bajando un 1,63%, aunque el indicador Fear and Greed se mantiene en terreno de 'Greed' con 71 puntos. A nivel macroeconómico, los datos globales de deuda y los mensajes sobre la evolución de tipos y la geopolítica (como las relaciones comerciales) mantienen a los inversores en guardia.",
+    "titulo": "Comportamiento destacado en acciones individuales",
+    "texto": "Dentro del grupo de acciones, Meta ha registrado una subida notable del 4,5% en la jornada, acumulando un crecimiento del 13,96% en la semana y superando el 36% en el último mes. El resto de grandes tecnológicas muestran variaciones más moderadas con sesgo ligeramente negativo en el día, como Microsoft (-0,53%) y NVIDIA (-0,41%).",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución del rendimiento del bono estadounidense a 10 años y su impacto en las valoraciones bursátiles",
-   "Comportamiento del precio del petróleo Brent y su posible efecto en la inflación",
-   "Niveles de soporte en Bitcoin y los principales índices tecnológicos"
+   "Evolución del precio del petróleo Brent tras la fuerte caída del 7,33%",
+   "Rendimiento del bono estadounidense a 10 años y su impacto en la renta fija",
+   "Estabilidad del Bitcoin cerca de los 84.000 dólares"
   ],
   "proximos": [
-   "Reuniones y declaraciones oficiales sobre política monetaria de la Reserva Federal",
-   "Próximos informes macroeconómicos de empleo e inflación en Estados Unidos"
+   "Nuevos desarrollos diplomáticos tras la cumbre entre Trump y Xi",
+   "Actualizaciones sobre la propuesta de alto el fuego de Irán a EE. UU."
   ],
-  "nota_riesgo": "El nivel de riesgo general se eleva moderadamente debido al incremento en las rentabilidades de la deuda soberana, la subida de la volatilidad (VIX) y los descensos en la renta variable. Se recomienda mantener la prudencia ante posibles episodios de mayor oscilación en los mercados."
+  "nota_riesgo": "El nivel de riesgo general se mantiene contenido, reflejado en un índice VIX de volatilidad en 15,38 (-1,85%) y un indicador de miedo y codicia en criptomonedas en 71 (Greed). No obstante, la persistencia de tipos elevados en la deuda soberana y la alta volatilidad en materias primas exigen prudencia."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -18.73,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 18,73% desde la compra. Los titulares muestran un contraste interesante: por un lado, se reafirma la fecha de lanzamiento de GTA VI y la compañía cuenta con múltiples valoraciones de compra y múltiplos atractivos, aunque otros artículos discuten costos indirectos y su reciente comportamiento bursátil como valor perdedor a un mes.",
+   "pl_pct": -19.93,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 19.93%. Aunque las acciones del sector caen tras un anuncio de Meta sobre IA, los titulares señalan que Take-Two cuenta con numerosas valoraciones de compra ante el lanzamiento de GTA VI y múltiplos atractivos, sin que las noticias expliquen por completo la magnitud de tu caída actual.",
    "noticias": [
+    {
+     "titulo": "Videogame Stocks Fall After Meta Announces AI Game Tool. Don’t Be Spooked Yet.",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/m/b2b8a0bf-7f19-3232-87e3-993c8d80dbf0/videogame-stocks-fall-after.html?.tsrc=rss",
+     "fecha": "2026-09-24T20:52:00+00:00"
+    },
+    {
+     "titulo": "2 Stocks Down 17% and 34% to Buy Now and Hold for the Next Decade",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.fool.com/investing/2026/09/24/2-stocks-down-buy-now-hold-decade/?.tsrc=rss",
+     "fecha": "2026-09-24T15:35:00+00:00"
+    },
     {
      "titulo": "Take-Two Has 25 Buy Ratings Before GTA VI. Zero Holds. And Its Cheapest Multiple in a Year.",
      "fuente": "Yahoo Finanzas",
@@ -68,18 +80,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-ttwo-outpaces-stock-215002759.html?.tsrc=rss",
      "fecha": "2026-09-21T21:50:02+00:00"
-    },
-    {
-     "titulo": "Out of 200 Large-Cap, 1-Month Losers, This Video Game Stock Stands Out",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.barchart.com/story/news/4712709/out-of-200-large-cap-1-month-losers-this-video-game-stock-stands-out?.tsrc=rss",
-     "fecha": "2026-09-21T14:22:46+00:00"
-    },
-    {
-     "titulo": "Take-Two Reaffirms GTA VI Launch Date, Maps Global Strategy at Annual Meeting",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.marketbeat.com/instant-alerts/event-take-two-reaffirms-gta-vi-launch-date-maps-global-strategy-at-annual-meeting-2026-09-18/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-     "fecha": "2026-09-18T07:01:57+00:00"
     }
    ]
   }
