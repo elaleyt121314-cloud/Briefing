@@ -1,26 +1,173 @@
 {
- "actualizado": "2026-09-26T10:02:30+00:00",
+ "actualizado": "2026-09-27T10:38:41+00:00",
  "items": [
+  {
+   "titulo": "Women Sluggers Are No Longer in a League of Their Own",
+   "resumen": "As a group of players from an all-women’s baseball league in the 1940s and ’50s gathered at a recent reunion, the future of women’s baseball looks bright again.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/09/27/business/women-baseball-league.html",
+   "fecha": "2026-09-27T09:23:14+00:00"
+  },
+  {
+   "titulo": "Why Won’t My Co-Workers Acknowledge My Birthday?",
+   "resumen": "Plus: What to do when your boss is nit-picking your work.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/09/27/business/workplace-.html",
+   "fecha": "2026-09-27T09:01:43+00:00"
+  },
+  {
+   "titulo": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+   "resumen": "The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+   "fecha": "2026-09-27T09:01:20+00:00"
+  },
+  {
+   "titulo": "Job Titles Are Out. Now We’re All ‘Members of the Technical Staff.’",
+   "resumen": "Use of the generic title has risen by 50 percent in the last year among employees at Anthropic, OpenAI and other A.I. companies, an analysis found.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/09/27/business/members-of-technical-staff-artificial-intelligence.html",
+   "fecha": "2026-09-27T09:01:00+00:00"
+  },
+  {
+   "titulo": "Here’s Your New House. It Comes With Friends.",
+   "resumen": "Fresh pies. Book groups. Puzzle challenges. Developers of master-planned communities see fear of social isolation and desire for friends as a business opportunity. Welcome to Amity Lane.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/09/27/business/heres-your-new-house-it-comes-with-friends.html",
+   "fecha": "2026-09-27T09:00:34+00:00"
+  },
+  {
+   "titulo": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
+   "resumen": "The White House TV pool went dark this past week amid a standoff between CNN and the president. Network leaders, however, believe an indefinite suspension may be untenable.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html",
+   "fecha": "2026-09-27T02:40:41+00:00"
+  },
+  {
+   "titulo": "Faisal Islam: The two big decisions the chancellor must make",
+   "resumen": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-09-26T23:00:42+00:00"
+  },
+  {
+   "titulo": "As A.I. Makes Law Firms More Efficient, Clients Ask: ‘Where’s My Discount?’",
+   "resumen": "There’s growing pressure to move beyond the billable hour. But big firms aren’t ready to blow up their trusted business model.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+   "fecha": "2026-09-26T21:35:53+00:00"
+  },
+  {
+   "titulo": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+   "resumen": "“She currently has about 15 sitters, all independent contractors.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+   "fecha": "2026-09-26T20:00:00+00:00"
+  },
+  {
+   "titulo": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+   "resumen": "“As a country, we have grown dangerously comfortable.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+   "fecha": "2026-09-26T19:00:00+00:00"
+  },
+  {
+   "titulo": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+   "resumen": "Rising prices have been crushing consumer confidence and biting at Americans’ wallets for more than five years now.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+   "fecha": "2026-09-26T17:54:00+00:00"
+  },
+  {
+   "titulo": "Social Security checks are projected to be cut by $540 a month in just six years",
+   "resumen": "Social Security’s future may be even more dire than expected as time is running out to shore up the program’s finances.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
+   "fecha": "2026-09-26T17:15:00+00:00"
+  },
+  {
+   "titulo": "A 10% risk-free yield? For some, yes.",
+   "resumen": "This could be a bargain, especially for very high earners and those in high-tax locations.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
+   "fecha": "2026-09-26T16:51:00+00:00"
+  },
+  {
+   "titulo": "Heathrow Airport warns third runway could be delayed by four years",
+   "resumen": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-09-26T16:32:42+00:00"
+  },
+  {
+   "titulo": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
+   "resumen": "At a time when many college students say they are rethinking their academic focus because of AI, new findings supply hard data on the potential costs of these decisions.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+   "fecha": "2026-09-26T16:22:00+00:00"
+  },
+  {
+   "titulo": "Sobre latas de aceitunas, anchoas y la IA",
+   "resumen": "El modus operandi del ciudadano debe captar con corrección el significado de lo que accede o utiliza.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/09/26/6ab7a4c8e5fdeacf508b45a8.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/mercados.xml\" />",
+   "fuente": "Expansión Mercados",
+   "url": "https://www.expansion.com/mercados/2026/09/26/6ab7a4c8e5fdeacf508b45a8.html",
+   "fecha": "2026-09-26T16:02:53+00:00"
+  },
+  {
+   "titulo": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
+   "resumen": "Yields on municipal bonds — adjusted for taxable-equivalent comparisons — have widened dramatically over those of corporate bonds over the past two months.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
+   "fecha": "2026-09-26T15:48:00+00:00"
+  },
+  {
+   "titulo": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+   "resumen": "“On each of these weekends away, she’s probably spending $500.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+   "fecha": "2026-09-26T15:30:00+00:00"
+  },
+  {
+   "titulo": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+   "fecha": "2026-09-26T14:00:00+00:00"
+  },
+  {
+   "titulo": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+   "fecha": "2026-09-26T13:00:00+00:00"
+  },
+  {
+   "titulo": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+   "fecha": "2026-09-26T12:56:41+00:00"
+  },
+  {
+   "titulo": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+   "fecha": "2026-09-26T12:00:00+00:00"
+  },
+  {
+   "titulo": "Could an iced coffee freeze you out of the job market?",
+   "resumen": "Employees and recruiters weigh into the online debate around interview etiquette.",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-09-26T10:05:36+00:00"
+  },
   {
    "titulo": "A 7-Day Standoff That Said So Much About Trump and the Media",
    "resumen": "An abrupt decree, a network boycott, a legal intervention and an uneasy détente: This was no typical battle between a president and his press corps.",
    "fuente": "NYT Negocios",
    "url": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html",
    "fecha": "2026-09-26T09:03:11+00:00"
-  },
-  {
-   "titulo": "High Gas and Rising Mortgage Rates Trouble Trump as Midterms Near",
-   "resumen": "As the president extolled the strength of the economy on the global stage, Americans continued to feel the sting of rising prices stemming from the war in Iran.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/09/26/business/trump-economy-midterm-elections.html",
-   "fecha": "2026-09-26T09:02:06+00:00"
-  },
-  {
-   "titulo": "This Screw Is Needed for Missiles and Planes. Buying One Can Take Years.",
-   "resumen": "As the Trump administration scrambles to increase the production of munitions, these special screws are expensive and hard to source.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/09/26/business/ball-screws-military-production.html",
-   "fecha": "2026-09-26T09:01:01+00:00"
   },
   {
    "titulo": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
@@ -37,13 +184,6 @@
    "fecha": "2026-09-26T04:30:00+00:00"
   },
   {
-   "titulo": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
-   "fecha": "2026-09-26T04:02:13+00:00"
-  },
-  {
    "titulo": "OpenAI bots meddled with multiple US government agency sites",
    "resumen": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
    "fuente": "BBC Negocios",
@@ -51,67 +191,11 @@
    "fecha": "2026-09-26T02:50:56+00:00"
   },
   {
-   "titulo": "White House Blocks CNN From Air Force One",
-   "resumen": "CNN won’t be able to join President Trump on a Saturday trip to Tennessee. He had banned CNN and two other news outlets from the White House, but a court order on Thursday restored their access.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/09/25/business/media/white-house-cnn-air-force-one-ban.html",
-   "fecha": "2026-09-26T02:31:15+00:00"
-  },
-  {
-   "titulo": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-   "resumen": "“I am a retired senior citizen living check-to-check.”",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-   "fecha": "2026-09-26T00:00:00+00:00"
-  },
-  {
-   "titulo": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-   "resumen": "“Her younger son lives in the condo, but wants to move elsewhere with friends.”",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
-   "fecha": "2026-09-25T23:30:00+00:00"
-  },
-  {
-   "titulo": "Could an iced coffee freeze you out of the job market?",
-   "resumen": "Employees and recruiters weigh into the online debate around interview etiquette.",
-   "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-09-25T23:08:22+00:00"
-  },
-  {
-   "titulo": "ICE Raids in Beef Country Raise Fears of Higher Prices",
-   "resumen": "Cattle industry groups in Texas, Oklahoma and Kansas and two Republican senators said the Trump administration’s immigration enforcement actions were hurting operations.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/09/25/us/politics/ice-raids-kansas-texas-oklahoma-beef-prices.html",
-   "fecha": "2026-09-25T23:01:44+00:00"
-  },
-  {
    "titulo": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
    "resumen": "",
    "fuente": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
    "fecha": "2026-09-25T22:17:38+00:00"
-  },
-  {
-   "titulo": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-   "resumen": "“On each of these weekends away, she’s probably spending $500.”",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-   "fecha": "2026-09-25T22:00:00+00:00"
-  },
-  {
-   "titulo": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
-   "resumen": "Don’t look now, but there are some technical reasons to believe that U.S. Treasury Secretary Scott Bessent was right when he declared to the financial markets that “I am the house now.”",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
-   "fecha": "2026-09-25T21:57:00+00:00"
-  },
-  {
-   "titulo": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-   "resumen": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-   "fecha": "2026-09-25T21:45:00+00:00"
   },
   {
    "titulo": "El bitcoin vive un rally del 43% desde julio y enfila un año alcista",
@@ -126,90 +210,6 @@
    "fuente": "CoinDesk",
    "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
    "fecha": "2026-09-25T21:17:30+00:00"
-  },
-  {
-   "titulo": "IA y criptos: del susto a la ruptura al alza",
-   "resumen": "Atentos el próximo miércoles al cierre de las velas mensuales en el bitcoin y en el ethereum.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/09/25/6aa7c948468aeb6e248b4572.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/mercados.xml\" />",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/2026/09/25/6aa7c948468aeb6e248b4572.html",
-   "fecha": "2026-09-25T21:12:34+00:00"
-  },
-  {
-   "titulo": "Valores sólidos que compiten con la rentabilidad del bono",
-   "resumen": "Sabadell, Naturgy, Enagás y Aena, del Ibex, junto a Neinor, Viscofan, LDA y Ebro ofrecen una rentabilidad por dividendo de entre el 4% y el 7% para los próximos doce meses y tienen buenas perspectivas.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/09/25/6ab6ad1fe5fdea056a8b457e.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-exp",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/2026/09/25/6ab6ad1fe5fdea056a8b457e.html",
-   "fecha": "2026-09-25T21:09:01+00:00"
-  },
-  {
-   "titulo": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
-   "resumen": "Microsoft shares got off to a rough start this year, but investors have warmed to the company’s AI narrative over the last few months.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
-   "fecha": "2026-09-25T21:04:00+00:00"
-  },
-  {
-   "titulo": "Apple’s expensive new iPhones could be a double-edged sword for the company",
-   "resumen": "Bernstein analysts suggest Wall Street isn’t properly modeling the extent to which gross margins, a profit metric, could take a hit due to the rising costs of smartphone components.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
-   "fecha": "2026-09-25T20:37:00+00:00"
-  },
-  {
-   "titulo": "Micron investors should get ready for a seesaw ride, analyst says",
-   "resumen": "The timing of an Nvidia product ramp may require a balancing act for Micron investors, as some estimated revenue shifts toward next year instead of this year.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
-   "fecha": "2026-09-25T20:36:00+00:00"
-  },
-  {
-   "titulo": "Clubs seek legal advice over Man City charges compensation",
-   "resumen": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
-   "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-09-25T20:13:53+00:00"
-  },
-  {
-   "titulo": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
-   "fecha": "2026-09-25T20:01:05+00:00"
-  },
-  {
-   "titulo": "U.N. Releases New List of Companies It Says Do Business With Israeli Settlements",
-   "resumen": "Israel condemned the database of firms tied to activity in the occupied West Bank as a “political tool” to advance “a smear campaign.”",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/09/25/world/middleeast/un-companies-westbank-settlements.html",
-   "fecha": "2026-09-25T19:55:36+00:00"
-  },
-  {
-   "titulo": "Distributor of Recalled Meat Worked for Years Without Proper Permits",
-   "resumen": "Star Meat Delivery did not complete the requirements necessary to process food, the Agriculture Department said.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/09/25/business/star-meat-delivery-recall-usda.html",
-   "fecha": "2026-09-25T19:31:20+00:00"
-  },
-  {
-   "titulo": "Sunkist Fruit Gems, Staple Candy of Bar Mitzvah Tradition, Are Discontinued",
-   "resumen": "The jelly candies were a staple at bar and bat mitzvahs and other Jewish celebrations for generations.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/09/25/business/sunkist-fruit-gems-candy-discontinued.html",
-   "fecha": "2026-09-25T18:49:17+00:00"
-  },
-  {
-   "titulo": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
-   "resumen": "These are the stocks posting the largest moves midday.",
-   "fuente": "CNBC Mercados",
-   "url": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-midday-akam-geni-ppli.html",
-   "fecha": "2026-09-25T18:27:27+00:00"
-  },
-  {
-   "titulo": "Qué hay detrás de la montaña rusa de Solaria en el Ibex",
-   "resumen": "La volatilidad se dispara en Solaria. Los bandazos en Bolsa se han agravado con los resultados publicados y los continuos movimientos de los bajistas. La semana, advierten los analistas, concluye aún con dos grandes focos de incertidumbre en el horizonte que seguirán generando \"volatilidad\".&nbsp;<a href=\"https://www.expansion.com/mercados/2026/09/25/6ab62d63e5fdea17288b458d.html\">Leer</a><img alt",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/2026/09/25/6ab62d63e5fdea17288b458d.html",
-   "fecha": "2026-09-25T16:09:18+00:00"
   }
  ]
 }
