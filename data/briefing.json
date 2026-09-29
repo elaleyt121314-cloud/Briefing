@@ -1,51 +1,62 @@
 {
- "actualizado": "2026-09-28T11:51:18+00:00",
+ "actualizado": "2026-09-29T11:27:47+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de volatilidad al alza con caídas en materias primas y divergencias en renta variable",
-  "resumen": "Los mercados muestran movimientos mixtos con un repunte destacado en el índice de volatilidad VIX (+9,41%). El sector tecnológico registra comportamientos divididos, con avances notables en Microsoft mientras Meta retrocede. Por su parte, el oro y el petróleo Brent sufren descensos significativos, en contraste con las subidas del WTI.",
+  "titular": "Jornada bajista en la renta variable estadounidense mientras materias primas como el oro y el petróleo sufren fuertes descensos",
+  "resumen": "Los principales índices de EE. UU. cerraron en negativo con caídas notables en valores como Meta, Tesla y SpaceX, en un contexto de presión por el rendimiento de la deuda. Por el contrario, los mercados europeos y las criptomonedas mostraron un comportamiento más resistente. Destaca el desplome del petróleo Brent y las caídas en el oro.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Aumento notable de la volatilidad y rendimiento de los bonos",
-    "texto": "El índice VIX de volatilidad registra un incremento del 9,41% en la jornada, situándose en 16,27 puntos. Paralelamente, el rendimiento del bono estadounidense a 10 años continúa su ascenso hasta el 5,184%. Esto podría indicar un aumento en la cautela de los inversores ante el contexto macroeconómico actual y los tipos de interés.",
+    "titulo": "Descensos pronunciados en la renta variable estadounidense",
+    "texto": "Los principales índices de EE. UU. registraron pérdidas generalizadas, encabezados por el Nasdaq 100 (-1.08%) y el S&P 500 (-0.77%). Dentro de las acciones destacadas, Meta cayó un 4.79% y Tesla un 3.94%. Los datos muestran correcciones en gran parte de las grandes tecnológicas, lo que afectó a los ETFs asociados como el Invesco QQQ y el Vanguard S&P 500.",
     "importancia": 4
    },
    {
-    "titulo": "Divergencias en el sector tecnológico y grandes corporaciones",
-    "texto": "Dentro de las acciones analizadas, Microsoft destaca con una subida del 3,66% en el día. En contraste, Meta Platforms sufre un retroceso del 3,33%. Estos movimientos individuales reflejan dinámicas particulares en los gigantes tecnológicos a pesar del tono general moderado en los principales índices bursátiles.",
-    "importancia": 3
+    "titulo": "Fuerte corrección en materias primas: petróleo Brent y oro",
+    "texto": "El mercado de materias primas experimentó movimientos muy acusados, destacando la caída del 7.94% en el petróleo Brent, que se situó en 96.92 dólares, en una jornada donde también se vigilan novedades sobre Irán y las exportaciones de petróleo en Oriente Medio. Por su parte, el oro retrocedió un 3.04% hasta los 4189.8 dólares, acumulando un descenso mensual superior al 10%.",
+    "importancia": 5
    },
    {
-    "titulo": "Comportamiento dispar en materias primas energéticas y metales",
-    "texto": "Se observa un desglose importante en las materias primas: el petróleo Brent cae un 3,76%, mientras que el WTI sube un 3,50%, impulsado según las noticias recientes por el estancamiento en las conversaciones entre Estados Unidos e Irán. Por su parte, el oro experimenta una corrección del 3,17% en su precio diario.",
+    "titulo": "Sube el rendimiento de la deuda pública y persiste la atención en los tipos",
+    "texto": "El rendimiento del bono estadounidense a 10 años subió hasta el 5.24% (un incremento diario del 1.08%), mientras que el bono a 2 años se situó en el 4.92%, manteniendo una curva de tipos positiva. La presión de los intereses de la deuda sigue afectando al clima general de los mercados de renta variable.",
     "importancia": 4
    },
    {
-    "titulo": "Ajuste en el mercado de criptomonedas tras sesiones previas",
-    "texto": "El mercado cripto muestra descensos generalizados en esta sesión, con Bitcoin cayendo un 1,75% hasta situarse en torno a los 82.977 dólares y Solana perdiendo un 2,94%. A pesar de estas caídas diarias y un descenso del 4,63% en la capitalización total en 24 horas, el indicador de sentimiento Fear & Greed se mantiene en terreno de codicia con 74 puntos.",
+    "titulo": "Comportamiento mixto en Europa y estabilidad en criptomonedas",
+    "texto": "A diferencia de EE. UU., los índices europeos cerraron en positivo, con el Euro Stoxx 50 subiendo un 0.90%, el DAX un 0.68% y el IBEX 35 un 0.75%. En el sector cripto, Bitcoin cotizó por encima de los 84,000 dólares con ganancias del 0.66%, en un entorno donde el índice de miedo y codicia se mantiene en zona de codicia (73).",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución del índice VIX y su impacto en la renta variable",
-   "Comportamiento de los precios del petróleo (Brent y WTI) ante las tensiones geopolíticas entre EE. UU. e Irán",
-   "Niveles de soporte en Bitcoin y las principales criptomonedas tras las correcciones recientes"
+   "Evolución del rendimiento del bono estadounidense a 10 años y su impacto en la renta variable",
+   "Cotización del petróleo Brent y evolución de las tensiones y exportaciones en Oriente Medio",
+   "Comportamiento del sector tecnológico tras las recientes correcciones"
   ],
   "proximos": [
-   "Nuevos informes de resultados y su impacto en las expectativas de crecimiento de beneficios del S&P 500",
-   "Actualizaciones sobre posibles acuerdos comerciales o arancelarios entre China y Estados Unidos",
-   "Evolución de las discusiones diplomáticas y políticas sobre energía"
+   "Novedades y evolución sobre la situación en Irán y el mercado de hidrocarburos",
+   "Actualizaciones sobre posibles salidas a Bolsa en el sector cripto como Blockchain.com"
   ],
-  "nota_riesgo": "El incremento superior al 9% en la volatilidad (VIX) y los movimientos bruscos en materias primas sugieren un entorno de mayor vigilancia. Aunque no hay señales de pánico generalizado, la prudencia y la diversificación siguen siendo pilares fundamentales ante la sensibilidad actual de los mercados."
+  "nota_riesgo": "El nivel de riesgo se mantiene elevado debido a la confluencia de correcciones superiores al 2% en activos clave como Meta, Tesla y el petróleo Brent, sumado al incremento continuado en las rentabilidades de la deuda soberana a largo plazo."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -19.84,
-   "resumen": "Tu posición acumula una caída del 19,84%. Los titulares señalan que las acciones de videojuegos han bajado tras el anuncio de una herramienta de inteligencia artificial de Meta, aunque recuerdan el fuerte respaldo de analistas y el inminente lanzamiento de GTA VI.",
+   "pl_pct": -21.27,
+   "resumen": "Tus acciones acumulan una caída del 21,27% desde la compra, mientras que hoy se mantienen planas en una jornada de descensos generalizados en el sector de videojuegos provocados por el anuncio de la herramienta de inteligencia artificial de Meta. Los titulares también mencionan el próximo lanzamiento de GTA 6 en noviembre, aunque las noticias del día no explican por sí solas el recorrido negativo de tu inversión.",
    "noticias": [
+    {
+     "titulo": "NetEase's Ananta Could Drive 2027 Growth, Morgan Stanley Says",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/netease-apos-ananta-could-drive-161342102.html?.tsrc=rss",
+     "fecha": "2026-09-28T16:13:42+00:00"
+    },
+    {
+     "titulo": "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://247wallst.com/investing/2026/09/28/roblox-sinks-6-as-jefferies-cuts-to-underperform-with-38-price-target-take-two-holds-flat-gamestop-dips/?.tsrc=rss",
+     "fecha": "2026-09-28T13:41:00+00:00"
+    },
     {
      "titulo": "Meta Unveiled an AI Game Builder. Roblox’s Q3 Guidance Shows What the AI Race Costs",
      "fuente": "Yahoo Finanzas",
@@ -69,18 +80,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://www.marketbeat.com/articles/gaming-your-portfolio-should-you-add-take-two-ahead-of-gta-6s-november-launch/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
      "fecha": "2026-09-24T11:25:00+00:00"
-    },
-    {
-     "titulo": "Take-Two Has 25 Buy Ratings Before GTA VI. Zero Holds. And Its Cheapest Multiple in a Year.",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.tikr.com/blog/take-two-has-25-buy-ratings-before-gta-vi-zero-holds-and-its-cheapest-multiple-in-a-year?ref=yahoofinance&.tsrc=rss",
-     "fecha": "2026-09-24T09:16:50+00:00"
-    },
-    {
-     "titulo": "The Hidden Price of GTA 6 Is Paid by Americans, And It Doesn’t Land on Take Two’s Balance Sheet",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.barchart.com/story/news/4762295/the-hidden-price-of-gta-6-is-paid-by-americans-and-it-doesnt-land-on-take-twos-balance-sheet?.tsrc=rss",
-     "fecha": "2026-09-23T18:18:18+00:00"
     }
    ]
   }
