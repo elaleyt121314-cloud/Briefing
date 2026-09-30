@@ -1,50 +1,63 @@
 {
- "actualizado": "2026-09-29T11:27:47+00:00",
+ "actualizado": "2026-09-30T11:15:54+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada bajista en la renta variable estadounidense mientras materias primas como el oro y el petróleo sufren fuertes descensos",
-  "resumen": "Los principales índices de EE. UU. cerraron en negativo con caídas notables en valores como Meta, Tesla y SpaceX, en un contexto de presión por el rendimiento de la deuda. Por el contrario, los mercados europeos y las criptomonedas mostraron un comportamiento más resistente. Destaca el desplome del petróleo Brent y las caídas en el oro.",
+  "titular": "Jornada de movimientos moderados en las bolsas mientras el bitcoin despide un trimestre positivo y el petróleo Brent retrocede",
+  "resumen": "Los principales índices de renta variable registraron variaciones contenidas en la sesión, con un comportamiento mixto entre el Nasdaq y los descensos ligeros en el S&P 500 y Dow Jones. En el mercado de materias primas destacó la fuerte caída del petróleo Brent, mientras que el bitcoin consolida el cierre de un trimestre alcista. La volatilidad (VIX) y los rendimientos de la deuda soberana se mantienen en el radar de los inversores.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Descensos pronunciados en la renta variable estadounidense",
-    "texto": "Los principales índices de EE. UU. registraron pérdidas generalizadas, encabezados por el Nasdaq 100 (-1.08%) y el S&P 500 (-0.77%). Dentro de las acciones destacadas, Meta cayó un 4.79% y Tesla un 3.94%. Los datos muestran correcciones en gran parte de las grandes tecnológicas, lo que afectó a los ETFs asociados como el Invesco QQQ y el Vanguard S&P 500.",
-    "importancia": 4
-   },
-   {
-    "titulo": "Fuerte corrección en materias primas: petróleo Brent y oro",
-    "texto": "El mercado de materias primas experimentó movimientos muy acusados, destacando la caída del 7.94% en el petróleo Brent, que se situó en 96.92 dólares, en una jornada donde también se vigilan novedades sobre Irán y las exportaciones de petróleo en Oriente Medio. Por su parte, el oro retrocedió un 3.04% hasta los 4189.8 dólares, acumulando un descenso mensual superior al 10%.",
-    "importancia": 5
-   },
-   {
-    "titulo": "Sube el rendimiento de la deuda pública y persiste la atención en los tipos",
-    "texto": "El rendimiento del bono estadounidense a 10 años subió hasta el 5.24% (un incremento diario del 1.08%), mientras que el bono a 2 años se situó en el 4.92%, manteniendo una curva de tipos positiva. La presión de los intereses de la deuda sigue afectando al clima general de los mercados de renta variable.",
-    "importancia": 4
-   },
-   {
-    "titulo": "Comportamiento mixto en Europa y estabilidad en criptomonedas",
-    "texto": "A diferencia de EE. UU., los índices europeos cerraron en positivo, con el Euro Stoxx 50 subiendo un 0.90%, el DAX un 0.68% y el IBEX 35 un 0.75%. En el sector cripto, Bitcoin cotizó por encima de los 84,000 dólares con ganancias del 0.66%, en un entorno donde el índice de miedo y codicia se mantiene en zona de codicia (73).",
+    "titulo": "Comportamiento mixto en la renta variable y avances en tecnológicas concretas",
+    "texto": "Los principales índices bursátiles mostraron ligeras variaciones diarias, con el S&P 500 cediendo un 0,17% y el Dow Jones un 0,26%, mientras que el Nasdaq 100 avanzó un 0,21%. Entre las acciones individuales destacó el impulso alcista de Meta, que subió un 3,24%, y SpaceX con un 2,59%. Estos movimientos reflejan dinámicas particulares en el sector tecnológico y de comunicaciones, afectando directamente a los inversores expuestos a estos valores y ETFs relacionados.",
     "importancia": 3
+   },
+   {
+    "titulo": "Fuerte corrección en el petróleo Brent y estabilidad en criptomonedas",
+    "texto": "El petróleo Brent experimentó un descenso significativo del 4,83% situándose en 97,64 dólares, mientras que el WTI registró una subida del 1,40%. Por su parte, el mercado de criptomonedas muestra tono positivo al cerrar el bitcoin su mejor trimestre desde 2024, cotizando en torno a los 83.800 dólares con un sentimiento de mercado en nivel de codicia (Greed) según el indicador Fear & Greed. Esto impacta directamente en la volatilidad de los activos digitales y en las materias primas energéticas.",
+    "importancia": 4
+   },
+   {
+    "titulo": "Rendimientos de la deuda pública y subida de la volatilidad",
+    "texto": "El rendimiento del bono estadounidense a 10 años se sitúa en el 5,255%, registrando un incremento diario del 0,29% y acumulando subidas semanales relevantes. El índice de volatilidad VIX se ubicó en 16,14 puntos, con un ascenso del 0,62% en la jornada. Los datos muestran un entorno de tipos elevados en la deuda soberana que continúa condicionando la valoración de los activos de riesgo.",
+    "importancia": 4
    }
   ],
   "vigilar": [
-   "Evolución del rendimiento del bono estadounidense a 10 años y su impacto en la renta variable",
-   "Cotización del petróleo Brent y evolución de las tensiones y exportaciones en Oriente Medio",
-   "Comportamiento del sector tecnológico tras las recientes correcciones"
+   "Evolución de los precios del petróleo Brent y WTI",
+   "Rendimiento del bono estadounidense a 10 años (actualmente en torno al 5,25%)",
+   "Comportamiento de la volatilidad (VIX) y su impacto en las bolsas"
   ],
   "proximos": [
-   "Novedades y evolución sobre la situación en Irán y el mercado de hidrocarburos",
-   "Actualizaciones sobre posibles salidas a Bolsa en el sector cripto como Blockchain.com"
+   "Próximos datos de inflación en Estados Unidos",
+   "Evolución de los indicadores de mercado preferidos por los inversores para el cierre de semana"
   ],
-  "nota_riesgo": "El nivel de riesgo se mantiene elevado debido a la confluencia de correcciones superiores al 2% en activos clave como Meta, Tesla y el petróleo Brent, sumado al incremento continuado en las rentabilidades de la deuda soberana a largo plazo."
+  "nota_riesgo": "El nivel de riesgo general se mantiene moderado, reflejado por un VIX en la zona de los 16 puntos y unos rendimientos de la deuda a 10 años firmes sobre el 5,25%. Los datos muestran cautela generalizada en los índices principales a pesar de movimientos alcistas puntuales en grandes tecnológicas."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -21.27,
-   "resumen": "Tus acciones acumulan una caída del 21,27% desde la compra, mientras que hoy se mantienen planas en una jornada de descensos generalizados en el sector de videojuegos provocados por el anuncio de la herramienta de inteligencia artificial de Meta. Los titulares también mencionan el próximo lanzamiento de GTA 6 en noviembre, aunque las noticias del día no explican por sí solas el recorrido negativo de tu inversión.",
+   "pl_pct": -20.07,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 20,07%. Los titulares de hoy mencionan que la acción se mantuvo plana mientras competidores como Roblox caían y GameStop se movía, pero las noticias no explican directamente el origen de tu rentabilidad histórica.",
    "noticias": [
+    {
+     "titulo": "Should You Sell Your Roblox Stock Now?",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.trefis.com/articles/616928/should-you-sell-your-roblox-stock-now/2026-09-29?.tsrc=rss",
+     "fecha": "2026-09-29T20:49:11+00:00"
+    },
+    {
+     "titulo": "GameStop Just Gained 31% in a Month: Take Profits, or Buy More?",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://247wallst.com/investing/2026/09/29/gamestop-just-gained-31-in-a-month-take-profits-or-buy-more/?.tsrc=rss",
+     "fecha": "2026-09-29T19:10:25+00:00"
+    },
+    {
+     "titulo": "3 Non-AI Growth Stocks That Have Massive Upside",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.fool.com/investing/2026/09/29/3-non-ai-growth-stocks-that-have-massive-upside/?.tsrc=rss",
+     "fecha": "2026-09-29T15:20:01+00:00"
+    },
     {
      "titulo": "NetEase's Ananta Could Drive 2027 Growth, Morgan Stanley Says",
      "fuente": "Yahoo Finanzas",
@@ -62,24 +75,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://www.tikr.com/blog/meta-unveiled-an-ai-game-builder-robloxs-q3-guidance-shows-what-the-ai-race-costs?ref=yahoofinance&.tsrc=rss",
      "fecha": "2026-09-26T13:18:34+00:00"
-    },
-    {
-     "titulo": "Videogame Stocks Fall After Meta Announces AI Game Tool. Don’t Be Spooked Yet.",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/m/b2b8a0bf-7f19-3232-87e3-993c8d80dbf0/videogame-stocks-fall-after.html?.tsrc=rss",
-     "fecha": "2026-09-24T20:52:00+00:00"
-    },
-    {
-     "titulo": "2 Stocks Down 17% and 34% to Buy Now and Hold for the Next Decade",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.fool.com/investing/2026/09/24/2-stocks-down-buy-now-hold-decade/?.tsrc=rss",
-     "fecha": "2026-09-24T15:35:00+00:00"
-    },
-    {
-     "titulo": "Gaming Your Portfolio: Should You Add Take-Two Ahead of GTA 6’s November Launch?",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.marketbeat.com/articles/gaming-your-portfolio-should-you-add-take-two-ahead-of-gta-6s-november-launch/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-     "fecha": "2026-09-24T11:25:00+00:00"
     }
    ]
   }
