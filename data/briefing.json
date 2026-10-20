@@ -1,45 +1,50 @@
 {
- "actualizado": "2026-10-19T11:02:23+00:00",
+ "actualizado": "2026-10-20T10:14:46+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de corrección en las bolsas con descensos destacados en el sector tecnológico",
-  "resumen": "Los principales índices bursátiles cierran en negativo, arrastrados por las caídas en las grandes tecnológicas como Meta, Alphabet y Tesla, así como por el correctivo previo en Wall Street. En paralelo, el índice de volatilidad VIX desciende un 7,1%, mientras las criptomonedas y materias primas muestran comportamientos mixtos.",
+  "titular": "Presión en las tecnológicas y máximos en el petróleo marcan la sesión",
+  "resumen": "Los mercados muestran un tono mixto con descensos generalizados en Europa y caídas en tecnológicas debido a la profundización de su venta masiva. Por otro lado, el petróleo Brent avanza hasta máximos de mayo y el índice de volatilidad VIX registra un incremento notable semanal.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Descensos generalizados en índices y tecnológicas",
-    "texto": "El Nasdaq 100 y el Invesco QQQ registran caídas del 2,5%, mientras que el S&P 500 retrocede un 1,09% y el IBEX 35 cede un 1,44%. Dentro de las acciones, destacan los retrocesos de Meta (-3,72%), Alphabet (-2,47%) y Tesla (-2,13%), reflejando la cautela en el sector tecnológico tras las sesiones anteriores.",
+    "titulo": "Profundiza la corrección en el sector tecnológico",
+    "texto": "Los datos muestran persistentes nervios en los mercados ante una venta masiva de tecnológicas y decepciones recientes como el fracaso de una salida a bolsa en Corea del Sur ligada a la inteligencia artificial. A pesar de movimientos positivos diarios aislados en grandes valores como Amazon (4.98%) y Tesla (3.76%), el índice Nasdaq 100 arrastra una caída semanal del 3.7% y el Nikkei 225 cede un 5.46% en la semana.",
     "importancia": 4
    },
    {
-    "titulo": "Comportamiento mixto en materias primas y energía",
-    "texto": "El petróleo WTI sufre una caída significativa del 3,37%, situándose en 97,99 dólares, mientras que el Brent retrocede un 1,33% hasta los 108,40 dólares. Por su parte, el precio del oro se mantiene prácticamente plano con una ligera subida del 0,09%, cotizando en 4.185 dólares.",
-    "importancia": 3
+    "titulo": "El petróleo Brent alcanza máximos de mayo y eleva la presión",
+    "texto": "El precio del petróleo Brent se sitúa en 111.15 dólares por barril, registrando una subida diaria del 1.46% y acumulando un incremento semanal del 5.17% y mensual superior al 10%. Las noticias apuntan a que las tensiones geopolíticas y el encarecimiento energético agravan las presiones inflacionistas, lo que ha llevado a anuncios como un plan de ayuda agrícola en EE. UU. por el coste del diésel.",
+    "importancia": 5
    },
    {
-    "titulo": "Estabilidad en criptomonedas y descenso de la volatilidad",
-    "texto": "Las principales criptomonedas registran leves avances diarios, con Bitcoin cotizando por encima de los 82.300 dólares (0,35%) y Ethereum subiendo un 0,53%. A su vez, el índice de volatilidad VIX experimenta un retroceso notable del 7,1%, situándose en los 18,57 puntos.",
-    "importancia": 3
+    "titulo": "Comportamiento mixto en índices y subida de la volatilidad",
+    "texto": "Las bolsas europeas cierran en negativo con descensos como el del Euro Stoxx 50 (-0.91%), el DAX (-0.85%) y el IBEX 35, que titubea tras perder los 19.000 puntos situándose en 18.943. En Estados Unidos, el S&P 500 sube un 0.41% mientras el VIX de volatilidad repunta un 1.25% diario y supera el 22% de subida semanal, reflejando cautela entre los inversores.",
+    "importancia": 4
    }
   ],
   "vigilar": [
-   "Evolución del sector tecnológico y su impacto en el Nasdaq y S&P 500",
-   "Comportamiento de los precios del petróleo (WTI y Brent)",
-   "Rendimiento del bono estadounidense a 10 años, situado en el 5,098%"
+   "Evolución del precio del petróleo Brent y su impacto en la inflación",
+   "Comportamiento de los índices tecnológicos tras las recientes caídas sectoriales",
+   "Nivel del índice de volatilidad VIX"
   ],
   "proximos": [
-   "Publicación de PMIs globales",
-   "Lanzamiento de futuros de Uniswap y Bitcoin Cash en CME"
+   "Presentación de planes de impuestos en el Presupuesto de UK por el Canciller John Healey el 28 de octubre"
   ],
-  "nota_riesgo": "El nivel de riesgo se mantiene moderado-alto debido a las correcciones bursátiles en la renta variable y la presión en los rendimientos de la deuda soberana a largo plazo, aunque la reducción del VIX sugiere una menor tensión inmediata en los mercados de opciones."
+  "nota_riesgo": "El nivel de riesgo general se eleva moderadamente debido al incremento de la volatilidad (VIX sobre 18.6), la presión alcista en el petróleo y la corrección sostenida en valores tecnológicos."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -17.75,
-   "resumen": "Tus títulos acumulan una rentabilidad negativa del 17.75%, y hoy la acción ha bajado más que el mercado general. Los titulares señalan que la compañía está en el punto de mira por el inminente lanzamiento de GTA VI, debatiéndose si el valor ya está completamente descontado y cómo afectará a sus ganancias futuras.",
+   "pl_pct": -19.18,
+   "resumen": "Tus títulos acumulan una caída del 19,18% desde la compra y hoy han bajado más que el mercado general. Los titulares apuntan a la expectación en torno a GTA VI y a cómo un gran título podría aliviar las preocupaciones sobre los ingresos posteriores al lanzamiento, aunque también se discute el contexto general del sector de videojuegos.",
    "noticias": [
+    {
+     "titulo": "Roblox Is Now Down 38% in 2026: Is RBLX Stock Dead Money or Poised for a Comeback?",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://247wallst.com/investing/2026/10/19/roblox-is-now-down-38-in-2026-is-rblx-stock-dead-money-or-poised-for-a-comeback/?.tsrc=rss",
+     "fecha": "2026-10-19T18:41:07+00:00"
+    },
     {
      "titulo": "Rockstar Rebuilt From Ground Up for GTA 6: Will Wall Street Buy It Nov. 19?",
      "fuente": "Yahoo Finanzas",
@@ -69,12 +74,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://finance.yahoo.com/markets/stocks/articles/gaming-pipeline-activision-add-momentum-132500157.html?.tsrc=rss",
      "fecha": "2026-10-15T13:25:00+00:00"
-    },
-    {
-     "titulo": "Take Two Interactive (TTWO) Stock May Be Fully Priced As GTA VI Nears",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-ttwo-stock-may-130927085.html?.tsrc=rss",
-     "fecha": "2026-10-15T13:09:27+00:00"
     }
    ]
   }
