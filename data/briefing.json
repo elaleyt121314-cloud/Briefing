@@ -1,50 +1,70 @@
 {
- "actualizado": "2026-10-30T11:29:46+00:00",
+ "actualizado": "2026-10-31T11:01:16+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Caídas en tecnológicas y presión en criptomonedas tras el hackeo a Binance",
-  "resumen": "Los mercados globales registran descensos generalizados, destacando la fuerte caída de Alphabet (-12,64%) y Amazon (-4,25%), junto con un descenso en las criptomonedas impulsado por un hackeo histórico a Binance. La volatilidad (VIX) sube un 6,98% y los índices como el S&P 500 y el Nikkei 225 cierran en negativo, mientras la eurozona crece un 0,4% en el tercer trimestre.",
+  "titular": "Fuerte corrección en la tecnología y repunte de la volatilidad",
+  "resumen": "Los principales índices bursátiles registran descensos significativos, liderados por el desplome del Nasdaq 100 y de valores tecnológicos como NVIDIA y SpaceX, mientras el índice de volatilidad VIX sube con fuerza. En el plano cripto, un histórico robo en la plataforma Binance acapara la atención, y en materias primas destaca la caída del oro.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Fuerte corrección en grandes tecnológicas con Alphabet y Amazon a la cabeza",
-    "texto": "Alphabet ha sufrido una caída diaria del 12,64% y Amazon ha retrocedido un 4,25%, arrastrando a índices como el Nasdaq 100 (-1,38%). Las noticias señalan que el mercado general se mantiene a flote a pesar de las caídas en valores de inteligencia artificial, mientras que el S&P 500 se encamina a una pequeña pérdida mensual. Estos movimientos afectan directamente a los inversores en renta variable estadounidense y fondos indexados tecnológicos.",
+    "titulo": "Corrección generalizada en los índices y castigo al sector tecnológico",
+    "texto": "Los datos muestran caídas notables en las bolsas, con el Nasdaq 100 cediendo un 3,46% y el S&P 500 un 1,82%. Dentro de la tecnología, empresas como NVIDIA caen un 4,22% y SpaceX un 6,37%, lo que se refleja en comparaciones mediáticas sobre un posible paralelo con la burbuja puntocom. Estos movimientos afectan de forma directa a los ETFs de renta variable estadounidense y al apetito por el riesgo.",
     "importancia": 5
    },
    {
-    "titulo": "Hackeo histórico a Binance y presión bajista en criptomonedas",
-    "texto": "El exchange Binance ha sufrido un hackeo estimado en 6,3 mil millones de dólares, atribuido a una unidad norcoreana, lo que ha provocado liquidaciones de criptomonedas por 1.570 millones de dólares. Como consecuencia, Bitcoin y Ethereum han registrado caídas y el índice Fear & Greed cripto se sitúa en 30 (Fear), con una capitalización de mercado global que cae un 6,32%. Este suceso impacta de lleno en los activos digitales y en la confianza del sector.",
-    "importancia": 5
-   },
-   {
-    "titulo": "Aumento de la volatilidad y comportamiento mixto en materias primas",
-    "texto": "El índice de volatilidad VIX ha repuntado un 6,98% hasta los 18,4 puntos, reflejando la cautela en los mercados. En materias primas, el petróleo WTI sube un 2,17% mientras el Brent cae un 1,22%, y el oro retrocede un 1,21%, en un contexto donde la industria petrolera estadounidense acumula altos beneficios derivados de la guerra con Irán.",
+    "titulo": "Aumento brusco de la volatilidad y descenso del oro",
+    "texto": "El índice de volatilidad VIX se dispara un 12,91% hasta situarse en los 19,42 puntos, reflejando un incremento del nerviosismo en el mercado. En paralelo, el oro registra una fuerte caída del 3,29% a pesar de la persistencia de tensiones geopolíticas en Oriente Medio. Esto indica que el tradicional activo refugio no ha actuado como tal en esta sesión.",
     "importancia": 4
    },
    {
-    "titulo": "Resiliencia económica en la eurozona con un crecimiento del 0,4% en el tercer trimestre",
-    "texto": "Los datos macroeconómicos muestran que la economía de la eurozona creció un 0,4% en el tercer trimestre, mostrando resistencia a pesar de la contracción en Francia y los desafíos persistentes en competitividad industrial y demografía. Los índices europeos como el Euro Stoxx 50 (-0,79%) y el DAX (-0,53%) han cerrado la jornada con moderados descensos.",
-    "importancia": 3
+    "titulo": "Histórico robo de criptomonedas en Binance",
+    "texto": "Las noticias reflejan que la plataforma Binance sufrió un ciberataque vinculado a Corea del Norte en el que se sustrajeron 6.300 millones de dólares, considerado el mayor robo de la historia cripto. La capitalización total del mercado cripto desciende un 2,85% y el sentimiento de mercado se mantiene en 'Fear' (30). Este acontecimiento pone el foco en la seguridad del sector.",
+    "importancia": 4
    }
   ],
   "vigilar": [
-   "Evolución de la reapertura de Binance y el impacto continuado en la liquidez de criptomonedas",
-   "Comportamiento de las acciones tecnológicas de gran capitalización (Alphabet y Amazon)",
-   "Niveles del índice de volatilidad VIX y del rendimiento del bono USA a 10 años"
+   "El comportamiento del índice de volatilidad VIX tras su fuerte repunte",
+   "Los intentos de recuperación de la plataforma Binance tras el ciberataque",
+   "La evolución de los soportes en los principales índices tecnológicos y bancarios"
   ],
   "proximos": [
-   "Reapertura planificada del exchange Binance en los próximos días",
-   "Evolución de los mercados ante el contexto político y las elecciones de mitad de mandato (midterms) en EE. UU."
+   "La incorporación de Okta al índice S&P 500 en sustitución de Kenvue",
+   "Las elecciones de medio mandato (midterms) en Estados Unidos",
+   "El proceso de búsqueda y selección para la sucesión de la presidencia del Banco Central Europeo (BCE)"
   ],
-  "nota_riesgo": "El nivel de riesgo general se eleva moderadamente, reflejado en el aumento del VIX (hasta 18,4) y las fuertes caídas puntuales en grandes tecnológicas y criptomonedas. La prudencia y la diversificación siguen siendo las mejores guías ante eventos de riesgo idiosincrático como el ocurrido en el sector cripto."
+  "nota_riesgo": "El nivel de riesgo general se eleva de manera moderada según los indicadores del día. El fuerte repunte del VIX y las caídas superiores al 3% en el Nasdaq y en el oro sugieren un aumento temporal de la tensión y la cautela entre los inversores."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -22.39,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 22,39%. Los titulares recientes señalan que la acción ha pasado por caídas y analizan qué pasaba por alto antes de su retroceso, además de debatir cómo mejorarla y qué atrae nueva atención, sin que las noticias ofrezcan una causa directa y única de su marcha.",
+   "pl_pct": -23.19,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 23,19%. Los titulares de hoy mencionan caídas y presión en el sector, señalando concretamente que el lanzamiento de GTA VI genera dudas o nubla las perspectivas de otros competidores como Roblox, aunque las noticias no profundizan en los fundamentales propios de Take-Two.",
    "noticias": [
+    {
+     "titulo": "Roblox Just Dropped 18% in a Week. Is It Time to Sell, or Load Up?",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.tikr.com/blog/roblox-just-dropped-18-in-a-week-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261031-vm8rmv8w&.tsrc=rss",
+     "fecha": "2026-10-31T07:53:46+00:00"
+    },
+    {
+     "titulo": "Roblox Plunges 19% as Daily Users Shrink and GTA VI Clouds Holiday Outlook; Unity Drops 4%, Take-Two Dips",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://247wallst.com/investing/2026/10/30/roblox-plunges-19-as-daily-users-shrink-and-gta-vi-clouds-holiday-outlook-unity-drops-4-take-two-dips/?.tsrc=rss",
+     "fecha": "2026-10-30T14:53:04+00:00"
+    },
+    {
+     "titulo": "Roblox Sinks 14% on Soft Q4 Bookings Guide as CFO Flags GTA “Modest Headwind”",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.tikr.com/blog/roblox-sinks-14-on-soft-q4-bookings-guide-as-cfo-flags-gta-modest-headwind?ref=yahoofinance&.tsrc=rss",
+     "fecha": "2026-10-30T13:41:14+00:00"
+    },
+    {
+     "titulo": "Roblox’s Daily Users Fell 9% From a Year Ago, but It Says Retention Is the Best Since 2021. Here’s What That Means for the Stock",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.tikr.com/blog/robloxs-daily-users-fell-9-from-a-year-ago-but-it-says-retention-is-the-best-since-2021-heres-what-that-means-for-the-stock?ref=yahoofinance&.tsrc=rss",
+     "fecha": "2026-10-30T13:18:02+00:00"
+    },
     {
      "titulo": "Roblox Is Up 21% in October: Will Earnings Derail the RBLX Stock Rally?",
      "fuente": "Yahoo Finanzas",
@@ -56,30 +76,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://finance.yahoo.com/m/e14aa9d8-8120-3452-84f5-ab6a866d6ef4/meta-has-given-back-all-of.html?.tsrc=rss",
      "fecha": "2026-10-29T17:47:00+00:00"
-    },
-    {
-     "titulo": "Take-Two Interactive Software, Inc. (TTWO) Is a Trending Stock: Facts to Know Before Betting on It",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-inc-ttwo-120002087.html?.tsrc=rss",
-     "fecha": "2026-10-29T12:00:02+00:00"
-    },
-    {
-     "titulo": "What Investors Overlooked Before Take Two Slid",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/investors-overlooked-two-slid-160751647.html?.tsrc=rss",
-     "fecha": "2026-10-28T16:07:51+00:00"
-    },
-    {
-     "titulo": "How Would You Fix Take-Two?",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.trefis.com/stock/ttwo/articles/621040/how-would-you-fix-take-two/2026-10-28?.tsrc=rss",
-     "fecha": "2026-10-28T10:23:38+00:00"
-    },
-    {
-     "titulo": "Take-Two Interactive Software (TTWO), What Is Drawing Fresh Attention Now?",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-ttwo-drawing-031023175.html?.tsrc=rss",
-     "fecha": "2026-10-28T03:10:23+00:00"
     }
    ]
   }
