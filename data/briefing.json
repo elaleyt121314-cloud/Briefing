@@ -1,50 +1,57 @@
 {
- "actualizado": "2026-11-05T13:22:53+00:00",
+ "actualizado": "2026-11-06T13:05:51+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de fuertes ganancias en los principales índices bursátiles liderada por el Dow Jones y grandes tecnológicas",
-  "resumen": "Los mercados de renta variable registraron avances destacados, destacando el Dow Jones con un 3,03% y subidas notables en valores como Microsoft y Amazon. En el plano macroeconómico, los datos muestran que el Banco de Inglaterra elevó los tipos de interés al 4% ante las presiones inflacionistas. Los activos afectados reflejan un tono positivo general en índices, aunque con movimientos mixtos y descensos en sectores específicos como criptomonedas y algunas tecnológicas.",
+  "titular": "Fuerte corrección en los mercados globales impulsada por temores sobre el sector de la inteligencia artificial",
+  "resumen": "Los principales índices bursátiles internacionales registran descensos significativos, encabezados por caídas notables en el sector tecnológico y de semiconductores. Los datos muestran un desplome generalizado en Wall Street y las bolsas asiáticas y europeas tras preocupaciones sobre la desaceleración de la IA y una mayor escrutinio en centros de datos. Esto podría indicar un cambio drástico en la aversión al riesgo de los inversores.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Subida generalizada en la renta variable estadounidense",
-    "texto": "Los datos muestran ganancias significativas en los índices de EE. UU., con el Dow Jones subiendo un 3,03%, el S&P 500 un 1,58% y el Nasdaq 100 un 0,91%. Esto refleja un apetito comprador en la sesión, aunque el rendimiento semanal y mensual previo en algunos índices como el Nasdaq muestra caídas acumuladas. Los activos afectados son los propios índices bursátiles y los ETFs asociados como SPDR S&P 500.",
-    "importancia": 4
-   },
-   {
-    "titulo": "Fuerte volatilidad y divergencia en grandes tecnológicas",
-    "texto": "Dentro de las acciones, Microsoft y Amazon registraron repuntes del 6,68% y 6,12% respectivamente, mientras que NVIDIA cedió un 3,17% y Tesla un 3,34%. Estos movimientos tan dispares muestran que el sector tecnológico no se mueve en bloque. Los activos afectados son directamente las acciones individuales mencionadas y los fondos cotizados tecnológicos.",
-    "importancia": 4
-   },
-   {
-    "titulo": "El Banco de Inglaterra sube los tipos de interés al 4%",
-    "texto": "Las noticias recogen que el Banco de Inglaterra incrementó los tipos de interés en su primera subida en más de tres años, advirtiendo que la inflación podría acercarse al 5%. Los datos macroeconómicos y titulares sugieren que los costes de financiación se elevan en un contexto condicionado por factores geopolíticos y energéticos. Esto afecta directamente a los mercados de divisas, bonos y decisiones de endeudamiento.",
+    "titulo": "Desplome generalizado de los mercados bursátiles globales",
+    "texto": "Los datos reflejan pérdidas profundas en los principales índices como el Nasdaq 100 (-6.36%), Nikkei 225 (-5.96%) y el S&P 500 (-4.36%). Las acciones tecnológicas se han visto especialmente castigadas, destacando descensos severos en compañías como Tesla (-10.77%), NVIDIA (-9.26%) y SpaceX (-9.05%). Esto afecta directamente a los ETFs que replican estos índices, como el Invesco QQQ y los fondos indexados de S&P 500.",
     "importancia": 5
    },
    {
-    "titulo": "Aumento en los precios del petróleo",
-    "texto": "Los datos muestran que el petróleo Brent avanzó un 2,99% hasta los 97,45 dólares y el WTI subió un 2,14% situándose en 90,01 dólares. Este incremento en las materias primas energéticas coincide con debates estratégicos sobre la duración de conflictos como la guerra en Irán y su impacto en la inflación global. Los activos afectados son los futuros del petróleo y las empresas del sector energético.",
-    "importancia": 3
+    "titulo": "Propagación de temores sobre la inversión en Inteligencia Artificial",
+    "texto": "Las noticias indican que el desplome en EE. UU. se ha extendido rápidamente a Asia y Europa debido al temor a una desaceleración de la IA y a una posible mayor supervisión regulatoria en la construcción de centros de datos. Esto ha arrastrado al sector de semiconductores a niveles de valoración mínimos de varios años, afectando la confianza general de los inversores en activos de crecimiento.",
+    "importancia": 5
+   },
+   {
+    "titulo": "Impacto en el mercado de criptomonedas y liquidación de posiciones",
+    "texto": "El mercado cripto también ha sentido el impacto con una disminución en la capitalización total del 7.56% y más de mil millones de dólares en apuestas alcistas liquidadas. Bitcoin cotiza alrededor de los 75,878 dólares (-0.08%) y Ethereum en 2,236 dólares (+0.09%), mientras el indicador de miedo y codicia ('Fear and Greed') se sitúa en terreno de miedo con un valor de 28.",
+    "importancia": 4
    }
   ],
   "vigilar": [
-   "Evolución de los precios del petróleo Brent y WTI",
-   "Comportamiento de la volatilidad medida por el índice VIX (situado en 16,95)",
-   "Rendimiento de los bonos soberanos de EE. UU. a 10 y 2 años"
+   "Evolución del sector tecnológico y de semiconductores tras las recientes caídas",
+   "Comportamiento de la volatilidad y los flujos de entrada/salida en ETFs",
+   "Estabilidad de Bitcoin y niveles de soporte en el mercado cripto tras las liquidaciones"
   ],
   "proximos": [
-   "Próximas decisiones de los bancos centrales sobre tipos de interés e inflación",
-   "Nuevos informes estratégicos sobre el desarrollo de infraestructuras de inteligencia artificial a largo plazo"
+   "Próximas cifras y datos de empleo en Estados Unidos",
+   "Posibles movimientos y decisiones de la Reserva Federal (Fed) de cara a diciembre"
   ],
-  "nota_riesgo": "El nivel de riesgo general se mantiene moderado, reflejado en un índice VIX en 16,95 que subió un 2,05% en la sesión. La combinación de tensiones geopolíticas energéticas y subidas de tipos de interés aconseja mantener la cautela y la diversificación."
+  "nota_riesgo": "El nivel de riesgo general se encuentra elevado, reflejado por un descenso severo en las valoraciones bursátiles globales y un aumento en la aversión al riesgo. Los datos actuales sugieren prudencia ante la alta volatilidad y la incertidumbre en torno al sector tecnológico."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -15.34,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 15.34%. Las noticias recientes recogen movimiento en bolsa con una subida del 8.9%, ventas netas por parte de ETFs y debate sobre si cotiza por encima de su valor razonable, además de la atención puesta en la inminente publicación de sus resultados del segundo trimestre y las proyecciones de Wall Street.",
+   "pl_pct": -14.76,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 14.76%, a pesar de que algunos titulares recientes señalan una subida del 8.9% y mencionan el interés de Piper Sandler antes del 19 de noviembre. Las noticias también recogen que los ETF han sido vendedores netos a principios de noviembre y debates sobre si cotiza por encima de su valor razonable, mientras que otras menciones sobre Unity o Penn Entertainment no guardan una relación directa con tus títulos.",
    "noticias": [
+    {
+     "titulo": "Unity Software Finds an Ad Machine Hiding Inside Video Games",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/m/6a8bad02-17b6-37de-a668-d527b8a250c8/unity-software-finds-an-ad.html?.tsrc=rss",
+     "fecha": "2026-11-05T14:50:00+00:00"
+    },
+    {
+     "titulo": "PENN Entertainment (PENN) Q3 Earnings and Revenues Top Estimates",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/penn-entertainment-penn-q3-earnings-133505828.html?.tsrc=rss",
+     "fecha": "2026-11-05T13:35:05+00:00"
+    },
     {
      "titulo": "ETFs Are Net Sellers of Take-Two (TTWO) on Nov. 3",
      "fuente": "Yahoo Finanzas",
@@ -68,18 +75,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://www.barchart.com/story/news/8647747/why-piper-sandler-thinks-you-should-buy-take-two-stock-before-november-19?.tsrc=rss",
      "fecha": "2026-11-04T14:52:21+00:00"
-    },
-    {
-     "titulo": "Take-Two to Report Q2 Earnings: What's in the Cards for the Stock?",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-report-q2-earnings-whats-144000140.html?.tsrc=rss",
-     "fecha": "2026-11-04T14:40:00+00:00"
-    },
-    {
-     "titulo": "Seeking Clues to Take-Two (TTWO) Q2 Earnings? A Peek Into Wall Street Projections for Key Metrics",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/seeking-clues-two-ttwo-q2-131508907.html?.tsrc=rss",
-     "fecha": "2026-11-04T13:15:08+00:00"
     }
    ]
   }
