@@ -1,50 +1,79 @@
 {
- "actualizado": "2026-11-08T12:03:20+00:00",
+ "actualizado": "2026-11-09T14:08:27+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de movimientos mixtos y descensos destacados en el Nikkei, con alta volatilidad cediendo",
-  "resumen": "Los mercados internacionales registran un comportamiento dispar, destacando una fuerte caída del 5,96% en el índice japonés Nikkei 225 y descensos en selectivos europeos como el DAX. En contraste, algunos índices estadounidenses como el Nasdaq 100 avanzan un 1,35%, mientras el indicador de volatilidad VIX retrocede un 9,01% tras el reciente repunte semanal.",
+  "titular": "Sesión mixta en los mercados con fuerte corrección en el petróleo y alivio en la volatilidad",
+  "resumen": "Los principales índices bursátiles muestran comportamiento dispar, destacando las ganancias en Europa (Euro Stoxx 50 con un 1.6% y el IBEX 35 con un 1.87%) y descensos notables en el petróleo Brent y WTI que superan el 4%. El índice de volatilidad VIX registra una caída importante del 10.41%, situándose en 22.97 puntos. Por su parte, el sector tecnológico sigue digiriendo informaciones corporativas sobre NVIDIA y su consejero delegado.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Fuerte corrección en el índice japonés Nikkei 225",
-    "texto": "El Nikkei 225 ha sufrido un retroceso significativo del 5,96% en la jornada, acumulando una caída del 11,17% en la semana y del 18,74% en el último mes. Este movimiento bajista tan acusado en los mercados asiáticos contrasta con el comportamiento de otros índices globales y afecta de manera directa a los activos vinculados a la renta variable de Japón.",
-    "importancia": 5
-   },
-   {
-    "titulo": "Recuperación puntual en grandes tecnológicas y subidas en valores concretos",
-    "texto": "Dentro de la renta variable estadounidense, el Nasdaq 100 repunta un 1,35% diario, apoyado por ganancias en valores como NVIDIA (2,78%), Tesla (4,23%) y SpaceX (8,62%). A pesar de estos rebotes diarios, los datos semanales y mensuales de varios de estos activos tecnológicos reflejan una presión bajista previa considerable en el sector.",
+    "titulo": "Notable caída en los precios del petróleo",
+    "texto": "Los datos muestran un retroceso significativo en las materias primas energéticas, con el Petróleo Brent cayendo un 4.71% hasta los 93.69 dólares y el WTI un 4.38% hasta los 86.85 dólares. Esto representa una bajada importante en la última semana, acumulando descensos de doble dígito en el periodo. Los datos objetivos reflejan esta variación diaria sin que la información disponible especifique una causa macroeconómica concreta para este movimiento en la sesión.",
     "importancia": 4
    },
    {
-    "titulo": "Descenso notable de la volatilidad (VIX)",
-    "texto": "El índice de volatilidad VIX ha experimentado una bajada del 9,01% situándose en 25,64 puntos, tras haber acumulado un incremento semanal del 32,03% y un avance mensual del 66,39%. Este retroceso diario podría indicar un alivio temporal en el nerviosismo de los inversores, aunque el contexto acumulado sigue mostrando cautela en el mercado.",
+    "titulo": "Descenso relevante de la volatilidad (VIX)",
+    "texto": "El indicador de volatilidad VIX ha registrado una caída del 10.41% en la jornada, situándose en 22.97 puntos, aunque mantiene una subida acumulada superior al 54% en el último mes. Esto podría indicar un alivio temporal en la tensión de los mercados tras semanas de presión. Afecta de forma general al sentimiento de riesgo global de los inversores.",
     "importancia": 4
    },
    {
-    "titulo": "Sentimiento de miedo en criptomonedas y estabilidad general en el ecosistema",
-    "texto": "El indicador de sentimiento Fear & Greed para criptomonedas se sitúa en 28 (Fear), reflejando un tono de cautela entre los inversores digitales. Por su parte, la capitalización total del mercado cripto registra una variación bajista del 3,67% en las últimas 24 horas, con Bitcoin cotizando en torno a los 75.882 dólares con ligeros cambios diarios.",
+    "titulo": "Comportamiento dispar en los mercados de renta variable",
+    "texto": "Los índices europeos cierran con avances sólidos, liderados por el IBEX 35 (1.87%), el DAX (1.38%) y el Euro Stoxx 50 (1.6%). En Estados Unidos, el Nasdaq 100 sube un 1.35% y el S&P 500 un 0.31%, mientras que el Dow Jones cede un 0.46%. En el ámbito de acciones individuales, destacan las subidas de Tesla (4.23%) y SpaceX (8.62%), así como el repunte de NVIDIA (2.78%) en medio de la atención mediática sobre su cúpula directiva.",
+    "importancia": 3
+   },
+   {
+    "titulo": "Escrutinio sobre NVIDIA y su impacto en el sector tecnológico",
+    "texto": "Diversos titulares recientes señalan que la junta directiva de NVIDIA está investigando la relación de su consejero delegado, Jensen Huang, con una persona sospechada de espionaje, lo que genera incertidumbre sobre el futuro de la compañía y su peso en el sector de la inteligencia artificial. Los analistas apuntan que este asunto podría convertirse en un problema duradero para la empresa. Esta situación se enmarca en un contexto donde el rendimiento bursátil mensual de la compañía muestra una caída del 19.02%.",
+    "importancia": 4
+   },
+   {
+    "titulo": "Cautela en el mercado de criptomonedas y sentimiento de miedo",
+    "texto": "El mercado cripto muestra ligeras variaciones negativas en el día, con Bitcoin cotizando en torno a los 74,470 dólares (-0.15%) y Ethereum en 2,116 dólares (-0.20%). El índice de miedo y codicia (Fear and Greed) se encuentra en 29, reflejando una lectura de 'Miedo'. Los datos muestran además que la capitalización total del mercado cripto ha experimentado una variación negativa del 4.57% en 24 horas.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución del índice VIX para comprobar si el descenso de la volatilidad se consolida o es un rebote temporal",
-   "Comportamiento de la renta variable asiática, especialmente tras la fuerte caída registrada en el Nikkei 225",
-   "El rendimiento del bono estadounidense a 10 años, situado actualmente en el 4,859%"
+   "Evolución de los precios del petróleo Brent y WTI tras las caídas superiores al 4%",
+   "Desarrollos informativos y regulatorios en torno a NVIDIA y su consejero delegado",
+   "Comportamiento del índice de volatilidad VIX y su estabilización por debajo o por encima de los 23 puntos"
   ],
   "proximos": [
-   "Próxima subasta de Letras a 3 y 9 meses del Tesoro Público español",
-   "Publicaciones de datos fiscales y normativos relacionados con impuestos sobre ganancias de capital en EE. UU."
+   "Posibles reducciones en los objetivos gubernamentales de vehículos eléctricos (EV) esperadas para esta semana",
+   "Nuevos avances o decisiones en las plataformas de valores tokenizados bajo el marco de la SEC"
   ],
-  "nota_riesgo": "El nivel de riesgo general se mantiene elevado, reflejado en un VIX que aún supera los 25 puntos y en caídas mensuales pronunciadas en índices como el Nikkei y ciertos activos tecnológicos, lo que aconseja mantener la prudencia."
+  "nota_riesgo": "El nivel de riesgo general se mantiene elevado pero muestra un respiro con la bajada del VIX hasta los 22.97 puntos. No obstante, persisten tensiones sectoriales específicas en tecnología y descensos acusados en materias primas energéticas."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
    "pl_pct": -13.33,
-   "resumen": "Tu posición acumula una rentabilidad del -13.33%. Las noticias recogen que las reservas anticipadas de 'GTA 6' alcanzan los 751 millones de dólares y se espera un crecimiento del 20% gracias al juego, aunque los titulares señalan que los ETFs actúan como vendedores netos y Wedbush ha revisado su lista de mejores ideas tras un bajo rendimiento en octubre.",
+   "resumen": "Tus títulos acumulan una caída del 13,33% desde la compra. Los titulares recogen noticias mixtas: por un lado, se mencionan previsiones optimistas y ventas anticipadas muy fuertes de 'GTA 6', así como menciones en revisiones de analistas; por otro, la compañía figura entre las valoradas en actualizaciones de mercado junto a otros grandes valores tecnológicos y citas sobre la atención general a los próximos resultados del sector.",
    "noticias": [
+    {
+     "titulo": "Anthropic IPO roadshow, October CPI, Skydance earnings: What to Watch",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/video/anthropic-ipo-roadshow-october-cpi-130000018.html?.tsrc=rss",
+     "fecha": "2026-11-09T13:00:00+00:00"
+    },
+    {
+     "titulo": "Buy, Sell, or Hold? Monday’s Top Upgrades and Downgrades: Advanced Micro Devices, Airbnb, DraftKings, L3 Harris Technologies, Molson-Coors, Nvidia,  Take-Two Interactive, Uber Technologies, and More",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://247wallst.com/investing/2026/11/09/buy-sell-or-hold-mondays-top-upgrades-and-downgrades-advanced-micro-devices-airbnb-draftkings-l3-harris-technologies-molson-coors-nvidia-take-two-interactive-uber-technologies-and-more/?.tsrc=rss",
+     "fecha": "2026-11-09T12:40:17+00:00"
+    },
+    {
+     "titulo": "US Equity Investors to Monitor Key Tech Earnings, Inflation This Week as Democrats Midterm Victory Hits AI Trade",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/technology/ai/articles/us-equity-investors-monitor-key-105739479.html?.tsrc=rss",
+     "fecha": "2026-11-09T10:57:39+00:00"
+    },
+    {
+     "titulo": "TTWO Posts Its Best Week In 5 Months As Investors Expect Bumper Forecasts Ahead Of GTA VI Launch",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://stocktwits.com/news-articles/markets/equity/ttwo-posts-its-best-week-in-5-months-as-investors-expect-bumper-forecasts-ahead-of-gta-vi-launch/cNGrTrMR9eQ?.tsrc=rss",
+     "fecha": "2026-11-09T07:30:32+00:00"
+    },
     {
      "titulo": "'GTA 6' Preorder Sales Hit $751 Million 2 Weeks Ahead of Release. Are Investors Ignoring Take-Two Stock Opportunity?",
      "fuente": "Yahoo Finanzas",
@@ -56,30 +85,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://www.tikr.com/blog/roblox-just-gained-15-in-a-week-after-its-earnings-crash-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261107-8cwrg7hr&.tsrc=rss",
      "fecha": "2026-11-07T14:51:11+00:00"
-    },
-    {
-     "titulo": "Wedbush Revises Best Ideas List After October Underperformance",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/wedbush-revises-best-ideas-list-141358648.html?.tsrc=rss",
-     "fecha": "2026-11-06T14:13:58+00:00"
-    },
-    {
-     "titulo": "Unity Software Finds an Ad Machine Hiding Inside Video Games",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/m/6a8bad02-17b6-37de-a668-d527b8a250c8/unity-software-finds-an-ad.html?.tsrc=rss",
-     "fecha": "2026-11-05T14:50:00+00:00"
-    },
-    {
-     "titulo": "PENN Entertainment (PENN) Q3 Earnings and Revenues Top Estimates",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/penn-entertainment-penn-q3-earnings-133505828.html?.tsrc=rss",
-     "fecha": "2026-11-05T13:35:05+00:00"
-    },
-    {
-     "titulo": "ETFs Are Net Sellers of Take-Two (TTWO) on Nov. 3",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-two-ttwo-110236514.html?.tsrc=rss",
-     "fecha": "2026-11-05T11:02:36+00:00"
     }
    ]
   }

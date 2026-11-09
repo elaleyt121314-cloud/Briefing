@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-08T12:03:20+00:00",
+ "actualizado": "2026-11-09T14:08:27+00:00",
  "generado_con_ia": true,
  "sentimiento": {
   "vix": {
-   "valor": 25.64,
-   "d1": -9.01
+   "valor": 22.97,
+   "d1": -10.41
   },
   "fear_and_greed_cripto": {
-   "valor": 28,
+   "valor": 29,
    "texto": "Fear"
   }
  },
@@ -33,12 +33,14 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "El S&P 500 muestra una tendencia alcista a largo plazo pero se sitúa bajo sus medias de corto plazo.",
+    "resumen": "El índice muestra una tendencia alcista general pero se sitúa por debajo de sus medias de corto plazo.",
     "a_favor": [
-     "Se mantiene por encima de su media móvil de 200 sesiones."
+     "Se mantiene por encima de la media móvil de 200 sesiones.",
+     "La tendencia general según reglas fijas es alcista."
     ],
     "en_contra": [
-     "Cotiza por debajo de las medias de 20 y 50 sesiones."
+     "Cotiza por debajo de las medias de 20 y 50 sesiones.",
+     "El VIX elevado sugiere cautela en el mercado."
     ]
    }
   },
@@ -63,12 +65,13 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "baja",
-    "resumen": "El Nasdaq 100 presenta una estructura mixta con correcciones significativas recientes.",
+    "resumen": "Presenta una estructura técnica mixta con debilidad frente a sus medias móviles principales.",
     "a_favor": [
-     "Registra un rebote diario positivo."
+     "Registra un rebote positivo en la sesión diaria."
     ],
     "en_contra": [
-     "Se encuentra claramente por debajo de todas sus medias móviles principales."
+     "La tendencia está catalogada como mixta.",
+     "Se encuentra significativamente por debajo de la media móvil de 200 sesiones."
     ]
    }
   },
@@ -93,12 +96,12 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "El Dow Jones conserva una tendencia alcista general a pesar de ligeras caídas diarias.",
+    "resumen": "Muestra resiliencia relativa con tendencia alcista aunque con un sesgo de corto plazo dubitativo.",
     "a_favor": [
-     "Conserva una posición positiva respecto a la media de 200 sesiones."
+     "Mantiene la tendencia alcista y cotiza sobre la media de 200 sesiones."
     ],
     "en_contra": [
-     "Se encuentra ligeramente rezagado frente a sus medias de corto plazo."
+     "Presenta un retroceso leve en la última sesión y frente a medias cortas."
     ]
    }
   },
@@ -106,29 +109,30 @@
    "symbol": "^STOXX50E",
    "nombre": "Euro Stoxx 50",
    "grupo": "Índices",
-   "precio": 6170.49,
+   "precio": 6269.2,
    "moneda": "EUR",
-   "d1": -0.98,
-   "m1": 0.71,
-   "y1": 9.97,
+   "d1": 1.6,
+   "m1": 1.55,
+   "y1": 10.68,
    "tecnico": {
-    "pct_desde_max_52s": -5.81,
-    "pct_sobre_min_52s": 12.16,
-    "pct_vs_sma20": 0.06,
-    "pct_vs_sma50": -1.15,
-    "pct_vs_sma200": 0.91,
+    "pct_desde_max_52s": -4.3,
+    "pct_sobre_min_52s": 13.96,
+    "pct_vs_sma20": 1.6,
+    "pct_vs_sma50": 0.48,
+    "pct_vs_sma200": 2.5,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "mantener",
+    "veredicto": "comprar",
     "confianza": "media",
-    "resumen": "El Euro Stoxx 50 mantiene un sesgo alcista aunque cotiza muy cerca de sus medias.",
+    "resumen": "Demuestra fortaleza técnica situándose por encima de todas sus medias móviles clave.",
     "a_favor": [
-     "Cotiza ligeramente por encima de la media de 20 sesiones."
+     "La tendencia es alcista y supera las medias de 20, 50 y 200 sesiones.",
+     "Registra una rentabilidad anual positiva y sólida."
     ],
     "en_contra": [
-     "Retrocede en la jornada diaria con una tendencia mixta en el corto plazo."
+     "El entorno de volatilidad elevada en el mercado global exige precaución."
     ]
    }
   },
@@ -136,30 +140,30 @@
    "symbol": "^GDAXI",
    "nombre": "DAX",
    "grupo": "Índices",
-   "precio": 25820.36,
+   "precio": 26177.34,
    "moneda": "EUR",
-   "d1": -1.92,
-   "m1": 4.09,
-   "y1": 8.79,
+   "d1": 1.38,
+   "m1": 4.35,
+   "y1": 9.25,
    "tecnico": {
-    "pct_desde_max_52s": -2.82,
-    "pct_sobre_min_52s": 15.78,
-    "pct_vs_sma20": 0.73,
-    "pct_vs_sma50": 1.04,
-    "pct_vs_sma200": 3.59,
+    "pct_desde_max_52s": -1.48,
+    "pct_sobre_min_52s": 17.38,
+    "pct_vs_sma20": 1.95,
+    "pct_vs_sma50": 2.44,
+    "pct_vs_sma200": 5.0,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "comprar",
     "confianza": "alta",
-    "resumen": "El DAX muestra una sólida fortaleza técnica superando todas sus medias móviles clave.",
+    "resumen": "Excelente comportamiento técnico con clara tendencia alcista y cotización cerca de máximos.",
     "a_favor": [
-     "Tendencia claramente alcista y cotizando por encima de las medias de 20, 50 y 200 sesiones.",
-     "Está cerca de sus máximos de 52 semanas."
+     "Se encuentra muy cerca de sus máximos de 52 semanas.",
+     "Supera con holgura todas sus medias móviles."
     ],
     "en_contra": [
-     "Presenta una corrección en la última sesión diaria."
+     "El VIX en niveles altos podría generar correcciones puntuales."
     ]
    }
   },
@@ -167,29 +171,30 @@
    "symbol": "^IBEX",
    "nombre": "IBEX 35",
    "grupo": "Índices",
-   "precio": 19369.5,
+   "precio": 19732.6,
    "moneda": "EUR",
-   "d1": -0.6,
-   "m1": 2.33,
-   "y1": 20.17,
+   "d1": 1.87,
+   "m1": 3.68,
+   "y1": 21.94,
    "tecnico": {
-    "pct_desde_max_52s": -4.18,
-    "pct_sobre_min_52s": 22.42,
-    "pct_vs_sma20": 1.37,
-    "pct_vs_sma50": -0.15,
-    "pct_vs_sma200": 3.47,
+    "pct_desde_max_52s": -2.38,
+    "pct_sobre_min_52s": 24.72,
+    "pct_vs_sma20": 3.15,
+    "pct_vs_sma50": 1.74,
+    "pct_vs_sma200": 5.35,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "mantener",
-    "confianza": "media",
-    "resumen": "El IBEX 35 exhibe buen rendimiento anual pero muestra dudas técnicas recientes.",
+    "veredicto": "comprar",
+    "confianza": "alta",
+    "resumen": "Destaca como uno de los índices más fuertes con rentabilidades anuales sobresalientes.",
     "a_favor": [
-     "Mantiene rentabilidad positiva acumulada y cotiza sobre la media de 200 sesiones."
+     "Tendencia firmemente alcista con amplia distancia sobre la media de 200 sesiones.",
+     "Excelente comportamiento relativo frente a otros mercados."
     ],
     "en_contra": [
-     "Se sitúa levemente por debajo de la media de 50 sesiones."
+     "Un sentimiento general de mercado tenso podría frenar el impulso."
     ]
    }
   },
@@ -197,29 +202,29 @@
    "symbol": "^N225",
    "nombre": "Nikkei 225",
    "grupo": "Índices",
-   "precio": 57434.77,
+   "precio": 58775.5,
    "moneda": "JPY",
-   "d1": -5.96,
-   "m1": -18.74,
-   "y1": 12.87,
+   "d1": 2.33,
+   "m1": -16.08,
+   "y1": 15.45,
    "tecnico": {
-    "pct_desde_max_52s": -20.63,
-    "pct_sobre_min_52s": 18.33,
-    "pct_vs_sma20": -10.52,
-    "pct_vs_sma50": -12.02,
-    "pct_vs_sma200": -7.31,
+    "pct_desde_max_52s": -18.78,
+    "pct_sobre_min_52s": 21.09,
+    "pct_vs_sma20": -7.69,
+    "pct_vs_sma50": -9.78,
+    "pct_vs_sma200": -5.19,
     "tendencia": "mixta"
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "vender",
-    "confianza": "alta",
-    "resumen": "El Nikkei 225 acumula fuertes caídas y se aleja de sus referencias principales.",
+    "veredicto": "mantener",
+    "confianza": "baja",
+    "resumen": "Su estructura técnica es claramente mixta y se encuentra lejos de sus referencias alcistas.",
     "a_favor": [
-     "Ningún argumento técnico relevante a favor en este momento."
+     "Rebote positivo en la última sesión diaria."
     ],
     "en_contra": [
-     "Tendencia mixta con caídas superiores al 20% desde máximos anuales y bajo todas las medias móviles."
+     "Tendencia mixta y cotización por debajo de la media de 200 sesiones."
     ]
    }
   },
@@ -244,12 +249,12 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "El ETF del S&P 500 refleja el comportamiento prudente del índice principal.",
+    "resumen": "Replica al S&P 500 mostrando soporte a largo plazo pero presión a corto plazo.",
     "a_favor": [
-     "Sigue cotizando por encima de la media de 200 sesiones."
+     "Permanece por encima de la media móvil de 200 sesiones."
     ],
     "en_contra": [
-     "Perforó a la baja las medias de 20 y 50 sesiones."
+     "Se sitúa por debajo de las medias de 20 y 50 sesiones."
     ]
    }
   },
@@ -274,12 +279,12 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "Comportamiento técnico idéntico al índice de referencia con soporte en largo plazo.",
+    "resumen": "Comportamiento idéntico al S&P 500 con soporte de largo plazo intacto.",
     "a_favor": [
-     "Se mantiene por encima de la media de 200 sesiones."
+     "Conserva la media móvil de 200 sesiones."
     ],
     "en_contra": [
-     "Las medias de corto plazo muestran presión bajista."
+     "Las medias de corto y medio plazo ejercen resistencia actual."
     ]
    }
   },
@@ -302,14 +307,14 @@
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "mantener",
-    "confianza": "baja",
-    "resumen": "El ETF tecnológico muestra debilidad y una estructura técnica deteriorada.",
+    "veredicto": "vender",
+    "confianza": "media",
+    "resumen": "La debilidad técnica en el sector tecnológico y sus medias móviles sugieren presión bajista.",
     "a_favor": [
-     "Rebote puntual en la última sesión."
+     "Intento de rebote en la última sesión."
     ],
     "en_contra": [
-     "Distanciado negativamente de sus medias móviles de 20, 50 y 200 sesiones."
+     "Cotiza por debajo de su media de 200 sesiones y la tendencia es mixta."
     ]
    }
   },
@@ -334,12 +339,12 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "El mercado total de EE.UU. muestra resiliencia moderada a largo plazo.",
+    "resumen": "Muestra una estructura estable de mercado total aunque con restricciones de corto plazo.",
     "a_favor": [
-     "Conserva una cotización superior a la media de 200 sesiones."
+     "Se mantiene por encima de la media de 200 sesiones."
     ],
     "en_contra": [
-     "Tendencia de corto plazo debilitada por debajo de las medias de 20 y 50 sesiones."
+     "Las medias móviles de 20 y 50 sesiones siguen superando el precio actual."
     ]
    }
   },
@@ -347,30 +352,30 @@
    "symbol": "APC.DE",
    "nombre": "Apple",
    "grupo": "Acciones",
-   "precio": 309.0,
+   "precio": 307.55,
    "moneda": "EUR",
-   "d1": -0.1,
-   "m1": 2.35,
-   "y1": 31.24,
+   "d1": -0.47,
+   "m1": 3.15,
+   "y1": 32.14,
    "tecnico": {
-    "pct_desde_max_52s": -1.5,
-    "pct_sobre_min_52s": 46.48,
-    "pct_vs_sma20": 0.36,
-    "pct_vs_sma50": 4.16,
-    "pct_vs_sma200": 18.83,
+    "pct_desde_max_52s": -1.96,
+    "pct_sobre_min_52s": 45.79,
+    "pct_vs_sma20": -0.17,
+    "pct_vs_sma50": 3.42,
+    "pct_vs_sma200": 18.06,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "comprar",
     "confianza": "alta",
-    "resumen": "Apple destaca por su gran fortaleza y cercanía a máximos de 52 semanas.",
+    "resumen": "Apple muestra una gran solidez técnica con una tendencia alcista muy bien sostenida.",
     "a_favor": [
-     "Tendencia alcista muy sólida con cotización holgada por encima de todas las medias móviles.",
-     "A poca distancia de sus máximos anuales."
+     "Gran distancia positiva respecto a la media móvil de 200 sesiones.",
+     "Tendencia claramente alcista y cerca de máximos anuales."
     ],
     "en_contra": [
-     "Ligero retroceso diario inapreciable en la tendencia general."
+     "Leve descenso en la última sesión analizada."
     ]
    }
   },
@@ -394,13 +399,14 @@
    "con_veredicto": true,
    "senal": {
     "veredicto": "comprar",
-    "confianza": "media",
-    "resumen": "Microsoft mantiene una estructura alcista sólida a pesar de la volatilidad reciente.",
+    "confianza": "alta",
+    "resumen": "Microsoft mantiene un perfil técnico muy sólido respaldado por sus medias de largo plazo.",
     "a_favor": [
-     "Se mantiene claramente por encima de la media de 200 sesiones y la de 50."
+     "Excelente comportamiento frente a la media de 200 sesiones.",
+     "Tendencia alcista confirmada por las reglas técnicas."
     ],
     "en_contra": [
-     "Cotiza ligeramente por debajo de la media de 20 sesiones."
+     "Pequeña corrección en la sesión diaria."
     ]
    }
   },
@@ -423,14 +429,14 @@
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "mantener",
-    "confianza": "baja",
-    "resumen": "NVIDIA presenta un cuadro técnico débil a pesar de intentos de rebote diario.",
+    "veredicto": "vender",
+    "confianza": "media",
+    "resumen": "NVIDIA atraviesa una fase de clara debilidad técnica por debajo de sus medias principales.",
     "a_favor": [
-     "Variación positiva en el día."
+     "Repunte puntual en la sesión más reciente."
     ],
     "en_contra": [
-     "Se encuentra muy por debajo de sus medias móviles y con tendencia mixta."
+     "Se encuentra muy por debajo de la media de 200 sesiones y su tendencia es mixta."
     ]
    }
   },
@@ -453,14 +459,14 @@
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "mantener",
+    "veredicto": "comprar",
     "confianza": "media",
-    "resumen": "Amazon muestra estabilidad al cotizar por encima de todas sus medias móviles.",
+    "resumen": "Amazon muestra buen tono técnico al superar sus medias de corto y largo plazo.",
     "a_favor": [
-     "Supera las medias de 20, 50 y 200 sesiones."
+     "Tendencia alcista con precios por encima de las medias de 20, 50 y 200 sesiones."
     ],
     "en_contra": [
-     "Se sitúa a una distancia prudencial de sus máximos de 52 semanas."
+     "Se encuentra a cierta distancia de sus máximos de 52 semanas."
     ]
    }
   },
@@ -485,12 +491,12 @@
    "senal": {
     "veredicto": "vender",
     "confianza": "alta",
-    "resumen": "Alphabet muestra una clara tendencia bajista y se aleja de sus referencias clave.",
+    "resumen": "Alphabet presenta una clara tendencia bajista y se aleja peligrosamente de sus referencias alcistas.",
     "a_favor": [
-     "Intento de recuperación en la última sesión."
+     "Ligero repunte en la última sesión."
     ],
     "en_contra": [
-     "Tendencia bajista declarada y cotización muy por debajo de todas las medias móviles."
+     "Tendencia bajista definida y cotización muy por debajo de la media de 200 sesiones."
     ]
    }
   },
@@ -513,14 +519,14 @@
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "mantener",
-    "confianza": "baja",
-    "resumen": "Meta presenta un escenario técnico mixto con dudas en el medio plazo.",
+    "veredicto": "vender",
+    "confianza": "media",
+    "resumen": "Meta muestra un perfil técnico deteriorado con tendencia mixta y cotización bajo medias.",
     "a_favor": [
-     "Pequeño avance diario."
+     "Leve recuperación en la sesión diaria."
     ],
     "en_contra": [
-     "Cotiza por debajo de su media de 200 sesiones y en tendencia mixta."
+     "Se sitúa por debajo de la media móvil de 200 sesiones."
     ]
    }
   },
@@ -544,13 +550,13 @@
    "con_veredicto": true,
    "senal": {
     "veredicto": "vender",
-    "confianza": "media",
-    "resumen": "Tesla continúa bajo presión bajista a pesar de rebotes puntuales.",
+    "confianza": "alta",
+    "resumen": "Tesla acumula debilidad estructural con tendencia bajista y gran distancia a sus máximos.",
     "a_favor": [
-     "Fuerte subida en la última sesión diaria."
+     "Rebote notable en la última sesión."
     ],
     "en_contra": [
-     "Tendencia bajista consolidada y cotización inferior a la media de 200 sesiones."
+     "Tendencia bajista confirmada y cotización por debajo de la media de 200 sesiones."
     ]
    }
   },
@@ -575,12 +581,12 @@
    "senal": {
     "veredicto": "mantener",
     "confianza": "baja",
-    "resumen": "Los datos técnicos de SpaceX son incompletos y muestran alta volatilidad.",
+    "resumen": "Faltan datos clave de medias a largo plazo y la tendencia no está definida.",
     "a_favor": [
-     "Fuerte repunte porcentual en la sesión diaria."
+     "Fuerte subida en la sesión diaria."
     ],
     "en_contra": [
-     "Ausencia de media de 200 sesiones y tendencia general no definida."
+     "Ausencia de datos en la media de 200 sesiones y tendencia nula."
     ]
    }
   },
@@ -588,29 +594,29 @@
    "symbol": "BTC-USD",
    "nombre": "Bitcoin",
    "grupo": "Criptomonedas",
-   "precio": 75882.92,
+   "precio": 74470.14,
    "moneda": "USD",
-   "d1": 0.18,
-   "m1": -7.48,
-   "y1": -25.81,
+   "d1": -0.15,
+   "m1": -9.02,
+   "y1": -28.89,
    "tecnico": {
-    "pct_desde_max_52s": -28.41,
-    "pct_sobre_min_52s": 29.58,
-    "pct_vs_sma20": -3.98,
-    "pct_vs_sma50": -7.19,
-    "pct_vs_sma200": 3.7,
+    "pct_desde_max_52s": -29.74,
+    "pct_sobre_min_52s": 27.17,
+    "pct_vs_sma20": -5.19,
+    "pct_vs_sma50": -8.74,
+    "pct_vs_sma200": 1.8,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
     "confianza": "baja",
-    "resumen": "Bitcoin muestra tendencia alcista técnica pero contrasta con el miedo extremo del mercado cripto.",
+    "resumen": "Bitcoin combina una tendencia alcista técnica con un fuerte miedo en el sentimiento cripto.",
     "a_favor": [
-     "Se mantiene por encima de la media móvil de 200 sesiones."
+     "Mantiene la tendencia alcista y cotiza sobre la media de 200 sesiones."
     ],
     "en_contra": [
-     "Sentimiento de mercado en zona de 'Fear' (28) y cotizando bajo las medias de 20 y 50 sesiones."
+     "El índice Fear and Greed se encuentra en zona de miedo (29)."
     ]
    }
   },
@@ -618,29 +624,29 @@
    "symbol": "ETH-USD",
    "nombre": "Ethereum",
    "grupo": "Criptomonedas",
-   "precio": 2238.27,
+   "precio": 2116.79,
    "moneda": "USD",
-   "d1": 0.09,
-   "m1": -7.08,
-   "y1": -34.18,
+   "d1": -0.2,
+   "m1": -11.98,
+   "y1": -40.92,
    "tecnico": {
-    "pct_desde_max_52s": -37.52,
-    "pct_sobre_min_52s": 43.04,
-    "pct_vs_sma20": -3.32,
-    "pct_vs_sma50": -9.87,
-    "pct_vs_sma200": 3.86,
-    "tendencia": "alcista"
+    "pct_desde_max_52s": -40.92,
+    "pct_sobre_min_52s": 35.27,
+    "pct_vs_sma20": -7.67,
+    "pct_vs_sma50": -14.31,
+    "pct_vs_sma200": -1.7,
+    "tendencia": "mixta"
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "mantener",
-    "confianza": "baja",
-    "resumen": "Ethereum combina un soporte de largo plazo con un sentimiento general muy cauto.",
+    "veredicto": "vender",
+    "confianza": "media",
+    "resumen": "Ethereum muestra debilidad técnica y un sentimiento de mercado muy desfavorable.",
     "a_favor": [
-     "Conserva la media de 200 sesiones a pesar de las correcciones."
+     "Leve intento de estabilización diaria."
     ],
     "en_contra": [
-     "Entorno de miedo en criptomonedas y medias de corto plazo presionando a la baja."
+     "Estructura mixta bajo la media de 200 sesiones y fuerte miedo en criptomonedas."
     ]
    }
   },
@@ -648,29 +654,29 @@
    "symbol": "SOL-USD",
    "nombre": "Solana",
    "grupo": "Criptomonedas",
-   "precio": 89.62,
+   "precio": 86.62,
    "moneda": "USD",
-   "d1": -0.05,
-   "m1": -13.85,
-   "y1": -43.32,
+   "d1": 0.44,
+   "m1": -17.45,
+   "y1": -47.33,
    "tecnico": {
-    "pct_desde_max_52s": -46.45,
-    "pct_sobre_min_52s": 44.11,
-    "pct_vs_sma20": -7.97,
-    "pct_vs_sma50": -16.45,
-    "pct_vs_sma200": 0.69,
-    "tendencia": "alcista"
+    "pct_desde_max_52s": -48.25,
+    "pct_sobre_min_52s": 39.28,
+    "pct_vs_sma20": -9.98,
+    "pct_vs_sma50": -18.83,
+    "pct_vs_sma200": -2.66,
+    "tendencia": "mixta"
    },
    "con_veredicto": true,
    "senal": {
-    "veredicto": "mantener",
-    "confianza": "baja",
-    "resumen": "Solana sufre fuertes descensos anuales en un contexto de mercado adverso.",
+    "veredicto": "vender",
+    "confianza": "media",
+    "resumen": "Solana presenta caídas pronunciadas y un contexto técnico negativo.",
     "a_favor": [
-     "Se mantiene ligeramente sobre la media de 200 sesiones."
+     "Pequeña subida en la última sesión."
     ],
     "en_contra": [
-     "Gran caída desde máximos y sentimiento cripto desfavorable."
+     "Gran distancia respecto a máximos y cotización por debajo de la media de 200 sesiones."
     ]
    }
   },
@@ -678,29 +684,29 @@
    "symbol": "GC=F",
    "nombre": "Oro",
    "grupo": "Materias primas",
-   "precio": 4074.9,
+   "precio": 4134.3,
    "moneda": "USD",
-   "d1": -0.94,
-   "m1": -1.97,
-   "y1": -1.14,
+   "d1": 1.46,
+   "m1": -1.94,
+   "y1": 0.3,
    "tecnico": {
-    "pct_desde_max_52s": -23.38,
-    "pct_sobre_min_52s": 4.51,
-    "pct_vs_sma20": -0.14,
-    "pct_vs_sma50": -3.68,
-    "pct_vs_sma200": -9.48,
+    "pct_desde_max_52s": -22.26,
+    "pct_sobre_min_52s": 6.04,
+    "pct_vs_sma20": 1.38,
+    "pct_vs_sma50": -2.09,
+    "pct_vs_sma200": -8.07,
     "tendencia": "bajista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "vender",
     "confianza": "media",
-    "resumen": "El oro muestra debilidad técnica al cotizar por debajo de sus medias principales.",
+    "resumen": "El oro muestra debilidad al cotizar por debajo de su media de 200 sesiones con tendencia bajista.",
     "a_favor": [
-     "Leve retroceso diario controlado."
+     "Rebote positivo en la sesión más reciente."
     ],
     "en_contra": [
-     "Tendencia bajista y cotización inferior a las medias de 50 y 200 sesiones."
+     "Tendencia bajista y precio inferior a la media de 200 sesiones."
     ]
    }
   },
@@ -708,29 +714,29 @@
    "symbol": "BZ=F",
    "nombre": "Petróleo Brent",
    "grupo": "Materias primas",
-   "precio": 98.32,
+   "precio": 93.69,
    "moneda": "USD",
-   "d1": 0.03,
-   "m1": -5.72,
-   "y1": 53.48,
+   "d1": -4.71,
+   "m1": -10.53,
+   "y1": 46.25,
    "tecnico": {
-    "pct_desde_max_52s": -16.92,
-    "pct_sobre_min_52s": 66.87,
-    "pct_vs_sma20": -9.31,
-    "pct_vs_sma50": -5.65,
-    "pct_vs_sma200": 5.33,
+    "pct_desde_max_52s": -20.84,
+    "pct_sobre_min_52s": 59.01,
+    "pct_vs_sma20": -13.06,
+    "pct_vs_sma50": -10.17,
+    "pct_vs_sma200": 0.22,
     "tendencia": "alcista"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
     "confianza": "media",
-    "resumen": "El petróleo Brent conserva soporte a largo plazo a pesar de correcciones recientes.",
+    "resumen": "El petróleo Brent mantiene soporte a largo plazo a pesar de las fuertes caídas recientes.",
     "a_favor": [
-     "Se mantiene por encima de la media de 200 sesiones."
+     "Se mantiene por encima de la media móvil de 200 sesiones."
     ],
     "en_contra": [
-     "Las medias de corto plazo reflejan presión bajista."
+     "Fuerte descenso en la última sesión y cotización muy por debajo de las medias cortas."
     ]
    }
   },
@@ -738,29 +744,29 @@
    "symbol": "CL=F",
    "nombre": "Petróleo WTI",
    "grupo": "Materias primas",
-   "precio": 90.83,
+   "precio": 86.85,
    "moneda": "USD",
-   "d1": 0.34,
-   "m1": -0.72,
-   "y1": 51.06,
+   "d1": -4.38,
+   "m1": -5.44,
+   "y1": 44.44,
    "tecnico": {
-    "pct_desde_max_52s": -19.58,
-    "pct_sobre_min_52s": 64.34,
-    "pct_vs_sma20": -7.33,
-    "pct_vs_sma50": -4.86,
-    "pct_vs_sma200": 4.21,
-    "tendencia": "alcista"
+    "pct_desde_max_52s": -23.11,
+    "pct_sobre_min_52s": 57.14,
+    "pct_vs_sma20": -11.08,
+    "pct_vs_sma50": -9.09,
+    "pct_vs_sma200": -0.5,
+    "tendencia": "mixta"
    },
    "con_veredicto": true,
    "senal": {
     "veredicto": "mantener",
-    "confianza": "media",
-    "resumen": "El petróleo WTI mantiene una estructura similar al Brent con respaldo a largo plazo.",
+    "confianza": "baja",
+    "resumen": "El petróleo WTI muestra una tendencia mixta y presión bajista de corto plazo.",
     "a_favor": [
-     "Cotiza por encima de la media de 200 sesiones."
+     "Sólida rentabilidad acumulada en el año."
     ],
     "en_contra": [
-     "Se encuentra por debajo de las medias de 20 y 50 sesiones."
+     "Fuerte caída diaria y cotización por debajo de la media de 200 sesiones."
     ]
    }
   },
@@ -768,17 +774,17 @@
    "symbol": "EURUSD=X",
    "nombre": "EUR/USD",
    "grupo": "Divisas",
-   "precio": 1.1143,
+   "precio": 1.1198,
    "moneda": "USD",
-   "d1": -0.82,
-   "m1": -0.52,
-   "y1": -3.08,
+   "d1": -0.27,
+   "m1": -0.13,
+   "y1": -3.0,
    "tecnico": {
-    "pct_desde_max_52s": -7.28,
-    "pct_sobre_min_52s": 0.12,
-    "pct_vs_sma20": -0.5,
-    "pct_vs_sma50": -1.86,
-    "pct_vs_sma200": -3.48,
+    "pct_desde_max_52s": -6.82,
+    "pct_sobre_min_52s": 0.61,
+    "pct_vs_sma20": -0.01,
+    "pct_vs_sma50": -1.31,
+    "pct_vs_sma200": -2.98,
     "tendencia": "bajista"
    },
    "con_veredicto": false,
@@ -788,17 +794,17 @@
    "symbol": "^TNX",
    "nombre": "Bono USA 10 años (rendimiento)",
    "grupo": "Bonos y riesgo",
-   "precio": 4.859,
+   "precio": 4.839,
    "moneda": "USD",
-   "d1": 0.45,
-   "m1": -7.11,
-   "y1": 18.71,
+   "d1": -0.41,
+   "m1": -7.72,
+   "y1": 17.74,
    "tecnico": {
-    "pct_desde_max_52s": -8.51,
-    "pct_sobre_min_52s": 22.64,
-    "pct_vs_sma20": -3.35,
-    "pct_vs_sma50": -3.46,
-    "pct_vs_sma200": 6.48,
+    "pct_desde_max_52s": -8.89,
+    "pct_sobre_min_52s": 22.14,
+    "pct_vs_sma20": -3.37,
+    "pct_vs_sma50": -3.9,
+    "pct_vs_sma200": 5.97,
     "tendencia": "alcista"
    },
    "con_veredicto": false,
@@ -808,17 +814,17 @@
    "symbol": "^VIX",
    "nombre": "VIX (volatilidad)",
    "grupo": "Bonos y riesgo",
-   "precio": 25.64,
+   "precio": 22.97,
    "moneda": "USD",
-   "d1": -9.01,
-   "m1": 66.39,
-   "y1": 31.49,
+   "d1": -10.41,
+   "m1": 54.78,
+   "y1": 30.51,
    "tecnico": {
-    "pct_desde_max_52s": -17.42,
-    "pct_sobre_min_52s": 90.35,
-    "pct_vs_sma20": 36.18,
-    "pct_vs_sma50": 51.52,
-    "pct_vs_sma200": 39.38,
+    "pct_desde_max_52s": -26.02,
+    "pct_sobre_min_52s": 70.53,
+    "pct_vs_sma20": 19.54,
+    "pct_vs_sma50": 34.46,
+    "pct_vs_sma200": 24.64,
     "tendencia": "mixta"
    },
    "con_veredicto": false,
