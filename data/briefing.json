@@ -1,90 +1,91 @@
 {
- "actualizado": "2026-11-10T13:39:33+00:00",
+ "actualizado": "2026-11-11T12:51:33+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Sesión de fuertes ganancias bursátiles globales a pesar de la presión inflacionista y el retroceso cripto",
-  "resumen": "Los principales índices bursátiles internacionales registraron importantes subidas liderados por el sector tecnológico y de grandes corporaciones, destacando el Nasdaq 100 y Meta. No obstante, este optimismo convive con un dato de inflación en EE. UU. superior al esperado y caídas generalizadas en el mercado de criptomonedas. Los datos muestran un fuerte tono verde en renta variable, aunque persisten tensiones inflacionistas que sugieren cautela.",
+  "titular": "Jornada de descensos en la tecnología y persistente presión inflacionista",
+  "resumen": "Los mercados estadounidenses cierran con caídas generalizadas, arrastrados por descensos notables en valores tecnológicos como NVIDIA y Microsoft, mientras los datos recientes de IPC caliente impulsan los rendimientos de los bonos y alimentan previsiones de endurecimiento de tipos por parte de la Fed. En el plano macroeconómico y de materias primas, destaca la subida del petróleo y el avance del Euríbor, reflejando tensiones de costes.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Fuerte rebote en la renta variable global",
-    "texto": "Los índices principales como el S&P 500 (2,35%), el Nasdaq 100 (3,40%), el Dow Jones (2,15%) y el Nikkei 225 (2,87%) cerraron con notables ganancias diarias. En Europa, el IBEX 35 acumula una subida superior al 7% desde finales de octubre tras un 'retest' de manual. Este movimiento alcista afectó positivamente a la mayoría de índices y ETFs principales del mercado.",
+    "titulo": "Fuerte corrección en el sector tecnológico y NVIDIA",
+    "texto": "Las acciones tecnológicas sufrieron un retroceso significativo, destacando la caída del 5,47% en NVIDIA y del 2,2% en Microsoft, en un contexto de angustia en el mercado bursátil e inquietud sobre la valoración de la inteligencia artificial. Los datos muestran que el Nasdaq 100 cedió un 0,6% en el día. Esto podría indicar una rotación o cautela de los inversores ante los recientes desplomes en este sector.",
     "importancia": 5
    },
    {
-    "titulo": "Disparidad en el sector tecnológico y caídas en NVIDIA",
-    "texto": "Mientras grandes nombres como Meta (5,12%), Tesla (5,54%), Amazon (2,94%) y Microsoft (2,75%) empujaron al alza, NVIDIA sufrió un retroceso del 4,27%. Los datos muestran que el sector tecnológico mantiene un comportamiento mixto donde el optimismo general convive con correcciones puntuales en gigantes de semiconductores.",
+    "titulo": "Presión alcista en los rendimientos de los bonos y tipos de interés",
+    "texto": "El rendimiento del bono estadounidense a 10 años subió un 2,45% hasta situarse en el 4,983%, tras unos datos de IPC calientes que han llevado a entidades como Goldman Sachs a pronosticar un endurecimiento adicional por parte de la Reserva Federal. Los titulares recientes señalan división entre los funcionarios de la Fed sobre la velocidad para subir los tipos ante las presiones inflacionarias persistentes. Este movimiento afecta directamente a las condiciones financieras globales.",
+    "importancia": 5
+   },
+   {
+    "titulo": "Repunte en el petróleo y costes energéticos",
+    "texto": "El petróleo Brent experimentó un incremento del 2,11% hasta los 93,42 dólares, y el WTI subió un 1,52%, impulsados por la reducción en el suministro de combustible debido a la guerra en Irán. Las noticias también recogen que los costes de calefacción subirán un 7% en promedio este invierno en EE. UU., con subidas de hasta el 70% para quienes usan petróleo de calefacción. Este encarecimiento de materias primas refuerza el escenario de costes elevados.",
     "importancia": 4
    },
    {
-    "titulo": "Presión inflacionista en EE. UU. y la sombra de los tipos",
-    "texto": "El IPC estadounidense de octubre subió un 0,4%, superando las expectativas, con la tasa subyacente aumentando un 0,3%. Esto provocó que un funcionario de la Reserva Federal planteara la perspectiva de una subida de tipos de medio punto porcentual y que el rendimiento del bono estadounidense a 10 años subiera hasta el 4,907%. Este escenario afecta directamente a la renta fija y podría condicionar las futuras valoraciones de activos de riesgo.",
-    "importancia": 5
-   },
-   {
-    "titulo": "Desacoplamiento y descensos en criptomonedas",
-    "texto": "Las criptomonedas se desmarcaron del rebote bursátil con descensos notables liderados por Ethereum (-3,19%), Solana (-2,86%) y Bitcoin (-1,88%). El indicador 'Fear and Greed' se sitúa en terreno de miedo (valor 32), acompañado de salidas de capital en ETFs y una reducción de tenencias por parte de mineros como MARA.",
+    "titulo": "El Euríbor continúa al alza en Europa",
+    "texto": "En el ámbito europeo, el Euríbor escala de nuevo y sitúa su media provisional mensual en el 3,262% para el mes de noviembre. A pesar de este incremento en los costes hipotecarios, los principales índices europeos mostraron tono mixto con avances moderados como el del DAX (+0,75%) y el Euro Stoxx 50 (+0,66%). Los datos reflejan que la economía europea navega entre la persistencia de los tipos y la evolución de sus mercados locales.",
     "importancia": 3
    },
    {
-    "titulo": "Preparativos para la OPV de Anthropic",
-    "texto": "La compañía de inteligencia artificial Anthropic ha fijado los detalles para su esperada salida a bolsa, apuntando a una valoración de hasta 1,33 billones de dólares y buscando recaudar una cifra récord de hasta 64.000 millones. Los datos reflejan que esta operación genera una intensa atención en un momento de alta volatilidad para el sector tecnológico y de la IA.",
-    "importancia": 4
+    "titulo": "Comportamiento estable de Bitcoin y cautela en cripto",
+    "texto": "Bitcoin se mantiene en torno a los 73.941 dólares con una variación moderada del 0,3% en el día, aparentando no inmutarse ante el IPC caliente mientras las salidas de los ETF se extienden a su cuarto día. El índice Fear & Greed de criptomonedas se sitúa en 29, reflejando un sentimiento de miedo. La capitalización total del mercado cripto registra un descenso del 4,37% en las últimas 24 horas.",
+    "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución del rendimiento del bono estadounidense a 10 años",
-   "Flujos de salida en los ETFs de Bitcoin y comportamiento de las criptomonedas",
-   "Noticias adicionales sobre la OPV de Anthropic y su impacto en el sector tecnológico"
+   "Evolución de los rendimientos del bono estadounidense a 10 años y posibles movimientos de la Fed",
+   "Comportamiento de las acciones del sector de inteligencia artificial, especialmente NVIDIA",
+   "Precios del petróleo Brent y WTI ante el conflicto en Irán y su impacto en la inflación"
   ],
   "proximos": [
-   "Salida a bolsa (IPO) de Anthropic prevista para la próxima semana",
-   "Nuevos informes y declaraciones de miembros de la Reserva Federal sobre política de tipos"
+   "Nuevos datos macroeconómicos sobre inflación y decisiones de tipos de la Reserva Federal",
+   "Evolución de los flujos de salida en los ETFs de Bitcoin",
+   "Actualizaciones sobre las negociaciones de rescate de Poundland"
   ],
-  "nota_riesgo": "El nivel de riesgo general es moderado-alto. Aunque la renta variable muestra fortaleza compradora, la persistencia de una inflación superior a la prevista en EE. UU., el aumento en los rendimientos de los bonos y el miedo en el mercado criptográfico aconsejan mantener la prudencia ante posibles giros de volatilidad."
+  "nota_riesgo": "El nivel de riesgo general se mantiene elevado, reflejado por un índice VIX en niveles de cautela, la presión al alza en los rendimientos de la deuda soberana y una marcada corrección en los valores tecnológicos clave. Se aconseja prudencia y un seguimiento estricto de la evolución de la inflación."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -13.82,
-   "resumen": "Tus títulos acumulan una rentabilidad de -13,82%, a pesar de que las noticias recientes recogen subidas superiores al 3% tras los resultados trimestrales. Los titulares destacan la confirmación de la fecha de lanzamiento de GTA VI para el 19 de noviembre, las optimistas previsiones del CEO sobre la demanda y la mejora de las previsiones anuales, sin que se mencionen motivos específicos en la prensa para la caída acumulada.",
+   "pl_pct": -9.54,
+   "resumen": "A pesar de acumular una rentabilidad negativa del 9.54% desde tu compra, la acción ha mostrado subidas recientes del 4.96% impulsadas por unos resultados del segundo trimestre donde GTA VI sigue siendo el centro de atención. Los titulares destacan que las reservas anticipadas de este título superan los planes previstos, aunque la compañía prefiere mantener la prudencia antes del lanzamiento.",
    "noticias": [
     {
-     "titulo": "Take-Two: 3 Key Takeaways for Long-Term Investors",
+     "titulo": "Dear Take-Two Stock Fans, Mark Your Calendars for November 19",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.fool.com/earnings/takeaways/2026/11/10/take-two-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
-     "fecha": "2026-11-10T12:01:08+00:00"
+     "url": "https://finance.yahoo.com/markets/stocks/articles/dear-two-stock-fans-mark-111147379.html?.tsrc=rss",
+     "fecha": "2026-11-11T11:11:47+00:00"
     },
     {
-     "titulo": "Take-Two Shares Rise Over 3% After Quarterly Results as GTA VI November 19 Release Confirmed",
+     "titulo": "Take Two Interactive (TTWO) Stock Jumps As Q2 Results Keep GTA VI Central",
      "fuente": "Yahoo Finanzas",
-     "url": "https://investorshub.advfn.com/market-news/article/39611/take-two-shares-rise-over-3-after-quarterly-results-as-gta-vi-november-19-release-confirmed?.tsrc=rss",
-     "fecha": "2026-11-10T11:39:21+00:00"
+     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-ttwo-stock-jumps-011026269.html?.tsrc=rss",
+     "fecha": "2026-11-11T01:10:26+00:00"
     },
     {
-     "titulo": "Nvidia, Hims & Hers, JBS, Take-Two, and More Stocks That Explain Today’s Market",
+     "titulo": "Take-Two isn’t ready to ‘declare victory’ on GTA 6 before launch",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/m/7a09187f-b3a7-3224-bf52-479775b74718/nvidia%2C-hims-%26-hers%2C-jbs%2C.html?.tsrc=rss",
-     "fecha": "2026-11-10T11:24:00+00:00"
+     "url": "https://www.thestreet.com/investing/take-two-gta-6-declare-victory-preorders?.tsrc=rss",
+     "fecha": "2026-11-10T21:33:00+00:00"
     },
     {
-     "titulo": "Take-Two Stock Jumps as CEO Calls the Next Grand Theft Auto ‘Uncharted Territory’",
+     "titulo": "Why Take-Two Stock's Got Game Today",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/m/457ed0a7-b63f-3e41-93e7-96b39163f026/take-two-stock-jumps-as-ceo.html?.tsrc=rss",
-     "fecha": "2026-11-10T09:50:00+00:00"
+     "url": "https://www.fool.com/investing/2026/11/10/why-take-two-stock-s-got-game-today/?.tsrc=rss",
+     "fecha": "2026-11-10T18:59:57+00:00"
     },
     {
-     "titulo": "GTA VI Preorders ‘Far In Excess Of Expectations…Numbers Will Speak Soon’ — CEO Boosts Expectations As TTWO Lifts Annual Forecasts",
+     "titulo": "Take-Two Stocks Rise 4.96% as GTA VI Pre-Orders Track Far Above Plan",
      "fuente": "Yahoo Finanzas",
-     "url": "https://stocktwits.com/news-articles/markets/equity/gta-vi-preorders-far-in-excess-of-expectations-numbers-will-speak-soon-ceo-boosts-expectations-as-ttwo-lifts-annual-forecasts/cNGuacWR978?.tsrc=rss",
-     "fecha": "2026-11-10T08:13:12+00:00"
+     "url": "https://finance.yahoo.com/markets/stocks/articles/two-stocks-rise-4-96-184030617.html?.tsrc=rss",
+     "fecha": "2026-11-10T18:40:30+00:00"
     },
     {
-     "titulo": "Take-Two (TTWO) Q2 2027 Earnings Call Transcript",
+     "titulo": "Take-Two Interactive Software Stock Soars - Sparking Huge Unusual TTWO Put Option Volume",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.fool.com/earnings/call-transcripts/2026/11/10/take-two-ttwo-q2-2027-earnings-call-transcript/?.tsrc=rss",
-     "fecha": "2026-11-10T06:46:41+00:00"
+     "url": "https://www.barchart.com/story/news/8764054/take-two-interactive-software-stock-soars-sparking-huge-unusual-ttwo-put-option-volume?.tsrc=rss",
+     "fecha": "2026-11-10T18:30:04+00:00"
     }
    ]
   }
