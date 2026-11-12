@@ -1,91 +1,85 @@
 {
- "actualizado": "2026-11-11T12:51:33+00:00",
+ "actualizado": "2026-11-12T13:54:05+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de descensos en la tecnología y persistente presión inflacionista",
-  "resumen": "Los mercados estadounidenses cierran con caídas generalizadas, arrastrados por descensos notables en valores tecnológicos como NVIDIA y Microsoft, mientras los datos recientes de IPC caliente impulsan los rendimientos de los bonos y alimentan previsiones de endurecimiento de tipos por parte de la Fed. En el plano macroeconómico y de materias primas, destaca la subida del petróleo y el avance del Euríbor, reflejando tensiones de costes.",
+  "titular": "Incertidumbre en Nvidia sacude el sector tecnológico mientras la volatilidad sube y el mercado cripto y el oro retroceden",
+  "resumen": "Los inversores vigilan de cerca la situación en torno a Jensen Huang en Nvidia, lo que ha provocado caídas en la compañía y un repunte de la volatilidad (VIX). A pesar de ello, el Nasdaq 100 y el S&P 500 registraron ganancias diarias, mientras que las criptomonedas y el oro cerraron con descensos.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Fuerte corrección en el sector tecnológico y NVIDIA",
-    "texto": "Las acciones tecnológicas sufrieron un retroceso significativo, destacando la caída del 5,47% en NVIDIA y del 2,2% en Microsoft, en un contexto de angustia en el mercado bursátil e inquietud sobre la valoración de la inteligencia artificial. Los datos muestran que el Nasdaq 100 cedió un 0,6% en el día. Esto podría indicar una rotación o cautela de los inversores ante los recientes desplomes en este sector.",
+    "titulo": "Incertidumbre en la cúpula de Nvidia y su impacto",
+    "texto": "Las noticias sobre que el consejo de administración de Nvidia está considerando el futuro de su consejero delegado, Jensen Huang, provocaron caídas en la compañía y titulares sobre el riesgo para el ecosistema de inteligencia artificial. Los datos muestran que Nvidia subió un 2,87% en el día, pero acumula fuertes descensos mensuales (-23,98%), reflejando la alta sensibilidad del sector tecnológico ante este liderazgo.",
     "importancia": 5
    },
    {
-    "titulo": "Presión alcista en los rendimientos de los bonos y tipos de interés",
-    "texto": "El rendimiento del bono estadounidense a 10 años subió un 2,45% hasta situarse en el 4,983%, tras unos datos de IPC calientes que han llevado a entidades como Goldman Sachs a pronosticar un endurecimiento adicional por parte de la Reserva Federal. Los titulares recientes señalan división entre los funcionarios de la Fed sobre la velocidad para subir los tipos ante las presiones inflacionarias persistentes. Este movimiento afecta directamente a las condiciones financieras globales.",
-    "importancia": 5
-   },
-   {
-    "titulo": "Repunte en el petróleo y costes energéticos",
-    "texto": "El petróleo Brent experimentó un incremento del 2,11% hasta los 93,42 dólares, y el WTI subió un 1,52%, impulsados por la reducción en el suministro de combustible debido a la guerra en Irán. Las noticias también recogen que los costes de calefacción subirán un 7% en promedio este invierno en EE. UU., con subidas de hasta el 70% para quienes usan petróleo de calefacción. Este encarecimiento de materias primas refuerza el escenario de costes elevados.",
+    "titulo": "Repunte destacado de la volatilidad en el mercado",
+    "texto": "El índice de volatilidad VIX experimentó un fuerte incremento del 8,40% en el día, situándose en 18,96 puntos. Este movimiento objetivo refleja un aumento en la cautela de los inversores ante los acontecimientos recientes, a pesar de que los principales índices bursátiles estadounidenses como el S&P 500 (+1,31%) y el Nasdaq 100 (+2,28%) cerraron en verde.",
     "importancia": 4
    },
    {
-    "titulo": "El Euríbor continúa al alza en Europa",
-    "texto": "En el ámbito europeo, el Euríbor escala de nuevo y sitúa su media provisional mensual en el 3,262% para el mes de noviembre. A pesar de este incremento en los costes hipotecarios, los principales índices europeos mostraron tono mixto con avances moderados como el del DAX (+0,75%) y el Euro Stoxx 50 (+0,66%). Los datos reflejan que la economía europea navega entre la persistencia de los tipos y la evolución de sus mercados locales.",
+    "titulo": "Corrección generalizada en criptomonedas y oro",
+    "texto": "Los activos refugio tradicionales y los digitales sufrieron descensos en la sesión. El oro retrocedió un 2,24% hasta los 3.910,90 dólares, mientras que Bitcoin (-2,06%), Ethereum (-2,34%) y Solana (-2,37%) registraron pérdidas en un contexto donde la capitalización total cripto cayó un 4,33% y el sentimiento de mercado se mantiene en 'Fear' (28).",
     "importancia": 3
    },
    {
-    "titulo": "Comportamiento estable de Bitcoin y cautela en cripto",
-    "texto": "Bitcoin se mantiene en torno a los 73.941 dólares con una variación moderada del 0,3% en el día, aparentando no inmutarse ante el IPC caliente mientras las salidas de los ETF se extienden a su cuarto día. El índice Fear & Greed de criptomonedas se sitúa en 29, reflejando un sentimiento de miedo. La capitalización total del mercado cripto registra un descenso del 4,37% en las últimas 24 horas.",
+    "titulo": "Rendimiento de los bonos y divisa",
+    "texto": "El bono estadounidense a 10 años registró un rendimiento del 5,05% con un ascenso diario del 1,04%. Por su parte, el cruce de divisas EUR/USD cayó un 0,74% hasta cotizar en 1.1086, mostrando fortaleza en el dólar frente a la moneda europea en la jornada.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución de los rendimientos del bono estadounidense a 10 años y posibles movimientos de la Fed",
-   "Comportamiento de las acciones del sector de inteligencia artificial, especialmente NVIDIA",
-   "Precios del petróleo Brent y WTI ante el conflicto en Irán y su impacto en la inflación"
+   "Evolución de la situación de Jensen Huang al frente de Nvidia y sus posibles repercusiones en el sector de inteligencia artificial",
+   "Comportamiento del índice de volatilidad VIX tras su repunte diario del 8,40%",
+   "Niveles de soporte en Bitcoin y el mercado cripto con un sentimiento de miedo en 28"
   ],
   "proximos": [
-   "Nuevos datos macroeconómicos sobre inflación y decisiones de tipos de la Reserva Federal",
-   "Evolución de los flujos de salida en los ETFs de Bitcoin",
-   "Actualizaciones sobre las negociaciones de rescate de Poundland"
+   "Posibles anuncios oficiales sobre la sucesión o continuidad en la dirección de Nvidia",
+   "Nuevos datos sobre flujos de salida en ETFs de criptomonedas"
   ],
-  "nota_riesgo": "El nivel de riesgo general se mantiene elevado, reflejado por un índice VIX en niveles de cautela, la presión al alza en los rendimientos de la deuda soberana y una marcada corrección en los valores tecnológicos clave. Se aconseja prudencia y un seguimiento estricto de la evolución de la inflación."
+  "nota_riesgo": "El nivel de riesgo general se eleva de forma moderada debido al repunte de la volatilidad (VIX en 18,96) y las tensiones específicas en torno a grandes actores tecnológicos, combinados con correcciones en criptomonedas y materias primas."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -9.54,
-   "resumen": "A pesar de acumular una rentabilidad negativa del 9.54% desde tu compra, la acción ha mostrado subidas recientes del 4.96% impulsadas por unos resultados del segundo trimestre donde GTA VI sigue siendo el centro de atención. Los titulares destacan que las reservas anticipadas de este título superan los planes previstos, aunque la compañía prefiere mantener la prudencia antes del lanzamiento.",
+   "pl_pct": -6.15,
+   "resumen": "Tus títulos acumulan una caída del 6,15% desde la compra. Las noticias de hoy giran en torno al revuelo por el inminente lanzamiento de GTA VI y los mensajes del CEO a los inversores, aunque los titulares señalan dudas sobre si el potencial alcista ya está descontado en precio o si los rendimientos serán menores que en el pasado.",
    "noticias": [
     {
-     "titulo": "Dear Take-Two Stock Fans, Mark Your Calendars for November 19",
+     "titulo": "Take Two Interactive Software (TTWO) Rallies On GTA VI Buzz, Is The Upside Already Priced In?",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/dear-two-stock-fans-mark-111147379.html?.tsrc=rss",
-     "fecha": "2026-11-11T11:11:47+00:00"
+     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-ttwo-rallies-001950321.html?.tsrc=rss",
+     "fecha": "2026-11-12T00:19:50+00:00"
     },
     {
-     "titulo": "Take Two Interactive (TTWO) Stock Jumps As Q2 Results Keep GTA VI Central",
+     "titulo": "GTA VI Is Days Away: Don't Expect GTA V-Style Returns From Take-Two Stock at 5.7 Times Sales",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-ttwo-stock-jumps-011026269.html?.tsrc=rss",
-     "fecha": "2026-11-11T01:10:26+00:00"
+     "url": "https://www.fool.com/investing/2026/11/11/gta-vi-days-away-don-t-expect-gta-v-style-returns-from-take-two-stock-at-5-7-times-sales/?.tsrc=rss",
+     "fecha": "2026-11-11T22:31:02+00:00"
     },
     {
-     "titulo": "Take-Two isn’t ready to ‘declare victory’ on GTA 6 before launch",
+     "titulo": "JPMorgan names top Mid & Small Cap stock pick",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.thestreet.com/investing/take-two-gta-6-declare-victory-preorders?.tsrc=rss",
-     "fecha": "2026-11-10T21:33:00+00:00"
+     "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-names-top-mid-small-201832036.html?.tsrc=rss",
+     "fecha": "2026-11-11T20:18:32+00:00"
     },
     {
-     "titulo": "Why Take-Two Stock's Got Game Today",
+     "titulo": "Take-Two's Zelnick on Success of the GTA Franchise",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.fool.com/investing/2026/11/10/why-take-two-stock-s-got-game-today/?.tsrc=rss",
-     "fecha": "2026-11-10T18:59:57+00:00"
+     "url": "https://finance.yahoo.com/video/twos-zelnick-success-gta-franchise-191053524.html?.tsrc=rss",
+     "fecha": "2026-11-11T19:10:53+00:00"
     },
     {
-     "titulo": "Take-Two Stocks Rise 4.96% as GTA VI Pre-Orders Track Far Above Plan",
+     "titulo": "Take-Two CEO sends strong message to investors ahead of GTA 6",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-stocks-rise-4-96-184030617.html?.tsrc=rss",
-     "fecha": "2026-11-10T18:40:30+00:00"
+     "url": "https://www.thestreet.com/investing/take-two-ceo-strong-message-gta-6-investors?.tsrc=rss",
+     "fecha": "2026-11-11T18:33:00+00:00"
     },
     {
-     "titulo": "Take-Two Interactive Software Stock Soars - Sparking Huge Unusual TTWO Put Option Volume",
+     "titulo": "Is Take-Two Still The Business You Bought?",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.barchart.com/story/news/8764054/take-two-interactive-software-stock-soars-sparking-huge-unusual-ttwo-put-option-volume?.tsrc=rss",
-     "fecha": "2026-11-10T18:30:04+00:00"
+     "url": "https://www.trefis.com/stock/ttwo/articles/624348/is-take-two-still-the-business-you-bought/2026-11-11?.tsrc=rss",
+     "fecha": "2026-11-11T17:54:04+00:00"
     }
    ]
   }
