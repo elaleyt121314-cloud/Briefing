@@ -1,85 +1,80 @@
 {
- "actualizado": "2026-11-13T13:17:27+00:00",
+ "actualizado": "2026-11-14T12:22:29+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Presión en renta variable tecnológica y criptomonedas mientras los bonos de EE. UU. y la inflación centran la atención",
-  "resumen": "Los principales índices bursátiles registran ligeros descensos diarios pero cierran una semana positiva en general. Las caídas más acusadas se concentran en NVIDIA, arrastrada por la salida de su consejero delegado, y en el mercado de criptomonedas, que entra en zonas de miedo extremo. Por su parte, la rentabilidad del bono estadounidense a 10 años repunta en un contexto marcado por expectativas de mayor tensión inflacionista.",
+  "titular": "Jornada de signo mixto en los mercados con moderadas correcciones tecnológicas y alta volatilidad en criptomonedas",
+  "resumen": "Los principales índices de Wall Street cerraron la sesión con descensos ligeros, destacando el retroceso del Nasdaq 100 (-1,22%), mientras que la renta variable europea y asiática mantuvieron un tono más plano o ligeramente positivo. El mercado cripto mantiene el pulso en niveles de miedo extremo (Fear and Greed en 13) con caídas en activos como Solana y Bitcoin, y el VIX subió un 3,21%.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Caídas en NVIDIA tras la salida de su consejero delegado",
-    "texto": "Las acciones de NVIDIA han sufrido un descenso del 4,34% en la jornada y acumulan recortes en su cotización tras confirmarse la salida de su CEO, Jensen Huang. Los datos señalan que la compañía ha perdido cerca de 500.000 millones de dólares en valor de mercado esta semana, afectando también al sentimiento en torno a la inteligencia artificial. No obstante, las noticias indican que esta turbulencia específica no se ha contagiado de forma generalizada al resto de la bolsa, que registra un balance semanal positivo.",
+    "titulo": "Corrección en el sector tecnológico y caídas prolongadas de NVIDIA",
+    "texto": "El Nasdaq 100 cayó un 1,22% arrastrado por descensos en grandes tecnológicas como Alphabet (-0,98%) y NVIDIA (-2,01%). Los datos muestran que NVIDIA encadena caídas semanales significativas y borra capitalización bursátil en una racha negativa prolongada, afectando al sentimiento del sector. Las noticias señalan que esto ocurre en un contexto donde el atractivo a largo plazo de la inteligencia artificial convive con la volatilidad a corto plazo.",
     "importancia": 4
    },
    {
-    "titulo": "El mercado cripto sufre fuertes descensos y entra en 'miedo extremo'",
-    "texto": "Bitcoin ha registrado una caída diaria del 3,1% situándose por debajo de los 70.000 dólares (en torno a los 69.131 dólares), alcanzando mínimos de 12 semanas en medio de liquidaciones que superan los 1.600 millones de dólares. Ethereum también retrocede un 3,17%. El índice Fear & Greed de criptomonedas se sitúa en 20 puntos, reflejando un nivel de 'miedo extremo', impulsado por vientos en contra y un fortalecimiento general del dólar.",
+    "titulo": "Clima de miedo extremo y descensos generalizados en criptomonedas",
+    "texto": "El mercado de criptoactivos registra un índice de Fear and Greed situado en 13, lo que indica 'Extreme Fear'. En los datos de hoy, Bitcoin cede un 1,75%, Ethereum un 1,24% y Solana lidera las caídas con un retroceso del 3,13%. La capitalización total del mercado cripto disminuye un 6,41% en 24 horas, reflejando una presión vendedora continuada que afecta transversalmente a estos activos.",
     "importancia": 4
    },
    {
-    "titulo": "Presión alcista en la rentabilidad de los bonos y temores inflacionistas en EE. UU.",
-    "texto": "El rendimiento del bono estadounidense a 10 años ha repuntado un 2,1% diario hasta alcanzar el 5,103%, reflejando un ajuste en las expectativas de tipos de interés. Los datos macroeconómicos recientes muestran que la lectura de la inflación de octubre superó las previsiones al situarse en el 0,4% mensual, lo que lleva a la Reserva Federal a prepararse para un nuevo combate contra la subida de precios frente a los recortes de tipos inicialmente esperados.",
-    "importancia": 4
-   },
-   {
-    "titulo": "Incidencia global en los servicios de Microsoft",
-    "texto": "Microsoft se ha visto afectada por una caída mundial a nivel de software que ha interrumpido el funcionamiento de herramientas como Outlook, Teams y Copilot. Las acciones de la compañía han reaccionado a la baja en la preapertura y cotización bursátil. La empresa ha comunicado que los servicios están mejorando y que el incidente no ha sido provocado por un ataque de ciberseguridad, aunque los esfuerzos de solución han presentado dificultades.",
+    "titulo": "Repunte de la volatilidad (VIX) y de los rendimientos de la deuda soberana",
+    "texto": "El índice de volatilidad VIX experimentó un incremento diario del 3,21% hasta los 19,3 puntos, reflejando un aumento de la cautela en los mercados financieros. Paralelamente, el rendimiento del bono de EE. UU. a 10 años subió un 1,0% situándose en el 5,154%. Estos movimientos en renta fija y volatilidad sugieren un entorno de mayor vigilancia sobre las condiciones macroeconómicas y los tipos de interés.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución de la cotización de NVIDIA y estabilidad del sector tecnológico tras el cambio en su cúpula directiva.",
-   "Comportamiento de Bitcoin y el nivel de soporte en torno a los 60.000-70.000 dólares.",
-   "Evolución del rendimiento del bono de EE. UU. a 10 años y su impacto en las valoraciones de mercado."
+   "Evolución del índice de volatilidad VIX y su permanencia en niveles elevados",
+   "Comportamiento de las criptomonedas ante el índice de Fear and Greed en 13",
+   "Rendimiento del bono estadounidense a 10 años (actualmente en 5,15%)"
   ],
   "proximos": [
-   "Nuevos datos y declaraciones de la Reserva Federal sobre la evolución de la inflación y los tipos de interés.",
-   "Actualizaciones sobre la resolución completa de la incidencia global de software de Microsoft."
+   "Debut bursátil previsto de Anthropic en el Nasdaq el 19 de noviembre de 2026",
+   "Fijación del precio de la OPV de Anthropic la próxima semana"
   ],
-  "nota_riesgo": "El nivel de riesgo general es moderado-alto en activos específicos como criptomonedas y valores tecnológicos afectados por noticias corporativas, mientras que el mercado de renta fija refleja tensiones por la persistencia de la inflación en EE. UU."
+  "nota_riesgo": "El nivel de riesgo general se mantiene elevado a corto plazo, reflejado en el incremento de la volatilidad (VIX), el rendimiento de los bonos en el 5,15% y el sentimiento de miedo extremo en el mercado de criptomonedas, todo ello condicionado por correcciones en valores de gran capitalización tecnológica."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
    "pl_pct": -7.13,
-   "resumen": "Tu posición registra una rentabilidad negativa del 7,13% desde la compra. Los titulares de hoy giran en torno al enorme revuelo por el inminente lanzamiento de GTA VI, destacando tanto las altas expectativas de ventas de los analistas como el debate sobre si su potencial ya está descontado en el precio.",
+   "resumen": "Tu posición registra una rentabilidad del -7,13%. Los titulares recientes giran en torno al inminente lanzamiento de GTA 6, que acumula estimaciones de preventas millonarias y un gran impacto esperado, aunque las noticias no explican directamente la caída reciente de la acción.",
    "noticias": [
+    {
+     "titulo": "GTA 6's $1.9 billion test comes with a catch for gamers",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.thestreet.com/entertainment/gta-6s-1-9-billion-test-comes-with-a-catch-for-gamers?.tsrc=rss",
+     "fecha": "2026-11-14T02:03:00+00:00"
+    },
+    {
+     "titulo": "Earnings week scorecard: beats rewarded selectively as AI-infrastructure names pull back",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-week-scorecard-beats-rewarded-203315112.html?.tsrc=rss",
+     "fecha": "2026-11-13T20:33:15+00:00"
+    },
+    {
+     "titulo": "Is Citi Wrong to Give Up on Roblox? It Trades at 4.9x Sales, Below Its 5-Year Average",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.tikr.com/blog/is-citi-wrong-to-give-up-on-roblox-it-trades-at-4-9x-sales-below-its-5-year-average?ref=yahoofinance&tlnk=yf-261113-6q839m7r&.tsrc=rss",
+     "fecha": "2026-11-13T17:21:25+00:00"
+    },
+    {
+     "titulo": "GTA 6 Nears Launch With $1 Billion in Estimated Preorders: Bettors See 97% Chance of Record First-Day Sales",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63248840/gta-6-preorders?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+     "fecha": "2026-11-13T16:05:56+00:00"
+    },
+    {
+     "titulo": "This Video Game Publisher Has a Huge Catalyst Looming",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/video-game-publisher-huge-catalyst-151500741.html?.tsrc=rss",
+     "fecha": "2026-11-13T15:15:00+00:00"
+    },
     {
      "titulo": "Kalshi is hiring a 'GTA VI Researcher' to livestream the game and study its economy",
      "fuente": "Yahoo Finanzas",
      "url": "https://finance.yahoo.com/technology/article/kalshi-is-hiring-a-gta-vi-researcher-to-livestream-the-game-and-study-its-economy-110000519.html?.tsrc=rss",
      "fecha": "2026-11-13T11:00:00+00:00"
-    },
-    {
-     "titulo": "Grand Theft Auto VI Makes Take-Two Stock Look Like a Steal",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/m/71d9f72e-471f-3b18-a9fd-e82af767e21b/grand-theft-auto-vi-makes.html?.tsrc=rss",
-     "fecha": "2026-11-13T01:35:00+00:00"
-    },
-    {
-     "titulo": "GTA 6 needs $1.9bn opening weekend to satisfy investors, says Bank of America",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.proactiveinvestors.com/companies/news/1101705/gta-6-needs-1-9bn-opening-weekend-to-satisfy-investors-says-bank-of-america-1101705.html?.tsrc=rss",
-     "fecha": "2026-11-12T19:12:00+00:00"
-    },
-    {
-     "titulo": "GTA VI Needs To Hit $1.9B In Sales To Meet Investor Expectations, Says BofA –  Analyst Sees 33% Potential Upside In TTWO Stock",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://stocktwits.com/news-articles/markets/equity/gta-vi-needs-to-hit-billion-in-sales-to-meet-investor-expectations-bofa/cNGCcZdR9az?.tsrc=rss",
-     "fecha": "2026-11-12T17:44:16+00:00"
-    },
-    {
-     "titulo": "Take Two Interactive Software (TTWO) Rallies On GTA VI Buzz, Is The Upside Already Priced In?",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-ttwo-rallies-001950321.html?.tsrc=rss",
-     "fecha": "2026-11-12T00:19:50+00:00"
-    },
-    {
-     "titulo": "GTA VI Is Days Away: Don't Expect GTA V-Style Returns From Take-Two Stock at 5.7 Times Sales",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.fool.com/investing/2026/11/11/gta-vi-days-away-don-t-expect-gta-v-style-returns-from-take-two-stock-at-5-7-times-sales/?.tsrc=rss",
-     "fecha": "2026-11-11T22:31:02+00:00"
     }
    ]
   }
