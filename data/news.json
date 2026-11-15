@@ -1,26 +1,201 @@
 {
- "actualizado": "2026-11-14T12:22:29+00:00",
+ "actualizado": "2026-11-15T12:52:45+00:00",
  "items": [
   {
-   "titulo": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
-   "resumen": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.",
+   "titulo": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
+   "resumen": "Charts show the potential for more pain ahead",
    "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
-   "fecha": "2026-11-14T12:00:00+00:00"
+   "url": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories",
+   "fecha": "2026-11-15T12:30:00+00:00"
   },
   {
-   "titulo": "This Man Stole $9 Million in Gold Bars on the Upper West Side, Police Say",
-   "resumen": "The victim, who believed his financial assets had been compromised, was the target of an online fraud scheme and believed he had to buy the precious metal, the authorities said.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/11/14/nyregion/gold-bars-scam-new-york-city.html",
-   "fecha": "2026-11-14T10:02:26+00:00"
+   "titulo": "La capitalización de las cotizadas españolas crece en casi 200.000 millones en un año",
+   "resumen": "La capitalización bursátil de las cotizadas en España ha finalizado octubre en los 1,707 billones de euros, lo que supone un crecimiento interanual del 12,86%, equivalente a 194.460 millones de euros, en comparación con el mismo mes de 2025, según las estadísticas de Bolsas y Mercados Españoles (BME).&nbsp;<a href=\"https://www.expansion.com/mercados/2026/11/15/capitalizacion-cotizadas-espanolas-cr",
+   "fuente": "Expansión Mercados",
+   "url": "https://www.expansion.com/mercados/2026/11/15/capitalizacion-cotizadas-espanolas-crece-200-000-millones-ano.html",
+   "fecha": "2026-11-15T11:54:49+00:00"
   },
   {
-   "titulo": "He Was China’s Man in Panama. Then He Became a Wanted Man.",
-   "resumen": "A Chinese businessman arrived in Panama with money and power. Then he sold a port when his luck turned. Now China wants him sent back.",
+   "titulo": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
+   "resumen": "The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some of which are clients of his former firm.",
+   "fuente": "NYT Economía",
+   "url": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-cantor-fitzgerald.html",
+   "fecha": "2026-11-15T10:02:05+00:00"
+  },
+  {
+   "titulo": "When Tech ‘Upgrades’ Go Awry",
+   "resumen": "Incidents involving Microsoft’s Outlook and the Federal Aviation Administration this past week demonstrated our dependence on fragile technology.",
    "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/11/14/business/zhang-liang-china-panama.html",
-   "fecha": "2026-11-14T10:00:32+00:00"
+   "url": "https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html",
+   "fecha": "2026-11-15T10:02:05+00:00"
+  },
+  {
+   "titulo": "Jensen Huang’s Downfall Brings Disbelief in Taiwan",
+   "resumen": "The Nvidia chief executive’s resignation shocked people in his birthplace, where he is called “the people’s dad.”",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
+   "fecha": "2026-11-15T10:01:57+00:00"
+  },
+  {
+   "titulo": "A Human Reads the Anthropic I.P.O. Filing",
+   "resumen": "The prospectus is unparalleled in its willingness to discuss existential risk. But does honesty bring comfort?",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
+   "fecha": "2026-11-15T10:01:56+00:00"
+  },
+  {
+   "titulo": "They Want to Be Doctors. Student Loan Caps Are Complicating Their Dreams.",
+   "resumen": "This year, the first class of medical students will begin their journey to becoming physicians under new rules limiting how much they can borrow for school.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/11/15/business/medical-school-student-loan-caps.html",
+   "fecha": "2026-11-15T10:01:41+00:00"
+  },
+  {
+   "titulo": "Behind the All-American Ralph Lauren Brand Is a French C.E.O.",
+   "resumen": "Patrice Louvet on working with Ralph Lauren, the man, winning over Generation Z and striking a balance between magic and logic.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/11/15/business/ralph-lauren-patrice-louvet.html",
+   "fecha": "2026-11-15T10:00:50+00:00"
+  },
+  {
+   "titulo": "In a Sloppified A.I. World, Only Humans Can Build ‘Ecosystems’",
+   "resumen": "The people ushering in the artificial intelligence revolution are also doubling down on in-person relationships in their own industry.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/11/15/business/tech-jobs-ai-ecosystem.html",
+   "fecha": "2026-11-15T10:00:14+00:00"
+  },
+  {
+   "titulo": "El Tesoro celebra el próximo jueves la última puja de noviembre",
+   "resumen": "El Tesoro Público español celebrará el próximo jueves día 19 la última subasta de noviembre, que será de bonos y obligaciones del Estado, después de colocar esta misma semana Letras a tres y nueve meses con un interés que apenas varió.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/11/15/tesoro-celebra-proximo-jueves-ultima-puja-noviembre.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrw",
+   "fuente": "Expansión Mercados",
+   "url": "https://www.expansion.com/mercados/2026/11/15/tesoro-celebra-proximo-jueves-ultima-puja-noviembre.html",
+   "fecha": "2026-11-15T09:52:35+00:00"
+  },
+  {
+   "titulo": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+   "fecha": "2026-11-15T02:50:57+00:00"
+  },
+  {
+   "titulo": "SpaceX Makes History With Successful Rocket Catch in Texas",
+   "resumen": "The Starship spacecraft returned from orbit to the same spot where it lifted off, marking a key milestone in SpaceX’s vision of building fully reusable rockets.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
+   "fecha": "2026-11-15T00:36:33+00:00"
+  },
+  {
+   "titulo": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+   "resumen": "The historic first gets SpaceX closer to “rapid reusability” of rockets.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
+   "fecha": "2026-11-15T00:33:00+00:00"
+  },
+  {
+   "titulo": "Beauty advent calendars can cost hundreds but are they value for money?",
+   "resumen": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-15T00:01:07+00:00"
+  },
+  {
+   "titulo": "Family Dollar to Pay $63 Million Settlement for Overcharging Customers",
+   "resumen": "Since 2023, the discount retailer has been overcharging shoppers “millions of dollars” at checkout, according to a complaint filed by federal regulators and 17 states.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/11/14/business/family-dollar-overcharging-settlement.html",
+   "fecha": "2026-11-14T23:20:04+00:00"
+  },
+  {
+   "titulo": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+   "resumen": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+   "fecha": "2026-11-14T21:31:00+00:00"
+  },
+  {
+   "titulo": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+   "resumen": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+   "fecha": "2026-11-14T21:00:00+00:00"
+  },
+  {
+   "titulo": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+   "resumen": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+   "fecha": "2026-11-14T20:00:00+00:00"
+  },
+  {
+   "titulo": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+   "resumen": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+   "fecha": "2026-11-14T19:30:00+00:00"
+  },
+  {
+   "titulo": "Los fondos de inversión que arrasan en Europa en 2026",
+   "resumen": "La incertidumbre domina las decisiones de inversión en Europa, con fuertes entradas de dinero en fondos conservadores. La Bolsa logra atraer capital de manera selectiva.&nbsp;<a href=\"https://www.expansion.com/mercados/fondos/2026/11/14/fondos-inversion-arrasan-europa-2026.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci",
+   "fuente": "Expansión Mercados",
+   "url": "https://www.expansion.com/mercados/fondos/2026/11/14/fondos-inversion-arrasan-europa-2026.html",
+   "fecha": "2026-11-14T18:42:47+00:00"
+  },
+  {
+   "titulo": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+   "resumen": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+   "fecha": "2026-11-14T18:30:00+00:00"
+  },
+  {
+   "titulo": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+   "resumen": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+   "fecha": "2026-11-14T18:00:00+00:00"
+  },
+  {
+   "titulo": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+   "fecha": "2026-11-14T16:33:29+00:00"
+  },
+  {
+   "titulo": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+   "fecha": "2026-11-14T16:33:23+00:00"
+  },
+  {
+   "titulo": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+   "fecha": "2026-11-14T15:38:27+00:00"
+  },
+  {
+   "titulo": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
+   "fecha": "2026-11-14T15:00:00+00:00"
+  },
+  {
+   "titulo": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
+   "fecha": "2026-11-14T13:00:00+00:00"
+  },
+  {
+   "titulo": "A behind the scenes force may amplify bitcoin and ether price volatility",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+   "fecha": "2026-11-14T12:57:00+00:00"
   },
   {
    "titulo": "Microsoft says services fully restored after day-long global outage",
@@ -30,186 +205,11 @@
    "fecha": "2026-11-14T06:42:27+00:00"
   },
   {
-   "titulo": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-   "resumen": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-   "fecha": "2026-11-14T05:01:06+00:00"
-  },
-  {
    "titulo": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
    "resumen": "",
    "fuente": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
    "fecha": "2026-11-14T04:30:00+00:00"
-  },
-  {
-   "titulo": "Las ‘stablecoin’, en el centro del debate de la regulación MiCA",
-   "resumen": "Autoridades como la EBA y el BCE, sumadas a actores del sector, han situado a las monedas estables a la cabeza de matices que hay que revisar de la normativa MiCA de criptoactivos.&nbsp;<a href=\"https://www.expansion.com/mercados/criptomonedas/2026/11/14/stablecoin-centro-debate-regulacion-mica.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;c",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/criptomonedas/2026/11/14/stablecoin-centro-debate-regulacion-mica.html",
-   "fecha": "2026-11-14T03:28:21+00:00"
-  },
-  {
-   "titulo": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
-   "resumen": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-   "fecha": "2026-11-14T02:42:00+00:00"
-  },
-  {
-   "titulo": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
-   "resumen": "The federal government had planned to require poor adults to prove they were working or lose insurance coverage starting Jan. 1. Now, it will let states wait until July.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
-   "fecha": "2026-11-14T02:22:25+00:00"
-  },
-  {
-   "titulo": "14 dividend stocks selected for long-term growth",
-   "resumen": "These stocks feature attractive dividend payouts and are trading low to the companies’ intrinsic value, according to John Buckingham of Value87 Investment Partners.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
-   "fecha": "2026-11-14T01:58:00+00:00"
-  },
-  {
-   "titulo": "El atractivo de la IA sigue intacto a largo plazo",
-   "resumen": "El escándalo del CEO de Nvidia y la victoria demócrata en las elecciones de EEUU son obstáculos y generan volatilidad a corto plazo. Pero los expertos creen que el atractivo del negocio se mantiene..&nbsp;<a href=\"https://www.expansion.com/mercados/2026/11/14/atractivo-ia-sigue-intacto-plazo.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=r",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/2026/11/14/atractivo-ia-sigue-intacto-plazo.html",
-   "fecha": "2026-11-14T01:57:50+00:00"
-  },
-  {
-   "titulo": "Guía para acudir a la OPV de Anthropic",
-   "resumen": "La creadora de Claude está previsto que debute en el Nasdaq el 19 de noviembre. El precio se fijará el próximo miércoles. La horquilla orientativa oscila entre los 70 y 78 dólares por acción.&nbsp;<a href=\"https://www.expansion.com/inversion/2026/11/14/guia-acudir-opv-anthropic.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&a",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/inversion/2026/11/14/guia-acudir-opv-anthropic.html",
-   "fecha": "2026-11-14T01:15:51+00:00"
-  },
-  {
-   "titulo": "Mellody Hobson, la voz de la diversidad en Wall Street",
-   "resumen": "Dirige Ariel Investments, una de las mayores gestoras de fondos propiedad de personas negras.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/11/14/mellody-hobson-voz-diversidad-wall-street.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/mercados.xml\" />",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/2026/11/14/mellody-hobson-voz-diversidad-wall-street.html",
-   "fecha": "2026-11-14T00:37:20+00:00"
-  },
-  {
-   "titulo": "Qué esperar de los valores tecnológicos",
-   "resumen": "Los gigantes tecnológicos, que tradicionalmente han sobresalido por su capacidad de generación de caja libre y por su extraordinaria liquidez, multiplican sus inversiones y tensan sus balances.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/11/14/esperar-valores-tecnologicos.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansi",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/2026/11/14/esperar-valores-tecnologicos.html",
-   "fecha": "2026-11-14T00:34:26+00:00"
-  },
-  {
-   "titulo": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-   "fecha": "2026-11-13T23:30:00+00:00"
-  },
-  {
-   "titulo": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-   "resumen": "There is already a demographic ‘run’ on Social Security.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-   "fecha": "2026-11-13T23:12:00+00:00"
-  },
-  {
-   "titulo": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
-   "resumen": "As market uncertainty deepens, investment banks are on a roadshow to sell investors on what could be the largest public offering ever.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
-   "fecha": "2026-11-13T22:46:15+00:00"
-  },
-  {
-   "titulo": "4 expert tips for signing up for Medicare",
-   "resumen": "A day in the life of a Medicare counselor",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
-   "fecha": "2026-11-13T22:45:00+00:00"
-  },
-  {
-   "titulo": "Microsoft’s Global Outage and Fixes: What We Know",
-   "resumen": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-   "fecha": "2026-11-13T22:30:40+00:00"
-  },
-  {
-   "titulo": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
-   "resumen": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
-   "fecha": "2026-11-13T22:21:00+00:00"
-  },
-  {
-   "titulo": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
-   "resumen": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
-   "fecha": "2026-11-13T22:04:00+00:00"
-  },
-  {
-   "titulo": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-   "resumen": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-   "fecha": "2026-11-13T22:00:00+00:00"
-  },
-  {
-   "titulo": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
-   "resumen": "A prolonged outage left many without email and other services, the most recent reminder that the world’s technological underpinnings rely on just a few companies.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
-   "fecha": "2026-11-13T21:28:58+00:00"
-  },
-  {
-   "titulo": "AI risks are the biggest threat to the financial system, Fed survey finds",
-   "resumen": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
-   "fuente": "CNBC Economía",
-   "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-   "fecha": "2026-11-13T21:18:30+00:00"
-  },
-  {
-   "titulo": "Why Jensen Huang Was Essential to Nvidia’s Rise",
-   "resumen": "Jensen Huang was the driving force at Nvidia, with 60 direct reports and no clear succession plan. Tripp Mickle, one of our technology reporters, examines Mr. Huang’s central role in the company and the artificial intelligence industry.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
-   "fecha": "2026-11-13T20:14:05+00:00"
-  },
-  {
-   "titulo": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-   "resumen": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-   "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-13T19:53:57+00:00"
-  },
-  {
-   "titulo": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
-   "fecha": "2026-11-13T18:39:58+00:00"
-  },
-  {
-   "titulo": "Why is Microsoft's outage lasting so long and will emails be lost?",
-   "resumen": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-   "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-13T18:36:57+00:00"
-  },
-  {
-   "titulo": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-   "resumen": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
-   "fuente": "CNBC Economía",
-   "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-   "fecha": "2026-11-13T17:06:57+00:00"
-  },
-  {
-   "titulo": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
-   "fecha": "2026-11-13T17:05:43+00:00"
   }
  ]
 }
