@@ -1,49 +1,62 @@
 {
- "actualizado": "2026-11-15T12:52:45+00:00",
+ "actualizado": "2026-11-16T13:52:22+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de signo mixto con caídas en el sector tecnológico y rebote moderado en criptomonedas",
-  "resumen": "Los principales índices de renta variable cerraron con movimientos dispares, destacando el retroceso del Nasdaq 100 (-1,22%) arrastrado por caídas como la de NVIDIA. En contraste, las criptomonedas registraron subidas moderadas a pesar de mantener un sentimiento generalizado de miedo extremo en el mercado. Por su parte, la volatilidad (VIX) subió un 3,21% y el bono estadounidense a 10 años se situó en el 5,154%.",
+  "titular": "Jornada de corrección moderada en los mercados bursátiles y cripto con repunte de la volatilidad",
+  "resumen": "Los principales índices de renta variable y las criptomonedas registran descensos en un contexto de mayor aversión al riesgo. El índice de volatilidad VIX experimenta un repunte significativo, mientras que los mercados de criptomonedas muestran niveles de miedo extremo según sus indicadores de sentimiento.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Corrección en el sector tecnológico y caídas en NVIDIA",
-    "texto": "El índice tecnológico Nasdaq 100 experimentó un descenso del 1,22% en la sesión, presionado por el comportamiento negativo de algunas de sus principales acciones. Entre ellas destacó el retroceso de NVIDIA, que cayó un 2,01% en el día y acumula una bajada del 12,75% en la semana y del 25,03% en el mes. Alphabet también cerró a la baja con un descenso del 0,98%.",
+    "titulo": "Aumento de la volatilidad y descensos en índices bursátiles",
+    "texto": "El índice de volatilidad VIX sube un 7,10% hasta los 20,67 puntos, reflejando cautela entre los inversores. En cuanto a los mercados de renta variable, el S&P 500 cede un 0,40% y el Nasdaq 100 retrocede un 1,22%. En los mercados internacionales destaca la caída del Nikkei 225 japonés, que desciende un 2,42%.",
     "importancia": 4
    },
    {
-    "titulo": "Rebote intradía en criptomonedas en un entorno de miedo extremo",
-    "texto": "A pesar de que el indicador 'Fear and Greed' para criptomonedas señala un nivel de 'Extreme Fear' (10) y de que los datos muestran salidas de capital y descensos acumulados mensuales notables, los principales activos digitales rebotaron en la sesión. Bitcoin avanzó un 2,01%, Ethereum un 3,54% y Solana un 3,70%. Los datos reflejan que la capitalización total del mercado cripto se sitúa en 2,21 billones de dólares.",
+    "titulo": "Corrección generalizada en el sector tecnológico y caídas en NVIDIA",
+    "texto": "Las acciones del sector tecnológico muestran debilidad, con NVIDIA cayendo un 2,01% en medio de noticias sobre la dirección de la compañía y debates en torno a su cúpula directiva. Por su parte, Alphabet baja un 0,98%, mientras que Meta contrasta la tendencia general con una subida del 2,90%. Estas variaciones afectan directamente a los fondos cotizados tecnológicos como el Invesco QQQ.",
     "importancia": 4
    },
    {
-    "titulo": "Repunte de la volatilidad y del rendimiento de los bonos",
-    "texto": "El índice de volatilidad VIX aumentó un 3,21% hasta los 19,3 puntos, reflejando cierta cautela en los mercados. En el mercado de renta fija, el rendimiento del bono estadounidense a 10 años repuntó un 1,00% diario para situarse en el 5,154%, mientras que el bono a 2 años marca un 4,88%.",
-    "importancia": 3
+    "titulo": "Tensión y miedo extremo en el mercado de criptomonedas",
+    "texto": "El mercado de criptomonedas atraviesa una sesión claramente bajista con Bitcoin perdiendo un 1,67% (situándose en 64.214 dólares) y Ethereum cediendo un 1,85%. La criptomoneda Solana cae un 2,49%. El indicador de sentimiento 'Fear and Greed' se sitúa en un nivel de 10, lo que denota 'Miedo Extremo' en el ecosistema cripto.",
+    "importancia": 5
    },
    {
-    "titulo": "Comportamiento dispar en la renta variable internacional",
-    "texto": "Mientras el S&P 500 retrocedió un 0,40%, el Dow Jones mostró estabilidad con un ligero ascenso del 0,10%. En Europa, el Euro Stoxx 50 y el DAX alemán registraron descensos muy moderados del 0,19% y 0,08% respectivamente, y el IBEX 35 español avanzó un 0,27%. En Asia, el Nikkei 225 subió un 0,53%.",
+    "titulo": "Comportamiento mixto en materias primas y divisas",
+    "texto": "Las materias primas energéticas registran descensos, con el petróleo Brent bajando un 1,66% hasta los 94,25 dólares y el WTI cediendo un 1,03%. El oro retrocede un moderado 0,36%. En el mercado de divisas, el cruce EUR/USD desciende un 0,35%, situándose en 1,1012.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución del índice de volatilidad VIX por encima de los 19 puntos",
-   "Rendimiento del bono estadounidense a 10 años tras alcanzar el 5,15%",
-   "Sentimiento de mercado y flujos de capital en el sector de criptomonedas"
+   "Evolución del índice de volatilidad VIX por encima de los 20 puntos",
+   "Comportamiento de Bitcoin y el mantenimiento de soportes en el mercado cripto",
+   "Nivel de rendimiento del bono estadounidense a 10 años, situado en el 5,143%"
   ],
   "proximos": [
-   "Próxima subasta de bonos y obligaciones del Tesoro Público español prevista para el jueves 19 de noviembre"
+   "Posibles novedades sobre la cúpula directiva y planes de futuro en NVIDIA",
+   "Evolución de los precios del petróleo Brent y WTI en torno a los niveles actuales"
   ],
-  "nota_riesgo": "El nivel de riesgo se mantiene elevado debido a la persistencia del miedo extremo en criptomonedas, el ascenso en la volatilidad (VIX) y los rendimientos elevados de la deuda estadounidense, lo que exige prudencia en la asignación de activos."
+  "nota_riesgo": "El repunte del VIX por encima de 20 y el indicador de miedo extremo en criptomonedas (valor de 10) reflejan un incremento en la cautela a corto plazo. Conviene mantener la disciplina de inversión y evitar decisiones precipitadas basadas en el ruido diario del mercado."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -7.13,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 7,13%. Los titulares destacan que el lanzamiento de GTA 6 se acerca con estimaciones de grandes preventas e ingresos millonarios, aunque también señalan desafíos, competencia de atención por parte de Sony y discusiones sobre el valor oculto de la acción frente a otros títulos del sector.",
+   "pl_pct": -4.81,
+   "resumen": "Tus títulos acumulan una caída del 4,81% desde la compra. Aunque los titulares destacan los fuertes ingresos y preventas de Grand Theft Auto VI, también señalan el gran desafío financiero que esto supone y sugieren que otros actores, como Sony, podrían captar parte de ese éxito.",
    "noticias": [
+    {
+     "titulo": "Zacks Investment Ideas feature highlights: Take-Two Interactive",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-074300955.html?.tsrc=rss",
+     "fecha": "2026-11-16T07:43:00+00:00"
+    },
+    {
+     "titulo": "Grand Theft Auto Revs Up Big Revenue",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.thedailyupside.com/industries/media-entertainment/grand-theft-auto-revs-up-big-revenue/?.tsrc=rss",
+     "fecha": "2026-11-15T05:01:00+00:00"
+    },
     {
      "titulo": "Forget Take-Two: Sony Is the Overlooked Winner of GTA VI’s Huge Preorders",
      "fuente": "Yahoo Finanzas",
@@ -67,18 +80,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://www.marketbeat.com/articles/game-on-the-hidden-value-in-take-twos-stock/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
      "fecha": "2026-11-13T18:15:00+00:00"
-    },
-    {
-     "titulo": "Is Citi Wrong to Give Up on Roblox? It Trades at 4.9x Sales, Below Its 5-Year Average",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.tikr.com/blog/is-citi-wrong-to-give-up-on-roblox-it-trades-at-4-9x-sales-below-its-5-year-average?ref=yahoofinance&tlnk=yf-261113-6q839m7r&.tsrc=rss",
-     "fecha": "2026-11-13T17:21:25+00:00"
-    },
-    {
-     "titulo": "GTA 6 Nears Launch With $1 Billion in Estimated Preorders: Bettors See 97% Chance of Record First-Day Sales",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63248840/gta-6-preorders?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-     "fecha": "2026-11-13T16:05:56+00:00"
     }
    ]
   }
