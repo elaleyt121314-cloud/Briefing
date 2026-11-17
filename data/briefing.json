@@ -1,85 +1,86 @@
 {
- "actualizado": "2026-11-16T13:52:22+00:00",
+ "actualizado": "2026-11-17T14:45:02+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de corrección moderada en los mercados bursátiles y cripto con repunte de la volatilidad",
-  "resumen": "Los principales índices de renta variable y las criptomonedas registran descensos en un contexto de mayor aversión al riesgo. El índice de volatilidad VIX experimenta un repunte significativo, mientras que los mercados de criptomonedas muestran niveles de miedo extremo según sus indicadores de sentimiento.",
+  "titular": "Jornada de cautela global ante la expectativa por los resultados de Nvidia",
+  "resumen": "Los mercados cierran con descensos generalizados mientras los inversores mantienen una postura defensiva. La atención está centrada en la próxima presentación de resultados de Nvidia, un evento clave para el sector tecnológico y el sentimiento del mercado.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Aumento de la volatilidad y descensos en índices bursátiles",
-    "texto": "El índice de volatilidad VIX sube un 7,10% hasta los 20,67 puntos, reflejando cautela entre los inversores. En cuanto a los mercados de renta variable, el S&P 500 cede un 0,40% y el Nasdaq 100 retrocede un 1,22%. En los mercados internacionales destaca la caída del Nikkei 225 japonés, que desciende un 2,42%.",
-    "importancia": 4
-   },
-   {
-    "titulo": "Corrección generalizada en el sector tecnológico y caídas en NVIDIA",
-    "texto": "Las acciones del sector tecnológico muestran debilidad, con NVIDIA cayendo un 2,01% en medio de noticias sobre la dirección de la compañía y debates en torno a su cúpula directiva. Por su parte, Alphabet baja un 0,98%, mientras que Meta contrasta la tendencia general con una subida del 2,90%. Estas variaciones afectan directamente a los fondos cotizados tecnológicos como el Invesco QQQ.",
-    "importancia": 4
-   },
-   {
-    "titulo": "Tensión y miedo extremo en el mercado de criptomonedas",
-    "texto": "El mercado de criptomonedas atraviesa una sesión claramente bajista con Bitcoin perdiendo un 1,67% (situándose en 64.214 dólares) y Ethereum cediendo un 1,85%. La criptomoneda Solana cae un 2,49%. El indicador de sentimiento 'Fear and Greed' se sitúa en un nivel de 10, lo que denota 'Miedo Extremo' en el ecosistema cripto.",
+    "titulo": "Expectativa por Nvidia",
+    "texto": "El mercado tecnológico muestra ansiedad ante los resultados de Nvidia, reflejando la importancia de la compañía en el sector. El Nasdaq 100 acumula un descenso significativo desde sus máximos de octubre, lo que subraya la sensibilidad de los inversores hacia este reporte.",
     "importancia": 5
    },
    {
-    "titulo": "Comportamiento mixto en materias primas y divisas",
-    "texto": "Las materias primas energéticas registran descensos, con el petróleo Brent bajando un 1,66% hasta los 94,25 dólares y el WTI cediendo un 1,03%. El oro retrocede un moderado 0,36%. En el mercado de divisas, el cruce EUR/USD desciende un 0,35%, situándose en 1,1012.",
+    "titulo": "Presión en la renta fija y política monetaria",
+    "texto": "El rendimiento del bono estadounidense a 10 años sube hasta el 5,14%, influenciado por declaraciones de miembros de la Fed que sugieren posibles subidas de tipos adicionales. Este entorno de tipos más altos presiona a los índices bursátiles, especialmente al Dow Jones y al Nasdaq.",
+    "importancia": 4
+   },
+   {
+    "titulo": "Debilidad en índices internacionales",
+    "texto": "Los mercados europeos y asiáticos han registrado caídas notables, con el Nikkei 225 cediendo un 1,34% y el Euro Stoxx 50 un 1,25%. Esta tendencia bajista refleja una aversión al riesgo global que también afecta a las bolsas locales como el IBEX 35.",
     "importancia": 3
+   },
+   {
+    "titulo": "Repunte en el sector energético",
+    "texto": "El petróleo Brent y el WTI muestran ganancias superiores al 1,5% en la sesión. A pesar de este movimiento diario, ambos activos mantienen una tendencia negativa acumulada en el último mes.",
+    "importancia": 2
    }
   ],
   "vigilar": [
-   "Evolución del índice de volatilidad VIX por encima de los 20 puntos",
-   "Comportamiento de Bitcoin y el mantenimiento de soportes en el mercado cripto",
-   "Nivel de rendimiento del bono estadounidense a 10 años, situado en el 5,143%"
+   "Resultados trimestrales de Nvidia",
+   "Evolución del rendimiento del bono a 10 años",
+   "Niveles de volatilidad (VIX)",
+   "Sentimiento en el mercado de criptomonedas (Fear & Greed en 12)"
   ],
   "proximos": [
-   "Posibles novedades sobre la cúpula directiva y planes de futuro en NVIDIA",
-   "Evolución de los precios del petróleo Brent y WTI en torno a los niveles actuales"
+   "Conferencia de resultados de Nvidia",
+   "Audiencias sobre la política de chips en el sudeste asiático"
   ],
-  "nota_riesgo": "El repunte del VIX por encima de 20 y el indicador de miedo extremo en criptomonedas (valor de 10) reflejan un incremento en la cautela a corto plazo. Conviene mantener la disciplina de inversión y evitar decisiones precipitadas basadas en el ruido diario del mercado."
+  "nota_riesgo": "El nivel de riesgo es elevado, marcado por una volatilidad creciente en la última semana y un sentimiento de 'miedo extremo' en el sector cripto. La incertidumbre macroeconómica y la concentración de expectativas en un solo valor tecnológico sugieren prudencia."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -4.81,
-   "resumen": "Tus títulos acumulan una caída del 4,81% desde la compra. Aunque los titulares destacan los fuertes ingresos y preventas de Grand Theft Auto VI, también señalan el gran desafío financiero que esto supone y sugieren que otros actores, como Sony, podrían captar parte de ese éxito.",
+   "pl_pct": -11.15,
+   "resumen": "Tu posición acumula una rentabilidad del -11,15%. Las noticias de hoy giran en torno a la expectación por GTA VI, con analistas esperando más de lo que guía la propia compañía y dudas sobre si cumplir con las previsiones podría llegar a penalizar la acción.",
    "noticias": [
     {
-     "titulo": "Zacks Investment Ideas feature highlights: Take-Two Interactive",
+     "titulo": "Could A GTA VI That Meets Guidance Hurt Take-Two Stock?",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-074300955.html?.tsrc=rss",
-     "fecha": "2026-11-16T07:43:00+00:00"
+     "url": "https://www.trefis.com/stock/ttwo/articles/625217/could-a-gta-vi-that-meets-guidance-hurt-take-two-stock/2026-11-16?.tsrc=rss",
+     "fecha": "2026-11-17T11:29:48+00:00"
     },
     {
-     "titulo": "Grand Theft Auto Revs Up Big Revenue",
+     "titulo": "Why Analysts Expect Nearly 7% More Than Take-Two Does",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.thedailyupside.com/industries/media-entertainment/grand-theft-auto-revs-up-big-revenue/?.tsrc=rss",
-     "fecha": "2026-11-15T05:01:00+00:00"
+     "url": "https://www.trefis.com/stock/ttwo/articles/625598/why-analysts-expect-more-from-take-two-than-take-two-does/2026-11-17?.tsrc=rss",
+     "fecha": "2026-11-17T10:38:56+00:00"
     },
     {
-     "titulo": "Forget Take-Two: Sony Is the Overlooked Winner of GTA VI’s Huge Preorders",
+     "titulo": "Kalshi will pay someone $120,000 to play GTA VI starting at midnight on Nov. 19 — plus a $15,000 bonus",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.tikr.com/blog/forget-take-two-sony-is-the-overlooked-winner-of-gta-vis-huge-preorders?ref=yahoofinance&tlnk=yf-261114-x48mvw35&.tsrc=rss",
-     "fecha": "2026-11-14T12:19:18+00:00"
+     "url": "https://finance.yahoo.com/media-advertising/articles/kalshi-pay-someone-120-000-101500112.html?.tsrc=rss",
+     "fecha": "2026-11-17T10:15:00+00:00"
     },
     {
-     "titulo": "GTA 6's $1.9 billion test comes with a catch for gamers",
+     "titulo": "Zacks Industry Outlook Highlights Take-Two Interactive Software, Rush Street Interactive and Accel Entertainment",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.thestreet.com/entertainment/gta-6s-1-9-billion-test-comes-with-a-catch-for-gamers?.tsrc=rss",
-     "fecha": "2026-11-14T02:03:00+00:00"
+     "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-two-094800324.html?.tsrc=rss",
+     "fecha": "2026-11-17T09:48:00+00:00"
     },
     {
-     "titulo": "Earnings week scorecard: beats rewarded selectively as AI-infrastructure names pull back",
+     "titulo": "Roblox Is Down More Than 40% in 2026: Is GTA VI Week a Time to Sell, or Load Up?",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-week-scorecard-beats-rewarded-203315112.html?.tsrc=rss",
-     "fecha": "2026-11-13T20:33:15+00:00"
+     "url": "https://www.tikr.com/blog/roblox-is-down-more-than-40-in-2026-is-gta-vi-week-a-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261117-23xpr53h&.tsrc=rss",
+     "fecha": "2026-11-17T09:36:43+00:00"
     },
     {
-     "titulo": "Game On: The Hidden Value in Take-Two's Stock",
+     "titulo": "Take-Two isn’t the only stock with a stake in GTA 6",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.marketbeat.com/articles/game-on-the-hidden-value-in-take-twos-stock/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-     "fecha": "2026-11-13T18:15:00+00:00"
+     "url": "https://www.thestreet.com/investing/take-two-gta-6-who-else-gets-paid?.tsrc=rss",
+     "fecha": "2026-11-16T17:47:00+00:00"
     }
    ]
   }
