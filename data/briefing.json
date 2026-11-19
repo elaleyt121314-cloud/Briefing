@@ -1,86 +1,85 @@
 {
- "actualizado": "2026-11-18T14:23:55+00:00",
+ "actualizado": "2026-11-19T14:35:24+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada bajista generalizada en los mercados con correcciones en renta variable, materias primas y criptomonedas",
-  "resumen": "Los principales índices bursátiles y activos de riesgo cierran con descensos en una sesión marcada por caídas notables en el petróleo, el oro y las criptomonedas. El índice de volatilidad VIX retrocede un 6.05% situándose en 23.92, mientras que el sentimiento en el mercado cripto permanece en 'Extreme Fear' con un valor de 11. Los datos muestran un descenso generalizado en los precios de los principales mercados analizados.",
+  "titular": "Sesión de rebote en la tecnología estadounidense con un descenso notable de la volatilidad",
+  "resumen": "Los principales índices de Wall Street registraron avances liderados por el sector tecnológico, destacando Alphabet, NVIDIA y Microsoft. El índice de volatilidad VIX experimentó un retroceso significativo del 8,55%, situándose en 22,46 puntos. Mientras tanto, el mercado cripto mantiene un sentimiento de miedo extremo y el rendimiento del bono estadounidense a 10 años se mantiene en el entorno del 5,09%.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Descensos generalizados en índices y renta variable",
-    "texto": "Los principales índices de EE.UU. registran pérdidas diarias lideradas por el Dow Jones con un -1.64%, seguido por el S&P 500 (-1.03%) y el Nasdaq 100 (-0.72%). Dentro de las acciones individuales, Microsoft desciende un 2.27%, mientras que SpaceX destaca con una subida del 3.16%. Estas variaciones reflejan un tono bajista en los mercados de renta variable norteamericanos.",
+    "titulo": "Impulso notable en grandes tecnológicas y en el Nasdaq 100",
+    "texto": "Los activos tecnológicos registraron ganancias importantes en la sesión, con Alphabet subiendo un 4,24%, NVIDIA un 3,67%, Microsoft un 2,35% y el Nasdaq 100 un 2,17%. Estos movimientos se producen en un contexto de atención mediática y de mercado hacia la inminente salida a bolsa de Anthropic. Este comportamiento afecta directamente a los índices de renta variable estadounidense y a ETFs como el Invesco QQQ.",
     "importancia": 4
    },
    {
-    "titulo": "Caídas en materias primas: petróleo y oro",
-    "texto": "El mercado de materias primas sufre recortes importantes en la sesión. El Petróleo Brent cae un 3.26% hasta los 90.10 dólares y el WTI retrocede un 2.23% hasta los 84.09 dólares. Por su parte, el oro registra una bajada del 2.16%, situándose en 3,780.70 dólares por onza.",
-    "importancia": 4
-   },
-   {
-    "titulo": "Presión bajista y clima de miedo extremo en criptomonedas",
-    "texto": "El sector de criptoactivos continúa bajo presión con descensos diarios en Bitcoin (-1.52%), Ethereum (-1.79%) y Solana (-1.07%). La capitalización total del mercado cripto disminuye un 3.97% en 24 horas y el indicador Fear and Greed se mantiene en la categoría de 'Extreme Fear' con una puntuación de 11.",
+    "titulo": "Descenso de la volatilidad (VIX)",
+    "texto": "El indicador de volatilidad VIX cayó un 8,55% durante la jornada hasta los 22,46 puntos, aunque acumula subidas en el horizonte mensual y semanal. Este descenso diario refleja una menor presión compradora de seguros contra caídas en el corto plazo tras las recientes correcciones. Afecta de manera directa a la percepción general del riesgo en los mercados de derivados y renta variable.",
     "importancia": 3
    },
    {
-    "titulo": "Retroceso de la volatilidad y estabilidad en tipos",
-    "texto": "El índice VIX de volatilidad registra una bajada del 6.05% en el día, situándose en 23.92 puntos, a pesar de acumular subidas relevantes en la comparativa semanal y mensual. En renta fija, los datos del Tesoro de EE.UU. muestran el bono a 10 años en el 5.1% y el bono a 2 años en el 4.8%.",
+    "titulo": "Cautela continuada en el mercado de criptomonedas",
+    "texto": "El indicador Fear and Greed de criptomonedas se sitúa en un nivel de 10, reflejando una situación de 'Extreme Fear'. A pesar de ello, Bitcoin registra una ligera subida diaria del 1,27% cotizando por encima de los 63.700 dólares y Solana avanza un 2,32%. Los datos reflejan apetito dispar y salidas en determinados vehículos de inversión en criptomonedas según apuntan las noticias del sector.",
     "importancia": 3
+   },
+   {
+    "titulo": "Comportamiento mixto en materias primas energéticas y metales",
+    "texto": "El petróleo Brent retrocede un 1,64% hasta los 90,44 dólares por barril, mientras que el WTI muestra un ligero repunte del 0,41%. Por su parte, el oro desciende un 0,85% en la sesión, situándose en los 3.710 dólares. Estos movimientos inciden directamente en las valoraciones del sector de materias primas y en la lectura macroeconómica de costes energéticos.",
+    "importancia": 2
    }
   ],
   "vigilar": [
-   "Evolución de los precios del petróleo Brent y WTI tras las caídas superiores al 2%",
-   "Comportamiento de la volatilidad (VIX) y su permanencia en niveles elevados",
-   "Sentimiento de 'Extreme Fear' en el mercado de criptomonedas y los niveles de soporte de Bitcoin"
+   "Evolución del rendimiento del bono estadounidense a 10 años, que ronda el 5,09%",
+   "El comportamiento del índice VIX ante posibles cambios de sentimiento",
+   "Los flujos en torno a la OPV y debut de Anthropic en el Nasdaq"
   ],
   "proximos": [
-   "Posible cambio de política o decisiones sobre tipos de interés y la expectativa de un incremento de medio punto en diciembre",
-   "Evolución de las nuevas reglas de EE.UU. sobre la exportación de chips avanzados de IA a centros de datos en el sudeste asiático",
-   "Publicación de datos de inflación y su impacto en las previsiones energéticas y de coste de vida"
+   "Debut de Anthropic en el Nasdaq",
+   "Próximas decisiones y declaraciones sobre tipos de interés y amenazas de subidas por parte de la Reserva Federal"
   ],
-  "nota_riesgo": "El nivel de riesgo general se mantiene elevado, reflejado por un índice VIX por encima de 23 puntos, caídas simultáneas en renta variable, materias primas y criptomonedas, y un clima de miedo extremo en los activos digitales. Los datos muestran correcciones generalizadas que invitan a la prudencia."
+  "nota_riesgo": "El nivel de riesgo se mantiene elevado, reflejado por un índice VIX por encima de los 22 puntos y un índice de miedo extremo en criptomonedas en 10. Aunque la sesión muestra un respiro alcista en tecnología, los rendimientos de los bonos en torno al 5% y las tensiones geopolíticas exigen prudencia."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -12.22,
-   "resumen": "Tu posición acumula una rentabilidad del -12,22% desde la compra. Los titulares de hoy destacan que la acción perdió un 10% en dos días antes del lanzamiento de GTA VI, pero señalan también un repunte previo a la apertura gracias a las excelentes críticas y el inicio del despliegue global con fuertes reservas.",
+   "pl_pct": -13.91,
+   "resumen": "Tus títulos acumulan una rentabilidad negativa del 13,91% desde su compra. Hoy las noticias destacan el esperado lanzamiento de Grand Theft Auto VI por parte de Rockstar Games, aunque también se discute qué ha movido realmente la cotización de la acción y el impacto de otros eventos del mercado sin una conexión directa clara con dicha caída.",
    "noticias": [
     {
-     "titulo": "Take-Two Has Lost 10% in Two Days Before GTA VI. Here’s What the Stock Did After the Last Five Grand Theft Auto Launches",
+     "titulo": "Rockstar Games Releases Grand Theft Auto VI for PlayStation 5 and Xbox Series X|S",
      "fuente": "Yahoo Finanzas",
-     "url": "https://247wallst.com/investing/2026/11/18/take-two-has-lost-10-in-two-days-before-gta-vi-heres-what-the-stock-did-after-the-last-five-grand-theft-auto-launches/?.tsrc=rss",
-     "fecha": "2026-11-18T14:07:04+00:00"
+     "url": "https://investorshub.advfn.com/market-news/article/40357/rockstar-games-releases-grand-theft-auto-vi-for-playstation-5-and-xbox-series-xs?.tsrc=rss",
+     "fecha": "2026-11-19T13:34:45+00:00"
     },
     {
-     "titulo": "GTA 6 Draws Over 2.4M Twitch Viewers – TTWO Stock Jumps Pre-Market As Early Posts Indicate Rave Reviews",
+     "titulo": "Anthropic Stock Market Debut Will Change the AI Trade Forever",
      "fuente": "Yahoo Finanzas",
-     "url": "https://stocktwits.com/news-articles/markets/equity/gta6-twitch-viewers-ttwo-stock-pre-market-rave-reviews/cNbgcD6R9Lm?.tsrc=rss",
-     "fecha": "2026-11-18T13:38:47+00:00"
+     "url": "https://finance.yahoo.com/m/fcb295bf-9c0c-3ffa-946d-c7e37a453503/anthropic-stock-market-debut.html?.tsrc=rss",
+     "fecha": "2026-11-19T12:45:00+00:00"
     },
     {
-     "titulo": "Take-Two shares climb as GTA VI reviews impress ahead of blockbuster launch",
+     "titulo": "What Moved Take-Two Stock?",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-shares-climb-gta-vi-131412264.html?.tsrc=rss",
-     "fecha": "2026-11-18T13:14:12+00:00"
+     "url": "https://www.trefis.com/stock/ttwo/articles/626934/what-moved-take-two-stock/2026-11-19?.tsrc=rss",
+     "fecha": "2026-11-19T12:33:13+00:00"
     },
     {
-     "titulo": "'Grand Theft Auto VI' could be the biggest entertainment launch in history",
+     "titulo": "What Is Driving Roblox Stock?",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/technology/article/grand-theft-auto-vi-could-be-the-biggest-entertainment-launch-in-history-123431121.html?.tsrc=rss",
-     "fecha": "2026-11-18T12:34:31+00:00"
+     "url": "https://www.trefis.com/stock/rblx/articles/626904/what-is-driving-roblox-stock/2026-11-19?.tsrc=rss",
+     "fecha": "2026-11-19T12:16:33+00:00"
     },
     {
-     "titulo": "GTA 6 Is Finally Here! Global Rollout Kicks Off In New Zealand, Preorders Top $1.5B",
+     "titulo": "GTA VI: Why the 13-year wait could be worth $8 billion",
      "fuente": "Yahoo Finanzas",
-     "url": "https://stocktwits.com/news-articles/markets/equity/gta6-is-live-global-rollout-kicks-off-in-new-zealand-preorders-top-billion/cNbgbi5R9LX?.tsrc=rss",
-     "fecha": "2026-11-18T12:05:25+00:00"
+     "url": "https://finance.yahoo.com/video/gta-vi-why-13-wait-120000877.html?.tsrc=rss",
+     "fecha": "2026-11-19T12:00:00+00:00"
     },
     {
-     "titulo": "Can BILL Stock Jump 50%?",
+     "titulo": "Rockstar Games Announces Grand Theft Auto VI Now Available",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.trefis.com/stock/bill/articles/626224/can-bill-stock-jump-50/2026-11-18?.tsrc=rss",
-     "fecha": "2026-11-18T11:51:51+00:00"
+     "url": "https://finance.yahoo.com/technology/articles/rockstar-games-announces-grand-theft-120000642.html?.tsrc=rss",
+     "fecha": "2026-11-19T12:00:00+00:00"
     }
    ]
   }
