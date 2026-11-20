@@ -1,85 +1,80 @@
 {
- "actualizado": "2026-11-19T14:35:24+00:00",
+ "actualizado": "2026-11-20T14:13:30+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Sesión de rebote en la tecnología estadounidense con un descenso notable de la volatilidad",
-  "resumen": "Los principales índices de Wall Street registraron avances liderados por el sector tecnológico, destacando Alphabet, NVIDIA y Microsoft. El índice de volatilidad VIX experimentó un retroceso significativo del 8,55%, situándose en 22,46 puntos. Mientras tanto, el mercado cripto mantiene un sentimiento de miedo extremo y el rendimiento del bono estadounidense a 10 años se mantiene en el entorno del 5,09%.",
+  "titular": "Jornada de corrección generalizada en los mercados bursátiles globales y aumento de la volatilidad",
+  "resumen": "Los principales índices de renta variable a nivel global registran caídas generalizadas superiores al 2% en una sesión marcada por la presión bajista en el sector tecnológico y de inteligencia artificial. El índice de volatilidad VIX se dispara un 6.68%, reflejando el incremento del nerviosismo entre los inversores.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Impulso notable en grandes tecnológicas y en el Nasdaq 100",
-    "texto": "Los activos tecnológicos registraron ganancias importantes en la sesión, con Alphabet subiendo un 4,24%, NVIDIA un 3,67%, Microsoft un 2,35% y el Nasdaq 100 un 2,17%. Estos movimientos se producen en un contexto de atención mediática y de mercado hacia la inminente salida a bolsa de Anthropic. Este comportamiento afecta directamente a los índices de renta variable estadounidense y a ETFs como el Invesco QQQ.",
+    "titulo": "Caídas generalizadas en las bolsas globales y presión en el sector tecnológico",
+    "texto": "Los datos muestran descensos notables en los principales índices, con el S&P 500 cediendo un 2.02%, el Nasdaq 100 un 2.21% y el Nikkei 225 un fuerte 5.06%. Las acciones tecnológicas y vinculadas a la inteligencia artificial como NVIDIA (-3.3%), Amazon (-3.87%) y Alphabet (-3.46%) experimentan recortes significativos. Las noticias indican que este comportamiento se enmarca en la continuación de un sell-off en el sector tecnológico y el descenso de Anthropic tras su debut bursátil.",
+    "importancia": 5
+   },
+   {
+    "titulo": "Disparo de la volatilidad y nerviosismo en los inversores",
+    "texto": "El índice de volatilidad VIX ha subido un 6.68% en el día y acumula una subida superior al 57% en la semana, situándose en los 30.34 puntos. Los datos de mercado reflejan que los operadores de acciones, criptomonedas y oro están mostrando mayor nerviosismo ante el rumbo de los mercados. Esto podría indicar una mayor prudencia y aversión al riesgo a corto plazo.",
     "importancia": 4
    },
    {
-    "titulo": "Descenso de la volatilidad (VIX)",
-    "texto": "El indicador de volatilidad VIX cayó un 8,55% durante la jornada hasta los 22,46 puntos, aunque acumula subidas en el horizonte mensual y semanal. Este descenso diario refleja una menor presión compradora de seguros contra caídas en el corto plazo tras las recientes correcciones. Afecta de manera directa a la percepción general del riesgo en los mercados de derivados y renta variable.",
+    "titulo": "Descensos en materias primas clave: oro y petróleo",
+    "texto": "Las materias primas también se suman a las correcciones de la sesión, destacando el retroceso del 3.11% en el precio del oro y del 3.28% en el petróleo Brent. Estos movimientos reflejan un repliegue general de los inversores en múltiples clases de activos, afectando tanto a refugios tradicionales como a recursos energéticos.",
     "importancia": 3
-   },
-   {
-    "titulo": "Cautela continuada en el mercado de criptomonedas",
-    "texto": "El indicador Fear and Greed de criptomonedas se sitúa en un nivel de 10, reflejando una situación de 'Extreme Fear'. A pesar de ello, Bitcoin registra una ligera subida diaria del 1,27% cotizando por encima de los 63.700 dólares y Solana avanza un 2,32%. Los datos reflejan apetito dispar y salidas en determinados vehículos de inversión en criptomonedas según apuntan las noticias del sector.",
-    "importancia": 3
-   },
-   {
-    "titulo": "Comportamiento mixto en materias primas energéticas y metales",
-    "texto": "El petróleo Brent retrocede un 1,64% hasta los 90,44 dólares por barril, mientras que el WTI muestra un ligero repunte del 0,41%. Por su parte, el oro desciende un 0,85% en la sesión, situándose en los 3.710 dólares. Estos movimientos inciden directamente en las valoraciones del sector de materias primas y en la lectura macroeconómica de costes energéticos.",
-    "importancia": 2
    }
   ],
   "vigilar": [
-   "Evolución del rendimiento del bono estadounidense a 10 años, que ronda el 5,09%",
-   "El comportamiento del índice VIX ante posibles cambios de sentimiento",
-   "Los flujos en torno a la OPV y debut de Anthropic en el Nasdaq"
+   "Evolución del índice de volatilidad VIX y su permanencia en niveles elevados",
+   "Comportamiento del sector tecnológico y de la inteligencia artificial en los mercados globales",
+   "Niveles de soporte de los principales índices como el S&P 500 y el Nasdaq 100"
   ],
   "proximos": [
-   "Debut de Anthropic en el Nasdaq",
-   "Próximas decisiones y declaraciones sobre tipos de interés y amenazas de subidas por parte de la Reserva Federal"
+   "Nuevos datos sobre la evolución económica y del sector tecnológico",
+   "Publicaciones de perspectivas de software y tecnológicas en Wall Street"
   ],
-  "nota_riesgo": "El nivel de riesgo se mantiene elevado, reflejado por un índice VIX por encima de los 22 puntos y un índice de miedo extremo en criptomonedas en 10. Aunque la sesión muestra un respiro alcista en tecnología, los rendimientos de los bonos en torno al 5% y las tensiones geopolíticas exigen prudencia."
+  "nota_riesgo": "El riesgo general de mercado se encuentra en niveles elevados, reflejado en el fuerte incremento del VIX por encima de los 30 puntos y las caídas simultáneas en renta variable, materias primas y criptomonedas. Se recomienda mantener la calma y una perspectiva a largo plazo ante episodios de alta turbulencia."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -13.91,
-   "resumen": "Tus títulos acumulan una rentabilidad negativa del 13,91% desde su compra. Hoy las noticias destacan el esperado lanzamiento de Grand Theft Auto VI por parte de Rockstar Games, aunque también se discute qué ha movido realmente la cotización de la acción y el impacto de otros eventos del mercado sin una conexión directa clara con dicha caída.",
+   "pl_pct": -14.45,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 14,45%. A pesar de que los titulares señalan que el lanzamiento de GTA 6 ha superado con creces las altas expectativas y las ventas iniciales han sido masivas, la acción se mantiene estancada en el mercado.",
    "noticias": [
     {
-     "titulo": "Rockstar Games Releases Grand Theft Auto VI for PlayStation 5 and Xbox Series X|S",
+     "titulo": "GTA 6’s Day-One Sales Were Within Reach Of Morgan Stanley’s Quarterly Target — Firm Says Game ‘Vastly Exceeded’ High Expectations",
      "fuente": "Yahoo Finanzas",
-     "url": "https://investorshub.advfn.com/market-news/article/40357/rockstar-games-releases-grand-theft-auto-vi-for-playstation-5-and-xbox-series-xs?.tsrc=rss",
-     "fecha": "2026-11-19T13:34:45+00:00"
+     "url": "https://stocktwits.com/news-articles/markets/equity/gta6-day-one-sales-were-within-reach-of-morgan-stanley-quarterly-targets-ttwo-stock/cNbSLtYR9Ku?.tsrc=rss",
+     "fecha": "2026-11-20T12:46:49+00:00"
     },
     {
-     "titulo": "Anthropic Stock Market Debut Will Change the AI Trade Forever",
+     "titulo": "GTA 6 vs. Sam Bankman-Fried: Netflix Drops FTX Series on Same Day as Take-Two’s Blockbuster Launch",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/m/fcb295bf-9c0c-3ffa-946d-c7e37a453503/anthropic-stock-market-debut.html?.tsrc=rss",
-     "fecha": "2026-11-19T12:45:00+00:00"
+     "url": "https://finance.yahoo.com/media-advertising/articles/gta-6-vs-sam-bankman-120008275.html?.tsrc=rss",
+     "fecha": "2026-11-20T12:00:08+00:00"
     },
     {
-     "titulo": "What Moved Take-Two Stock?",
+     "titulo": "Take-Two (TTWO) Sees $14.5 Million in Net ETF Buying on Wednesday",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.trefis.com/stock/ttwo/articles/626934/what-moved-take-two-stock/2026-11-19?.tsrc=rss",
-     "fecha": "2026-11-19T12:33:13+00:00"
+     "url": "https://finance.yahoo.com/markets/stocks/articles/two-ttwo-sees-14-5-110131020.html?.tsrc=rss",
+     "fecha": "2026-11-20T11:01:31+00:00"
     },
     {
-     "titulo": "What Is Driving Roblox Stock?",
+     "titulo": "Why Is BILL Stock Going Up?",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.trefis.com/stock/rblx/articles/626904/what-is-driving-roblox-stock/2026-11-19?.tsrc=rss",
-     "fecha": "2026-11-19T12:16:33+00:00"
+     "url": "https://www.trefis.com/stock/bill/articles/626273/why-is-bill-stock-going-up/2026-11-19?.tsrc=rss",
+     "fecha": "2026-11-20T01:04:34+00:00"
     },
     {
-     "titulo": "GTA VI: Why the 13-year wait could be worth $8 billion",
+     "titulo": "GTA 6 lives up to its 99 score, but Take-Two stock stays stuck",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/video/gta-vi-why-13-wait-120000877.html?.tsrc=rss",
-     "fecha": "2026-11-19T12:00:00+00:00"
+     "url": "https://www.thestreet.com/investing/gta-6-review-take-two-stock-stuck?.tsrc=rss",
+     "fecha": "2026-11-19T23:57:22+00:00"
     },
     {
-     "titulo": "Rockstar Games Announces Grand Theft Auto VI Now Available",
+     "titulo": "Grand Theft Auto VI outplays Nvidia and SpaceX",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/technology/articles/rockstar-games-announces-grand-theft-120000642.html?.tsrc=rss",
-     "fecha": "2026-11-19T12:00:00+00:00"
+     "url": "https://www.thestreet.com/crypto/markets/grand-theft-auto-vi-outplays-nvidia-and-spacex?.tsrc=rss",
+     "fecha": "2026-11-19T23:00:00+00:00"
     }
    ]
   }
