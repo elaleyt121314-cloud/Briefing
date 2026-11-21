@@ -1,80 +1,85 @@
 {
- "actualizado": "2026-11-20T14:13:30+00:00",
+ "actualizado": "2026-11-21T13:37:32+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Jornada de corrección generalizada en los mercados bursátiles globales y aumento de la volatilidad",
-  "resumen": "Los principales índices de renta variable a nivel global registran caídas generalizadas superiores al 2% en una sesión marcada por la presión bajista en el sector tecnológico y de inteligencia artificial. El índice de volatilidad VIX se dispara un 6.68%, reflejando el incremento del nerviosismo entre los inversores.",
+  "titular": "Jornada de fuertes caídas bursátiles globales y volatilidad disparada con descensos notables en tecnología",
+  "resumen": "Los principales índices bursátiles mundiales registran retrocesos generalizados, liderados por el Nasdaq 100 y el S&P 500, mientras el índice de volatilidad VIX se dispara un 26,2%. Las acciones tecnológicas sufren descensos muy acusados, destacando Nvidia con una caída del 14,01%. En contraste, el mercado cripto muestra ligeras subidas diarias a pesar de la tensión general y el miedo extremo en el sector.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Caídas generalizadas en las bolsas globales y presión en el sector tecnológico",
-    "texto": "Los datos muestran descensos notables en los principales índices, con el S&P 500 cediendo un 2.02%, el Nasdaq 100 un 2.21% y el Nikkei 225 un fuerte 5.06%. Las acciones tecnológicas y vinculadas a la inteligencia artificial como NVIDIA (-3.3%), Amazon (-3.87%) y Alphabet (-3.46%) experimentan recortes significativos. Las noticias indican que este comportamiento se enmarca en la continuación de un sell-off en el sector tecnológico y el descenso de Anthropic tras su debut bursátil.",
+    "titulo": "Fuerte corrección en los mercados de renta variable globales",
+    "texto": "Los datos muestran descensos generalizados en las principales plazas internacionales. El S&P 500 cede un 3,7% y el Nasdaq 100 retrocede un 5,61%, arrastrados por caídas significativas en grandes tecnológicas como Meta (-5,93%), Amazon (-4,1%) y Tesla (-7,64%). Esto podría indicar una rotación o retirada general de inversores en busca de protección ante un entorno de creciente incertidumbre.",
     "importancia": 5
    },
    {
-    "titulo": "Disparo de la volatilidad y nerviosismo en los inversores",
-    "texto": "El índice de volatilidad VIX ha subido un 6.68% en el día y acumula una subida superior al 57% en la semana, situándose en los 30.34 puntos. Los datos de mercado reflejan que los operadores de acciones, criptomonedas y oro están mostrando mayor nerviosismo ante el rumbo de los mercados. Esto podría indicar una mayor prudencia y aversión al riesgo a corto plazo.",
-    "importancia": 4
+    "titulo": "Desplome bursátil de Nvidia y presión en el sector tecnológico",
+    "texto": "La acción de Nvidia sufre una fuerte caída del 14,01% en la sesión, profundizando su retroceso mensual hasta superar el 40%. Los titulares recientes señalan incertidumbres continuas en torno a la compañía y su cartera de inversiones, lo que frena a los compradores. Este movimiento impacta de lleno en el sentimiento del sector tecnológico global (Invesco QQQ baja un 5,67%).",
+    "importancia": 5
    },
    {
-    "titulo": "Descensos en materias primas clave: oro y petróleo",
-    "texto": "Las materias primas también se suman a las correcciones de la sesión, destacando el retroceso del 3.11% en el precio del oro y del 3.28% en el petróleo Brent. Estos movimientos reflejan un repliegue general de los inversores en múltiples clases de activos, afectando tanto a refugios tradicionales como a recursos energéticos.",
+    "titulo": "Disparo histórico de la volatilidad en los mercados",
+    "texto": "El índice VIX (volatilidad) experimenta un repunte diario del 26,2%, acumulando una subida de casi el 86% en la última semana hasta situarse en los 35,89 puntos. Los datos reflejan un nerviosismo elevado en los inversores institucionales y particulares. Esto podría indicar un periodo de mayor inestabilidad y defensa de carteras a corto plazo.",
+    "importancia": 5
+   },
+   {
+    "titulo": "Comportamiento mixto y rebote técnico en criptomonedas",
+    "texto": "A pesar del desplome en las bolsas tradicionales, activos como Bitcoin, Ethereum y Solana registran subidas diarias moderadas del 2,58%, 5,08% y 2,35% respectivamente. Sin embargo, el indicador Fear & Greed de criptomonedas se mantiene en terreno de 'Extreme Fear' (12), lo que muestra que el optimismo diario contrasta con la presión acumulada a lo largo del mes.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución del índice de volatilidad VIX y su permanencia en niveles elevados",
-   "Comportamiento del sector tecnológico y de la inteligencia artificial en los mercados globales",
-   "Niveles de soporte de los principales índices como el S&P 500 y el Nasdaq 100"
+   "Evolución del índice de volatilidad VIX para ver si la presión compradora de seguros continúa",
+   "Comportamiento de Nvidia y los gigantes tecnológicas tras las fuertes caídas recientes",
+   "Estabilidad de los rendimientos de los bonos estadounidenses a 10 años"
   ],
   "proximos": [
-   "Nuevos datos sobre la evolución económica y del sector tecnológico",
-   "Publicaciones de perspectivas de software y tecnológicas en Wall Street"
+   "Próximas publicaciones macroeconómicas y decisiones de política monetaria en EE. UU.",
+   "Evolución de las tensiones y novedades regulatorias sobre criptomonedas y protocolos DeFi"
   ],
-  "nota_riesgo": "El riesgo general de mercado se encuentra en niveles elevados, reflejado en el fuerte incremento del VIX por encima de los 30 puntos y las caídas simultáneas en renta variable, materias primas y criptomonedas. Se recomienda mantener la calma y una perspectiva a largo plazo ante episodios de alta turbulencia."
+  "nota_riesgo": "El nivel de riesgo general es elevado. El fuerte repunte de la volatilidad (VIX) y las caídas de más del 3% en los índices de referencia reflejan un mercado defensivo y con aversión al riesgo muy marcada."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -14.45,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 14,45%. A pesar de que los titulares señalan que el lanzamiento de GTA 6 ha superado con creces las altas expectativas y las ventas iniciales han sido masivas, la acción se mantiene estancada en el mercado.",
+   "pl_pct": -17.93,
+   "resumen": "Tu posición acumula una rentabilidad negativa del 17.93%, a pesar de que las noticias destacan el éxito histórico de ventas de 'Grand Theft Auto 6' alcanzando los 3.800 millones de dólares. Los titulares también recogen comentarios sobre el impacto del juego en otras plataformas y llamadas a la paciencia por parte de analistas.",
    "noticias": [
     {
-     "titulo": "GTA 6’s Day-One Sales Were Within Reach Of Morgan Stanley’s Quarterly Target — Firm Says Game ‘Vastly Exceeded’ High Expectations",
+     "titulo": "Roblox CFO admits ‘limited data’ on GTA 6 as BofA urges patience",
      "fuente": "Yahoo Finanzas",
-     "url": "https://stocktwits.com/news-articles/markets/equity/gta6-day-one-sales-were-within-reach-of-morgan-stanley-quarterly-targets-ttwo-stock/cNbSLtYR9Ku?.tsrc=rss",
-     "fecha": "2026-11-20T12:46:49+00:00"
+     "url": "https://www.thestreet.com/investing/roblox-cfo-limited-data-gta-6-bofa?.tsrc=rss",
+     "fecha": "2026-11-21T04:07:00+00:00"
     },
     {
-     "titulo": "GTA 6 vs. Sam Bankman-Fried: Netflix Drops FTX Series on Same Day as Take-Two’s Blockbuster Launch",
+     "titulo": "Decibel puts Take-Two and Anthropic in the same around-the-clock market",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/media-advertising/articles/gta-6-vs-sam-bankman-120008275.html?.tsrc=rss",
-     "fecha": "2026-11-20T12:00:08+00:00"
+     "url": "https://www.thestreet.com/crypto/markets/decibel-puts-take-two-and-anthropic-in-the-same-around-the-clock-market?.tsrc=rss",
+     "fecha": "2026-11-20T22:30:00+00:00"
     },
     {
-     "titulo": "Take-Two (TTWO) Sees $14.5 Million in Net ETF Buying on Wednesday",
+     "titulo": "Prediction: Netflix and Disney Will “Blame Grand Theft Auto” for Falling Viewership, per Scott Galloway",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-ttwo-sees-14-5-110131020.html?.tsrc=rss",
-     "fecha": "2026-11-20T11:01:31+00:00"
+     "url": "https://www.tikr.com/blog/prediction-netflix-and-disney-will-blame-grand-theft-auto-for-falling-viewership-per-scott-galloway?ref=yahoofinance&tlnk=yf-261120-w2ppff3q&.tsrc=rss",
+     "fecha": "2026-11-20T21:59:41+00:00"
     },
     {
-     "titulo": "Why Is BILL Stock Going Up?",
+     "titulo": "Take-Two Interactive vs. Anthropic: Which Market-Moving Stock Is the Better Buy?",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.trefis.com/stock/bill/articles/626273/why-is-bill-stock-going-up/2026-11-19?.tsrc=rss",
-     "fecha": "2026-11-20T01:04:34+00:00"
+     "url": "https://www.fool.com/investing/2026/11/20/take-two-interactive-vs-anthropic-which-market-moving-stock-is-the-better-buy/?.tsrc=rss",
+     "fecha": "2026-11-20T21:53:01+00:00"
     },
     {
-     "titulo": "GTA 6 lives up to its 99 score, but Take-Two stock stays stuck",
+     "titulo": "TTWO Stock Gains As Grand Theft Auto VI Retail Sales Touch $3.8B",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.thestreet.com/investing/gta-6-review-take-two-stock-stuck?.tsrc=rss",
-     "fecha": "2026-11-19T23:57:22+00:00"
+     "url": "https://stocktwits.com/news-articles/markets/equity/ttwo-stock-gains-as-grand-theft-auto-vi-retail-sales-touch-3-8-b/cNbSMd2R919?.tsrc=rss",
+     "fecha": "2026-11-20T21:43:25+00:00"
     },
     {
-     "titulo": "Grand Theft Auto VI outplays Nvidia and SpaceX",
+     "titulo": "Take-Two Smashes Sales Records With 'Grand Theft Auto 6'",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.thestreet.com/crypto/markets/grand-theft-auto-vi-outplays-nvidia-and-spacex?.tsrc=rss",
-     "fecha": "2026-11-19T23:00:00+00:00"
+     "url": "https://finance.yahoo.com/m/3c42b1d1-621c-33f2-a790-3a224aa2698d/take-two-smashes-sales.html?.tsrc=rss",
+     "fecha": "2026-11-20T21:32:20+00:00"
     }
    ]
   }
