@@ -1,40 +1,180 @@
 {
- "actualizado": "2026-11-21T13:37:32+00:00",
+ "actualizado": "2026-11-22T13:29:28+00:00",
  "items": [
   {
-   "titulo": "Nvidia’s nonstop drama is keeping buyers away from a historically cheap stock",
-   "resumen": "Uncertainties over how the Jensen Huang drama plays out should keep investors from trying to pick a bottom in Nvidia’s stock, no matter how cheap it gets.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/nvidias-nonstop-drama-is-keeping-buyers-away-from-a-historically-cheap-stock-604022da?mod=mw_rss_topstories",
-   "fecha": "2026-11-21T13:30:00+00:00"
-  },
-  {
-   "titulo": "Elon Musk on His Politics, a Potential Merger and Ukraine",
-   "resumen": "The chief executive of Tesla and SpaceX spoke with Andrew Ross Sorkin at the DealBook Summit.",
+   "titulo": "Zohran Mamdani on Trump, Wall Street and Wealth Taxes",
+   "resumen": "The mayor of New York City spoke with Andrew Ross Sorkin at the DealBook Summit.",
    "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/11/21/business/dealbook/elon-musk-dealbook-summit.html",
-   "fecha": "2026-11-21T13:00:06+00:00"
+   "url": "https://www.nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
+   "fecha": "2026-11-22T13:00:02+00:00"
   },
   {
-   "titulo": "Tech outages are fueling a new doomsday economy",
-   "resumen": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
-   "fuente": "CNBC Economía",
-   "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
-   "fecha": "2026-11-21T13:00:01+00:00"
+   "titulo": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
+   "resumen": "Norm Fosback’s ‘Seasonality Timing System’ has one of the very best long-term track records, and suggests the market has an upside bias for the next two weeks",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories",
+   "fecha": "2026-11-22T12:30:00+00:00"
+  },
+  {
+   "titulo": "Looking for the Formula to Stop an Apocalypse",
+   "resumen": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
+   "fecha": "2026-11-22T12:27:46+00:00"
+  },
+  {
+   "titulo": "Saudi Arabia’s $1trn wealth pot suffers an identity crisis",
+   "resumen": "The Public Investment Fund is distracted, and not just by war",
+   "fuente": "The Economist Finanzas",
+   "url": "https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis",
+   "fecha": "2026-11-22T11:13:42+00:00"
+  },
+  {
+   "titulo": "Procter & Gamble to Increase Factory Shifts Without Humans to Cut Costs",
+   "resumen": "The maker of Pampers and Bounty paper towels operates 15 sites capable of running shifts unattended, with plans to add more in 2027.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
+   "fecha": "2026-11-22T10:02:21+00:00"
+  },
+  {
+   "titulo": "The Case of the Idle Assistants",
+   "resumen": "Plus: Can I lie about having kids, and do I have to use my personal phone?",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/11/22/business/understaffing-work-advice.html",
+   "fecha": "2026-11-22T10:02:11+00:00"
+  },
+  {
+   "titulo": "Agriculture Secretary Declares U.S. Cattle Supply Safe as Screwworm Cases Rise",
+   "resumen": "Officials said that heavy rains in the Southwest had led to more screwworm cases in animals, and that mitigation efforts were working well.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/11/22/business/screwworm-cases-cattle.html",
+   "fecha": "2026-11-22T10:01:46+00:00"
+  },
+  {
+   "titulo": "Rather Than Sell Their House, They Became Landlords Instead",
+   "resumen": "Homeowners say the rental income helps them cover their mortgage payments, but they must also learn to handle needed repairs and confront bad tenants.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
+   "fecha": "2026-11-22T10:01:04+00:00"
+  },
+  {
+   "titulo": "How Six Americans Under 40 Are Saving for Retirement",
+   "resumen": "Whether they take a traditional path or go their own way, some younger workers are managing to build a nest egg while juggling other financial challenges.",
+   "fuente": "NYT Negocios",
+   "url": "https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html",
+   "fecha": "2026-11-22T10:00:11+00:00"
+  },
+  {
+   "titulo": "El oro pierde más de un tercio de valor desde los máximos de enero",
+   "resumen": "La onza de oro ha perdido más de un tercio de su valor desde los máximos históricos alcanzados el pasado enero, cuando rozó los 5.600 dólares, afectado por la fuerte revalorización que ha registrado el dólar, y mientras el mercado descuenta más subidas de tipos de interés en diciembre.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/11/22/oro-pierde-tercio-valor-maximos-enero.html\">Leer</a><",
+   "fuente": "Expansión Mercados",
+   "url": "https://www.expansion.com/mercados/2026/11/22/oro-pierde-tercio-valor-maximos-enero.html",
+   "fecha": "2026-11-22T09:45:42+00:00"
+  },
+  {
+   "titulo": "MP criticises Guernsey and Jersey company ownership register plans",
+   "resumen": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-22T07:22:05+00:00"
+  },
+  {
+   "titulo": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+   "resumen": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-22T07:12:41+00:00"
+  },
+  {
+   "titulo": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+   "resumen": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+   "fecha": "2026-11-22T01:15:00+00:00"
+  },
+  {
+   "titulo": "Employers are being asked to give interview feedback - here's what applicants want",
+   "resumen": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+   "fuente": "BBC Negocios",
+   "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-22T00:04:07+00:00"
+  },
+  {
+   "titulo": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+   "resumen": "“Hotel rooms can cost as much as $400 per night.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+   "fecha": "2026-11-22T00:03:00+00:00"
+  },
+  {
+   "titulo": "The Penny Is Dead. Now It’s Official.",
+   "resumen": "President Trump signed a law on Friday formally putting the penny out of mint, a year after it stopped being struck.",
+   "fuente": "NYT Economía",
+   "url": "https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html",
+   "fecha": "2026-11-21T23:12:23+00:00"
+  },
+  {
+   "titulo": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+   "resumen": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+   "fecha": "2026-11-21T23:05:00+00:00"
+  },
+  {
+   "titulo": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+   "resumen": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+   "fecha": "2026-11-21T20:15:00+00:00"
+  },
+  {
+   "titulo": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+   "resumen": "“Our financial and healthcare situation has become increasingly concerning.”",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+   "fecha": "2026-11-21T19:45:00+00:00"
+  },
+  {
+   "titulo": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+   "resumen": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+   "fuente": "MarketWatch",
+   "url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+   "fecha": "2026-11-21T19:45:00+00:00"
   },
   {
    "titulo": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
    "resumen": "This one, simple, low-pain tax solves all the problems.",
    "fuente": "MarketWatch",
    "url": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
-   "fecha": "2026-11-21T13:00:00+00:00"
+   "fecha": "2026-11-21T18:20:00+00:00"
   },
   {
-   "titulo": "Larry McDonald survived Lehman’s collapse. Now he warns the credit market is signaling a growth shock for stocks.",
-   "resumen": "Bear Traps Report founder explains why he sees stagflation coming, how much artificial-intelligence risk sits in S&amp;P 500 index funds and why he favors hard assets",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/larry-mcdonald-survived-lehmans-collapse-now-he-warns-the-credit-market-is-signaling-a-growth-shock-for-stocks-5c3a62ef?mod=mw_rss_topstories",
-   "fecha": "2026-11-21T12:31:00+00:00"
+   "titulo": "The Used Car Industry Is Booming. This N.J. Campus Is Setting the Price.",
+   "resumen": "As new car prices rise beyond the means of most buyers, the used market has become much more important for consumers and the auto industry.",
+   "fuente": "NYT Economía",
+   "url": "https://www.nytimes.com/2026/11/21/business/used-car-auctions-manheim-prices.html",
+   "fecha": "2026-11-21T17:59:58+00:00"
+  },
+  {
+   "titulo": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+   "fecha": "2026-11-21T17:50:00+00:00"
+  },
+  {
+   "titulo": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+   "resumen": "",
+   "fuente": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+   "fecha": "2026-11-21T16:41:00+00:00"
+  },
+  {
+   "titulo": "Tech outages are fueling a new doomsday economy",
+   "resumen": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
+   "fuente": "CNBC Economía",
+   "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+   "fecha": "2026-11-21T15:04:56+00:00"
   },
   {
    "titulo": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
@@ -42,55 +182,6 @@
    "fuente": "CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
    "fecha": "2026-11-21T12:30:00+00:00"
-  },
-  {
-   "titulo": "How a brutal week for stocks almost wiped out their gains for the entire year",
-   "resumen": "Investors are now more focused on protecting their portfolios than looking for bargains",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories",
-   "fecha": "2026-11-21T12:00:00+00:00"
-  },
-  {
-   "titulo": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
-   "resumen": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
-   "fecha": "2026-11-21T11:05:08+00:00"
-  },
-  {
-   "titulo": "Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken",
-   "resumen": "The salt is a flaky favorite of food influencers and famous chefs. A revelation this week raised questions about what makes artisanal “artisanal.”",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
-   "fecha": "2026-11-21T11:04:53+00:00"
-  },
-  {
-   "titulo": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
-   "resumen": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/11/21/business/anthropics-debut-shows-the-disconnect-between-wall-street-and-silicon-valley.html",
-   "fecha": "2026-11-21T10:03:44+00:00"
-  },
-  {
-   "titulo": "How to Plan for an A.I. Emergency, or Any Calamity",
-   "resumen": "One person’s attempt to prepare for the unthinkable.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/11/21/business/ai-emergency-plan.html",
-   "fecha": "2026-11-21T10:02:21+00:00"
-  },
-  {
-   "titulo": "The Faces of the 2026 DealBook Summit",
-   "resumen": "Our photographer made portraits of the event’s interview subjects, including Hailey Bieber, Satya Nadella and Zohran Mamdani, after they left the stage.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/11/21/business/dealbook/dealbook-summit-portraits.html",
-   "fecha": "2026-11-21T10:02:15+00:00"
-  },
-  {
-   "titulo": "The Used Car Industry Is Booming. This N.J. Campus Is Setting the Price.",
-   "resumen": "As new car prices rise beyond the means of most buyers, the used market has become much more important for consumers and the auto industry.",
-   "fuente": "NYT Economía",
-   "url": "https://www.nytimes.com/2026/11/21/business/used-car-auctions-manheim-prices.html",
-   "fecha": "2026-11-21T10:01:54+00:00"
   },
   {
    "titulo": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
@@ -114,102 +205,11 @@
    "fecha": "2026-11-21T04:10:07+00:00"
   },
   {
-   "titulo": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
-   "resumen": "The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma.",
-   "fuente": "NYT Negocios",
-   "url": "https://www.nytimes.com/2026/11/20/business/judge-approves-7-billion-settlement-over-claims-that-roundup-caused-cancer.html",
-   "fecha": "2026-11-21T03:23:04+00:00"
-  },
-  {
-   "titulo": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
-   "resumen": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
-   "fecha": "2026-11-21T03:20:00+00:00"
-  },
-  {
-   "titulo": "La cartera de Nvidia, bajo la lupa",
-   "resumen": "La tecnológica compra más acciones de SpaceX, vende la cuarta parte de Intel y la mitad de Nokia.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/11/21/cartera-nvidia-lupa.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/mercados.xml\" />",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/2026/11/21/cartera-nvidia-lupa.html",
-   "fecha": "2026-11-20T23:11:50+00:00"
-  },
-  {
-   "titulo": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-   "resumen": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+   "titulo": "Can AI really help spot Black Friday deals? We put it to the test",
+   "resumen": "We put four AI models to the test to see if they could save us money on a new TV.",
    "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-20T22:53:24+00:00"
-  },
-  {
-   "titulo": "¿Habrá rally de fin de año en las bolsas?",
-   "resumen": "Las recientes caídas bursátiles han dejado margen para recuperar el tono en la recta final de 2026. La IA tiene la llave para provocar un repunte navideño o frustrarlo.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/11/20/habra-rally-ano-bolsas.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&a",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/2026/11/20/habra-rally-ano-bolsas.html",
-   "fecha": "2026-11-20T22:52:16+00:00"
-  },
-  {
-   "titulo": "Kalshi races to get ahead of New York order that could shut down exchange",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
-   "fecha": "2026-11-20T22:51:14+00:00"
-  },
-  {
-   "titulo": "Lecciones tras las grandes OPV de la historia",
-   "resumen": "La mayoría de las grandes salidas a Bolsa suben el primer día, pero las acciones se pueden comprar más baratas un año después.&nbsp;<a href=\"https://www.expansion.com/inversion/2026/11/20/lecciones-grandes-opv-historia.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/r",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/inversion/2026/11/20/lecciones-grandes-opv-historia.html",
-   "fecha": "2026-11-20T22:47:50+00:00"
-  },
-  {
-   "titulo": "Anthropic, de subir más del 38% a caer un 8,5%",
-   "resumen": "La compañía protagoniza la mayor colocación de la historia. Se estrenó en Bolsa el jueves a 83 dólares, un precio considerado exigente. Suma un 7,1% en Bolsa desde el estreno en unas sesiones muy volátiles.&nbsp;<a href=\"https://www.expansion.com/mercados/2026/11/20/anthropic-subir-38-caer-8-5.html\">Leer</a><img alt=\"\" src=\"http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg",
-   "fuente": "Expansión Mercados",
-   "url": "https://www.expansion.com/mercados/2026/11/20/anthropic-subir-38-caer-8-5.html",
-   "fecha": "2026-11-20T22:46:38+00:00"
-  },
-  {
-   "titulo": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-   "resumen": "All 11 S&amp;P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-   "fecha": "2026-11-20T22:46:00+00:00"
-  },
-  {
-   "titulo": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-   "resumen": "A major semiconductor index just posted its worst weekly performance in 25 years.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-   "fecha": "2026-11-20T22:44:00+00:00"
-  },
-  {
-   "titulo": "These stocks were crushed the most this week as the tech wreck accelerated",
-   "resumen": "94% of stocks in the S&amp;P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
-   "fuente": "MarketWatch",
-   "url": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
-   "fecha": "2026-11-20T22:44:00+00:00"
-  },
-  {
-   "titulo": "Tech stock sell-off drags markets down as Anthropic shares slide",
-   "resumen": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-   "fuente": "BBC Negocios",
-   "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-20T22:42:47+00:00"
-  },
-  {
-   "titulo": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-   "resumen": "",
-   "fuente": "CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-   "fecha": "2026-11-20T22:05:31+00:00"
-  },
-  {
-   "titulo": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-   "resumen": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
-   "fuente": "CNBC Economía",
-   "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-   "fecha": "2026-11-20T21:07:08+00:00"
+   "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-21T00:06:11+00:00"
   }
  ]
 }
