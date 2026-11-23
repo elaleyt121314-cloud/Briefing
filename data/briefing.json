@@ -1,55 +1,25 @@
 {
- "actualizado": "2026-11-22T13:29:28+00:00",
- "generado_con_ia": true,
- "contenido": {
-  "titular": "Fuerte corrección generalizada en los mercados bursátiles globales y repunte de la volatilidad",
-  "resumen": "Los datos muestran una sesión de caídas generalizadas para las principales bolsas mundiales como el S&P 500 y el Nasdaq 100, acompañadas de un notable incremento en el índice de volatilidad VIX. A su vez, el oro registra descensos significativos y el sector criptomonedas se mantiene bajo un clima de extrema cautela.",
-  "dia_tranquilo": false,
-  "claves": [
-   {
-    "titulo": "Sesión de pérdidas generalizadas en índices y grandes tecnológicas",
-    "texto": "Los datos indican caídas destacadas en los principales índices globales, destacando el Nasdaq 100 con un descenso del 5,61% y el S&P 500 con un 3,70%. Dentro del sector de acciones, la compañía NVIDIA ha registrado una fuerte bajada del 14,01%, afectando negativamente al sentimiento del mercado en los activos de renta variable y ETFs asociados.",
-    "importancia": 5
-   },
-   {
-    "titulo": "Aumento acusado de la volatilidad (VIX)",
-    "texto": "El indicador de volatilidad VIX ha experimentado un repunte del 26,20% en la sesión, situándose en los 35,89 puntos. Este movimiento objetivo refleja un incremento considerable en la tensión y la incertidumbre de los inversores en los mercados financieros a corto plazo.",
-    "importancia": 5
-   },
-   {
-    "titulo": "Descenso pronunciado en el precio del oro",
-    "texto": "La materia prima del oro ha sufrido una variación a la baja del 4,62% en la jornada actual. Los datos señalan que este comportamiento se alinea con la tendencia reciente en la que el metal precioso acumula caídas importantes frente a los máximos alcanzados en periodos anteriores.",
-    "importancia": 4
-   },
-   {
-    "titulo": "Cautela extrema en el mercado de criptomonedas",
-    "texto": "El indicador de sentimiento Fear & Greed para criptomonedas se sitúa en un valor de 11, catalogado como 'Extreme Fear'. Los precios de activos principales como Bitcoin y Ethereum muestran estabilidad relativa en el día, pero el contexto general del mes refleja caídas muy acusadas en el sector.",
-    "importancia": 3
-   }
-  ],
-  "vigilar": [
-   "Evolución del índice de volatilidad VIX y su tendencia en las próximas sesiones",
-   "Comportamiento de las acciones tecnológicas con mayores caídas, especialmente NVIDIA",
-   "Niveles de soporte en los principales índices bursátiles como el S&P 500 y Nasdaq 100"
-  ],
-  "proximos": [
-   "Posibles rebotes técnicos basados en patrones estacionales según modelos históricos mencionados en publicaciones recientes",
-   "Nuevos datos macroeconómicos y decisiones de política monetaria"
-  ],
-  "nota_riesgo": "El nivel de riesgo general es elevado debido al fuerte descenso de la renta variable, el drástico incremento de la volatilidad y el miedo extremo en ciertos segmentos como las criptomonedas. Esto sugiere la necesidad de mantener la prudencia y una perspectiva a largo plazo sin actuar por impulso."
- },
+ "actualizado": "2026-11-23T16:17:46+00:00",
+ "generado_con_ia": false,
+ "contenido": null,
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -17.93,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 17.93%. Los titulares destacan el gran impacto del debut de Grand Theft Auto VI, recaudando 3.790 millones de dólares en su primer día y generando debate sobre su precio de 80 dólares, aunque las noticias no explican de forma directa el motivo exacto de tu rentabilidad actual en bolsa dentro de un mercado castigado.",
+   "pl_pct": -13.69,
+   "resumen": "Take-Two Interactive registra una rentabilidad negativa del 13.69% desde su compra. Por otro lado, los titulares destacan el debut de GTA VI por 3.79 mil millones de dólares, lo que ha llevado a Wedbush a elevar su precio objetivo y genera expectativas de cara a diciembre de 2026, aunque estas noticias sobre el éxito del lanzamiento no explican por sí solas la caída acumulada en la bolsa.",
    "noticias": [
     {
-     "titulo": "Is ‘Grand Theft Auto VI’ Gaming’s Last Blockbuster?",
+     "titulo": "Take-Two target raised by Wedbush after $3.79 billion GTA VI debut",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/video/grand-theft-auto-vi-gaming-110000013.html?.tsrc=rss",
-     "fecha": "2026-11-22T11:00:00+00:00"
+     "url": "https://www.proactiveinvestors.com/companies/news/1102275/take-two-target-raised-by-wedbush-after-3-79-billion-gta-vi-debut-1102275.html?.tsrc=rss",
+     "fecha": "2026-11-23T15:44:00+00:00"
+    },
+    {
+     "titulo": "Take Two Can Retest $265 in 2026 With This December GTA VI Announcement",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://247wallst.com/investing/2026/11/23/take-two-can-retest-265-in-2026-with-this-december-gta-vi-announcement/?.tsrc=rss",
+     "fecha": "2026-11-23T12:15:26+00:00"
     },
     {
      "titulo": "A battered stock market looks for the bottom: What to watch this week",
@@ -58,28 +28,22 @@
      "fecha": "2026-11-22T10:00:00+00:00"
     },
     {
+     "titulo": "ANT, BABA, PANW, TTWO, ZS: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://stocktwits.com/news-articles/markets/equity/ant-baba-panw-ttwo-zs-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cNbYZ7qR91C?.tsrc=rss",
+     "fecha": "2026-11-23T02:08:57+00:00"
+    },
+    {
+     "titulo": "Is ‘Grand Theft Auto VI’ Gaming’s Last Blockbuster?",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/video/grand-theft-auto-vi-gaming-110000013.html?.tsrc=rss",
+     "fecha": "2026-11-22T11:00:00+00:00"
+    },
+    {
      "titulo": "GTA 6's $3.79 billion debut sends Apple stock investors an unmistakable signal",
      "fuente": "Yahoo Finanzas",
      "url": "https://www.thestreet.com/investing/stocks/gta-6-apple-innovation?.tsrc=rss",
      "fecha": "2026-11-22T04:17:00+00:00"
-    },
-    {
-     "titulo": "A $2.2 Billion Fund Just Bought These 3 Stocks",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.tikr.com/blog/a-2-2-billion-fund-just-bought-these-3-stocks-2?ref=yahoofinance&tlnk=yf-261121-75qm98f6&.tsrc=rss",
-     "fecha": "2026-11-21T19:35:35+00:00"
-    },
-    {
-     "titulo": "GTA 6's $80 price hides a surprise for American families",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.thestreet.com/entertainment/gta-6-video-game-80-dollar-price-has-conditions?.tsrc=rss",
-     "fecha": "2026-11-21T18:07:00+00:00"
-    },
-    {
-     "titulo": "Gamers Poured $3.79B Into GTA VI Through Day One. Roblox Guides $1.89B to $2B All Quarter",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://www.tikr.com/blog/gamers-poured-3-79b-into-gta-vi-through-day-one-roblox-guides-1-89b-to-2b-all-quarter?ref=yahoofinance&tlnk=yf-261121-49wvpv39&.tsrc=rss",
-     "fecha": "2026-11-21T13:31:05+00:00"
     }
    ]
   }
