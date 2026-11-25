@@ -1,49 +1,49 @@
 {
- "actualizado": "2026-11-24T16:05:00+00:00",
+ "actualizado": "2026-11-25T15:52:41+00:00",
  "generado_con_ia": false,
  "contenido": null,
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -11.24,
-   "resumen": "Tu posición acumula una rentabilidad negativa del 11,24%, a pesar de que hoy las acciones suben un 4,6% sin noticias directas de la compañía, impulsadas por el optimismo general del mercado y la atención sobre el impacto histórico de GTA VI. Los titulares también mencionan debates sobre el futuro lanzamiento de juegos de Hasbro y la participación en Roblox, aunque no explican de forma concluyente tu resultado global.",
+   "pl_pct": -11.86,
+   "resumen": "Tus títulos acumulan una rentabilidad negativa del 11.86%. Los titulares mencionan que Take-Two y Anthropic se lanzaron el mismo día y que el sector de los videojuegos gana por ahora, además de destacar que Wedbush mantiene esta acción en su lista de mejores ideas tras su último lanzamiento, aunque las noticias no explican en detalle el motivo exacto de tu caída actual.",
    "noticias": [
     {
-     "titulo": "Take-Two Interactive (TTWO) Stock Is Up 4.6% Today Without Company News",
+     "titulo": "Did Take-Two Stock Beat A Falling Market?",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-ttwo-stock-4-160122808.html?.tsrc=rss",
-     "fecha": "2026-11-24T16:01:22+00:00"
+     "url": "https://www.trefis.com/stock/ttwo/articles/629004/did-take-two-stock-beat-a-falling-market/2026-11-25?.tsrc=rss",
+     "fecha": "2026-11-25T13:04:29+00:00"
     },
     {
-     "titulo": "Hasbro's Exodus and Warlock Launches in 2027: Will This Drive Growth?",
+     "titulo": "Anthropic and 'Grand Theft Auto VI' launched on the same day. The video game trade is winning for now.",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/hasbros-exodus-warlock-launches-2027-130200562.html?.tsrc=rss",
-     "fecha": "2026-11-24T13:02:00+00:00"
+     "url": "https://finance.yahoo.com/technology/article/anthropic-and-grand-theft-auto-vi-launched-on-the-same-day-the-video-game-trade-is-winning-for-now-171431006.html?.tsrc=rss",
+     "fecha": "2026-11-24T17:14:31+00:00"
     },
     {
-     "titulo": "Ryder System Sees $250 Million Recovery Opportunity as Rental Demand Revs Up",
+     "titulo": "Your $300,000 in XLC Holds $130,206 in Just Meta and Alphabet",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.marketbeat.com/instant-alerts/event-ryder-system-sees-250-million-recovery-opportunity-as-rental-demand-revs-up-2026-11-24/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-     "fecha": "2026-11-24T12:13:48+00:00"
+     "url": "https://247wallst.com/investing/etf/2026/11/24/your-300000-in-xlc-holds-130206-in-just-meta-and-alphabet/?.tsrc=rss",
+     "fecha": "2026-11-25T01:04:06+00:00"
     },
     {
-     "titulo": "GTA 6 broke every record, and Take-Two's real test starts now",
+     "titulo": "GameStop Stock (GME) Has 4 Reasons to Rally Beyond Its Meme-Stock Fame",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.thestreet.com/investing/take-two-stock-gta-online-bet-bofa?.tsrc=rss",
-     "fecha": "2026-11-24T03:47:00+00:00"
+     "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-stock-gme-4-reasons-212400878.html?.tsrc=rss",
+     "fecha": "2026-11-24T21:24:00+00:00"
     },
     {
-     "titulo": "S&P 500, Nasdaq End Best Session Since April Last Year On Optimism Led By Jensen Huang’s Reinstatement — NVDA, NASA, TTWO, AMZN In Focus",
+     "titulo": "BMO highlights top interactive entertainment pick",
      "fuente": "Yahoo Finanzas",
-     "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-best-session-since-april-on-optimism-led-by-jensen-huang-s-reinstatement-nvda-nasa-ttwo-amzn-in-focus/cNbpKSnR9jY?.tsrc=rss",
-     "fecha": "2026-11-23T23:33:25+00:00"
+     "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-highlights-top-interactive-entertainment-201103806.html?.tsrc=rss",
+     "fecha": "2026-11-24T20:11:03+00:00"
     },
     {
-     "titulo": "Roblox Engagement Hasn't Been Materially Affected by GTA VI, Oppenheimer Says",
+     "titulo": "Wedbush kept this gaming stock on its Best Ideas List after its most recent launch",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/roblox-engagement-hasn-apos-t-202918059.html?.tsrc=rss",
-     "fecha": "2026-11-23T20:29:18+00:00"
+     "url": "https://finance.yahoo.com/markets/stocks/articles/wedbush-kept-gaming-stock-best-170420639.html?.tsrc=rss",
+     "fecha": "2026-11-24T17:04:20+00:00"
     }
    ]
   }
