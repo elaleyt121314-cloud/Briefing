@@ -1,49 +1,85 @@
 {
- "actualizado": "2026-11-25T15:52:41+00:00",
- "generado_con_ia": false,
- "contenido": null,
+ "actualizado": "2026-11-26T15:33:07+00:00",
+ "generado_con_ia": true,
+ "contenido": {
+  "titular": "Optimismo en las bolsas europeas frente a un tono mixto en Wall Street y corrección en tecnológicas",
+  "resumen": "Los principales índices europeos como el IBEX 35, DAX y Euro Stoxx 50 registraron subidas superiores al 2% en una jornada de tono mixto. En contraste, Wall Street mostró descensos en el S&P 500 y el Nasdaq 100, lastrados por caídas en grandes tecnológicas como NVIDIA y Amazon. El bitcoin y las criptomonedas continúan bajo un clima de miedo extremo según el índice Fear and Greed.",
+  "dia_tranquilo": false,
+  "claves": [
+   {
+    "titulo": "Fuertes subidas en los índices europeos",
+    "texto": "Los datos muestran avances notables en las bolsas de Europa, destacando el IBEX 35 (2,39%), el DAX (2,20%) y el Euro Stoxx 50 (2,21%). Este comportamiento positivo contrasta con el tono más cauto y las ligeras caídas vistas al otro lado del Atlántico. Esto podría indicar un desajuste temporal o un alivio tras las recientes presiones bajistas en los mercados europeos.",
+    "importancia": 4
+   },
+   {
+    "titulo": "Corrección en grandes tecnológicas de EE. UU.",
+    "texto": "El sector tecnológico estadounidense sufrió descensos significativos arrastrado por caídas en valores clave como NVIDIA (-3,91%) y Amazon (-3,12%), lo que presionó a la baja al Nasdaq 100 (-0,64%). Los datos reflejan que el comercio ligado a la inteligencia artificial sigue experimentando volatilidad. Esto podría indicar que los inversores continúan reevaluando las valoraciones del sector tras semanas de corrección mensual.",
+    "importancia": 4
+   },
+   {
+    "titulo": "Nombramiento en el Banco Central Europeo",
+    "texto": "Las noticias oficiales confirman que el español Pablo Hernández de Cos sucederá a Christine Lagarde al frente del Banco Central Europeo el próximo 7 de febrero. Esta transición se produce en un contexto de incertidumbre política y crecimiento económico dispar en la eurozona. Esto podría influir en las futuras directrices de política monetaria de la institución.",
+    "importancia": 3
+   },
+   {
+    "titulo": "Clima de miedo extremo en criptomonedas",
+    "texto": "Los datos de mercado sitúan el indicador Fear and Greed de criptomonedas en 11 puntos, lo que denota 'Extreme Fear'. El precio de Bitcoin se mantiene en torno a los 60.245 dólares con variaciones reducidas en el día, pero arrastrando caídas mensuales superiores al 20%. Esto refleja la persistente cautela y la falta de apetito por el riesgo en los activos digitales.",
+    "importancia": 3
+   }
+  ],
+  "vigilar": [
+   "La volatilidad del índice VIX, que hoy registró un descenso del 5,41% hasta los 26,76 puntos.",
+   "El comportamiento de las acciones tecnológicas estadounidenses y su posible impacto en el S&P 500.",
+   "La evolución del sector de criptomonedas bajo el escenario de miedo extremo."
+  ],
+  "proximos": [
+   "La toma de posesión de Pablo Hernández de Cos como presidente del Banco Central Europeo prevista para el 7 de febrero.",
+   "Publicaciones de datos macroeconómicos y de empleo en Estados Unidos."
+  ],
+  "nota_riesgo": "El nivel de riesgo general se mantiene elevado, reflejado en un índice VIX en 26,76 puntos y un sentimiento de miedo extremo en el mercado cripto. Aunque las bolsas europeas han mostrado un respiro alcista, la corrección mensual acumulada en grandes tecnológicas y materias primas aconseja prudencia y diversificación."
+ },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -11.86,
-   "resumen": "Tus títulos acumulan una rentabilidad negativa del 11.86%. Los titulares mencionan que Take-Two y Anthropic se lanzaron el mismo día y que el sector de los videojuegos gana por ahora, además de destacar que Wedbush mantiene esta acción en su lista de mejores ideas tras su último lanzamiento, aunque las noticias no explican en detalle el motivo exacto de tu caída actual.",
+   "pl_pct": -9.27,
+   "resumen": "Tu posición acumula una rentabilidad del -9,27%. Los titulares de hoy mencionan temas variados como la espera de GTA VI y reflexiones sobre la inteligencia artificial en los videojuegos, pero no ofrecen una explicación directa o concluyente sobre el reciente movimiento bursátil de la compañía.",
    "noticias": [
     {
-     "titulo": "Did Take-Two Stock Beat A Falling Market?",
+     "titulo": "At the gym with the CEO who made us wait 13 years for GTA VI",
      "fuente": "Yahoo Finanzas",
-     "url": "https://www.trefis.com/stock/ttwo/articles/629004/did-take-two-stock-beat-a-falling-market/2026-11-25?.tsrc=rss",
-     "fecha": "2026-11-25T13:04:29+00:00"
+     "url": "https://www.cnn.com/2026/11/26/business/strauss-zelnick-gta-vi-the-program?.tsrc=rss",
+     "fecha": "2026-11-26T11:00:16+00:00"
     },
     {
-     "titulo": "Anthropic and 'Grand Theft Auto VI' launched on the same day. The video game trade is winning for now.",
+     "titulo": "What’s Behind Take Two Interactive Software (TTWO) Stock’s Latest Move?",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/technology/article/anthropic-and-grand-theft-auto-vi-launched-on-the-same-day-the-video-game-trade-is-winning-for-now-171431006.html?.tsrc=rss",
-     "fecha": "2026-11-24T17:14:31+00:00"
+     "url": "https://finance.yahoo.com/markets/stocks/articles/behind-two-interactive-software-ttwo-051940943.html?.tsrc=rss",
+     "fecha": "2026-11-26T05:19:40+00:00"
     },
     {
-     "titulo": "Your $300,000 in XLC Holds $130,206 in Just Meta and Alphabet",
+     "titulo": "Roaring Kitty Redux",
      "fuente": "Yahoo Finanzas",
-     "url": "https://247wallst.com/investing/etf/2026/11/24/your-300000-in-xlc-holds-130206-in-just-meta-and-alphabet/?.tsrc=rss",
-     "fecha": "2026-11-25T01:04:06+00:00"
+     "url": "https://finance.yahoo.com/m/fe028813-b94f-3e63-915d-77db54e5b655/roaring-kitty-redux.html?.tsrc=rss",
+     "fecha": "2026-11-25T23:11:00+00:00"
     },
     {
-     "titulo": "GameStop Stock (GME) Has 4 Reasons to Rally Beyond Its Meme-Stock Fame",
+     "titulo": "These 5 Tech Stocks are Sidestepping the AI Downturn",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-stock-gme-4-reasons-212400878.html?.tsrc=rss",
-     "fecha": "2026-11-24T21:24:00+00:00"
+     "url": "https://finance.yahoo.com/m/d635c9d7-dbc8-3f44-bc94-e186ec33e2bd/these-5-tech-stocks-are.html?.tsrc=rss",
+     "fecha": "2026-11-25T21:16:00+00:00"
     },
     {
-     "titulo": "BMO highlights top interactive entertainment pick",
+     "titulo": "GTA VI was built by hand. The man who ran Take-Two during GTA IV says AI could let a filmmaker make the next breakout game",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-highlights-top-interactive-entertainment-201103806.html?.tsrc=rss",
-     "fecha": "2026-11-24T20:11:03+00:00"
+     "url": "https://finance.yahoo.com/technology/ai/articles/gta-vi-built-hand-man-201326853.html?.tsrc=rss",
+     "fecha": "2026-11-25T20:13:26+00:00"
     },
     {
-     "titulo": "Wedbush kept this gaming stock on its Best Ideas List after its most recent launch",
+     "titulo": "Nvidia is cheap on paper, so why won't the market buy it?",
      "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/wedbush-kept-gaming-stock-best-170420639.html?.tsrc=rss",
-     "fecha": "2026-11-24T17:04:20+00:00"
+     "url": "https://finance.yahoo.com/video/nvidia-is-cheap-on-paper-so-why-wont-the-market-buy-it-192215326.html?.tsrc=rss",
+     "fecha": "2026-11-25T19:22:15+00:00"
     }
    ]
   }
