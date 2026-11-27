@@ -1,50 +1,62 @@
 {
- "actualizado": "2026-11-26T15:33:07+00:00",
+ "actualizado": "2026-11-27T15:25:31+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Optimismo en las bolsas europeas frente a un tono mixto en Wall Street y corrección en tecnológicas",
-  "resumen": "Los principales índices europeos como el IBEX 35, DAX y Euro Stoxx 50 registraron subidas superiores al 2% en una jornada de tono mixto. En contraste, Wall Street mostró descensos en el S&P 500 y el Nasdaq 100, lastrados por caídas en grandes tecnológicas como NVIDIA y Amazon. El bitcoin y las criptomonedas continúan bajo un clima de miedo extremo según el índice Fear and Greed.",
+  "titular": "Sesión de ganancias generalizadas en los mercados globales con fuerte contraste en criptomonedas y materias primas",
+  "resumen": "Los principales índices bursátiles cierran la jornada en positivo, destacando el avance del IBEX 35 y el Nikkei 225, en una semana marcada por la volatilidad. En contraste, el mercado cripto sufre caídas con Bitcoin perforando la barrera de los 60.000 dólares y el indicador de miedo extremo en 12. En las materias primas, el oro registra una subida relevante mientras el petróleo Brent retrocede con fuerza.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Fuertes subidas en los índices europeos",
-    "texto": "Los datos muestran avances notables en las bolsas de Europa, destacando el IBEX 35 (2,39%), el DAX (2,20%) y el Euro Stoxx 50 (2,21%). Este comportamiento positivo contrasta con el tono más cauto y las ligeras caídas vistas al otro lado del Atlántico. Esto podría indicar un desajuste temporal o un alivio tras las recientes presiones bajistas en los mercados europeos.",
+    "titulo": "Rebote generalizado en la renta variable global",
+    "texto": "Los principales índices bursátiles cierran la sesión con números verdes, destacando el IBEX 35 con un repunte del 1,66% y el Nikkei 225 con un 2,98%. Dentro de las grandes tecnológicas, acciones como Meta, Amazon y Tesla experimentan subidas superiores al 2% o 4%. Los datos muestran avances en la mayoría de plazas internacionales, lo que podría indicar un cierre de semana con apetito por el riesgo en renta variable tras las recientes oscilaciones.",
     "importancia": 4
    },
    {
-    "titulo": "Corrección en grandes tecnológicas de EE. UU.",
-    "texto": "El sector tecnológico estadounidense sufrió descensos significativos arrastrado por caídas en valores clave como NVIDIA (-3,91%) y Amazon (-3,12%), lo que presionó a la baja al Nasdaq 100 (-0,64%). Los datos reflejan que el comercio ligado a la inteligencia artificial sigue experimentando volatilidad. Esto podría indicar que los inversores continúan reevaluando las valoraciones del sector tras semanas de corrección mensual.",
+    "titulo": "Presión bajista y miedo extremo en el mercado cripto",
+    "texto": "Las criptomonedas registran descensos significativos en la sesión, con Bitcoin cayendo por debajo de los 60.000 dólares (hasta los 59.769 dólares, un -1,2% en el día) y Ethereum retrocediendo un 1,46%. La capitalización global del sector desciende casi un 4% y el índice de miedo y codominio (Fear & Greed) se sitúa en un nivel de 12, catalogado como 'Extreme Fear'. Los datos reflejan un mes claramente bajista para estos activos, con caídas mensuales superiores al 20%.",
     "importancia": 4
    },
    {
-    "titulo": "Nombramiento en el Banco Central Europeo",
-    "texto": "Las noticias oficiales confirman que el español Pablo Hernández de Cos sucederá a Christine Lagarde al frente del Banco Central Europeo el próximo 7 de febrero. Esta transición se produce en un contexto de incertidumbre política y crecimiento económico dispar en la eurozona. Esto podría influir en las futuras directrices de política monetaria de la institución.",
+    "titulo": "Divergencia marcada en materias primas: oro al alza y Brent a la baja",
+    "texto": "El oro experimenta un fuerte repunte del 3,47% en la jornada, situándose en 3.658,4 dólares. Por el contrario, el petróleo Brent sufre un retroceso del 3,73% para quedarse en 91,08 dólares por barril. Estas variaciones muestran un comportamiento dispar en los activos de refugio y energía, afectando directamente a la valoración de materias primas en un contexto de variaciones semanales estrechas pero de gran movimiento diario.",
     "importancia": 3
    },
    {
-    "titulo": "Clima de miedo extremo en criptomonedas",
-    "texto": "Los datos de mercado sitúan el indicador Fear and Greed de criptomonedas en 11 puntos, lo que denota 'Extreme Fear'. El precio de Bitcoin se mantiene en torno a los 60.245 dólares con variaciones reducidas en el día, pero arrastrando caídas mensuales superiores al 20%. Esto refleja la persistente cautela y la falta de apetito por el riesgo en los activos digitales.",
+    "titulo": "NVIDIA en el foco tras caídas mensuales y examen político",
+    "texto": "Las acciones de NVIDIA registran un descenso del 1,57% en el día, acumulando una caída del 31,77% en el último mes. Los datos de mercado coinciden con titulares que señalan que Jensen Huang se enfrenta a preguntas clave en el Congreso de EE. UU. Esto podría indicar que la incertidumbre regulatoria y corporativa ejerce presión sobre el valor en el corto plazo.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "La volatilidad del índice VIX, que hoy registró un descenso del 5,41% hasta los 26,76 puntos.",
-   "El comportamiento de las acciones tecnológicas estadounidenses y su posible impacto en el S&P 500.",
-   "La evolución del sector de criptomonedas bajo el escenario de miedo extremo."
+   "Evolución de Bitcoin por debajo de los 60.000 dólares y el índice de miedo extremo",
+   "El comportamiento del VIX (volatilidad) situado en 27,03 puntos",
+   "La cotización del oro y el petróleo Brent tras sus movimientos diarios superiores al 3%"
   ],
   "proximos": [
-   "La toma de posesión de Pablo Hernández de Cos como presidente del Banco Central Europeo prevista para el 7 de febrero.",
-   "Publicaciones de datos macroeconómicos y de empleo en Estados Unidos."
+   "Comparecencias y preguntas del Congreso a Jensen Huang (Nvidia)",
+   "Próximas publicaciones sobre el mercado de criptomonedas y regulación de tokenización"
   ],
-  "nota_riesgo": "El nivel de riesgo general se mantiene elevado, reflejado en un índice VIX en 26,76 puntos y un sentimiento de miedo extremo en el mercado cripto. Aunque las bolsas europeas han mostrado un respiro alcista, la corrección mensual acumulada en grandes tecnológicas y materias primas aconseja prudencia y diversificación."
+  "nota_riesgo": "El nivel de riesgo general se mantiene elevado, reflejado por un índice VIX en 27,03 y un miedo extremo (12) en el mercado de criptomonedas, a pesar del tono alcista de hoy en los índices bursátiles tradicionales."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -9.27,
-   "resumen": "Tu posición acumula una rentabilidad del -9,27%. Los titulares de hoy mencionan temas variados como la espera de GTA VI y reflexiones sobre la inteligencia artificial en los videojuegos, pero no ofrecen una explicación directa o concluyente sobre el reciente movimiento bursátil de la compañía.",
+   "pl_pct": -6.78,
+   "resumen": "Tu posición acumula una rentabilidad del -6.78%. Las noticias de hoy discuten el perfil de riesgo de la acción, su potencial con el esperado lanzamiento de GTA 6 y reflexiones sobre su último movimiento en el mercado, aunque no señalan una causa directa y única para la variación reciente.",
    "noticias": [
+    {
+     "titulo": "Is Take-Two Stock a Good Fit For Your Portfolio Risk?",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.trefis.com/stock/ttwo/articles/629334/is-take-two-stock-a-good-fit-for-your-portfolio-risk/2026-11-27?.tsrc=rss",
+     "fecha": "2026-11-27T12:09:42+00:00"
+    },
+    {
+     "titulo": "Take-Two’s (TTWO) GTA 6 Could Be a Cash Cow for the Next Decade",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/two-ttwo-gta-6-could-213300568.html?.tsrc=rss",
+     "fecha": "2026-11-26T21:33:00+00:00"
+    },
     {
      "titulo": "At the gym with the CEO who made us wait 13 years for GTA VI",
      "fuente": "Yahoo Finanzas",
@@ -68,18 +80,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://finance.yahoo.com/m/d635c9d7-dbc8-3f44-bc94-e186ec33e2bd/these-5-tech-stocks-are.html?.tsrc=rss",
      "fecha": "2026-11-25T21:16:00+00:00"
-    },
-    {
-     "titulo": "GTA VI was built by hand. The man who ran Take-Two during GTA IV says AI could let a filmmaker make the next breakout game",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/technology/ai/articles/gta-vi-built-hand-man-201326853.html?.tsrc=rss",
-     "fecha": "2026-11-25T20:13:26+00:00"
-    },
-    {
-     "titulo": "Nvidia is cheap on paper, so why won't the market buy it?",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/video/nvidia-is-cheap-on-paper-so-why-wont-the-market-buy-it-192215326.html?.tsrc=rss",
-     "fecha": "2026-11-25T19:22:15+00:00"
     }
    ]
   }
