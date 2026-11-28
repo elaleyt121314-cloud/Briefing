@@ -1,50 +1,62 @@
 {
- "actualizado": "2026-11-27T15:25:31+00:00",
+ "actualizado": "2026-11-28T14:24:39+00:00",
  "generado_con_ia": true,
  "contenido": {
-  "titular": "Sesión de ganancias generalizadas en los mercados globales con fuerte contraste en criptomonedas y materias primas",
-  "resumen": "Los principales índices bursátiles cierran la jornada en positivo, destacando el avance del IBEX 35 y el Nikkei 225, en una semana marcada por la volatilidad. En contraste, el mercado cripto sufre caídas con Bitcoin perforando la barrera de los 60.000 dólares y el indicador de miedo extremo en 12. En las materias primas, el oro registra una subida relevante mientras el petróleo Brent retrocede con fuerza.",
+  "titular": "Jornada de rebote generalizado en las bolsas con descensos en la volatilidad y el petróleo",
+  "resumen": "Los principales índices bursátiles globales registran avances moderados y fuertes en la sesión, destacando el Nasdaq 100 y el Nikkei 225. Por otro lado, la volatilidad (VIX) experimenta una caída notable del 11.16% y el petróleo Brent retrocede casi un 4%. El mercado cripto mantiene el tono bajista con un índice de miedo extremo.",
   "dia_tranquilo": false,
   "claves": [
    {
-    "titulo": "Rebote generalizado en la renta variable global",
-    "texto": "Los principales índices bursátiles cierran la sesión con números verdes, destacando el IBEX 35 con un repunte del 1,66% y el Nikkei 225 con un 2,98%. Dentro de las grandes tecnológicas, acciones como Meta, Amazon y Tesla experimentan subidas superiores al 2% o 4%. Los datos muestran avances en la mayoría de plazas internacionales, lo que podría indicar un cierre de semana con apetito por el riesgo en renta variable tras las recientes oscilaciones.",
+    "titulo": "Rebote bursátil liderado por tecnología y grandes valores",
+    "texto": "Los datos muestran subidas generalizadas en los índices de renta variable. El Nasdaq 100 avanza un 2.61% y el S&P 500 un 1.6%, impulsados por acciones como Amazon (3.96%), Meta (3.13%), Tesla (5.22%) y SpaceX (4.83%). Esto afecta positivamente a los ETF tecnológicos como el Invesco QQQ, que sube un 2.69%, aunque los inversores recuerdan el contexto de caídas acumuladas durante el mes.",
     "importancia": 4
    },
    {
-    "titulo": "Presión bajista y miedo extremo en el mercado cripto",
-    "texto": "Las criptomonedas registran descensos significativos en la sesión, con Bitcoin cayendo por debajo de los 60.000 dólares (hasta los 59.769 dólares, un -1,2% en el día) y Ethereum retrocediendo un 1,46%. La capitalización global del sector desciende casi un 4% y el índice de miedo y codominio (Fear & Greed) se sitúa en un nivel de 12, catalogado como 'Extreme Fear'. Los datos reflejan un mes claramente bajista para estos activos, con caídas mensuales superiores al 20%.",
+    "titulo": "Fuerte caída de la volatilidad y corrección en el petróleo Brent",
+    "texto": "El índice de volatilidad VIX se desploma un 11.16% hasta los 23.81 puntos, lo que refleja un alivio temporal en la tensión de los mercados tras las recientes fluctuaciones. En las materias primas, el petróleo Brent baja un 3.98% situándose en 90.84 dólares, mientras que el oro registra un comportamiento alcista destacado del 3.75%.",
     "importancia": 4
    },
    {
-    "titulo": "Divergencia marcada en materias primas: oro al alza y Brent a la baja",
-    "texto": "El oro experimenta un fuerte repunte del 3,47% en la jornada, situándose en 3.658,4 dólares. Por el contrario, el petróleo Brent sufre un retroceso del 3,73% para quedarse en 91,08 dólares por barril. Estas variaciones muestran un comportamiento dispar en los activos de refugio y energía, afectando directamente a la valoración de materias primas en un contexto de variaciones semanales estrechas pero de gran movimiento diario.",
+    "titulo": "Criptomonedas bajo presión con el sentimiento de miedo extremo",
+    "texto": "El mercado de activos digitales continúa mostrando debilidad. Bitcoin cede un 1.12% hasta los 59,196 dólares y Ethereum baja un 0.92%, arrastrados por un mes negativo y un indicador Fear and Greed de criptomonedas situado en 10, lo que denota 'Extreme Fear'. Además, la capitalización total del sector registra caídas en las últimas 24 horas.",
     "importancia": 3
    },
    {
-    "titulo": "NVIDIA en el foco tras caídas mensuales y examen político",
-    "texto": "Las acciones de NVIDIA registran un descenso del 1,57% en el día, acumulando una caída del 31,77% en el último mes. Los datos de mercado coinciden con titulares que señalan que Jensen Huang se enfrenta a preguntas clave en el Congreso de EE. UU. Esto podría indicar que la incertidumbre regulatoria y corporativa ejerce presión sobre el valor en el corto plazo.",
+    "titulo": "Repunte en el rendimiento de los bonos soberanos",
+    "texto": "El rendimiento del bono estadounidense a 10 años sube un 1.82% hasta el 4.936%, reflejando las variaciones en el mercado de deuda. Este movimiento en la renta fija se produce en un entorno donde la curva de tipos de Estados Unidos (10 años menos 2 años) se sitúa en 0.25 pp.",
     "importancia": 3
    }
   ],
   "vigilar": [
-   "Evolución de Bitcoin por debajo de los 60.000 dólares y el índice de miedo extremo",
-   "El comportamiento del VIX (volatilidad) situado en 27,03 puntos",
-   "La cotización del oro y el petróleo Brent tras sus movimientos diarios superiores al 3%"
+   "El comportamiento del índice VIX para confirmar si la caída de la volatilidad se sostiene.",
+   "La evolución de los ETF de criptomonedas y el soporte de Bitcoin en torno a los 59,000 dólares.",
+   "El precio del petróleo Brent tras la caída del día."
   ],
   "proximos": [
-   "Comparecencias y preguntas del Congreso a Jensen Huang (Nvidia)",
-   "Próximas publicaciones sobre el mercado de criptomonedas y regulación de tokenización"
+   "Elecciones y su efecto en los valores señalados en los mercados (según el contexto de las citas recientes)",
+   "Próximos datos de inflación y su impacto en las expectativas de tipos de interés"
   ],
-  "nota_riesgo": "El nivel de riesgo general se mantiene elevado, reflejado por un índice VIX en 27,03 y un miedo extremo (12) en el mercado de criptomonedas, a pesar del tono alcista de hoy en los índices bursátiles tradicionales."
+  "nota_riesgo": "El nivel de riesgo sigue siendo elevado, tal como refleja un VIX por encima de los 23 puntos, el miedo extremo en criptomonedas y las caídas mensuales acumuladas en varios activos tecnológicos y materias primas. Aunque hoy predomina el verde, la prudencia y la diversificación siguen siendo las mejores aliadas."
  },
  "posiciones": [
   {
    "symbol": "TKE.F",
    "nombre": "Take-Two Interactive",
-   "pl_pct": -6.78,
-   "resumen": "Tu posición acumula una rentabilidad del -6.78%. Las noticias de hoy discuten el perfil de riesgo de la acción, su potencial con el esperado lanzamiento de GTA 6 y reflexiones sobre su último movimiento en el mercado, aunque no señalan una causa directa y única para la variación reciente.",
+   "pl_pct": -6.86,
+   "resumen": "Tu posición registra una rentabilidad del -6,86%. Los titulares recientes debaten el impacto potencial del lanzamiento de GTA VI, comparándolo con el avance de competidores como Roblox y señalando que este título podría ser una fuente clave de ingresos a largo plazo, aunque no detallan una causa concreta para el movimiento reciente de la cotización.",
    "noticias": [
+    {
+     "titulo": "Roblox Just Gained 12% in a Week. Is GTA VI Really Only “a Modest Headwind”?",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.tikr.com/blog/roblox-just-gained-12-in-a-week-is-gta-vi-really-only-a-modest-headwind?ref=yahoofinance&tlnk=yf-261128-m3vg55vx&.tsrc=rss",
+     "fecha": "2026-11-28T11:34:08+00:00"
+    },
+    {
+     "titulo": "Anthropic Gets a Blockbuster IPO; Take-Two Gets a Blockbuster GTA VI Release",
+     "fuente": "Yahoo Finanzas",
+     "url": "https://www.fool.com/investing/2026/11/27/anthropic-gets-a-blockbuster-ipo-take-two-gets-a-blockbuster-gta-vi-release/?.tsrc=rss",
+     "fecha": "2026-11-27T19:19:02+00:00"
+    },
     {
      "titulo": "Is Take-Two Stock a Good Fit For Your Portfolio Risk?",
      "fuente": "Yahoo Finanzas",
@@ -68,18 +80,6 @@
      "fuente": "Yahoo Finanzas",
      "url": "https://finance.yahoo.com/markets/stocks/articles/behind-two-interactive-software-ttwo-051940943.html?.tsrc=rss",
      "fecha": "2026-11-26T05:19:40+00:00"
-    },
-    {
-     "titulo": "Roaring Kitty Redux",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/m/fe028813-b94f-3e63-915d-77db54e5b655/roaring-kitty-redux.html?.tsrc=rss",
-     "fecha": "2026-11-25T23:11:00+00:00"
-    },
-    {
-     "titulo": "These 5 Tech Stocks are Sidestepping the AI Downturn",
-     "fuente": "Yahoo Finanzas",
-     "url": "https://finance.yahoo.com/m/d635c9d7-dbc8-3f44-bc94-e186ec33e2bd/these-5-tech-stocks-are.html?.tsrc=rss",
-     "fecha": "2026-11-25T21:16:00+00:00"
     }
    ]
   }
